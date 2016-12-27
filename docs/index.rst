@@ -8,7 +8,7 @@ Welcome to McMaster University!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 1:
+   :caption: McMaster研究生群介绍:
 
    BenQunLiShi
    QunGui
