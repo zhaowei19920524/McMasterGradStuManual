@@ -14,6 +14,10 @@ Welcome to McMaster University!
    QunGui
    QunDaShenJieShao
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 新生注册与学术:
+
 Indices and tables
 ==================
 
