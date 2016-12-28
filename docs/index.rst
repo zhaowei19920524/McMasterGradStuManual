@@ -28,6 +28,19 @@ Welcome to McMaster University!
    :caption: 二、新生注册与学术:
 
    ZhuCe
+   XueFei
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 三、McMaster攻略类:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 四、生活类:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 五、电脑、软件类:
 
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
