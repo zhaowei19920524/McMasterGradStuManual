@@ -10,6 +10,8 @@
 
 | ☆☆☆ 请注意，一般会要求最后一学期成绩不低于B-，有的学院是B+。此要求务必达到，否则来学校报到时会被学校拒绝 
 
-| McMaster成绩对应表
+| `McMaster成绩对应表`_
 
 | ——感谢由14-ECE-赵伟提供
+
+.. _McMaster成绩对应表: McMasterChengJiDuiYingBiao.html
