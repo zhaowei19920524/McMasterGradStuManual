@@ -1,4 +1,4 @@
-ï»¿.. McMasterGradStuManual documentation master file, created by
+.. McMasterGradStuManual documentation master file, created by
    sphinx-quickstart on Tue Dec 27 15:37:30 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -8,7 +8,7 @@ Welcome to McMaster University!
 
 .. toctree::
    :maxdepth: 2
-   :caption: McMasterç ”ç©¶ç”Ÿç¾¤ä»‹ç»:
+   :caption: McMasterÑĞ¾¿ÉúÈº½éÉÜ:
 
    BenQunLiShi
    QunGui
@@ -16,7 +16,7 @@ Welcome to McMaster University!
 
 .. toctree::
    :maxdepth: 2
-   :caption: æ–°ç”Ÿæ³¨å†Œä¸å­¦æœ¯:
+   :caption: ĞÂÉú×¢²áÓëÑ§Êõ:
 
 Indices and tables
 ==================
