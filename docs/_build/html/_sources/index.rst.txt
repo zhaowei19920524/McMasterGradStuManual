@@ -78,7 +78,13 @@ Welcome to McMaster University!
    XiTongAnZhuangYuRuanJianJiHuo
    BiJiBenDianNaoTuiJian
 
+贡献与反馈：
+===============
+| 想贡献自己的内容？请联系14-ECE-赵伟。
+| 如有好的意见和建议，欢迎您的 `反馈`_ 。
+
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
 .. _网站: https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/
 .. _sgsrec@mcmaster.ca: mailto:sgsrec@mcmaster.ca
+.. _反馈: https://github.com/zhaowei19920524/McMasterGradStuManual/issues
