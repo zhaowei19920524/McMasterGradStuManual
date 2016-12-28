@@ -9,11 +9,11 @@
 | 1. Confirm that your record shows the correct citizenship and program of study. 
 | 这个应该在accept offer的时候就完成了。 
 | 2. Be enrolled in either an academically accredited course OR a placeholder course in all three terms in the academic year. 
-| 详细请点击“选课” 
+| 详细请点击 选课_ 。
 | 3. Incoming students only must enrol in SGS 101 and 201. 
-| 详细请点击“选课”。 
+| 详细请点击 选课_ 。 
 | 4. For conditional offers, the required documents must be sent to your department prior to September 30th. 清condition。 
-| 大家可以在自己的mosaic里看到自己需要提交哪些材料。也可以查看conditional offer 。 
+| 大家可以在自己的mosaic里看到自己需要提交哪些材料。也可以查看 `conditional offer`_ 。 
 | 5. Incoming students only upload your photo for your ID card. 
 | 这个大家一定要尽快提交,这样才能保证学校能尽快制作学生卡，在8月底能拿到。否则拿到学生卡会推迟，影响到免费坐车。 
 | 6. Visa students must present their Study Permits to the School of Graduate Studies. 
@@ -31,3 +31,5 @@
 
 .. _gs.mcmaster.ca/academic-services/how-enroll: http://gs.mcmaster.ca/academic-services/how-enroll
 .. _这里: http://academiccalendars.romcmaster.ca/content.php?catoid=20&navoid=3579
+.. _选课: XuanKe.html
+.. _conditional offer: conditional_offer.html

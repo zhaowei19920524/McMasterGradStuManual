@@ -29,6 +29,14 @@ Welcome to McMaster University!
 
    ZhuCe
    XueFei
+   conditional_offer
+   XuanKe
+   DangAn
+   LiuXueXingLiQingDan
+   GeGeXueYuanDeQun
+   DepositDingJin
+   transition_week
+   McMasterChengJiDuiYingBiao
 
 .. toctree::
    :maxdepth: 2
