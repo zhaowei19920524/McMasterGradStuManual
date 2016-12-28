@@ -36,11 +36,18 @@ Welcome to McMaster University!
    GeGeXueYuanDeQun
    DepositDingJin
    transition_week
+   XueXiaoemailSheZhi
    McMasterChengJiDuiYingBiao
 
 .. toctree::
    :maxdepth: 2
    :caption: 三、McMaster攻略类:
+
+   ChuJiChang
+   JiChangDaoXueXiao
+   JieJi
+   RJCXiaoChe
+
 
 .. toctree::
    :maxdepth: 2
