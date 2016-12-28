@@ -48,6 +48,7 @@ Welcome to McMaster University!
    JieJi
    RJCXiaoChe
    campusDiTu
+   GGWC
 
 .. toctree::
    :maxdepth: 2
