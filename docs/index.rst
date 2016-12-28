@@ -13,7 +13,7 @@ Welcome to McMaster University!
 | ②当解决完这两件事后，要继续处理租房的问题，McMaster的研究生必须在校外租房，由于租期一般是从9月开始，所以9月之前到需要先找短租，新生一定要在来之前就把短租找好，否则会出现到校后没有地方住的尴尬局面。学校的租房信息在McMaster官方租房 `网站`_ 上可以查到。也可以询问群里的学长学姐们，他们可能毕业后会把自己的房子腾出来，这样可以在一定程度上减少租房的麻烦。务必在这时小心骗子，往年出现过诈骗的情况。 
 | ③群里的@陆定维老师是McMaster研究生院的招生工作负责人，他可以帮大家解决普遍遇到的问题。大家尽量在群里提问并@他，最好不要私聊。其它注册问题，请发邮件至 `sgsrec@mcmaster.ca`_ 寻求帮助。
 
-其它问题请查找以下关键词求助：（更新中......） 
+| 其它问题请查找以下关键词求助：（更新中......） 
 
 .. toctree::
    :maxdepth: 2
@@ -28,13 +28,6 @@ Welcome to McMaster University!
    :caption: 二、新生注册与学术:
 
    ZhuCe
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
