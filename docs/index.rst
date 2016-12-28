@@ -56,15 +56,26 @@ Welcome to McMaster University!
    ZuFang
    YinHangKa
    BanLiShouJiHeDianHua
+   SINShenQing
    GongZuo
    JiaZhao
+   BusJiLuXian
    HamiltonRiChangGouWuDiDian
+   MaiJiaJu
    BaoXian
+   BaoShui
    YingShiZiYuan
 
 .. toctree::
    :maxdepth: 2
    :caption: 五、电脑、软件类:
+
+   MicrosoftChanPin
+   AppleChanPin
+   ZhengBanRuanJianHeWangPan
+   RuanJianXiaZai
+   XiTongAnZhuangYuRuanJianJiHuo
+   BiJiBenDianNaoTuiJian
 
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
