@@ -31,7 +31,7 @@
 
   - 创业故事以及经验总结
 
-Lecture主要是邀请具有某项技术特长的在读学生或者已经工作的业界技术大牛来给大家开讲。
+| Lecture主要是邀请具有某项技术特长的在读学生或者已经工作的业界技术大牛来给大家开讲。
 
 - Technical Session
 
@@ -39,14 +39,14 @@ Lecture主要是邀请具有某项技术特长的在读学生或者已经工作�
 
   - 具体运作是由某项技术特长的技术牛带领2-5人做具体的技术训练或者项目。
 
-三、GGWC各语言负责人
+| 三、GGWC各语言负责人
 
 - 赵伟	C/C++，javascript，Python
 - 龚哲	Java
 - 郝鸣飞	Python
 - 许强	C/C++?, R语言
 
-四、GGWC目前可以开展的technical session
+| 四、GGWC目前可以开展的technical session
 
 - 许强		数据挖掘
 - 郝鸣飞		机器学习 Design Pattern
