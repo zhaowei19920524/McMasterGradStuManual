@@ -61,6 +61,7 @@ Welcome to McMaster University!
    RJCXiaoChe
    campusDiTu
    GGWC
+   TanQinQianZheng
 
 .. toctree::
    :maxdepth: 2
@@ -78,6 +79,7 @@ Welcome to McMaster University!
    BaoXian
    BaoShui
    YingShiZiYuan
+   MeiGuoLvYouQianZheng
 
 .. toctree::
    :maxdepth: 2
