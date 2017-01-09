@@ -58,6 +58,7 @@ Welcome to McMaster University!
    ChuJiChang
    JiChangDaoXueXiao
    JieJi
+   CanTing
    RJCXiaoChe
    campusDiTu
    GGWC
