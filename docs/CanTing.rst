@@ -31,7 +31,7 @@
 
 | 有两种Meal Plan：
 | ①Freedom Plan（建议）
-| 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次冲$100。
+| 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
 | ②Term Plan
 | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完冲的钱，过期作废。这种方法可以不用交13%的消费税。
 
@@ -51,7 +51,7 @@
 | 2、龙庭：点菜制，外卖
 | http://www.westdaledragoncourt.com
 | 988 King Street W. Hamilton, ON L8S 1L1
-| （905）522-1999
+| (905) 522-1999
 | 3、South China：外卖
 | http://southchina.chinesemenu.com/
 | 1223 Main St W, Hamilton, ON L8S

@@ -3,11 +3,11 @@
 
 .. image:: resource/GirlsGuysWhoCode.png
 
-| Girls&GuysWhoCode （GGWC）是我们中国研究生留学生创建的第一个社团。创始人兼主席是朱华伟（15-ECE-朱华伟）学姐。
+Girls&GuysWhoCode （GGWC）是我们中国研究生留学生创建的第一个社团。创始人兼主席是朱华伟（15-ECE-朱华伟）学姐。
 
-| GGWC为大家提供了一个计算机技术分享，合作学习，求职经验的平台。社团活动时间是每周六下午2:00，地点是ITB-A113。
+GGWC为大家提供了一个计算机技术分享，合作学习，求职经验的平台。社团活动时间是每周六下午2:00，地点是ITB-A113。
 
-| 一、社团的管理员：
+一、社团的管理员：
 
 - President：
 
@@ -20,8 +20,9 @@
   - 龚哲（16-CAS-龚哲）
   - 赵伟（14-ECE-赵伟）
 
-| 二、社团的活动：
-| GGWC的活动主要有两种形式：Lecture和Technical Session。
+二、社团的活动：
+
+GGWC的活动主要有两种形式：Lecture和Technical Session。
 
 - Lecture涵盖的主题包括：
 
@@ -31,7 +32,7 @@
 
   - 创业故事以及经验总结
 
-| Lecture主要是邀请具有某项技术特长的在读学生或者已经工作的业界技术大牛来给大家开讲。
+Lecture主要是邀请具有某项技术特长的在读学生或者已经工作的业界技术大牛来给大家开讲。
 
 - Technical Session
 
@@ -39,14 +40,14 @@
 
   - 具体运作是由某项技术特长的技术牛带领2-5人做具体的技术训练或者项目。
 
-| 三、GGWC各语言负责人
+三、GGWC各语言负责人
 
 - 赵伟	C/C++，javascript，Python
 - 龚哲	Java
 - 郝鸣飞	Python
 - 许强	C/C++?, R语言
 
-| 四、GGWC目前可以开展的technical session
+四、GGWC目前可以开展的technical session
 
 - 许强		数据挖掘
 - 郝鸣飞		机器学习 Design Pattern
