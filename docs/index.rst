@@ -75,6 +75,7 @@ Welcome to McMaster University!
    GongZuo
    JiaZhao
    BusJiLuXian
+   WiFiYuInternet
    HamiltonRiChangGouWuDiDian
    MaiJiaJu
    BaoXian

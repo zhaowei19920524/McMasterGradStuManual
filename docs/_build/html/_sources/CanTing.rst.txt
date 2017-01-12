@@ -23,8 +23,7 @@
 
 | 三、Meal Plan
 | 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。其它甜点店比如Tim Hortons稍微便宜点。
-| 办理Meal Plan可以获得相应的打折
-| 向Student Card里充钱，在支付的时候直接刷学生卡就可以了
+| 办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。
 | http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 .. image:: resource/MealPlan.jpg
@@ -34,8 +33,9 @@
 | 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
 | ②Term Plan
 | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完冲的钱，过期作废。这种方法可以不用交13%的消费税。
+| 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。
 
-| 想办理的同学同学填好网页里的表格，交到MAC Express Office就可以了。
+| 想办理的同学填好网页里的表格，交到MAC Express Office，立即生效。
 
 | 四、学校周边的饭店
 | 主要以Pizza和三明治为主
