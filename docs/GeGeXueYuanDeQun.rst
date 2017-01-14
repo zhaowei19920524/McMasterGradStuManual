@@ -10,6 +10,7 @@
 | ②MBA： 
 | QQ群：371421802 
 | 16级 QQ群：431729307 微信群：请联系caoxing431193 
+| 17级 微信群：请联系burst1ntoran
 
 | ③W Booth (MEEI+MEPP+MED) 
 | 15级 QQ群：368774358 
