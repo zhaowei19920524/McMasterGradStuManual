@@ -1,6 +1,7 @@
 ﻿租房
 =====================
-| Mcmaster官方的租房资源网站： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
+| McMaster官方的租房资源网站： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
+| McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
 | 还有一个总结的不错帖子： http://hihamilton.com/forum.php?mod=viewthread&tid=1482&extra=&page=1 
 | 此外，陆定维老师的QQ空间里也有详细的介绍。 
 | 租房微信群，请看群公告。 
