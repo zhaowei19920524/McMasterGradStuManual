@@ -28,7 +28,7 @@ Welcome to McMaster University!
 以下关键词列举了常见问题，希望大家仔细阅读：（更新中......） 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 一、McMaster研究生群介绍:
 
    BenQunJieShao
@@ -36,7 +36,7 @@ Welcome to McMaster University!
    QunDaShenJieShao
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 二、新生注册与学术:
 
    ZhuCe
@@ -65,7 +65,7 @@ Welcome to McMaster University!
    TanQinQianZheng
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 四、生活类:
 
    ZuFang
@@ -84,7 +84,7 @@ Welcome to McMaster University!
    MeiGuoLvYouQianZheng
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 五、电脑、软件类:
 
    MicrosoftChanPin
