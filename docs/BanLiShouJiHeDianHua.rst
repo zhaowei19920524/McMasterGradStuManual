@@ -37,7 +37,7 @@
 
 | 六、国内的手机在这边能不能用？
 | Canada运营商频段：https://community.koodomobile.com/koodo/topics/the_big_three_canadian_network_frequencies
-| 国内unlock的手机基本都是支持的。合约机请仔细查看和上面某个运营商的频段是否有重复，如果没有重复来这边是无法使用的。
+| 国内unlock的手机基本都是支持的。合约机请仔细查看你的手机和上面某个运营商的频段是否有重复，如果没有重复来这边是无法使用的。
 
 | 七、去哪办理？ 
 | 上面这些公司在Jackson Square基本上都有服务点，所以去Jackson Square溜达一圈，货比三家，基本上就能搞定了。地址：2 King St W, Hamilton, ON L8P 1A1 
