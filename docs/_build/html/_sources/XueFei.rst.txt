@@ -55,7 +55,7 @@
  
 .. image:: /resource/XueFeiJiaoCheng(3).jpg
 
-| Step4: （***重要***）填写9位学号Student ID，4000开头的那个，不是Mac ID。一定要填对。不然就是帮别人付学费。 
+| Step4: （***重要***）填写9位学号Student ID，400开头的那个，不是Mac ID。一定要填对。不然就是帮别人付学费。 
 
 .. image:: /resource/XueFeiJiaoCheng(4).jpg
  
