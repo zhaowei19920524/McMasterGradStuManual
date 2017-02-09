@@ -8,7 +8,7 @@ Welcome to McMaster University!
 
 新生寄语：
 ===============
-欢迎17级新生加入McMaster大家庭！请仔细阅读群公告和群共享，并且在新浪微博上关注“麦克马斯特大学研究生院”，在 `hihamilton.com`_ 和 `www.maccssa.org`_ 论坛上寻找有用的信息。下面是一个简单的入学前指导：
+欢迎17级新生加入McMaster大家庭！请仔细阅读群公告和群共享，在新浪微博上关注“麦克马斯特大学研究生院”，并浏览 `hihamilton.com`_ 和 `www.maccssa.org`_ 论坛。下面是一个简单的入学前指导：
 
 1. 如果你已经打算来加拿大学习，现在需要抓紧解决签证和机票的问题。从四五月份开始集中办理的同学越来越多，机票的价格也会越来越高。签证的问题可以在群里“@16-MEEI-张宸赫”。 
 
@@ -28,7 +28,7 @@ Welcome to McMaster University!
 以下关键词列举了常见问题，希望大家仔细阅读：（更新中......） 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 一、McMaster研究生群介绍:
 
    BenQunJieShao
@@ -36,7 +36,7 @@ Welcome to McMaster University!
    QunDaShenJieShao
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 二、新生注册与学术:
 
    ZhuCe
@@ -65,7 +65,7 @@ Welcome to McMaster University!
    TanQinQianZheng
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 四、生活类:
 
    ZuFang
@@ -84,7 +84,7 @@ Welcome to McMaster University!
    MeiGuoLvYouQianZheng
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 五、电脑、软件类:
 
    MicrosoftChanPin
