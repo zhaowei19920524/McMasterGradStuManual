@@ -82,6 +82,7 @@ Welcome to McMaster University!
    BaoShui
    YingShiZiYuan
    MeiGuoLvYouQianZheng
+   QiTAShengHuoJingYanHuiZong
 
 .. toctree::
    :maxdepth: 1
