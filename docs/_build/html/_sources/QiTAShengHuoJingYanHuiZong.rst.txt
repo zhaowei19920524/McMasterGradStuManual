@@ -40,7 +40,7 @@
 -----------------
 | 大家都知道中国跨越5个时区，但统一使用北京时间，就是东8时区（+8）。而加拿大地理上跨越6个时区，并使用6个不同的时间：
 | https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%97%B6%E5%8C%BA
-| 我们所在的Hamilton位于+5时区，也就是东部时区（EST）
+| 我们所在的Hamilton位于-5时区，也就是东部时区（EST）
 
 | 加拿大分冬令时和夏令时，在中国是没有夏令时的。
 | 加拿大冬令时时段：11月1日~次年4月30日（每年会稍有变动），此时加拿大比中国晚13个小时。
@@ -49,11 +49,12 @@
 
 Hamilton电费
 ------------------------------
+.. image:: /resource/ElectronicRates.jpg
+   :align: center
+
 | 大家住的House或apartment可能电费要另付，这就需要考虑省电的问题了。
 | Hamilton的电费是按时段收费的。Weekdays中午费率最高。晚上和周末节假日费率最低
 | https://www.horizonutilities.com/myHome/ElectricityRates/Pages/TOU.aspx
-
-.. image:: /resource/ElectronicRates.jpg
-   :align: center
+| 所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
 
   （持续更新。。。）
