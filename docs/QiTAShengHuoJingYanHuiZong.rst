@@ -57,4 +57,21 @@ Hamilton电费
 | https://www.horizonutilities.com/myHome/ElectricityRates/Pages/TOU.aspx
 | 所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
 
+消费税
+--------------------------------
+| 在Canada，消费税是不包括在食品价格里面的。这就需要再购买的时候单独交付。
+| 消费税在每个省的税率是不一样的，在Ontario的消费税是HST，它的税率是商品价格的13%
+| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
+| 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。
+| 也有一些产品是不用交税的：
+| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/txbl/xmptgds-eng.html
+| 大体上跟我们相关的有：
+
+ | 1. 超市卖的蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品。
+ | 2. 儿童用品。
+
+| 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。
+| 如果商品可以退货，那么交的税也会一起退回来
+| HST对于刚来的Canada的同学来说可以退一次，有且只有一次。大概几百加元。
+
   （持续更新。。。）
