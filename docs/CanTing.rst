@@ -3,7 +3,8 @@
 | 写在前面：
 | **学长学姐们强烈建议大家自己做饭，而不是去餐厅**
 
-| 一、McMaster餐厅官网：
+一、McMaster餐厅官网：
+-----------------------------------------
 | http://hospitality.mcmaster.ca/
 | Meal Plan
 | http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
@@ -12,7 +13,8 @@
 | On-Campus Location
 | http://hospitality.mcmaster.ca/on-campus.html
 
-| 二、McMaster餐厅介绍
+二、McMaster餐厅介绍
+--------------------------------------------
 | McMaster的可以吃饭的地方有很多，大型的餐厅主要有两个：
 | ① CENTRO@Commons：俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
 | http://hospitality.mcmaster.ca/locations/centro.html
@@ -21,7 +23,8 @@
 | ③ Student Center和其它地方的甜点店：
 | 大家看看On-Campus Location就知道了。
 
-| 三、Meal Plan
+三、Meal Plan
+-------------------------------------
 | 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。其它甜点店比如Tim Hortons稍微便宜点。
 | 办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。
 | http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
@@ -41,12 +44,14 @@
 | http://mealcard.mcmaster.ca/
 | 这样不但可以在线充值，也可以查看余额。
 
-| 四、学校周边的饭店
+四、学校周边的饭店
+-----------------------------------------
 | 主要以Pizza和三明治为主
 | http://hospitality.mcmaster.ca/off-campus.html
 | 还有比较便宜的Tim Hortons，大家Google一下位置就知道了。
 
-| 五、中餐馆
+五、中餐馆
+----------------------------------
 | 学校周边（Zone 1）：
 | 1、高老庄：点菜制，外卖
 | http://www.gaolaozhuang.ca
@@ -83,7 +88,8 @@
 | 12、千面坊 （兰州拉面）：点菜制
 | 117 King St E, Hamilton, ON L8N 1A9
 
-| 六、经验之谈
+六、经验之谈
+-----------------------------------
 | 依然是强烈建议大家自己做饭，原因主要有：校内外的餐厅和甜点店主要以西餐为主，一般从中国来的学生吃不惯，量少且贵。
 | 其次是花费：从以往的经验来看，如果坚持自己做饭，每月的饮食类的花费大多在$200~$300左右。如果一直在外面买，则是$700/月，一般比这个要多得多。
 | 希望大家能锻炼出好的手艺，不至于在同学家聚餐的时候什么也不会。
