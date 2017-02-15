@@ -31,7 +31,7 @@
 | 这个太多了，每个公司都有很多种套餐，需要根据自己的需要选择，比如你是上网多一些，还是电话多一些，还是大而全。
 | 具体的请参考各个公司的网站: 
 | Fido: http://www.fido.ca 
-| Rogers:http://www.rogers.com/web/Rogers.portal 
+| Rogers: http://www.rogers.com/web/Rogers.portal 
 | Telus: http://www.telus.com/ 
 | Bell：http://www.bell.ca/home/ 
 | Virgin：http://www.virginmobile.ca/en/home/index.html 
@@ -52,6 +52,6 @@
 注意事项
 -------------------------------------------- 
 | ①必须要先办理Canada银行的银行卡，才能办电话卡。
-| ②由于学校有不限流量的wifi供大家使用，所以大家不用特别买流量特别多的套餐。
+| ②由于学校有不限流量的wifi供大家使用，所以大家不用买流量特别多的套餐。
 | ③如果购买套餐，则夜间（5pm~7am）、周末、节假日是不计分钟数的。其它时间计算接听和打出的分钟数。
 | ④一般办一个$40左右的套餐就可以了。

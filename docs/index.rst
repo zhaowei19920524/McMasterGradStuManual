@@ -52,7 +52,7 @@ Welcome to McMaster University!
    McMasterChengJiDuiYingBiao
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 三、McMaster攻略类:
 
    ChuJiChang
