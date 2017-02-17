@@ -3,6 +3,9 @@
 
 | foodbasics，fortinos， nations，shoppers的介绍和对比
 
+| Google地图的位置
+| https://drive.google.com/open?id=1a6AjLLdzg55eOPqf5nBoteIO_pY&usp=sharing
+
 | 首先对于，这四个商店是神马样子的，说了没用，自己逛逛就知道了，我在这里主要是给大家说些打折啥的有的没的。 
 
 | 打折 
