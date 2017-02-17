@@ -5,6 +5,7 @@
 | McMaster官方的租房资源网站： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
 | McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
 | 还有一个总结的不错帖子： http://hihamilton.com/forum.php?mod=viewthread&tid=1482&extra=&page=1 
+| 上面帖子里提到的公寓以及新建的公寓的位置：https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
 | 此外，陆定维老师的QQ空间里也有详细的介绍。 
 | 租房微信群，请看群公告。 
 
@@ -22,7 +23,7 @@
 | ①apt：至少一年，按月交房租。 
 | ②house：根据房东，最少8个月，有的最少12个月。如果只租8个月，可能房租会略高一点。 
 | 3.长租价格（每月）： 
-| ①house：350~500之间。utility包含的越多，房租越高。basement大多在400以下。 
+| ①house：350~500之间。utility包含的越多，离学校越近，房租越高。basement大多在400以下。 
 | ②apt：550+。一些比较陈旧的，没有空调的公寓（981、1001）价格会相对便宜，甚至有低于500的房间。而新建的，高档的公寓价格非常昂贵，基本都在600以上，甚至有1K左右的价格。 
 | 4.house的房间有两种，一种是地上的房间（groud），还有一种是地下室（basement）。Canada的地下室和国内有所不同。这边地下室准确说是半地下室，就是0.5层的意思。有窗户，窗户接着地面。房租一般不会超过400一月。 
 | 5.apt里有几种特殊的情况：①bachelor，就是单人间。房间布局和国内宾馆里的单人间比较像。②condo，高级公寓，价格非常昂贵，一般在800+。例如：bay 200，房租每月1K+。 

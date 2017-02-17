@@ -15,7 +15,7 @@
  - H.G. Thode Library of Science & Engineering
  - Health Sciences Library
 
-| 4个图书馆基本都在各个学院上课地点附近，大家不要借书不要去错地方了。
+| 4个图书馆基本都在各个学院上课地点附近，大家借书不要去错地方了。
 
 三、图书馆服务
 ---------------------------
