@@ -6,6 +6,12 @@
 | Google地图的位置
 | https://drive.google.com/open?id=1a6AjLLdzg55eOPqf5nBoteIO_pY&usp=sharing
 
+.. raw:: html
+
+  <div align="center">
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1a6AjLLdzg55eOPqf5nBoteIO_pY" width="640" height="480"></iframe>
+  </div>
+
 | 首先对于，这四个商店是神马样子的，说了没用，自己逛逛就知道了，我在这里主要是给大家说些打折啥的有的没的。 
 
 | 打折 
@@ -44,5 +50,5 @@
 | 地点推荐 
 | fortinos有两家，推荐去离学校稍近的那个，更大。 foodbasics的话，也是有两家，给我感觉差不太多。 shoppers一共是三家，学校门口，westdale，university plaza各一家，university plaza那家最大，东西最全（尤其对于要买化妆的，那边更全点） 
 | 最后，是的，nations就一家。。。。感觉棒棒哒。。。
-
+   
 | ——感谢14-MED-高雯淼提供
