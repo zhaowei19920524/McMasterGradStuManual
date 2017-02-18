@@ -84,10 +84,21 @@
 | 1508 Upper James St, Hamilton, Ontario L9B 1K3
 | 10、U SHAO BBQ：自助烧烤
 | 27 John St S, Hamilton, ON L8N 2B7
-| 11、Sparkle Northern Chinese Cuisine美食美客：点菜制
+| 11、Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 | 165 King St. East, Hamilton
+| (905) 529-2226
 | 12、千面坊 （兰州拉面）：点菜制
 | 117 King St E, Hamilton, ON L8N 1A9
+| 13、喜临门酒楼：点菜制，外卖
+| 80 James St. North
+| (905) 297-0228
+| 14、满江红京川菜馆：点菜制，外卖
+| 60 James Street N
+| (905) 525-0657
+| 15、Mr.Dumpling：点菜制，外卖
+| http://www.mrdumpling.ca/hamilton/index.html
+| 50 Dundurn St. South L8P 4W3
+| (905) 570-1388
 
 六、经验之谈
 -----------------------------------
