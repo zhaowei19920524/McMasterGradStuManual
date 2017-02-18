@@ -65,17 +65,17 @@
 1. RBC学生账户
 
    | 无限次免费Interac etransfer（就是银行间转账），信用卡可以直接开$1000额度。不需要押金。
-   | http://www。rbcroyalbank。com/student-solution/index。html?ref=rb-hp
+   | http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
 
 2. CIBC Tim Hortons 信用卡
 
    | 刷卡可以换Tim Hortons咖啡甜点店的积分。每周都有优惠活动
-   | https://www。cibc。com/en/personal-banking/credit-cards/retail-rewards-cards/tim-hortons-rewards-card。html
+   | https://www.cibc.com/en/personal-banking/credit-cards/retail-rewards-cards/tim-hortons-rewards-card.html
 
 3. ScotiaBank Scene 信用卡
 
    | 刷卡得积分，可以免费看电影
-   | http://www。scotiabank。com/ca/en/0，，91，00。html
+   | http://www.scotiabank.com/ca/en/0,,91,00.html
 
 附
 --------------------------
