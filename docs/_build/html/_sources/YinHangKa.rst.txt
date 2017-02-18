@@ -76,3 +76,14 @@
 
    | 刷卡得积分，可以免费看电影
    | http://www。scotiabank。com/ca/en/0，，91，00。html
+
+附
+--------------------------
+| Hamilton主要银行的位置
+| https://drive.google.com/open?id=1KyRhzQqvEHVdgZhcaNrrdFLKeVE&usp=sharing
+
+.. raw:: html
+
+  <div align="center">
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KyRhzQqvEHVdgZhcaNrrdFLKeVE" width="640" height="480"></iframe>
+  </div>
