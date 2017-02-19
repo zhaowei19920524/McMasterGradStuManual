@@ -2,7 +2,7 @@
 ===========================
 | McMaster的email激活后，有两种方法可以收发 ：
 
-| 1. 通过网页： https://studentmail.mcmaster.ca 通过网页登陆 
+| 1. 通过网页： https://studentmail.mcmaster.ca
 
 | 2. 通过客户端email软件：在手机或电脑上，设置如下： 
 | Account type: IMAP 
