@@ -53,5 +53,5 @@
 .. raw:: html
 
     <div align="center">
-      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1s63uCVqMjFtSJkFfFeNmFa9kGJE" width="640" height="480"></iframe>
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1s63uCVqMjFtSJkFfFeNmFa9kGJE"></iframe>
     </div>
