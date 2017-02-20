@@ -36,6 +36,14 @@
 | 可能中午12点开始要连续上3个小时，都是很正常的事。business学院曾经出现过晚上10点半去Burlinton校区上课的情况，等下课已经半夜12点了。
 | 有选课自由的学生应尽量避免这种情况。
 
+电压与插座
+-------------------------------------
+| Canada的家用电压是110V。stove那个插座使用三相电单独供电除外（≥300V）。
+| 插座则统一使用美标：2线插座和国内类似，有一边会略长一些，不过完全兼容国内电器的插头。3线则完全不同。
+| http://www.worldstandards.eu/electricity/plugs-and-sockets/ab/
+
+.. image:: resource/3LineElectricalSocket.jpg
+
 电费
 ------------------------------
 .. image:: /resource/ElectronicRates.jpg
