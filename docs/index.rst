@@ -69,6 +69,7 @@ Welcome to McMaster University!
    :maxdepth: 1
    :caption: 四、生活类:
 
+   HamiltonJieShao
    ZuFang
    YinHangKa
    BanLiShouJiHeDianHua
