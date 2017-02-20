@@ -1,6 +1,6 @@
 ﻿Hamilton介绍
 =============================
-各种百科，Hamilton官网
+百科，Hamilton官网
 ------------------------------------
 | 百度百科：http://baike.baidu.com/item/%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF/9336424?fromtitle=%E5%93%88%E5%AF%86%E5%B0%94%E9%A1%BF&fromid=83713&type=syn
 | Wikipedia：https://en.wikipedia.org/wiki/Hamilton,_Ontario
@@ -16,9 +16,9 @@ Hamilton各个区
 .. image:: /resource/HamiltonMapBigArea.jpg
 
 | 和我们关系最紧密的当然是Hamilton市区了。一个大的区又分为多个小的区，相当于国内的街道。
-| 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Garden（原来叫University Plaza）。从租房的角度考虑，这些地方统称为Zone 1。
+| 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Gardens（原来叫University Plaza）。从租房的角度考虑，这些地方统称为Zone 1。
 | 403高速以东就是Hamilton市区的Downtown了。其中最最中心和繁华的地方就在Kirkendall North、Beasley、Landsdale。如果大家想住在Downtown，那最好住在这一片。其它地方离McMaster太远，也不是特别安全。
-| Downtown和Zone 1以南是Hamilton的一座小山，山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的Lime Ridge Mall商场和Walmart。在此希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是Hill最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
+| Downtown和Zone 1以南是Hamilton的一座小山，山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的Lime Ridge Mall商场和Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是Hill最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
 
@@ -36,11 +36,18 @@ Hamilton各个区
 垃圾分类与回收
 ---------------------------------------------
 | 在Canada家庭产生的垃圾必须要分类，Hamilton也不例外。
-| 市政人员每周一（如果周一是节假日，则延后一天）上午会去各个house和公寓的门口收垃圾。这就需要大家在周末一定要把垃圾拿到门口（公寓就拿到指定的位置）。如果垃圾不分类，那市政人员是不会收走的。
+| 在Hamilton，市政人员每周一（如果周一是节假日，则延后一天）上午会去各个house和公寓的门口收垃圾。这就需要大家在周末一定要把垃圾拿到门口（公寓就拿到指定的位置）。如果垃圾不分类，那市政人员是不会收走的。
 | 垃圾大体分为3类：
 
  | ①可降解的垃圾：比如剩饭剩菜果皮的厨余垃圾，house的枯枝落叶杂草等等，这类垃圾一般要倒在house或公寓的绿色的垃圾桶里。如果厨房用垃圾袋，则必须去超市买可降解的垃圾袋（也是绿色的）。否则市政人员不收。
  | ②可再利用的垃圾：就是瓶瓶罐罐，废纸盒，以及其它有recycle符号的包装袋。这类垃圾一定倒在house或公寓的蓝色的垃圾盒里。
- | ③不可降解不可回收的垃圾：这个则是要倒在黑色的垃圾桶里。
+ | ③不可降解不可回收的垃圾：这个则是要倒在黑色的垃圾桶里或倒在一个大的黑色的塑料袋里。垃圾袋没有数量和材质的要求。
 
+.. image:: /resource/GreenBin.jpg
+   :height: 224px
+.. image:: /resource/BlueBox.jpg
+   :height: 224px
+.. image:: /resource/BlackBin.jpg
+
+| 每周回收的垃圾的量也规定，各类垃圾都不能超过上图中的一桶或一盒。如果超量了，则超过的部分是不会收走的，这意味着你又要放一周。
 | 大家一定要养成垃圾分类和及时倾倒的好习惯。尤其是住公寓的同学，公寓里的bedbug几乎都是垃圾处理不当造成的。
