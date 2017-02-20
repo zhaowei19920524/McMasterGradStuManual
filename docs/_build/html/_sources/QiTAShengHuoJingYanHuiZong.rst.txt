@@ -63,4 +63,16 @@
 | 如果商品可以退货，那么交的税也会一起退回来。
 | HST对于刚来的Canada的同学来说可以退一次，有且只有一次。大概几百加元。
 
-  （持续更新。。。）
+各大论坛网站
+--------------------------------------
+| 网址大全：http://www.canada-cn.net/
+
+| 加国无忧：http://www.51.ca/
+| 加拿大华人网（新闻）：http://www.sinoca.com/
+
+| 约克论坛（多伦多地区）：http://www.yorkbbs.ca/
+| 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
+
+| Hamilton 华人网：http://www.hamiltonchinese.ca/
+| 新麦马论坛：http://hihamilton.com/
+| McMaster - 中国学生论坛：http://www.maccssa.org/
