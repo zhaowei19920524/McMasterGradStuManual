@@ -14,7 +14,7 @@ Canada主要超市
 
 3. Foodbasic (Metro)
 
- | 原先是Metro，后来被Foodbasics收购走了部分商场，和Fortinos类似。
+ | 原先是Metro，后来被Foodbasics收购走了部分商场，和Fortinos类似，但只卖吃的。
  | https://www.foodbasics.ca/index.en.html
 
 4. Nations
