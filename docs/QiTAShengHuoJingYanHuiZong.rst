@@ -43,6 +43,7 @@
 | http://www.worldstandards.eu/electricity/plugs-and-sockets/ab/
 
 .. image:: resource/3LineElectricalSocket.jpg
+   :align: center
 
 电费
 ------------------------------
