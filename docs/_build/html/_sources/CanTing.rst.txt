@@ -27,7 +27,7 @@
 -------------------------------------
 | 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。其它甜点店比如Tim Hortons稍微便宜点。
 | 办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。
-| 学生卡不但可以用于餐厅，也可以用在任何一个餐饮店。
+| 学生卡不但可以用于餐厅，也可以用在学校里任何一个餐饮店。
 | http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 .. image:: resource/MealPlan.jpg

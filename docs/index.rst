@@ -102,6 +102,8 @@ Welcome to McMaster University!
 | 想贡献自己的内容？请联系14-ECE-赵伟。
 | 如有好的意见和建议，欢迎您的 `反馈`_ 。
 
+| 本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
+
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
 .. _网站: https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/
