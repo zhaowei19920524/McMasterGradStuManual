@@ -5,8 +5,9 @@
 
 各类租房资源
 -----------------------
-| McMaster官方的租房资源网站： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
+| McMaster官方的租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
 | **McMaster官方租房手册**：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/LivingOffCampus.pdf
+| Hamilton主要Apartment汇总在本页结尾的Google地图里
 | McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
 | 还有一个总结的不错帖子： http://hihamilton.com/forum.php?mod=viewthread&tid=1482&extra=&page=1 
 | 此外，陆定维老师的QQ空间里也有详细的介绍。 
@@ -25,7 +26,7 @@
 2. 租房通常指租house或apt里的其中一间卧室
 
  - house由于空间大，卧室多，房东一般按卧室数量出租，不允许租客住在客厅或多人住一个卧室。
- - apt则一定是整套出租（West Village那个公寓除外）。公寓管理员把一套公寓租给租客后，不会去管里面的人员情况。几个人一起租下来一套公寓后，经过协商可以考虑出租客厅或多人合住，这样可以在一定程度上减少每个人的租金。
+ - apt则一定是整套出租（West Village那个公寓除外）。大家租apt之前一定要找好室友，apt里的租客最好不要少于卧室的数量，公寓管理员把一套公寓租给租客后，不会去管里面的人员情况。几个人一起租下来一套公寓后，经过协商可以考虑出租客厅或多人合住，这样可以在一定程度上减少每个人的租金。
 
 3. house介绍：
 
@@ -82,6 +83,7 @@
 ------------------------------
 | Hamilton主要公寓的位置：
 | https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
+| 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
 .. raw:: html
 
