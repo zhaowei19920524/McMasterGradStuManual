@@ -54,7 +54,7 @@
 6. 长租价格（每月，CAD）： 
 
  - house：①ground：400~500之间 ②basement：400以下。utility（水电气网4项）花费已经包含在房租里越多，离学校越近，房租越高。
- - apt：按apt里bedroom的数量：①1 bedroom：900+ ②2 bedroom：1000+ ③3 bedroom：1100+ ④bachelor：800+。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981、1001）价格会相对便宜。而新建的高档的公寓价格非常昂贵，基本600以上/卧室，甚至有1K/卧室的价格。 
+ - apt：按apt里bedroom的数量：①1 bedroom：900+ ②2 bedroom：1000+ ③3 bedroom：1100+ ④bachelor：800+。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。 
 
 7. 为了安全起见，也为了上学方便。大家尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。 
 8. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。有的便宜的apt（981 1001）没有空调，有的apt没有抽油烟机，夏天做饭的时候会很麻烦，house一般都有。所以不管找apt还是house一定要调查清楚。 
@@ -84,6 +84,7 @@
 | Hamilton主要公寓的位置：
 | https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
 | 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
+| 其中黄色的气球代表bachelor或1个bedroom的apt，蓝色的气球代表最多有2个bedroom的apt，紫色的气球代表最多有3个或3个以上bedroom的apt。
 
 .. raw:: html
 
