@@ -34,6 +34,7 @@ Welcome to McMaster University!
    BenQunJieShao
    QunGui
    QunDaShenJieShao
+   GeGeXueYuanDeQun
 
 .. toctree::
    :maxdepth: 1
@@ -45,7 +46,6 @@ Welcome to McMaster University!
    XuanKe
    DangAn
    LiuXueXingLiQingDan
-   GeGeXueYuanDeQun
    DepositDingJin
    transition_week
    XueXiaoemailSheZhi

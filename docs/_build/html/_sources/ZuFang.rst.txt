@@ -58,7 +58,7 @@
 
 6. 长租价格（每月，CAD）： 
 
- - house：①ground：400~500之间 ②basement：400以下。utility（水电气网4项）花费已经包含在房租里越多，离学校越近，房租越高。
+ - house：①ground：400~500之间 ②basement：400以下。utility（水电气(heat)网4项）花费已经包含在房租里越多，离学校越近，房租越高。
  - apt：按apt里bedroom的数量：①1 bedroom：900+ ②2 bedroom：1000+ ③3 bedroom：1100+ ④bachelor：800+。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
 
 7. 为了安全起见，也为了上学方便。大家尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。 
