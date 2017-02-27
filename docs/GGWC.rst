@@ -3,7 +3,7 @@
 
 .. image:: resource/GirlsGuysWhoCode.png
 
-Girls&GuysWhoCode （GGWC）是我们中国研究生留学生创建的第一个社团。创始人兼主席是朱华伟（15-ECE-朱华伟）学姐。
+Girls&GuysWhoCode （GGWC）是我们中国研究生留学生创建的第一个社团。创始人兼主席是朱华伟（15-ECE-huawei）学姐。
 
 GGWC为大家提供了一个计算机技术分享，合作学习，求职经验的平台。社团活动时间是每周六下午2:00，地点是ITB-A113。
 
@@ -11,7 +11,7 @@ GGWC为大家提供了一个计算机技术分享，合作学习，求职经验�
 
 - President：
 
-  - 朱华伟（15-ECE-朱华伟）
+  - 朱华伟（15-ECE-huawei）
 - Secretary：
 
   - 许强（13-CAS-Qiang Xu）

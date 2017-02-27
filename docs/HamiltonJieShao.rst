@@ -22,6 +22,14 @@ Hamilton各个区
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
 
+Hamilton的主干道
+------------------------------------------
+| 连通Hamilton downtown和McMaster最主要的道路就是Main Street了。Zoon 1区域里的Main Street是双向车道（绿色部分），而downtown部分的Main Street是向东的单行道（蓝色部分），向西的单行道则是King Street（红色部分），它在644 Main那个公寓的西边汇入Main Street。
+| 所有的公交车也会受此影响，比如在downtown想坐车去McMaster，只能步行到King Street上的车站等车。在McMaster和downtown之间行驶的公交车有1、5、10路。
+| 另外山上的道路以Upper James St和Upper Wentworth St为主。山上的南北方向的道路名称都非常有规律。比如某道路连通downtown和山上，downtown的名称是 XX St.，山上的名称就是 Upper XX St.。此外，山上南北方向的非主干道名称都是E XXth St.或W XXth St.。大家以后看到此类地址直接认为在山上就可以了。
+
+.. image:: /resource/MainStreet.jpg
+
 时差和时区
 -------------------------------------------------
 | 大家都知道中国跨越5个时区，但统一使用北京时间，就是东8时区（+8）。而加拿大地理上跨越6个时区，并使用6个不同的时间：
