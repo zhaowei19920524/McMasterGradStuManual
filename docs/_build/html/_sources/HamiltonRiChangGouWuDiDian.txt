@@ -39,6 +39,12 @@ Canada主要超市
  | https://www.costco.ca/
  | 地址：100 Legend Ct, Ancaster, ON L9K 1J3
 
+8. Lime Ridge Mall
+
+ | Hamilton最大的购物商场，规模类似于国内的百货大楼，里面卖各种衣服鞋帽，大家刚来的时候是夏天，可以去买冬天的羽绒服和雪地靴。
+ | https://www.cfshops.com/
+ | 地址：999 Upper Wentworth St, Hamilton, ON L9A 4X5
+
 Google地图的位置
 ------------------------------------------------------------
 | https://drive.google.com/open?id=1a6AjLLdzg55eOPqf5nBoteIO_pY&usp=sharing
