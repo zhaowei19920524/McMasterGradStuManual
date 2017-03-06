@@ -5,10 +5,16 @@
 
 各类租房资源
 -----------------------
+各类房源：
+
 - McMaster官方的租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
-- **McMaster官方租房手册**：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/LivingOffCampus.pdf
 - Hamilton主要Apartment汇总在本页结尾的Google地图里
 - McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
+- McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
+
+各类租房经验：
+
+- **McMaster官方租房手册**：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/LivingOffCampus.pdf
 - 还有一个总结的不错帖子： http://hihamilton.com/forum.php?mod=viewthread&tid=1482&extra=&page=1 
 - 此外，陆定维老师的QQ空间里也有详细的介绍。 
 - 租房微信群，请看群公告。 
