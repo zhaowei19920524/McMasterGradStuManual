@@ -4,7 +4,7 @@
 ------------------------------------------------------------
 | 官网：https://www.canadapost.ca/
 | 这个是Canada最便宜的寄送物品的方式了。不但可以收发Canada本地也可以收发国际件。在国内用中国邮政寄到Canada的物品，入境Canada后，都是由Canada Post继续配送的。
-| 普通物品一般不提供tracking number。需要tracking number需要额外付费或使用加急服务。
+| 普通物品一般不提供tracking number。tracking number需要额外付费或使用加急服务。
 | Canada Post的邮箱一般设在各大Shoppers drug mart的门口，在商场里面也有寄送柜台。
 
 二、国际快递
