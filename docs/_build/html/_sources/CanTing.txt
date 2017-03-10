@@ -1,17 +1,14 @@
 ﻿餐厅
 ===========================
-| 写在前面：
-| **学长学姐们强烈建议大家自己做饭，而不是去餐厅**
+.. attention::
+   **学长学姐们强烈建议大家自己做饭，而不是去餐厅！！！**
 
 一、McMaster餐厅官网
 -----------------------------------------
-| http://hospitality.mcmaster.ca/
-| Meal Plan
-| http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
-| Hour
-| http://hospitality.mcmaster.ca/hours.html
-| On-Campus Location
-| http://hospitality.mcmaster.ca/on-campus.html
+| 官网主页：http://hospitality.mcmaster.ca/
+| Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+| Hour：http://hospitality.mcmaster.ca/hours.html
+| On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
 
 二、McMaster餐厅介绍
 --------------------------------------------
