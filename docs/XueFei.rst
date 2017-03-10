@@ -45,60 +45,32 @@
 | Step1: 打开你的online banking的账户，在转账的页面里，To: Add a Payee，然后submit。 
 
 .. image:: /resource/XueFeiJiaoCheng(1).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
 
 | Step2: 在搜索框里写McMaster，点Search。 
 
 .. image:: /resource/XueFeiJiaoCheng(2).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
  
 | Step3: 在搜索结果里选“MCMASTER UNIVERSITY”，点continue。 
  
 .. image:: /resource/XueFeiJiaoCheng(3).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
 
 | Step4: （***重要***）填写9位学号Student ID，400开头的那个，不是Mac ID。一定要填对。不然就是帮别人付学费。 
 
 .. image:: /resource/XueFeiJiaoCheng(4).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
  
 | Step5: 确认信息点continue。 
 
 .. image:: /resource/XueFeiJiaoCheng(5).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
  
 | Step6: 填写学费数额，点Submit。 
 
 .. image:: /resource/XueFeiJiaoCheng(6).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
 
 | 注：不管大家把钱存在哪个账户里，在付学费前，都把要付的学费先转到chequing账户里。因为有些银行从saving账户里支付会收手续费。 
  
 | Step7: 最后确认一遍信息，点continue。付完之后，mosaic不会立即更新。可能要过3天左右的时间才会显示到账。 
 
 .. image:: /resource/XueFeiJiaoCheng(7).jpg
-   :height: 746px
-   :width: 1366 px
-   :scale: 100 %
-   :align: center
 
 
 .. _这里: http://www.mcmaster.ca/bms/student/pdf/Student%20CIBC%20direct%20deposit%20mar15.pdf
