@@ -1,8 +1,8 @@
-﻿工作（TA, RA, Intern和Co-op）
+﻿工作（TA，RA，Intern和Co-op）
 ============================
 TA: Teaching Assistant 
 ---------------------------------
-就是助教，大体工作有lesson（上课）, tutorior（辅导课）, Answer（答疑），mark（改作业）, lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。 
+助教，大体工作有lesson（上课），tutorior（辅导课），Answer（答疑），mark（改作业），lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。 
 
 比较特殊的有：
 
@@ -13,12 +13,13 @@ TA: Teaching Assistant
 
 RA: Research Assistant
 ----------------------------------
-| 就是助研，大体工作是读论文，写论文，调试仪器。工资由招RA的教授自己决定，一般比TA要低。RA一般院里会不定期发邮件通知，也会出现在mosaic首页的Career Opportunities里。这个需要专业知识，并不是所有人都可以申请。没有TA的同学，可以关注一下RA。 
-| 有奖学金的同学请注意，你们offer里的research scholarship是科研奖学金，不是RA。
+就是助研，大体工作是读论文，写论文，调试仪器。工资由招RA的教授自己决定，一般比TA要低。RA一般院里会不定期发邮件通知，也会出现在mosaic首页的Career Opportunities里。这个需要专业知识，并不是所有人都可以申请。没有TA的同学，可以关注一下RA。 
+
+有奖学金的同学请注意，你们offer里的research scholarship是科研奖学金，不是RA。
 
 .. note::
    
-   | Research Scholarship, 不是TA，也不是RA in lieu of TA。
+   | Research Scholarship，不是TA，也不是RA in lieu of TA。
    | RA是Research assistant的简称，属于Employment income，需要交一些其他费用，而Research Scholarship学生可以拿到100%。
    | 所以大概10年开始，已经基本把Research Assistant取消，都改成Research Scholarship了。
    | 如果offer上有TA，但到时没有TA的位置，才会用RA代替，这时叫RA。
