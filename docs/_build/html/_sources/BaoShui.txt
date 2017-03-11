@@ -5,7 +5,7 @@
 | 和学生有关的税务申报主要有一下几种： 
 
 1. T2202A 表：全称是“Tuition, Education, and Textbook Amounts Certificate”。也就是学费退税。在mosaic上可以下载打印。
-2. T3 表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指国内外股票，债卷，利息等收益。
+2. T3 表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。
 3. T4 表：
 
  - T4：全称是“Statement of Remuneration Paid (slip)”。工资退税（不包括TA、RA），一般指intern，coop和full time工作的工资。
