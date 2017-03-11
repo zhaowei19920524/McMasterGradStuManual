@@ -16,6 +16,15 @@ RA: Research Assistant
 | 就是助研，大体工作是读论文，写论文，调试仪器。工资由招RA的教授自己决定，一般比TA要低。RA一般院里会不定期发邮件通知，也会出现在mosaic首页的Career Opportunities里。这个需要专业知识，并不是所有人都可以申请。没有TA的同学，可以关注一下RA。 
 | 有奖学金的同学请注意，你们offer里的research scholarship是科研奖学金，不是RA。
 
+::
+
+ Research Scholarship, 不是TA，也不是RA in lieu of TA。
+ RA是Research assistant的简称，属于Employment income，需要交一些其他费用，而Research Scholarship学生可以拿到100%。
+ 所以大概10年开始，已经基本把Research Assistant取消，都改成Research Scholarship了。
+ 如果offer上有TA，但到时没有TA的位置，才会用RA代替，这时叫RA。
+ ——陆定维老师
+
+
 Intern和Co-op: 带薪实习
 -------------------------------------
 - 实习对专业性要求和找正式工作一样高。
@@ -32,4 +41,4 @@ Intern和Co-op: 带薪实习
 3. 除了这3种工作之外还有一些part time的job，就是打零时工。比如在餐馆当服务员，在超市当收银员。这个和上面三种完全不冲突。并且没有每周工作时间限制。资金比较紧张的同学可以关注一下，对提高口语也有帮助，但对以后工作基本没有帮助。 在各大论坛，以及学校的招聘公告栏里会列举part time的工作。
 4. 不管大家从事何种工作，即便是part time，工资也不会低于Canada最低工资标准：https://www.labour.gov.on.ca/english/es/pubs/guide/minwage.php
 5. Canada规定国际学生从刚来Canada到完成8个月（term 1和2）的学习这段时间是不允许在校外full time实习的。McMaster有的学院规定前3个term都不可以，大家找实习前要先去学院里问清楚。
-6. 如果是intern需暂停学业，有supervisor的学生请务必和supervisor商量。建议大家找到后再去找supervisor商量。
+6. Intern需暂停学业，有supervisor的学生请务必和supervisor商量。建议大家找到后再去找supervisor商量。
