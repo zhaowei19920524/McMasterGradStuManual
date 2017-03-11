@@ -50,52 +50,93 @@
 
 五、中餐馆
 ----------------------------------
-| 学校周边（Zone 1）：
-| 1、高老庄：点菜制，外卖
-| http://www.gaolaozhuang.ca
-| 1561 Main Street West Hamilton, ON L8S 1E6
-| (289) 309-1363
-| 2、龙庭：点菜制，外卖
-| http://www.westdaledragoncourt.com
-| 988 King Street W. Hamilton, ON L8S 1L1
-| (905) 522-1999
-| 3、South China：外卖
-| http://southchina.chinesemenu.com/
-| 1223 Main St W, Hamilton, ON L8S
-| (905) 528-8474 
-| 4、北京小屋：点菜制
-| 1467 Main St W, Hamilton, ON L8S 1C9 
-| (905) 521-8886 
-| 5、Wei Xiang Yuan 北京面点：点菜制
-| 1088 Main St W, Hamilton, ON L8S 1B3
-| (905) 297-4702 
-| 6、明瓷御苑：自助火锅
-| 1122 Main St W, Hamilton, ON L8S 1C1 
+1. 学校周边（Zone 1）：
 
-| 市区（Downtown）和山上（Upper James）
-| 7、LiuLiu Hot Pot（老乡四川）：自助火锅
-| 11 Walnut St S, Hamilton, ON L8N 2K8
-| 8、海捞：自助火锅
-| 129 King St. E., Hamilton, ON
-| 9、Mandarin：中餐自助
-| 1508 Upper James St, Hamilton, Ontario L9B 1K3
-| 10、U SHAO BBQ：自助烧烤
-| 27 John St S, Hamilton, ON L8N 2B7
-| 11、Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
-| 165 King St. East, Hamilton
-| (905) 529-2226
-| 12、千面坊 （兰州拉面）：点菜制
-| 117 King St E, Hamilton, ON L8N 1A9
-| 13、喜临门酒楼：点菜制，外卖
-| 80 James St. North
-| (905) 297-0228
-| 14、满江红京川菜馆：点菜制，外卖
-| 60 James Street N
-| (905) 525-0657
-| 15、Mr.Dumpling：点菜制，外卖
-| http://www.mrdumpling.ca/hamilton/index.html
-| 50 Dundurn St. South L8P 4W3
-| (905) 570-1388
+- 高老庄：点菜制，外卖
+
+ | http://www.gaolaozhuang.ca
+ | 1561 Main Street West Hamilton, ON L8S 1E6
+ | (289) 309-1363
+
+- 龙庭：点菜制，外卖
+
+ | http://www.westdaledragoncourt.com
+ | 988 King Street W. Hamilton, ON L8S 1L1
+ | (905) 522-1999
+
+- South China：外卖
+
+ | http://southchina.chinesemenu.com/
+ | 1223 Main St W, Hamilton, ON L8S
+ | (905) 528-8474 
+
+- 北京小屋：点菜制
+
+ | 1467 Main St W, Hamilton, ON L8S 1C9 
+ | (905) 521-8886 
+
+- Wei Xiang Yuan 北京面点：点菜制
+
+ | 1088 Main St W, Hamilton, ON L8S 1B3
+ | (905) 297-4702 
+- 明瓷御苑：自助火锅
+
+ | 1122 Main St W, Hamilton, ON L8S 1C1 
+
+2. 市区（Downtown）和山上（Upper James）：
+
+- LiuLiu Hot Pot（老乡四川）：自助火锅
+
+ | 11 Walnut St S, Hamilton, ON L8N 2K8
+
+- 海捞：自助火锅
+ 
+ | 129 King St. E., Hamilton, ON
+
+- Mandarin：中餐自助
+
+ | 1508 Upper James St, Hamilton, Ontario L9B 1K3
+
+- U SHAO BBQ：自助烧烤
+
+ | 27 John St S, Hamilton, ON L8N 2B7
+
+- Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
+
+ | 165 King St. East, Hamilton
+ | (905) 529-2226
+
+- 千面坊 （兰州拉面）：点菜制
+
+ | 117 King St E, Hamilton, ON L8N 1A9
+
+- 喜临门酒楼：点菜制，外卖
+
+ | 80 James St. North
+ | (905) 297-0228
+
+- 满江红京川菜馆：点菜制，外卖
+
+ | 60 James Street N
+ | (905) 525-0657
+
+- Mr.Dumpling：点菜制，外卖
+
+ | http://www.mrdumpling.ca/hamilton/index.html
+ | 50 Dundurn St. South L8P 4W3
+ | (905) 570-1388
+
+- 美味栈粤菜馆（Crystal Dynasty Chinese Restaurant ）：点菜制
+
+ | 94 Cannon St W, Hamilton, ON L8R 2B6
+ | (905) 308-8208
+
+- Forbidden City Chinese Restaurant：外卖，点菜制
+
+ | 273 King St E, Hamilton, ON L8N 1B9
+ | (905) 528-5945
+
+- 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
 六、经验之谈
 -----------------------------------
