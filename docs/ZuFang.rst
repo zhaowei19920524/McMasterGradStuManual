@@ -7,17 +7,17 @@
 -----------------------
 1. 各类房源：
 
-- McMaster官方的租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
+- McMaster官方租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
 - Hamilton主要Apartment汇总在本页结尾的Google地图里
 - McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
+- 租房微信群，请看群公告。 
 
 2. 各类租房经验：
 
 - **McMaster官方租房手册**：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/LivingOffCampus.pdf
 - 还有一个总结的不错帖子： http://hihamilton.com/forum.php?mod=viewthread&tid=1482&extra=&page=1 
 - 此外，陆定维老师的QQ空间里也有详细的介绍。 
-- 租房微信群，请看群公告。 
 
 流程
 -------------------
@@ -32,16 +32,16 @@
 2. 租房通常指租house或apt里的其中一间卧室
 
  - house由于空间大，卧室多，房东一般按卧室数量出租，不允许租客住在客厅或多人住一个卧室。
- - apt则一定是整套出租（West Village那个公寓除外）。大家租apt之前一定要找好室友，apt里的租客最好不要少于卧室的数量，公寓管理员把一套公寓租给租客后，不会去管里面的人员情况。几个人租下来一套公寓后，一起分担每月的房租。经过协商也可以考虑出租客厅或多人合住，这样可以在一定程度上减少每个人的租金。
+ - apt则一定是整套出租（West Village那个公寓除外）。大家租apt之前一定要找好室友，apt里的租客的数量最好不要少于卧室的数量，公寓管理员把一套公寓租给租客后，不会去管里面的人员情况。几个人租下来一套公寓后，一起分担每月的房租。经过协商也可以考虑出租客厅或多人合住，这样可以在一定程度上减少每个人的租金。
 
 3. house介绍：
 
  - house的布局，以及租房的时候需要检查的地方：http://macoffcampus.mcmaster.ca/ocrc_static/interactive_house.html
  - house的房间有两种，一种是地上的房间（ground），还有一种是地下室（basement）。Canada的地下室和国内有所不同。这边地下室准确说是半地下室，就是0.5层的意思，有窗户，窗户接着地面。
- - 绝大多数house都是完整装修过了，有暖气（heater）、空调（air conditioner）。洗衣机、烘干机、热水锅炉都在地下室。厨房和国内略有不同，做饭基本用stove（电热丝加热），绝对不会有用明火的燃气灶，另外还会有冰箱、微波炉和烤面包机。house门口是草坪，还会有个后花园。
- - 除了热水锅炉和暖气用gas外，其它所有消耗能源的设备都用电。暖气是由热水锅炉产生的。夏天的冷气是由house的中央空调产生的。然后通过管道送到每个房间，每个房间都有出风口（可以调节关闭）。
+ - 绝大多数house都是完整装修过了，有暖气（heater）、空调（air conditioner）。洗衣机、烘干机、热水锅炉都在地下室。除了热水锅炉和暖气用gas外，其它所有消耗能源的设备都用电。暖气是由热水锅炉产生的。夏天的冷气是由house的中央空调产生的。然后通过管道送到每个房间，每个房间都有出风口（可以调节关闭）。
+ - 厨房：和国内略有不同，做饭基本用stove（电热丝加热），绝对不会有用明火的燃气灶，另外还会有冰箱、微波炉和烤面包机。house门口是草坪，还会有个后花园。
+ - 卧室：一般都有床、床垫、写字台、带有大抽屉的柜子和衣柜。可以做到拎包入住。
  - house至少都有2个厕所和2个厨房。
- - house的卧室一般都有床、床垫、写字台、带有大抽屉的柜子和衣柜。可以做到拎包入住。
 
 4. apt介绍：
 
