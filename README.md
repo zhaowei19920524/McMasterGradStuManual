@@ -29,6 +29,7 @@ git pull origin staging
 
 compile code in your disk
 ```
+cd docs/
 make html
 ```
 The output html file in McMasterGradStuManual/docs/_build/html
@@ -48,7 +49,7 @@ you can view the comple process: https://readthedocs.org/projects/mcmaster/build
 
 view the result: http://mcmaster.readthedocs.io/en/staging/
 
-If it looks Okay then make a pull result from staging to master, then merge the code.
+If it looks Okay then make a pull request from staging to master, then merge the code.
 
 **I recommand you guys make a code review or call me before merge into master**
 
