@@ -40,6 +40,7 @@ Welcome to McMaster University!
    :maxdepth: 1
    :caption: 二、新生注册与学术:
 
+   KaiXue
    ZhuCe
    XueFei
    conditional_offer
