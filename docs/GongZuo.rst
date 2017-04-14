@@ -1,5 +1,5 @@
 ﻿工作（TA，RA，Intern和Co-op）
-============================
+==========================================
 TA: Teaching Assistant 
 ---------------------------------
 助教，大体工作有lesson（上课），tutorior（辅导课），Answer（答疑），mark（改作业），lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。 

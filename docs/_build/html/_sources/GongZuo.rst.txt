@@ -1,5 +1,5 @@
 ﻿工作（TA，RA，Intern和Co-op）
-============================
+==========================================
 TA: Teaching Assistant 
 ---------------------------------
 助教，大体工作有lesson（上课），tutorior（辅导课），Answer（答疑），mark（改作业），lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。 
@@ -30,7 +30,7 @@ Intern和Co-op: 带薪实习
 -------------------------------------
 - 实习对专业性要求和找正式工作一样高。
 - Intern：full time实习。一旦开始full time实习，必须要暂停学习，TA、RA，学校的任何资助都会暂停发放，并且要签一张leave of absence的表格。实习期间不用交学费。
-- Co-op：白天实习，晚上上课，不需要暂停学业。Co-op也要自己努力，学校只会给提供工作的机会，投简历和面试都要自己完成。例如：Co-op MBA和traditional MBA，Co-op MBA如果不去实习那就和traditional MBA一样。
+- Co-op：白天实习，晚上上课，不需要暂停学业。Co-op也要自己努力，学校只会给提供工作的机会，投简历和面试都要自己完成。例如：Co-op MBA按照学校的计划就是需要暂停学习1年出去实习。等实习完了再回学校上课。
 - 实习工资：工资绝大部分由政府直接提供。一般来说工资和刚入职的员工差不多，即使偏低也不会低于student的最低工资标准（注4）。
 - 根据study permit上的要求，每周最多工作20小时（这条执行得非常不严格，一般企业都会让你工作40个小时，领40个小时的工资），不用再申请其它工作签证。如果study permit上没写，则不允许在校外实习。Co-op学生本身允许全职工作，不受这个约束。
 - 学校的招聘公告栏里可以找到intern和Co-op的信息 https://www.oscarplusmcmaster.ca/myAccount/jobPostings/general/postings.htm 
