@@ -95,13 +95,46 @@
 
 附
 ------------------------------
-| Hamilton主要公寓的位置：
-| https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
-| 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
-| 其中黄色的气球代表bachelor或只有1个bedroom的apt，蓝色的气球代表最多有2个bedroom的apt，紫色的气球代表最多有3个或3个以上bedroom的apt。
+1. Hamilton主要公寓的位置：
+
+ | https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
+ | 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
+ | 黄色的气球代表bachelor或只有1个bedroom的apt
+ | 蓝色的气球代表最多有2个bedroom的apt
+ | 紫色的气球代表最多有3个或3个以上bedroom的apt。
 
 .. raw:: html
 
     <div align="center">
       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1s63uCVqMjFtSJkFfFeNmFa9kGJE" width="640" height="480"></iframe>
     </div>
+
+2. 比较有特色的apartment：
+
+- 981 & 1001 Main St W
+
+ | 离学校最近的高层公寓。有同学叫它们“白楼”。其实它们并不是白色的。
+ | 这两个公寓算是Zone 1里最陈旧的公寓之一了。所以价格不是很高，尤其是3人间。
+
+- 191 Main St W
+
+ | 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
+ | 它只有单人间。价格需要发邮件咨询。
+
+- West Village Suites （1686 Main St W）
+
+ | 这个公寓是Zone 1里最新的公寓之一，它提供1人~5人间不等的户型。
+ | 这个公寓是按房间出租，所以租之前不需要找舍友。但带来的问题就是你不知道现在租客的情况和未来租客的情况。
+ | 这个公寓也提供家具的出租。貌似一套家具几十加元一个月。所以不想买家具的同学可以租他们提供的家具。
+ | 当然价格也非常昂贵，最便宜的5人间，每个卧室也得五六百加元一个月。2人间基本每个卧室每月都要1千加元。
+
+- 200 Bay St S
+
+ | 大家都叫它Bay 200。它是Hamilton市中心比较新的高档的公寓。
+ | 除了少部分房型是跃层外，其它所有都是错层的结构。
+ | 有公共的健身房。
+
+- 150 Main St W
+
+ | Hamilton最贵的公寓，最贵的2室一厅竟然要$3000+/月。
+ | 它隔壁的140 Main是Hamilton第二贵的公寓。
