@@ -83,7 +83,7 @@
 
  | ①让房东多发些图片。 
  | ②询问群里的学长学姐，看他们是否了解。 
- | ③接手马上要毕业学长学姐房子，这样最稳妥。 
+ | ③接手马上要毕业学长学姐房子，这样最稳妥。如果接手apt，则可以按之前的价格继续租下去，避免公寓管理员租给新人时涨房租。
 
 6. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。如果和房东商量终止，最好有终止的协议。 
 7. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
@@ -99,9 +99,9 @@
 
  | https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
  | 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
- | 黄色的气球代表bachelor或只有1个bedroom的apt
- | 蓝色的气球代表最多有2个bedroom的apt
- | 紫色的气球代表最多有3个或3个以上bedroom的apt。
+ | ①黄色的气球代表bachelor或只有1个bedroom的apt
+ | ②蓝色的气球代表最多有2个bedroom的apt
+ | ③紫色的气球代表最多有3个或3个以上bedroom的apt
 
 .. raw:: html
 
@@ -109,7 +109,10 @@
       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1s63uCVqMjFtSJkFfFeNmFa9kGJE" width="640" height="480"></iframe>
     </div>
 
+
 2. 比较有特色的apartment：
+
+ （以下的公寓只是比较有特点，并不是强烈推荐的意思）
 
 - 981 & 1001 Main St W
 
