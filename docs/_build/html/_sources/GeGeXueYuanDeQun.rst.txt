@@ -12,14 +12,14 @@
 | 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
 | 17级 微信群：请联系17-MBA-张然
 
-| ③W Booth (MEEI+MEPP+MED) 
+| ③W Booth (MEEI+MEPP+MED+MTEI) 
 | 15级 QQ群：368774358 
 | 16级 微信群：请联系16-MEEI-张宸赫
 
-| ④ME 
+| ④Mechanical Engineering 
 | QQ群：101378940 
 
-| ⑤Civil 
+| ⑤Civil Engineering 
 | QQ群：287385782 
 
 | ⑥Mfin 
@@ -33,5 +33,3 @@
 | 麦马红枫（CSC公派群）QQ： 54015237 
 | McMaster PhD交流群QQ： 438996754 
 | Girls&GuysWhoCode 微信群：请联系15-ECE-Huawei
-
-| ——感谢14-ECE-赵伟提供
