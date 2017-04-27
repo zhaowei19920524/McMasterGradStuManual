@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'McMasterGradStuManual'
-copyright = '2016, Wei Zhao'
+copyright = '2017, Wei Zhao'
 author = 'Wei Zhao'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -101,6 +101,9 @@ html_theme = 'default'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_sidebars = {
+   '**': ['localtoc.html', 'globaltoc.html', 'searchbox.html'],
+}
 
 # -- Options for HTMLHelp output ------------------------------------------
 
