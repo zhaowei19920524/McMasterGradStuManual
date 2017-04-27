@@ -9,6 +9,13 @@ So when you update code. First push to staging, readthedocs will automatically c
 
 # Development guide for Collaborators
 ## 0. first time usage
+### 1. Install Python
+### 2. Install Sphinx
+```
+pip install sphinx sphinx-autobuild
+```
+
+### 3. Clone the project
 Clone the whole project to your disk, create a new branch called staging
 ```
 git clone https://github.com/zhaowei19920524/McMasterGradStuManual
