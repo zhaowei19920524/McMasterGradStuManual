@@ -119,6 +119,7 @@
  | ①黄色的气球代表bachelor或只有1个bedroom的apt
  | ②蓝色的气球代表最多有2个bedroom的apt
  | ③紫色的气球代表最多有3个或3个以上bedroom的apt
+ | 若有失效的链接请及时与14-ECE-赵伟联系。
 
 .. raw:: html
 
