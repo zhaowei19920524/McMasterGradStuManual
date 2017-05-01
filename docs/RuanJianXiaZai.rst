@@ -23,7 +23,7 @@
 | 1.Windows 10 education 
 | McMaster已经为学生购买相应授权，每个学生都能得到一个正版的Windows 10 education的序列号，education版和Pro版的功能基本一致。具体方法，请查看以下链接里的相关内容 http://hihamilton.com/forum.php?mod=viewthread&tid=1604&extra= 
 | 2.Windows 10 Home and Pro 
-| ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jul_2016_x64_dvd_9056935.iso|4347183104|35EA5DB0F3BB714F5CE0740FB89D82D1|/
+| ed2k://|file|en_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10189288.iso|4334315520|2F851DF742749C9AE7325C373A3C499A|/
 
 | WinRAR 
 | 官方网站：http://rarlab.com/
