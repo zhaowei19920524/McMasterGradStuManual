@@ -5,17 +5,18 @@ McMaster研究生新生手册
 1. master: Production, build for http://mcmaster.readthedocs.io/en/latest/
 2. staging: Test before Production, build for http://mcmaster.readthedocs.io/en/staging/
 
-So when you update code. First push to staging, readthedocs will automatically compile the code (you can look at the compile process in https://readthedocs.org/projects/mcmaster/builds/). It will show you the result in http://mcmaster.readthedocs.io/en/staging/ . If everything is Okay, make a pull request to merge staging into master. readthedocs will compile http://mcmaster.readthedocs.io/en/latest/ .
+So when you update code. First push to staging branch, readthedocs will automatically compile the code (you can look at the compile process in https://readthedocs.org/projects/mcmaster/builds/). It will show you the result in http://mcmaster.readthedocs.io/en/staging/ . If everything is Okay, make a pull request to merge staging into master. readthedocs will compile http://mcmaster.readthedocs.io/en/latest/ .
 
 # Development guide for Collaborators
 ## 0. first time usage
-### (1) Install Python
-### (2) Install Sphinx
+### 0.1 Install Python
+### 0.2 Install Sphinx
 ```
 pip install sphinx sphinx-autobuild
 ```
+In Linux and macOS, you might need sudo.
 
-### (3) Clone the project
+### 0.3 Clone the project
 Clone the whole project to your disk, create a new branch called staging
 ```
 git clone https://github.com/zhaowei19920524/McMasterGradStuManual
@@ -24,7 +25,7 @@ git checkout -b staging
 ```
 
 ## 1. update your local repo first before adding any content!!!
-Just in case other people have updated branch on github. So update your local repo
+Just in case other people have updated the branch on github. So update your local repo
 ```
 git chekcout master
 git pull origin master
@@ -52,12 +53,12 @@ gitt push origin staging
 ```
 
 ## 4. check result and merge to master branch
-you can view the comple process: https://readthedocs.org/projects/mcmaster/builds/
+you can view the compile process: https://readthedocs.org/projects/mcmaster/builds/
 
 view the result: http://mcmaster.readthedocs.io/en/staging/
 
 If it looks Okay then make a pull request from staging to master, then merge the code.
 
-**I recommand you guys make a code review or call me before merge into master**
+**I highly recommand you guys to make a code review or contact me before merging into master**
 
 Once merged, the result will show in: http://mcmaster.readthedocs.io/en/latest/
