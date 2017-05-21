@@ -47,6 +47,8 @@ Welcome to McMaster University!
    transition_week
    XueXiaoemailSheZhi
    McMasterChengJiDuiYingBiao
+   zaiduzhengming
+   chengjidan
 
 .. toctree::
    :maxdepth: 1
