@@ -1,4 +1,4 @@
-在读证明
+McMaster在读证明
 ============
 在读证明的开具与国内略有不同，这里称之为Enrolment Verification。一般通 `Mosaic/Student Centre`_ 即可办理。
 
