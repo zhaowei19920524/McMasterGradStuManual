@@ -6,7 +6,7 @@
 | http://www.mcmaster.ca/bms/student/SAC_payment_methods.html
 | 各program的学费可以查这里 
 | http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
-| MBA学费：http://mbarecruit.degroote.mcmaster.ca/financial-matters/tuition/
+| MBA学费：http://mbastudent.degroote.mcmaster.ca/fees-and-scholarships/mba-tuition-and-supplemental-fees/
 | 对于2016 Fall入学的新生，付学费截止日期2016年9月1日。迟交罚$35（貌似今年不收）。9月29日之后开始收利息。 
 | http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
 

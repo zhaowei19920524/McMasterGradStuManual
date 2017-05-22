@@ -60,7 +60,7 @@ Welcome to McMaster University!
    TuShuGuan
    GGWC
    TanQinQianZheng
-   ZaiDuZhengMing
+   McMasterZaiDuZhengMing
    McMasterChengJiDan
 
 .. toctree::
