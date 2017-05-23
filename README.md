@@ -49,7 +49,7 @@ Push to staging branch!!!
 ```
 git add -u
 git commit -m "[why you change the code]"
-gitt push origin staging
+git push origin staging
 ```
 
 ## 4. check result and merge to master branch
