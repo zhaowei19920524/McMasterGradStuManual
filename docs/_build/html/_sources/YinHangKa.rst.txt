@@ -79,8 +79,7 @@
 
 附
 --------------------------
-| Hamilton主要银行的位置
-| https://drive.google.com/open?id=1KyRhzQqvEHVdgZhcaNrrdFLKeVE&usp=sharing
+Hamilton主要银行的位置
 
 .. raw:: html
 

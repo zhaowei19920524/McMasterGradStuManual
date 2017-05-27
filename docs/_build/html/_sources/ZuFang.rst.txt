@@ -124,7 +124,6 @@
 ------------------------------
 1. Hamilton主要公寓的位置（Google地图，国内的同学可能需要翻墙访问）：
 
- | https://drive.google.com/open?id=1s63uCVqMjFtSJkFfFeNmFa9kGJE&usp=sharing
  | 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
  | ①黄色的气球代表bachelor或只有1个bedroom的apt
  | ②蓝色的气球代表最多有2个bedroom的apt

@@ -48,7 +48,6 @@ Canada主要超市
 
 Google地图的位置
 ------------------------------------------------------------
-| https://drive.google.com/open?id=1a6AjLLdzg55eOPqf5nBoteIO_pY&usp=sharing
 
 .. raw:: html
 
