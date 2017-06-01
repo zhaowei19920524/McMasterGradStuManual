@@ -71,7 +71,7 @@
 | http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
 | 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。
 | 也有一些产品是不用交税的：
-| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/txbl/xmptgds-eng.html
+| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/stps/cllct-eng.html#type
 | 大体上跟我们相关的有：
 
  | 1. 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品。
@@ -80,6 +80,28 @@
 | 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。
 | 如果商品可以退货，那么交的税也会一起退回来。
 | HST对于刚来的Canada的同学来说可以退一次，有且只有一次。大概几百加元。
+
+理发店
+--------------------------
+在Canada理发的时候洗头是需要额外付费的，所以理发店默认顾客理发前和理发后都不需要洗头。比较推荐的有以下理发店：
+
+1. First Choice
+
+  - 加拿大一家很大的美容美发连锁店。
+  - http://www.firstchoice.com/
+  - 成人单剪$16.45。
+
+2. 华人开的理发店（费用基本和西人洗发店差不多，可能会便宜几加元）
+
+  - Olivia Hair Salon：93 James St N, Hamilton, ON L8R 2K6
+  - Amy's Hair & Nails（发艺轩）：76 James St N, Hamilton, ON L8R 2K5
+  - Family Hair Cut（斑马）：Unit 1, 222 King St E, Hamilton, ON L8N 1B5
+
+.. raw:: html
+
+    <div align="center">
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CdZTpkU3k56HCJTq2-Di8Ct3mrc" width="640" height="480"></iframe>
+    </div>
 
 各大论坛网站
 --------------------------------------
