@@ -61,8 +61,8 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：需要来Canada之后再开银行账户，请大家联系群里的13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在学校东边的CIBC上班，现在在Scotiabank任Senior Financial Advisor，大家可以和她预约一下开通一张Scotiabank的银行卡。Daisy学姐的普通话非常标准。
    
-   - 不涉及开户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
-   - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
+  - 不涉及开户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
+  - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
 
 
 五、比较有特点的银行卡
@@ -70,24 +70,24 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 
 1. RBC学生账户
 
-   - 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000额度。不需要押金。
-   - http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
+- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000额度。不需要押金。
+- http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
 
 2. CIBC
 
-   - 学生账户：无transaction 限制，无月费
-   - Tim Hortons 信用卡
+- 学生账户：无transaction 限制，无月费
+- Tim Hortons 信用卡
 
-      - 刷卡可以换Tim Hortons咖啡甜点店的积分。每周都有优惠活动
-      - https://www.cibc.com/en/personal-banking/credit-cards/retail-rewards-cards/tim-hortons-rewards-card.html
+  - 刷卡可以换Tim Hortons咖啡甜点店的积分。每周都有优惠活动
+  - https://www.cibc.com/en/personal-banking/credit-cards/retail-rewards-cards/tim-hortons-rewards-card.html
 
 3. ScotiaBank
 
-   - 学生账户：无transaction 限制，无月费。
-   - Scene 信用卡
+- 学生账户：无transaction 限制，无月费。
+- Scene 信用卡
    
-      - 刷卡得积分，可以免费看电影
-      - http://www.scotiabank.com/ca/en/0,,91,00.html
+  - 刷卡得积分，可以免费看电影
+  - http://www.scotiabank.com/ca/en/0,,91,00.html
 
 附
 --------------------------
