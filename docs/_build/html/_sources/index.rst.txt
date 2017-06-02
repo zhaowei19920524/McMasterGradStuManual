@@ -98,10 +98,11 @@ Welcome to McMaster University!
 
 贡献与反馈：
 -----------------------------
-| 想贡献自己的内容？请联系14-ECE-赵伟。
-| 如有好的意见和建议，欢迎您的 `反馈`_ 。
+- 想贡献自己的内容？请联系14-ECE-赵伟。
+- 如有好的意见和建议，欢迎您的 `反馈`_ 。
+- 目前辛勤的贡献者有：14-ECE-赵伟、16-Chem-孟凡旺、15-ECE-Huawei、13-MFin-Daisy Ding。
 
-| 本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
+本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
 
 .. _hihamilton.com: http://hihamilton.com/
 .. _www.maccssa.org: http://www.maccssa.org/
