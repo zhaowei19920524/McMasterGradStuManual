@@ -18,7 +18,7 @@
 ---------------------------------------------------
 1. 清offer上的condition，见 `conditional offer`_ 。
 2. 领student card，在GH212或院里小秘（administrator assistant）办公室领。
-3. 领公交卡（HST transit pass）：凭student card，去campus store领（非MBA学生）。
+3. 领公交卡（HST transit pass）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
 4. 其它特殊的手续，比如lab门卡，TA相关的手续等等，请询问小秘。
 5. 可选的手续：
 
@@ -41,3 +41,4 @@
 .. _SIN申请: SINShenQing.html
 .. _银行卡: YinHangKa.html
 .. _办理手机电话: BanLiShouJiHeDianHua.html
+.. _Bus及路线: BusJiLuXian.html

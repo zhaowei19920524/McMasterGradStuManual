@@ -89,6 +89,8 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
   - 刷卡得积分，可以免费看电影
   - http://www.scotiabank.com/ca/en/0,,91,00.html
 
+——感谢13-MFin-Daisy Ding提供
+
 附
 --------------------------
 Hamilton主要银行的位置
@@ -98,5 +100,3 @@ Hamilton主要银行的位置
   <div align="center">
       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KyRhzQqvEHVdgZhcaNrrdFLKeVE" width="640" height="480"></iframe>
   </div>
-
-——感谢13-MFin-Daisy Ding提供
