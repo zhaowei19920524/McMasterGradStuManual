@@ -15,7 +15,7 @@ Canada床的标准
 -----------------------------------
 | https://en.wikipedia.org/wiki/Bed_size#Canada_and_United_States
 | 一般APT里没有家居，床和床垫都需要自己买。北美的床垫和国内的习惯不一样，这边不用棕榈床垫，而是统一用席梦思床垫。
-| 对于我们学生来说，主要有2种：
+| 对于我们学生来说，主要有3种：
 
  | ①Twin/Single：单人床
  | ②Queen/Double：双人床
