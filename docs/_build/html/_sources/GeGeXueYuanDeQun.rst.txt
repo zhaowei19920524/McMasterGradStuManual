@@ -6,36 +6,40 @@
 
 请大家依旧随时关注新生群里的消息。有些最新的消息和公告可能不会即时传达给各个学院的群里。
 
-1. ITB(CAS+ECE)
+- ITB(CAS+ECE)
 
-- QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
+  - QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
 
-2. MBA
+- MBA
 
-- QQ群：371421802 
-- 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
-- 17级 微信群：请联系17-MBA-张然
+  - QQ群：371421802 
+  - 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
+  - 17级 微信群：请联系17-MBA-张然
 
-3. W Booth (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
+- W Booth (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
 
-- 15级 QQ群：368774358 
-- 16级 微信群：请联系16-MEEI-张宸赫
+  - 15级 QQ群：368774358 
+  - 16级 微信群：请联系16-MEEI-张宸赫
 
-4. Mechanical Engineering
+- Mechanical Engineering
 
-- QQ群：101378940 
+  - QQ群：101378940 
 
-5. Civil Engineering
+- Civil Engineering
 
-- QQ群：287385782 
+  - QQ群：287385782 
 
-6. Mfin 
+- Mfin 
 
-- 13级 QQ群：57925102
-- 14级 QQ群：95813985
-- 15级 QQ群：478977527
-- 16级 QQ群：499347968
-- 17级 QQ群：606792601，微信群：请联系17-MFin-窦祎楠
+  - 13级 QQ群：57925102
+  - 14级 QQ群：95813985
+  - 15级 QQ群：478977527
+  - 16级 QQ群：499347968
+  - 17级 QQ群：606792601，微信群：请联系17-MFin-窦祎楠
+
+- Health Science
+
+  - 微信群：请联系17-HP-王琪或14-HRM-亚平
 
 欢迎大家推荐其它有用的群： 
 
