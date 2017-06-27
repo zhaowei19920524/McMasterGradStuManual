@@ -126,6 +126,11 @@
   - 50 Dundurn St. South L8P 4W3
   - (905)570-1388
 
+- Mark's Chinese Food & Tavern（中华酒家）：点菜制，外卖
+
+  - 468 King St W, Hamilton, ON L8P 1B8
+  - (905)527-7621
+
 - 美味栈粤菜馆（Crystal Dynasty Chinese Restaurant ）：点菜制
 
   - 94 Cannon St W, Hamilton, ON L8R 2B6
