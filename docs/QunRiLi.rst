@@ -1,8 +1,11 @@
 ﻿群日历
 =============================
-新生来Canada组队、学校重要的时间点都会标记在群日历上
+新生来Canada组队、学校重要的时间点都会标记在群日历上，群日历地址请看群公告。
 
-https://teamup.com/kssmqm3xs4mqhh9isj
+手机app
+
+- Android：https://play.google.com/store/apps/details?id=com.teamup.teamup
+- iOS：https://itunes.apple.com/us/app/teamup-calendar/id1065897968
 
 使用说明：
 
