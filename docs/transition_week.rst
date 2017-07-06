@@ -1,5 +1,11 @@
 ﻿transition week for Business Program
 =================================================================================
-（本页是2016 Fall学期，2017 Fall尚未出来，下面仅供参考）
+1. MFin
 
-“we will have transition this year - I don't have the exact dates as the Program Director and myself are going to try to meet this week regarding this - It won't start before August 22nd.”	——Sandra
+As for Orientation week August 21st to August 25th there will be an English culture class which is strongly recommended for students to attend. It will be okay to miss the first day of this class. In regards to courses, the math workshop will start on August 28th which is mandatory for all students. During this week we will also have unique workshops, tours and a group trip.
+
+http://mfin.degroote.mcmaster.ca/program-info/requirements/
+
+2. MBA
+
+http://mbarecruit.degroote.mcmaster.ca/after-youre-accepted/orientation-programs/pre-mba-program/pre-mba-program-info/
