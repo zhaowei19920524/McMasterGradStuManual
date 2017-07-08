@@ -29,13 +29,13 @@
 -------------------------------------------- 
 | 每个公司都有很多种套餐，需要根据自己的需要选择，比如你是上网多一些，还是电话多一些，还是大而全。
 | 具体的请参考各个公司的网站，在Plan里：
-| Fido: http://www.fido.ca （老用户推荐可以获得25刀话费奖励 http://www.fido.ca/consumer/whyfido/referafriend）
+| Fido: http://www.fido.ca
 | Rogers: http://www.rogers.com/web/Rogers.portal 
 | Telus: http://www.telus.com/ 
 | Bell：http://www.bell.ca/home/ 
 | Virgin：http://www.virginmobile.ca/en/home/index.html 
 | Chatr：http://www.chatrwireless.com/ 
-| wind：http://www.windmobile.ca/en/Pages/default.aspx 
+| Freedom：https://www.freedommobile.ca/
 | kodoo：http://koodomobile.com/index.shtml?region 
 | mobilicity：http://mobilicity.ca/ 
 
