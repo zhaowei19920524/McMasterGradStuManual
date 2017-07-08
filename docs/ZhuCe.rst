@@ -1,9 +1,6 @@
 ﻿注册
 ============
 .. attention::
-   **本页是2016 Fall, 2017 Winter, Summer学期，2017 Fall尚未出来，下面仅供参考**
-
-.. attention::
    **2017 Fall online注册：7月25日，学校一定会发邮件通知，陆老师也会在群里提醒大家**
 
 | In order to receive your graduate support payments (scholarship, bursaries, TA pay) on the first pay date in mid-September, you *must* have completely enrolled by August 29, 2016. 

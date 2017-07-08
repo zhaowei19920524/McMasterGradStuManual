@@ -29,3 +29,12 @@
 
 - 由群管理员维护，大家不要自行修改
 - 如果大家发现有新的比较重要的日期，可以跟管理员说，我们及时加到那个日历里
+
+高级使用说明
+------------------------------
+1. 把部分日历加到你自己的日历里
+
+- 如果你自己经常用Google calendar、outlook calendar、iCal等等，你可以把群日历里某一个子日历的所有事件一次性加到你自己的日历里。
+- http://calendar.teamup.com/kb/subscribe-teamup-calendar-feed-from-other-calendars/
+- webcal协议可以把群日历里日期的变动实时反映到你自己的日历上。
+- 若不明白请在群里询问。
