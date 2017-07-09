@@ -1,19 +1,32 @@
 ﻿机场到学校
 ============================
-新生在Pearson机场下飞机后有如下方法到Hamilton ：
+新生在Pearson机场下飞机后有如下方法到Hamilton。
+
+如果在Pearson机场T3航站楼下飞机的同学，首先请坐机场的shuttle train到T1航站楼。
+
+T1航站楼的的地图：https://www.torontopearson.com/maps/
 
 1. Go bus长途汽车
 
- | Go bus 40路，这个貌似一天24小时都有车，大家记得准备好现金（不少于$20），go bus不能刷信用卡。 
- | 起点：Pearson Airport。 下车：Main St. W. @ Paisley, Hamilton 
- | 大家用机场WiFi，使用Google地图，查好上车时间。 
- | 下车地点在McMaster university东边，可以做Hamilton公交5路到学校（在下车地点路对面坐车）。费用$3.00，同样准备好现金，不找零，不能使用信用卡。至于到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay 
+  - Go bus 40路，这个貌似一天24小时都有车，大家记得准备好现金（不少于$20），go bus不能刷信用卡。 
+  - 起点：Pearson Airport。 下车：Main St. W. @ Paisley, Hamilton 
+  - 大家用机场WiFi，使用Google地图，查好上车时间。
+  - 在Pearson机场T1航站楼Ground Level走出机场。机场外有P、Q、R、S几个停车点，Q停车点附近找一个绿色的GO的站牌就是Go Bus的车站。那就是上车的地点。（见下图）
+  - 其中有34和40两种Go Bus，找40路并且是Hamilton Go Center方向。不要坐反了，不然就去多伦多北边了。Go bus车头上边有一个LED的屏幕，会显示去往的方向。如果不放心上车买票前可以询问司机。
+  - 下车地点在McMaster University东边，可以坐Hamilton公交5路到学校（在下车地点路对面坐车）。费用$3.00，同样准备好现金，不找零，不能使用信用卡。至于到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay 
+  - 如果下车后不熟悉路，也可以找这边的学长学姐去Go bus下车的地方接一下。
+
+.. image:: /resource/gobus40.jpg
+   :align: center
 
 2. 接机
 
- | 这个最方便，不过要支付$50~100的费用。如果使用此方法，请务必在国内联系好。并且准备好现金，接机的是McMaster的同学。可以保证送到住处。
- | 寻找接机的同学，请看群公告。 
+  - 在Pearson机场T1航站楼Level 1走出机场，机场外有A~F几个停车点，和接机的同学约好，不然很难找到。
+  - 这种方法去Hamilton最方便，不过要支付$50~100的费用。如果使用此方法，请务必在国内联系好。并且准备好现金，接机的是McMaster的同学。可以保证送到住处。一次接2个同学可以有优惠。
+  - 寻找接机的同学，请看群公告。 
 
-3. Uber 
+3. Uber
+
+  - https://www.uber.com/en-CA/
 
 注：新生第一次来Canada下飞机到出机场需要至少一个半小时的时间。希望大家安排好时间。
