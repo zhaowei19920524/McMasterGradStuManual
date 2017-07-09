@@ -20,6 +20,7 @@
 
   - 15级 QQ群：368774358 
   - 16级 微信群：请联系16-MEEI-张宸赫
+  - 17级 微信群：请联系17-MTEI-刘润杰
 
 - Mechanical Engineering
 
