@@ -37,10 +37,16 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 三、家庭宽带
 -------------------------------------------------------
-| Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有altima, start.ca，CIK等等。
-| Bell的网最稳定，价格也相对较高。Rogers的网也非常稳定，且已经完全为家庭用户提供了ipv6的支持。小公司一般是先从大的公司购买宽带，再卖给小的家庭，优惠幅度极大，但是网络时常不稳定，网速波动较大。
-| Bell每年开学有个对学生优惠的活动。大家可以在bell.ca上关注一下。
-| 其它便宜的Internet，大家可以去51.ca（加国无忧网）搜索一下。打开 http://www.51.ca/service/ ， 找到“上网电视“。里面有很多优惠活动。大家可以放心去打电话办理，至今没听说诈骗的情况。
+- Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有altima, start.ca，CIK等等。小公司一般是先从大的公司购买宽带，再卖给小的家庭，优惠幅度极大，但是网络时常不稳定，网速波动较大。
+
+  - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
+  - Rogers：https://residential.rogers.com/ontario/internet 网也非常稳定，且已经完全为家庭用户提供了ipv6的支持。
+  - altima：https://www.altimatel.com/shop/internet
+  - start.ca：https://www.start.ca/
+  - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
+  - Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以找14-ECE-赵伟要优惠码（promotion code），这样购买moderm可以便宜$10，并且没有安装费。
+
+- 其它便宜的Internet，大家可以去51.ca（加国无忧网）搜索一下。打开 http://www.51.ca/service/ ， 找到“上网电视“。里面有很多优惠活动。大家可以放心去打电话办理，至今没听说诈骗的情况。
 
 注
 --------------------
