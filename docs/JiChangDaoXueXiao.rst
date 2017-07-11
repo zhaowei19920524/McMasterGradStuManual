@@ -9,7 +9,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
   - Go bus 40路，这个一天24小时都有车，上车时间是每个整点过35分（除了凌晨3:35没有）。大家记得准备好现金（不少于$20），go bus不能刷信用卡。 
   - 起点：Pearson Airport。 下车：Main St. W. @ Paisley Ave. S., Hamilton 
   - 大家用机场WiFi，使用Google地图，查好上车时间。
-  - 如果在Pearson机场T3航站楼下飞机的同学，首先请坐机场的shuttle train到T1航站楼。https://www.torontopearson.com/en/link/
+  - 如果在Pearson机场T3航站楼下飞机的同学，首先请坐机场的Terminal Link train到T1航站楼。https://www.torontopearson.com/en/link/
   - 在Pearson机场T1航站楼Ground Level走出机场。机场外有P、Q、R、S几个停车点，P和Q停车点之间的某个地方找一个绿色的GO的站牌就是Go Bus的车站。那就是上车的地点。（见下图）
   - 其中有34和40两种Go Bus，先到Platform Q4找40路并且是Hamilton Go Center方向。不要坐反了，不然就去多伦多北边了。Go bus车头上边有一个LED的屏幕，会显示去往的方向。如果不放心上车买票前可以询问司机。
   - 下车地点在McMaster University东边，可以坐Hamilton公交5路到学校（在下车地点路对面坐车）。费用$3.00，同样准备好现金，不找零，不能使用信用卡。凌晨2点到5点是没有Hamilton市内公交车的。至于到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay 

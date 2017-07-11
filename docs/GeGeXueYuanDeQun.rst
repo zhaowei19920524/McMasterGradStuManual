@@ -30,7 +30,7 @@
   - 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
 
-- Mfin 
+- MFin 
 
   - 13级 QQ群：57925102
   - 14级 QQ群：95813985
@@ -51,3 +51,83 @@
 - 麦马红枫（CSC公派群）QQ： 54015237 
 - McMaster PhD交流群QQ： 438996754 
 - Girls&GuysWhoCode 微信群：请联系15-ECE-Huawei
+
+McMaster常见学院及简称
+----------------------------------------------------
+以下列举了McMaster常见的学院及简称，希望大家在群ID的学院按照下列各式书写。部分学院暂无简称，如有新生需要，请和14-ECE-赵伟商量，或写你的学院的全称。
+
+- Engineering
+
+  - Electrical & Computer Engineering：ECE
+  - Computing & Software：CAS
+  - Chemical Engineering：ChemEng
+  - Civil Engineering：Civil
+  - Engineering Physics：EngPhys
+
+    - Nano-and Micro- Device Engineering：NanoEng
+    - Nuclear Engineering：NE
+    - Photonics：Photonics
+  - Materials Science & Engineering：MSE
+  - Mechanical Engineering：ME
+  - Biomedical Engineering：BME
+  - Computational Science & Engineering：CSE
+  - W Booth School of Engineering Practice and Technology：WBooth
+
+    - Engineering Design：MED
+    - Engineering and Public Policy：MEPP
+    - Engineering Entrepreneurship and Innovation：MEEI
+    - Technology Entrepreneurship and Innovation：MTEI
+    - Manufacturing Engineering：MEME或Manufacturing
+
+- DeGroote School of Business
+
+  - Master of Finance：MFin
+  - Master of Business Administration：MBA
+  - eHealth：eHealth
+  - PhD Program
+
+    - Finance：DFin
+    - Business Administration：DBA
+    - Accounting：ACCT
+    - Information Systems：IS
+    - Health Management、Management of Organizational Behaviour and Human Resources、Management Science、Marketing：暂无
+
+- Science
+
+  - Biochemistry & Biomedical Sciences：BMS
+  - Biology：Biology或bio
+  - Chemistry & Chemical Biology：chem
+  - Geography & Earth Sciences：Geo
+  - Interdisciplinary Science：ISCI
+  - Kinesiology：kin
+  - Mathematics & Statistics：math或stat
+  - Physics & Astronomy：Astronomy
+  - Psychology, Neuroscience & Behaviour：Psychology
+
+- Health Sciences
+
+  - Michael G. DeGroote School of Medicine：med
+  - Nursing：Nursing 
+  - Rehabilitation Science：Reha
+  - Anesthesia：Anesthesia
+  - Biochemistry & Biomedical Sciences：biochem
+  - Health Research Methods, Evidence, and Impact：HRM
+  - Family Medicine：fammed
+  - Medicine：Medicine
+  - Obstetrics & Gynecolog：obgyn
+  - Oncology：Oncology
+  - Pathology & Molecular Medicin：path
+  - Pediatrics：Pediatrics
+  - Psychiatry & Behavioural Neurosciences：Psychiatry
+  - Radiology：Radiology
+  - Surgery：Surgery
+
+- Humanities
+
+  - 暂无
+
+- Social Sciences：social
+
+- Arts
+
+  - 暂无
