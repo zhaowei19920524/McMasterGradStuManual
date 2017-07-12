@@ -1,5 +1,5 @@
-﻿各个学院的群
-==================
+﻿各个学院的群及学院简称
+===================================================
 鼓励大家为自己的学院建立相应的交流群，建好后请和14-ECE-赵伟联系。
 
 大家可以在自己学院的群里讨论比较专业的问题，加群请写明验证消息，就是群ID。
@@ -106,21 +106,18 @@ McMaster常见学院及简称
 
 - Health Sciences
 
-  - Michael G. DeGroote School of Medicine：med
-  - Nursing：Nursing 
-  - Rehabilitation Science：Reha
-  - Anesthesia：Anesthesia
-  - Biochemistry & Biomedical Sciences：biochem
-  - Health Research Methods, Evidence, and Impact：HRM
-  - Family Medicine：fammed
-  - Medicine：Medicine
-  - Obstetrics & Gynecolog：obgyn
-  - Oncology：Oncology
-  - Pathology & Molecular Medicin：path
-  - Pediatrics：Pediatrics
-  - Psychiatry & Behavioural Neurosciences：Psychiatry
-  - Radiology：Radiology
-  - Surgery：Surgery
+  - Biochemistry：biochem
+  - Biomedical Discovery & Commercialization：BDC
+  - Chemical Biology：chembio
+  - eHealth：eHealth
+  - Global Health：Global Health
+  - Health Policy：HP
+  - Health Management：暂无
+  - Neuroscience：MiNDS
+  - Health Research Methodology：HRM
+  - Medical Sciences：medsci
+  - Nursing：Nursing
+  - Child Life and Pediatric Psychosocial Care：childlife
 
 - Humanities
 

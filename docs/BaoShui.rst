@@ -13,7 +13,7 @@
 
 4. T5 表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。
 5. 房租： 在安省租房，对低收入人群有部分退税，按收入及租金高低，年度退税最高140左右 
-6. GST/HST 退税： 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关。 所以并不需要以往的购物凭证。对于来Canada的国际学生，GST/HST只能申报一次，有且只有一次。
+6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关。 所以并不需要以往的购物凭证。对于来Canada的国际学生，GST/HST可以申报一次。
 
 | 以上几项退税总计，2013年每位学生最高可退680左右。 
 
