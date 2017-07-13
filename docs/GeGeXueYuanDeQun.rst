@@ -54,7 +54,7 @@
 
 McMaster常见学院及简称
 ----------------------------------------------------
-以下列举了McMaster常见的学院及简称，希望大家在群ID的学院按照下列各式书写。部分学院暂无简称，如有新生需要，请和14-ECE-赵伟商量，或写你的学院的全称。
+以下列举了McMaster常见的学院及简称，希望大家把群ID的学院按照下列各式书写。部分学院暂无简称，如有新生需要，请和14-ECE-赵伟商量，或写你的学院的全称。
 
 - Engineering
 
@@ -84,10 +84,8 @@ McMaster常见学院及简称
   - Master of Finance：MFin
   - Master of Business Administration：MBA
   - eHealth：eHealth
-  - PhD Program
-
+  - Doctor of Business Administration：DBA
     - Finance：DFin
-    - Business Administration：DBA
     - Accounting：ACCT
     - Information Systems：IS
     - Health Management、Management of Organizational Behaviour and Human Resources、Management Science、Marketing：暂无
@@ -119,12 +117,8 @@ McMaster常见学院及简称
   - Nursing：Nursing
   - Child Life and Pediatric Psychosocial Care：childlife
 
-- Humanities
-
-  - 暂无
+- Humanities：暂无
 
 - Social Sciences：social
 
-- Arts
-
-  - 暂无
+- Arts：暂无
