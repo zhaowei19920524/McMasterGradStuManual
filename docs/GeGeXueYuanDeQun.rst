@@ -109,7 +109,7 @@ McMaster常见学院及简称
   - Biomedical Discovery & Commercialization：BDC
   - Chemical Biology：chembio
   - eHealth：eHealth
-  - Global Health：Global Health
+  - Global Health：暂无
   - Health Policy：HP
   - Health Management：暂无
   - Neuroscience：MiNDS
