@@ -89,7 +89,10 @@ McMaster常见学院及简称
     - Finance：DFin
     - Accounting：ACCT
     - Information Systems：IS
-    - Health Management、Management of Organizational Behaviour and Human Resources、Management Science、Marketing：暂无
+    - Health Management：暂无
+    - Management of Organizational Behaviour and Human Resources：暂无
+    - Management Science：暂无
+    - Marketing：暂无
 
 - Science
 
@@ -108,12 +111,17 @@ McMaster常见学院及简称
   - Biochemistry：biochem
   - Biomedical Discovery & Commercialization：BDC
   - Chemical Biology：chembio
-  - eHealth：eHealth
+  - Health Research Methods, Evidence, and Impact
+
+    - Public Health：PH
+    - Health Research Methodology：HRM
+    - Public Health & Preventive Medicine：PHPM
+    - Health Policy：HP
+    - eHealth：eHealth
+    - Graduate Diploma in Clinical Epidemiology：GDCE
   - Global Health：暂无
-  - Health Policy：HP
   - Health Management：暂无
   - Neuroscience：MiNDS
-  - Health Research Methodology：HRM
   - Medical Sciences：medsci
   - Nursing：Nursing
   - Child Life and Pediatric Psychosocial Care：childlife
