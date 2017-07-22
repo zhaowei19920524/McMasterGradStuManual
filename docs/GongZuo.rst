@@ -2,12 +2,12 @@
 ==========================================
 TA: Teaching Assistant 
 ---------------------------------
-助教，大体工作有lesson（上课），tutorior（辅导课），Answer（答疑），mark（改作业），lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。 
+助教，大体工作有lesson（上课），tutorior（辅导课），Answer（答疑），mark（改作业），lab（实验课）。新生第一学期TA由各个院的Administrative Assistant（小秘）随机安排，第二学期可以自己选。有的学院第一学期也可以自己选。
 
 比较特殊的有：
 
  - business学院：master学生不能选本院的TA，但PhD可以。 
- - ECE学院：如果offer上没写有TA，则不能优先选TA，只有等offer上写TA的同学选完还有剩余的名额才可以选。
+ - 其它学院：如果offer上没写有TA，则不能优先选TA，只有等offer上写TA的同学选完还有剩余的名额才可以选。
 
 如果本院的TA选不了，可以选其它学院的，不过要等其它学院选完，还有空余的名额才能选。 
 

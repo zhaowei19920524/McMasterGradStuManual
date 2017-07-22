@@ -90,7 +90,7 @@ McMaster常见学院及简称
     - Accounting：ACCT
     - Information Systems：IS
     - Health Management：暂无
-    - Management of Organizational Behaviour and Human Resources：暂无
+    - Management of Organizational Behaviour and Human Resources：OB&HR
     - Management Science：暂无
     - Marketing：暂无
 
