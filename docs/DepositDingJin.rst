@@ -1,4 +1,4 @@
-﻿deposit定金 for Business Program
+﻿Business deposit定金
 ========================================================
 
 | Mfin在接受offer是付定金，其它要求付定金的program如MBA在6月1日收定金。原因：Ontario规定上学定金最早提前60天收，金融是自负盈亏的项目，政府不资助，所以不受这条规定限制，accept offer时付定金。
