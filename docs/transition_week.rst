@@ -1,4 +1,4 @@
-﻿transition week for Business Program
+﻿Business transition week
 =================================================================================
 1. MFin
 
