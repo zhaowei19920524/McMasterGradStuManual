@@ -1,7 +1,7 @@
 ﻿注册
 ============
 .. attention::
-   **2017 Fall online注册：7月25日，学校一定会发邮件通知，陆老师也会在群里提醒大家**
+   **2017 Fall online注册：7月25日**
 
 | In order to receive your graduate support payments (scholarship, bursaries, TA pay) on the first pay date in mid-September, you *must* have completely enrolled by August 29, 2016. 
 | 有资助的学生必须在8月29日之前交材料。这样才能在9月收到资助，没有资助的学生不受这个影响，可以推迟到9月30日。
@@ -29,9 +29,9 @@
 | ②上面6项，必须要都完成。其中1 2 3 5可以在网上完成，4 6只能来McMaster之后完成。 
 | ③学校email会在注册后24~48小时内激活。 
 
-| 2016 Fall - 2017 Summer学年的学历可以在 `这里`_ 找到。
+| 2017 Fall - 2018 Summer学年的学历可以在 `这里`_ 找到。
 
 .. _gs.mcmaster.ca/academic-services/how-enroll: http://gs.mcmaster.ca/academic-services/how-enroll
-.. _这里: http://academiccalendars.romcmaster.ca/content.php?catoid=20&navoid=3579
+.. _这里: http://academiccalendars.romcmaster.ca/content.php?catoid=25&navoid=4674
 .. _选课: XuanKe.html
 .. _conditional offer: conditional_offer.html
