@@ -44,7 +44,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
   - altima：https://www.altimatel.com/shop/internet
   - start.ca：https://www.start.ca/
   - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
-  - Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以找14-ECE-赵伟要优惠码（promotion code），这样购买moderm可以便宜$10，并且没有安装费。
+  - Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由14-ECE-赵伟提供），这样购买moderm可以便宜$10，并且没有安装费。
 
 - 其它便宜的Internet，大家可以去51.ca（加国无忧网）搜索一下。打开 http://www.51.ca/service/ ， 找到“上网电视“。里面有很多优惠活动。大家可以放心去打电话办理，至今没听说诈骗的情况。
 
