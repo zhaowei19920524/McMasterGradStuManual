@@ -17,18 +17,26 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。这
 
 三、academically accredited course OR a placeholder course
 --------------------------------------------------------------------------------------------------------
-这个是enroll比较重要的一项，不管你那一学期有木有课，都要选一门课作为占位符。表示你还在你的program里。下面是方法：
+.. note::
+   
+   | Remember, all 3 terms need either a course or placeholder even if you will graduate before the terms are finished.  Otherwise, your tuition and all information will not be correct on the system.
+   | Also if you are on a leave you will also need to register.
+   | ——Cheryl（ECE小秘）
+
+这个是enroll比较重要的一项，不管你那一学期有木有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费。下面是方法：
 
 1. Go to enroll
 
- | select term - search course (if not taking a course place marker as was in your letter that you received from SGS for SGS 700 for full-time and 701 for part-time) 
- | Pick plan - click on shopping cart - then select term again 
+ | Add - select term - search course (if not taking a course place marker as was in your letter that you received from SGS for SGS 700 for full-time and 701 for part-time)
+ | The SGS 701 course no longer exits. SGS 700 now acts as a placeholder for both full-time and part-time students.
+ | Pick plan - click on shopping cart - then select term again
 
 2. Click on search 
 
- | Select course subject from there everythingshould come up. 
- | If you are picking SGS course please click on "S". After choosing course # "is exactly" after type in right hand box type 700 (what you are taking) Course Carrier should be graduate. 
- | After searching Select class 
+ | If you are picking SGS course please click on "S".
+ | After choosing course # "is exactly" after type in right hand box type 700 (what you are taking)
+ | Course Carrier should be graduate.
+ | After searching Select class
 
 四、科普与技巧
 ----------------------------------------------------------
@@ -45,7 +53,7 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。这
 ------------------------
 1. 注册时，如果你想要选的课不在List上，和系里的秘书联系。课程选定后，仍可以修改。 
 2. 注册后，选了Payment Agreement，选了课，你仍会看到你的status是 incomplete，这是因为你的study permit还没有交到研究生院。9月开学到学校后，将你的study permit交到研究生院GH212，才fully registered. 
-3. 选课一次要选3个term。就是一整个学年的课程。 
+3. 选课一次要选3个term。就是一整个学年的课程。如果term 2和term 3个课程尚未决定，可以先选SGS 700占位课。
 
 附：学长学姐推荐课程
 -----------------------------------------
