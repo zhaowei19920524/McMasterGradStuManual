@@ -57,7 +57,7 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 四、银行卡的办理
 ------------------------------------
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
-- 非GIC签证的同学：需要来Canada之后再开银行账户，请大家联系群里的13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在学校东边的CIBC上班，现在在Scotiabank任Senior Financial Advisor，大家可以和她预约一下开通一张Scotiabank的银行卡。Daisy学姐的普通话非常标准。
+- 非GIC签证的同学：需要来Canada之后再开银行账户，请大家联系群里的13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在学校东边的CIBC上班，现在在Hamilton山上lime ridge mall旁边的Scotiabank任Senior Financial Advisor，大家可以和她预约一下开通一张Scotiabank的银行卡，开好卡后正好去mall里购物。Daisy学姐的普通话非常标准。
    
   - 不涉及开户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
   - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。

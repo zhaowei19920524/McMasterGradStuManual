@@ -23,7 +23,7 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。这
    | Also if you are on a leave you will also need to register.
    | ——Cheryl（ECE小秘）
 
-这个是enroll比较重要的一项，不管你那一学期有木有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费。下面是方法：
+这个是enroll比较重要的一项，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费。下面是方法：
 
 1. Go to enroll
 
