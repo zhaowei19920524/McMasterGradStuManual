@@ -102,7 +102,7 @@ McMaster常见学院及简称
   - Geography & Earth Sciences：Geo
   - Interdisciplinary Science：ISCI
   - Kinesiology：kin
-  - Mathematics & Statistics：math或stat
+  - Mathematics & Statistics：math或stats
   - Physics & Astronomy：Astronomy
   - Psychology, Neuroscience & Behaviour：Psychology
 
