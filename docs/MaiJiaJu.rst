@@ -9,6 +9,8 @@
 | 如果大家没有车，可以使用IKEA的配送服务
 | http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html
 | 从最近的IKEA Burlington送到Hamilton，$79加元起价，可以在当天送到。
+| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在KING AT BAY。
+| 查看车次，可以看Burlington公交官网（Burlington GO方向）https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay，或Google地图。
 | 其它比如Walmart，Home Depot也可以买各种家居用品，价格略低，不过东西没IKEA全。Walmart也可以配送。
 
 Canada床的标准
