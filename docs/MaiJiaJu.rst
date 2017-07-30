@@ -9,8 +9,8 @@
 | 如果大家没有车，可以使用IKEA的配送服务
 | http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html
 | 从最近的IKEA Burlington送到Hamilton，$79加元起价，可以在当天送到。
-| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在KING AT BAY。
-| 查看车次，可以看Burlington公交官网（Burlington GO方向）https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay，或Google地图。
+| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在KING AT BAY。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。
+| 查看车次，可以看Burlington `公交官网`_ （1 - PLAINS - Burlington GO），或Google地图。
 | 其它比如Walmart，Home Depot也可以买各种家居用品，价格略低，不过东西没IKEA全。Walmart也可以配送。
 
 Canada床的标准
@@ -42,3 +42,7 @@ Canada床的标准
    | 这些网站通常都是支持国际visa或master card的。
    | 一般买的家具都是零散的组件，把它们安装起来需要各种工具，比如螺丝刀、扳手等。大家极少有这些工具，新来的同学如果借不到，还是没法使用。因此，为了稳妥起见，有此类需求的同学最好从国内带来。
    | ——14-ECE-赵伟
+
+
+
+.. _公交官网: https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay
