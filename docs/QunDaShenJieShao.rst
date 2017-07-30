@@ -8,14 +8,16 @@
 | ☆15-Mfin-魏丹阳：本群第5位管理员，善于解决Mfin的相关问题。现已毕业，淡出管理员工作。
 | ★16-MEEI-张宸赫：W booth学院master。本群第6位管理员，善于解决签证问题。
 | ★16-CAS-龚哲：CAS master。本群第7位管理员，编程大牛。
-| ★16-CAS-Tyler Li（LiJun）：CAS master。本群第8位管理员。可以解决各类问题。由于他年龄比我们大，生活阅历丰富，大家都亲切地叫他“叔”、“万能的叔”。
+| ★16-CAS-Tyler Li（LiJun）：CAS master。本群第8位管理员。可以解决各类问题。由于他年龄比我们大，生活阅历丰富，大家都亲切地叫他“叔”、“二叔”、“万能的叔”。
 | ★16-MFin-张诗晨：本群第9位管理员，善于解决Mfin的相关问题。
 | ★13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]：McMaster第一届Mfin学生，现已毕业，曾在McMaster东边的CIBC担任客户代表，现在在Scotiabank任Senior Financial Advisor。大家有关于银行的问题，可以@或私信此人。
 | ☆14-MED-高雯淼：W booth学院master。曾经是本群有名话唠。善于解决出国省钱的相关问题。现已毕业。
 | ☆14-MBA-Sharon Zhang：曾经是本群有名话唠。烧钱小能手，化妆品专家。现已毕业。
 | ★14-HRM-亚平：Health Science Phd。本群为数不多的医学院博士，大家有小病小样可以联系她寻求帮助。若对基督教会感兴趣，也可以联系此人。
+| ★15-ECE-Huawei：ECE PhD。北大毕业来McMaster读博士的才女。虽然在ECE学院，但对经济学颇有了解。
 | ★16-MBA-Molly(Yimo Yuan)：美签经验分享。
 | ★16-MBA-姚丰：安省full G驾照经验分享。
+| ★16-Chem-孟凡旺：chem PhD。非常热心、乐于助人。并且对国家公派学生的政策了如指掌。孟博士正在自学机器学习，感兴趣的同学可以加入GGWC并找他讨论。
 
 | 注：
 | 1、“★” 代表依旧活跃的同学。“☆”代表已经毕业且不再答疑的同学。
