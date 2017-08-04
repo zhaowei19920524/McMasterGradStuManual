@@ -37,7 +37,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 三、家庭宽带
 -------------------------------------------------------
-- Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有altima, start.ca，CIK等等。小公司一般是先从大的公司购买宽带，再卖给小的家庭，优惠幅度极大，但是网络时常不稳定，网速波动较大。
+- Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有altima, start.ca，CIK等等。小公司一般是先从大的公司购买宽带，再卖给小的家庭，优惠幅度极大，但是晚上等用网高峰时段，网络时常不稳定，网速波动较大。
 
   - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
   - Rogers：https://residential.rogers.com/ontario/internet 网也非常稳定，且已经完全为家庭用户提供了ipv6的支持。
