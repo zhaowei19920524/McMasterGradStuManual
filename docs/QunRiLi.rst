@@ -1,10 +1,12 @@
 ﻿群日历
 =============================
-新生组队坐飞机来Canada、学校重要的时间点都会标记在群日历上。为了隐私起见，群日历地址请看群公告。就不再这里提供了。
+新生组队坐飞机来Canada、学校重要的时间点都会标记在群日历上。
+
+日历地址：https://teamup.com/kssmqm3xs4mqhh9isj
 
 手机app
 -----------------------------------------
-大家把群公告里日历的地址复制到APP里就可以查看了。
+大家把日历的地址复制到APP里就可以查看了。
 
 - Android：https://play.google.com/store/apps/details?id=com.teamup.teamup
 - iOS：https://itunes.apple.com/us/app/teamup-calendar/id1065897968
