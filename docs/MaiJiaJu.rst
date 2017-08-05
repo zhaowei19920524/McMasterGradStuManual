@@ -9,7 +9,7 @@
 | 如果大家没有车，可以使用IKEA的配送服务
 | http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html
 | 从最近的IKEA Burlington送到Hamilton，$79加元起价，可以在当天送到。
-| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在KING AT BAY。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。
+| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在PLAINS AT FRANCIS。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。
 | 查看车次，可以看Burlington `公交官网`_ （1 - PLAINS - Burlington GO），或Google地图。
 | 其它比如Walmart，Home Depot也可以买各种家居用品，价格略低，不过东西没IKEA全。Walmart也可以配送。
 
