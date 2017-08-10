@@ -1,13 +1,13 @@
-﻿学校email设置
+﻿学校email激活与收发
 ===========================
 .. attention::
    **学校email只有等注册后才能激活**
 
 激活方法
 ---------------------------------------
-1. 通过手机
+1. 方法一：在手机上登录mosaic
 
-| 第一步：登陆mosica之后，在右上角三个横线处选择
+| 第一步：登陆mosica之后，在右上角点击三个横线的图标
 
 .. image:: /resource/activate_email_on_phone_1.png
    :align: center
@@ -22,7 +22,7 @@
 .. image:: /resource/activate_email_on_phone_3.png
    :align: center
 
-| 第四步：点击“Manage you Email Service”，找到学校的邮箱，选择Activate
+| 第四步：点击“Manage you Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
 
 .. image:: /resource/activate_email_on_phone_4.png
    :align: center
