@@ -17,7 +17,7 @@
 | 4. For conditional offers, the required documents must be sent to your department prior to September 30th.
 | 清condition。大家可以在自己的mosaic里看到自己需要提交哪些材料。也可以查看 `conditional offer`_ 。 
 | 5. Incoming students only upload your photo for your ID card. 
-| 这个大家一定要尽快提交,这样才能保证学校能尽快制作学生卡，在8月底能拿到。否则拿到学生卡会推迟，影响到免费坐车。 
+| 这个大家一定要尽快提交,这样才能保证学校能尽快制作学生卡，在8月底能拿到。否则拿到学生卡会推迟，影响到免费坐车。根据学校的规定，上传照片只有一次机会，不能更改。
 | 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 | 最终成绩单、毕业证明、学位证明交到Gilmour Hall 212。study permit学校会复印一份。提交材料大概需要几天才会反映在mosaic上，conditional offer的图标会变成final offer。
 
