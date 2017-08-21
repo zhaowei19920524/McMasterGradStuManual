@@ -37,13 +37,13 @@ McMaster的email激活后，有两种方法可以收发 ：
 
 2. 通过客户端email软件：在手机或电脑上，设置如下：
 
- | Account type: IMAP 
- | Incoming server: mcmasterimap.mcmaster.ca 
- | Outgoing server: mcmastersmtp.mcmaster.ca 
- | SSL encryption for both incoming and outgoing servers turned on. 
- | Incoming port 993 
- | Outgoing port 465 
- | Outgoing server to require authentication using the same credentials as the incoming server. 
+| Account type: IMAP 
+| Incoming server: mcmasterimap.mcmaster.ca 
+| Outgoing server: mcmastersmtp.mcmaster.ca 
+| SSL encryption for both incoming and outgoing servers turned on. 
+| Incoming port 993 
+| Outgoing port 465 
+| Outgoing server to require authentication using the same credentials as the incoming server. 
 
 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
 

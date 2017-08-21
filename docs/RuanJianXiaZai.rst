@@ -6,7 +6,7 @@
 | http://trials2.adobe.com/AdobeProducts/APRO/11/win32/AcrobatPro_11_Web_WWMUI.exe
 
 | Matlab 
-| http://siva.bgk.uni-obuda.hu/setup/_Mathlab_Simulink/R2016a/R2016a_win64.iso 
+| http://siva.bgk.uni-obuda.hu/setup/_Mathlab_Simulink/
 | 激活方式请见安装包。或使用学校的授权，请查看 http://hihamilton.com/forum.php?mod=viewthread&tid=1604&extra=
 
 | Microsoft Office
