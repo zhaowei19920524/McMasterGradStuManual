@@ -18,7 +18,7 @@
 ---------------------------------------------------
 1. 清offer上的condition，见 `conditional offer`_ 。
 2. 领student card，在院里小秘（administrator assistant）办公室领。
-3. 领公交卡（HST transit pass）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
+3. 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
 4. 其它特殊的手续，比如lab门卡，TA相关的手续等等，请询问小秘。
 5. 可选的手续：
 
@@ -32,9 +32,8 @@
 3. 办理手机卡：见 `办理手机电话`_ 。
 4. 其它可选的手续：
 
- - Presto Card：坐Go bus长途汽车，MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
+ - Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽车，MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
  - Shoppers Drug Mart会员卡
-
 
 .. _conditional offer: conditional_offer.html
 .. _餐厅: CanTing.html
