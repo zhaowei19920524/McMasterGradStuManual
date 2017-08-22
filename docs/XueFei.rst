@@ -7,25 +7,29 @@
 | 各program的学费可以查这里 
 | http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
 | MBA学费：http://mbastudent.degroote.mcmaster.ca/fees-and-scholarships/mba-tuition-and-supplemental-fees/
-| 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（不包括TA、RA），截止日期是9月22日。9月28日之后罚$75，并开始收利息。 
+| 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75并开始收利息。 
 | http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
 
 付学费的方法
 -------------------------------------------
-1. 信用卡：用信用卡付学费，要加1.95%的手续费，因为信用卡公司向学校收这费。
-2. International Wire Transfer：国际电汇
+1) （ **优先考虑** ）加拿大银行间转账：这个方法最简单方便而且免费。如果你有加拿大银行账户，可以自己在网上转账，或打电话给银行转账，也可去银行亲自办理。 步骤是从你的银行账户转钱到学校付你的学费。可登陆你的网上银行，在Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
 
+#) International Wire Transfer：国际电汇
+
+| 如果大家实在来不及办这边的银行卡再转账交学费，可以直接从国内的银行电汇到McMaster。
 | 学校账号在 `这里`_
-| 填写上面的表格后 Send 到 
+| 上面的表格里已经提供了国际电汇需要的Swift号、fields 50, 57A & 59。大家在国内银行汇款的时候照着上面表格里的内容填写就可以了。
+| 汇款成功后，填好上面的表格后打印并亲自提交，或传真，或Email到 
 | Student Accounts & Cashiers 
 | Gilmour Hall, Room 209 
 | McMaster University 
 | 1280 Main Street, West Hamilton, ON 
 | L8S 4L8 
 | Fax: 1-905-527-3615 
-| 如果国际电汇，除学费外，要另付 $30，这是银行收McMaster的手续费。 
+| Email: student.accounts@mcmaster.ca
+| 如果使用国际电汇，除学费外，要另付$30，这是银行收McMaster的手续费。 
 
-3. （ **优先考虑** ）加拿大银行间转账：这个方法最简单方便而且免费。如果你有加拿大银行账户，可以自己在网上转账，或打电话给银行转账，也可去银行亲自办理。 步骤是从你的银行账户转钱到学校付你的学费。可登陆你的网上银行，在Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
+#) 信用卡：用信用卡付学费，要加1.95%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，手续费太高，并且大家的信用卡额度也没这么高。
 
 .. attention::
    **无论哪种方法，付费时注意注明你自己的学号和姓名，不然很可能替别人付学费**
