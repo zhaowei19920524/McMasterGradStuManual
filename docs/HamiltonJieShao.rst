@@ -41,6 +41,19 @@ Hamilton的主干道
 | 加拿大夏令时时段：4月1日~10月30日（每年会稍有变动），此时加拿大比中国晚12个小时。
 | 电子设备和电脑在第一次使用的时候会让你选所在地。大家一定要选对。这样系统会自动调整时间。
 
+Hamilton水电气公司
+--------------------------------------------
+| 住apt或house的同学可能需要自己办理水（Water），电（Hydro），气（Gas）的账户。下面介绍一下Hamilton的水电气公司。
+
+| Hamilton水电公司是由Horizon Utilities（现在已经并入Alectra ​Utilities）运营的。
+| 网址：https://www.horizonutilities.com/
+| 如果需要开户则打官网主页上Hamilton地区的电话。
+| Hamilton: 905-522-9200 
+| 打电话的时候告诉他你要为某一个apt里的unit或house开户，然后回答问你的各种问题就可以了。
+
+| Hamilton天然气公司是由Union Gas运营的。
+| 网址：https://www.uniongas.com/
+
 垃圾分类与回收
 ---------------------------------------------
 | 在Canada家庭产生的垃圾必须要分类，Hamilton也不例外。
