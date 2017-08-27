@@ -10,6 +10,8 @@
 | ★16-CAS-龚哲：CAS Master。本群第7位管理员，编程大牛。“麦马三杰（瘸）”之一。
 | ★16-CAS-Tyler Li（LiJun）：CAS Master。本群第8位管理员。可以解决各类问题。由于他年龄比我们大，生活阅历丰富，大家都亲切地叫他“叔”、“二叔”、“万能的叔”。“麦马三杰（瘸）”之一。
 | ★16-MFin-张诗晨：本群第9位管理员，善于解决Mfin的相关问题。
+| ★17-ECE-陈莹：本群第10位管理员，善于解决入学、生活、GIC签证等问题。
+
 | ★13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]：McMaster第一届Mfin学生，现已毕业，曾在McMaster东边的CIBC担任客户代表，现在在Scotiabank任Senior Financial Advisor。大家有关于银行的问题，可以@或私信此人。
 | ☆14-MED-高雯淼：W booth学院Master。曾经是本群有名话唠。善于解决出国省钱的相关问题。现已毕业。
 | ☆14-MBA-Sharon Zhang：曾经是本群有名话唠。烧钱小能手，化妆品专家。现已毕业。
