@@ -37,7 +37,6 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
     - 16-MECH-贾明钋Enzo
     - 15-MECH-吴倍辰
     - 15-ME-张晓威
-    - 15-MED-周光宇
     - 14-MED-高雯淼（仅周末）
     - 14-ECE-吴辉辉
     - 13-DFin-靳宇川
