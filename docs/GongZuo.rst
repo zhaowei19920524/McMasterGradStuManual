@@ -39,7 +39,7 @@ Intern和Co-op: 带薪实习
 ----------------
 1. TA、RA、intern和Co-op按对以后找工作的价值排列（TA<RA<intern和Co-op）。没有TA的同学，可以重点关注一下RA、intern和Co-op。由于intern需要暂停学业，所以毕业时间也会推迟。不过Canada找工作看重工作经验，即使延迟毕业也是值得的。 
 2. TA、RA、intern和Co-op之间相互抵触。如果同时申请到，三者必须只能选其一。
-3. 除了这3种工作之外还有一些part time的job，就是打零时工。比如在餐馆当服务员，在超市当收银员。这个和上面三种完全不冲突。并且没有每周工作时间限制。资金比较紧张的同学可以关注一下，对提高口语也有帮助，但对以后工作基本没有帮助。 在各大论坛，以及学校的招聘公告栏里会列举part time的工作。
+3. 除了这3种工作之外还有一些part time的job，就是打零时工。比如在餐馆当服务员，在超市当收银员。这个和上面三种完全不冲突。并且没有每周工作时间限制。资金比较紧张的同学可以关注一下，对提高口语也有帮助，但对以后工作基本没有帮助。在各大论坛，以及学校的招聘公告栏里会列举part time的工作。
 4. 不管大家从事何种工作，即便是part time，工资也不会低于Canada最低工资标准：https://www.labour.gov.on.ca/english/es/pubs/guide/minwage.php
 5. Canada规定国际学生从刚来Canada到完成8个月（term 1和2）的学习这段时间是不允许在校外full time实习的。McMaster有的学院规定前3个term都不可以，大家找实习前要先去学院里问清楚。
 6. Intern需暂停学业，有supervisor的学生请务必和supervisor商量。建议大家找到后再去找supervisor商量。
