@@ -97,7 +97,6 @@ Welcome to McMaster University!
    MicrosoftChanPin
    AppleChanPin
    BanGongRuanJianHeWangPan
-   XiTongAnZhuangYuRuanJianJiHuo
    BiJiBenDianNaoTuiJian
 
 贡献与反馈：
