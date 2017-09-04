@@ -59,12 +59,12 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 获取地址：https://mcmaster.onthehub.com/WebStore/Welcome.aspx
 | 登录上面的网址，点击“Start Shopping”。
 | 用户名是MacId@ads.mcmaster.ca，密码是登录mosaic的密码。
-| 可能需要做一个简单的问卷，然后就可以看到了Windows10的下载了。
+| 可能需要做一个简单的问卷，然后就可以看到了Windows 10的下载了。
 
 .. image:: /resource/office365/windows10education.png
    :align: center
 
-注：Microsoft从Windows 10开始改变授权方式，一旦Windows 10在一台设备上激活，在硬件没有大的变动的情况下，重装任意多次相同的版本，联网后依然可以自动激活。 
+注：Microsoft从Windows 10开始改变授权方式，一旦Windows 10在一台设备上激活，在硬件没有大的变动的情况下，重装任意多次相同的版本，联网后依然可以自动激活。
 
 网盘
 -----------------------------
@@ -149,4 +149,15 @@ Microsoft实用办公工具
 | 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版；如果写的直接是office 2013或office2016，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
+   :align: center
+
+2. Microsoft Imagine Premium（仅针对ECE和CAS学院的学生）
+
+| 你们的学院已经为本院每一个学生购买了Microsoft Imagine Premium的授权。
+| 这两个院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
+| ECE：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=1184cd61-0082-e211-bf66-f04da23e67f4&vsro=8 
+| CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
+| 请联系本学院technical staff获取账户。
+
+.. image:: /resource/office365/Imagine_Premium.png
    :align: center
