@@ -47,6 +47,8 @@ McMaster的email激活后，有两种方法可以收发 ：
 
 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
 
+如果Email收发不成功，请联系学校UTS，http://www.mcmaster.ca/uts/
+
 注意事项： 
 --------------------------------------
 1. Iphone： Do not select Gmail as the mail provider, select Other。 Set port to 465， not 587 
