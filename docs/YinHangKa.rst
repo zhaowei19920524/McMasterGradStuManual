@@ -59,22 +59,22 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 四、银行卡的办理
 ------------------------------------
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
-- 非GIC签证的同学：需要来Canada之后再开银行账户，请大家联系群里的13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在学校东边的CIBC上班，现在在Hamilton山上lime ridge mall旁边的Scotiabank任Senior Financial Advisor，大家可以和她预约一下开通一张Scotiabank的银行卡，开好卡后正好去mall里购物。Daisy学姐的普通话非常标准。
-   
-  - 不涉及预约开户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
-  - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
-
-离学校最近的银行应该是学校体育馆西门进门左手边的RBC了，大家也可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。
+- 非GIC签证的同学：离学校最近的银行应该是学校体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。也可以不预约直接去开户。
 
 .. image:: /resource/rbc_mcmaster_contact.jpeg
    :align: center
    :scale: 50 %
 
+- 有关银行的问题也可以询问群里13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在Hamilton的CIBC工作，现在在Hamilton的Scotiabank上班。
+   
+  - 不涉及预约开户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
+  - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
+
 五、比较有特点的银行卡
 --------------------------------------------
 1. RBC学生账户
 
-- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000额度。不需要押金。
+- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000~2000额度。不需要押金。
 - http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
 
 2. CIBC

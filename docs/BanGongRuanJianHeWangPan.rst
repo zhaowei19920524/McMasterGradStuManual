@@ -32,14 +32,14 @@ Microsoft Office 365
 
 平板手机上的office的下载链接：
 
-- iOS
+- Android
 
   - Word：https://play.google.com/store/apps/details?id=com.microsoft.office.word
   - Excel：https://play.google.com/store/apps/details?id=com.microsoft.office.excel
   - PowerPoint：https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint
   - Outlook：https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
   - OneNote：https://play.google.com/store/apps/details?id=com.microsoft.office.onenote
-- Android
+- iOS
 
   - Word：https://itunes.apple.com/ca/app/microsoft-word/id586447913?mt=8
   - Excel：https://itunes.apple.com/ca/app/microsoft-excel/id586683407?mt=8
@@ -144,8 +144,8 @@ Microsoft实用办公工具
 -------------------------
 1. 查看当前安装的office是不是office365
 
-| office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级的最新版。
-| 这不同于以往的office版本，以往的版本是通过iso光盘或光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
+| office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
+| 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
 | 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版；如果写的直接是office 2013或office2016，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
