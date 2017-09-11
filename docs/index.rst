@@ -109,6 +109,7 @@ Welcome to McMaster University!
   - 16-Chem-孟凡旺
   - 15-ECE-Huawei
   - 13-MFin-Daisy Ding
+  - 17-ECE-牛晨骁
 
 本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
 
