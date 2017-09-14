@@ -39,7 +39,6 @@
 
 | 想要申请Meal Plan的同学填好网页里的表格，交到MAC Express Office(Commons Building 128)；或者可以直接去办公室填表，立即生效。
 | Meal Plan不仅可以支持线下充钱，也可以在网上充钱。在网上不但可以充值，也可以查看余额。
-| 但是需要先开通一个账户，详情请见：http://mealcard.mcmaster.ca/
 | 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
 | 第一次登录需要先重置密码，需要学生去MAC Express Office提交申请表后，并且充值交付100刀后工作人员会帮助重置。
 | 充值：登录后点击ADD CASH。
