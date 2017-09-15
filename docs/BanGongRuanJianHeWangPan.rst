@@ -82,8 +82,8 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 存储空间：1TB
 | 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统：https://onedrive.com/download 。
 | 使用方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
-| 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 | 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
+| 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 .. image:: /resource/office365/onedrive_1.png
    :align: center
