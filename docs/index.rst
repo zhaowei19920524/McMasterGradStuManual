@@ -64,9 +64,10 @@ Welcome to McMaster University!
    campusDiTu
    TuShuGuan
    GGWC
-   TanQinQianZheng
    McMasterZaiDuZhengMing
    McMasterChengJiDan
+   TanQinQianZheng
+   ExtendStudyPermitVisa
 
 .. toctree::
    :maxdepth: 1
