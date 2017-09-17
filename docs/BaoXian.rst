@@ -2,16 +2,52 @@
 ===========================
 一、医疗保险
 ----------------------------------------------
-所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP | 国际学生必须参加 UHIP (University Health Insurance Plan). UHIP 提供和OHIP一样的coverage. 本国学生有OHIP (Ontario Health Insurance Plan) cover, 国际学生需要付费参加UHIP， 近几年的年费是单人$612, 2人家庭$1224, 3人及以上$1836.  | UHIP 提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。 | 学校的 UHIP 由Sun Life 承保， 学生可以上Sun Life 网站打印 UHIP 卡号， 网址： http://mysunlife.ca 2. GSA Health Plan  | 学校研究生会 Graduate Students Association 提供Health Insurance Plan， 今年（2016年）年费 $186. GSA 的Health Plan 提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP 并不cover， 需要由 GSA Health Plan cover. 3. GSA Dental Plan | GSA Dental Plan 提供牙医保险， 今年年费$170. 包括洗牙、补牙等项目。 | GSA 网址： https://gsamcmaster.org/health-dental-2/ | GSA Health Plan 和 GSA Dental Plan 由 studentcare 承保，网址  http://www.studentcare.ca4. CUPE Dental Plan | 对于有Half TA以上 (一年130小时) 的研究生，CUPE工会提供牙医保险， 目前年费$106.92. 工会网址 http://cupe3906.org | CUPE dental plan 提供的保险项目优于GSA dental plan， 所以有TA的学生可以 opt-out GSA dental plan, 退回GSA Dental Plan保费$170. Studentcare 会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是学生在中国的地址。
+.. image:: /resource/Insurance/Insurance_fee.png
+   :align: center所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。UHIP提供和OHIP一样的coverage。本国学生有OHIP(Ontario Health Insurance Plan) cover，国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。- 学校的UHIP由Sun Life承保，学生可以上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：登录sunlife→benefits centre→coverage→my coverage→print my coverage card。  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my sun life”查看。
 
-——感谢陆定维老师提供
+.. image:: /resource/Insurance/my_sunlife_app_1.png
 
-| 学姐经验：
-| 如果是register了，学校的学生可以选人数，一人或者家人几人，把信息填好交好，钱数是600多那个乘以相应的人数，去年前年都是跟学费的支付办法是一样的，选择payroll那个选项。买医疗保险的要求是到了之后1个月内。如果现在到了，就直接等register的时间一并办了，比较省事儿些 
-| 在系里的Human Resource办了一下。（一开始说叫去downtown的办OHIP那里自己办一下，但我的是study permit不是work permit，他们不接受办理），Human Resource加了我们家的几人进保险人数里。按天数、人数计算的。这个需要系主任秘书帮忙引荐、说一下。 
-| 另外，如果有亲友短期来访，需要买旅游险的，按天数，含医疗和意外，每天2刀至4刀多的价格。
-| 亲友的医疗保险：长期---跟着你自己的医疗保险，一起在学校里买（学校规定，跟你一起的亲友必须要买的）。register的时候是必选项。注意含有你所需要的所有人即可。账户里应该是要足够这些项目的钱才行。短期---在外面买旅游险（可买可不买）
-| ——感谢14-HRM-亚平提供
+.. image:: /resource/Insurance/my_sunlife_app_2.png
+- 若8月毕业后，可申请UHIP有效至当年年底。2. GSA Health Insurance Plan - 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
+- GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
+- 报销方法
+
+  - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
+  - 方法2：使用APP“studentcare”拍照，并填写报销信息。https://my.ihaveaplan.ca/index.html
+  - 方法3：如果院方接受，也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+3. GSA Dental Insurance Plan- GSA Dental Plan 提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。- 学校student center就有牙医诊所。Campus dentist预约：905-526-6020或 mcmaster@campusdentist.com 。网址： http://www.campusdentist.com/
+- 寻找其它诊所，请在网页右上角查找
+
+.. image:: /resource/Insurance/dental_location.png
+   :align: center
+4. CUPE Dental Plan- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下学生：
+
+  - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
+  - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
+  - Unit 3: Post-Doctoral Fellows
+
+- CUPE dental plan提供的保险项目优于GSA dental plan，所有Unit 1的学生自动opt-out GSA dental plan，退回GSA Dental Insurance Plan的费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是学生在中国的地址。
+- 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址。
+- CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
+- 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销+$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
+- 抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险
+
+  - Insurance Provider: Equitable Life of Canada
+  - Policy #: 97528
+  - Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
+  - Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
+- 寻找、预约医生 https://www.opencare.com/ 。输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输入Equitable Life of Canada。
+- 可下载APP StudentCare，在线提交报销表格。
+
+更多信息请参考
+
+- GSA： https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/health-plan/health-coverage
+- CUPE：https://cupe3906.org/
+- Sunlife：http://mysunlife.ca
+- UHIP： http://uhip.ca/Defaulthome.aspx
+
+——感谢陆定维老师、14-ECE-Huihui Wu、16-CAS-Tyler Li（LiJun）提供
 
 二、房屋保险 
 --------------------------------

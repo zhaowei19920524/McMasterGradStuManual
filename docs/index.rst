@@ -20,8 +20,7 @@ Welcome to McMaster University!
 
 ——McMaster研究生新生群的管理员们
 
-- 注：
-
+.. attention::
   - 网站里插入了多幅Google地图， 在国内的同学请翻墙查看。
   - 网站里如发现有任何失效的链接，请速与14-ECE-赵伟联系。
 
@@ -111,6 +110,7 @@ Welcome to McMaster University!
   - 15-ECE-Huawei
   - 13-MFin-Daisy Ding
   - 17-ECE-牛晨骁
+  - 17-ECE-刘欢
 
 本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
 
