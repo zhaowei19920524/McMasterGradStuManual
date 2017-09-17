@@ -7,8 +7,10 @@
    :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my sun life”查看。
 
 .. image:: /resource/Insurance/my_sunlife_app_1.png
+   :align: center
 
 .. image:: /resource/Insurance/my_sunlife_app_2.png
+   :align: center
 - 若8月毕业后，可申请UHIP有效至当年年底。2. GSA Health Insurance Plan - 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
 - 报销方法
@@ -51,10 +53,12 @@
 
 二、房屋保险 
 --------------------------------
-| 在加拿大每个房子都要有保险，银行才可能贷款，否则万一一把火房子烧了，银行没地方去收回贷款的。
-| 如果大家想买，只需要买财产险，因为liabilities 应该是房东已经买了的。财产险应该不贵，但通常会有deduction。也就是说只有发生较大损失时才有可能拿到保险公司赔付。 
-| 以一个家庭的home insurance为例，如果买了保险，低于5000自己出，超过部分由保险公司赔，最高200万。年报费600左右。
-| 学生租的house，应该是商业保险，年保费2000多。大部分房东没有买商业险，只买个家庭保险以便拿到银行贷款。这样的房子一旦出事，保险公司不会赔付的。也就是你即使买了财产险，一旦火灾出现人身伤亡，也没有保险公司赔付，除非你自己买了liabilities 
-| 如果你租apt或condo，apt或condo的管理费里通常包含的liabilities，你只需要买财产险 
-| 加拿大几个比较大的保险公司 Sunlife， Manulife，Great West Life。 McMaster用的是Sunlife。此外各大银行也有相应的保险业务。例如：RBC，每月大概十几加元。
-| ——感谢陆定维老师提供
+.. note::
+
+  | 在加拿大每个房子都要有保险，银行才可能贷款，否则万一一把火房子烧了，银行没地方去收回贷款的。
+  | 如果大家想买，只需要买财产险，因为liabilities 应该是房东已经买了的。财产险应该不贵，但通常会有deduction。也就是说只有发生较大损失时才有可能拿到保险公司赔付。 
+  | 以一个家庭的home insurance为例，如果买了保险，低于5000自己出，超过部分由保险公司赔，最高200万。年报费600左右。
+  | 学生租的house，应该是商业保险，年保费2000多。大部分房东没有买商业险，只买个家庭保险以便拿到银行贷款。这样的房子一旦出事，保险公司不会赔付的。也就是你即使买了财产险，一旦火灾出现人身伤亡，也没有保险公司赔付，除非你自己买了liabilities 
+  | 如果你租apt或condo，apt或condo的管理费里通常包含的liabilities，你只需要买财产险 
+  | 加拿大几个比较大的保险公司 Sunlife， Manulife，Great West Life。 McMaster用的是Sunlife。此外各大银行也有相应的保险业务。例如：RBC，每月大概十几加元。
+  | ——感谢陆定维老师提供
