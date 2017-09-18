@@ -79,7 +79,7 @@ Welcome to McMaster University!
    SINShenQing
    GongZuo
    JiaZhao
-   BusJiLuXian
+   HamiltonGongJiaoChe
    WiFiYuInternet
    HamiltonRiChangGouWuDiDian
    MaiJiaJu
