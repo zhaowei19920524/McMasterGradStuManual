@@ -3,7 +3,7 @@
 一、医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。UHIP提供和OHIP一样的coverage。本国学生有OHIP(Ontario Health Insurance Plan) cover，国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。- 学校的UHIP由Sun Life承保，学生可以上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：登录sunlife→benefits centre→coverage→my coverage→print my coverage card。  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。UHIP提供和OHIP一样的coverage。本国学生有OHIP(Ontario Health Insurance Plan) cover，国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：登录sunlife→benefits centre→coverage→my coverage→print my coverage card。  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my sun life”查看。
 
 .. image:: /resource/Insurance/my_sunlife_app_1.png
