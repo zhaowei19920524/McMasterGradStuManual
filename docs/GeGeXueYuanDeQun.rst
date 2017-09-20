@@ -1,10 +1,8 @@
 ﻿各个学院的群及学院简称
 ===================================================
-鼓励大家为自己的学院建立相应的交流群，建好后请和14-ECE-赵伟联系。
-
-大家可以在自己学院的群里讨论比较专业的问题，加群请写明验证消息，就是群ID。
-
-请大家依旧随时关注新生群里的消息。有些最新的消息和公告可能不会即时传达给各个学院的群里。
+- 鼓励大家为自己的学院建立相应的交流群，建好后请和14-ECE-赵伟联系。
+- 大家可以在自己学院的群里讨论比较专业的问题，加群请写明验证消息，就是群ID。
+- 请大家依旧随时关注新生群里的消息。有些最新的消息和公告可能不会即时传达给各个学院的群里。
 
 - ITB(CAS+ECE)
 
@@ -54,7 +52,7 @@
 
 McMaster常见学院及简称
 ----------------------------------------------------
-以下列举了McMaster常见的学院及简称，希望大家把群ID的学院按照下列各式书写。部分学院暂无简称，如有新生需要，请和14-ECE-赵伟商量，或写你的学院的全称。
+以下列举了McMaster常见的学院及简称，希望大家把群ID的学院按照下列各式书写。部分学院暂无简称，请写你的学院的全称。
 
 - Engineering
 
@@ -64,7 +62,7 @@ McMaster常见学院及简称
   - Civil Engineering：Civil
   - Engineering Physics：EngPhys
 
-    - Nano-and Micro- Device Engineering：NanoEng
+    - Nano- and Micro- Device Engineering：NanoEng
     - Nuclear Engineering：NE
     - Photonics：Photonics
   - Materials Science & Engineering：MSE
@@ -77,7 +75,7 @@ McMaster常见学院及简称
     - Engineering and Public Policy：MEPP
     - Engineering Entrepreneurship and Innovation：MEEI
     - Technology Entrepreneurship and Innovation：MTEI
-    - Manufacturing Engineering：MEME或Manufacturing
+    - Manufacturing Engineering：Manufacturing或MEME
 
 - DeGroote School of Business
 

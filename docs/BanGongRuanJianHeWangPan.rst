@@ -5,15 +5,16 @@ Microsoft Office 365
 | 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
 | http://www.mcmaster.ca/uts/office365/index.html
 
-电脑上的office的使用方法：
+**Part I：电脑上的office的使用方法**
 
-| 写在前面的注意事项：
-| 1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
-| 2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
+写在前面的注意事项：
+
+1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
+2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
 
 | 第一步：登录微软的网站 https://portal.office.com/ 。
-| 用户名是MacId@ads.mcmaster.ca
-| 密码是登录mosaic的密码
+| 用户名：MacId@ads.mcmaster.ca
+| 密码：登录mosaic的密码
 | 为了以后登录方便，可以勾上Keep me signed in。
 
 .. image:: /resource/office365/office365_1.png
@@ -30,7 +31,9 @@ Microsoft Office 365
 .. image:: /resource/office365/office365_3.png
    :align: center
 
-平板手机上的office的下载链接：
+**Part II：平板手机上的office的使用方法**
+
+下载链接：
 
 - Android
 
@@ -51,6 +54,7 @@ Microsoft Office 365
 
 1. 学校提供的office授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
 2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
+3. MacId@ads.mcmaster.ca仅仅是一个用户名，不是邮箱。
 
 Windows 10
 ----------------------------------------------
@@ -71,7 +75,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 1. Microsoft Onedrive
 
 | Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
-| 存储空间：15GB（Free）+15GB（如果上传照片）
+| 存储空间：5GB
 | 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统：https://onedrive.com/download 。
 | 使用方法：用微软邮箱登录后就可以使用。
 | 在线登录方法：https://onedrive.com/
