@@ -13,17 +13,17 @@
    :align: center
 - 若8月毕业后，可申请UHIP有效至当年年底。2. GSA Health Insurance Plan - 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
-- 报销方法
 
-  - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
-  - 方法2：使用APP“studentcare”拍照，并填写报销信息。https://my.ihaveaplan.ca/index.html
-  - 方法3：如果院方接受，也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
-3. GSA Dental Insurance Plan- GSA Dental Plan 提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。- 学校student center就有牙医诊所。Campus dentist预约：905-526-6020或 mcmaster@campusdentist.com 。网址： http://www.campusdentist.com/
-- 寻找其它诊所，请在网页右上角查找
+3. GSA Dental Insurance Plan- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。- 学校student center就有牙医诊所。Campus dentist预约：905-526-6020或 mcmaster@campusdentist.com 。网址： http://www.campusdentist.com/
+- GSA Dental Insurance Plan也提供了其它牙医诊所，请在网页右上角查找
 
 .. image:: /resource/Insurance/dental_location.png
    :align: center
-4. CUPE Dental Plan- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下学生：
+以上三种保险都是由Sunlife承保，报销方法为
+
+- 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
+- 方法2：使用APP“studentcare”拍照，并填写报销信息。https://my.ihaveaplan.ca/index.html
+- 方法3：如果院方接受，也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard4. CUPE Dental Plan- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
   - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
