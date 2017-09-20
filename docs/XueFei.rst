@@ -6,7 +6,6 @@
 | http://www.mcmaster.ca/bms/student/SAC_payment_methods.html
 | 各program的学费可以查这里 
 | http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
-| MBA学费：http://mbastudent.degroote.mcmaster.ca/fees-and-scholarships/mba-tuition-and-supplemental-fees/
 | 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75并开始收利息。 
 | http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
 
@@ -51,34 +50,43 @@
 
 Step1: 打开你的online banking的账户，在转账的页面里，To: Add a Payee，然后submit。 
 
-.. image:: /resource/XueFeiJiaoCheng(1).jpg
+.. image:: /resource/XueFei/XueFei_payee_01.png
 
 Step2: 在搜索框里写McMaster，点Search。 
 
-.. image:: /resource/XueFeiJiaoCheng(2).jpg
+.. image:: /resource/XueFei/XueFei_payee_02.png
  
 Step3: 在搜索结果里选“MCMASTER UNIVERSITY”，点continue。 
  
-.. image:: /resource/XueFeiJiaoCheng(3).jpg
+.. image:: /resource/XueFei/XueFei_payee_03.png
 
-Step4: （***重要***）填写9位学号Student ID，400开头的那一串数字，不是Mac ID。这个一定要填对，不然就是帮别人付学费。 
+Step4: （**重要**）填写9位学号Student ID。对于2015年以后入学的新生，学号是400开头的一串数字，不是Mac ID。这个一定要填对，不然就是帮别人付学费。 
 
-.. image:: /resource/XueFeiJiaoCheng(4).jpg
+.. image:: /resource/XueFei/XueFei_payee_04.png
  
-Step5: 确认信息点continue。 
+Step5: 检查一遍学号，确认后点continue。 
 
-.. image:: /resource/XueFeiJiaoCheng(5).jpg
+.. image:: /resource/XueFei/XueFei_payee_05.png
  
-Step6: 填写学费数额，点Submit。 
+Step6: 一个添加payee成功的页面。 
 
-.. image:: /resource/XueFeiJiaoCheng(6).jpg
+.. image:: /resource/XueFei/XueFei_payee_06.png
 
 .. attention::
-   **不管大家把钱存在哪个账户里，在付学费前，都把要付的学费先转到chequing账户里。因为有些银行从saving账户里支付会收手续费。** 
- 
-Step7: 最后确认一遍信息，点continue。付完之后，mosaic不会立即更新。可能要过3天左右的时间才会显示到账。 
+  1. **不管大家把钱存在哪个账户里，在付学费前，都把要付的学费先转到chequing账户里。因为有些银行从savings账户里支付会收手续费。** 
+  2. 添加payee成功后，以后付学费只要进行以下步骤就可以了。
 
-.. image:: /resource/XueFeiJiaoCheng(7).jpg
+Step7: From选成chequing账户，To选为已经添加的McMaster的payee。填写学费数额，点Submit。 
+
+.. image:: /resource/XueFei/XueFei_payee_07.png
+
+Step8: 最后再确认一遍信息，点confirm。付完之后，mosaic不会立即更新。可能要过3天左右的时间才会显示到账。 
+
+.. image:: /resource/XueFei/XueFei_payee_08.png
+
+Step9: 一个转账付学费成功的页面。
+
+.. image:: /resource/XueFei/XueFei_payee_09.png
 
 
 .. _这里: http://www.mcmaster.ca/bms/student/pdf/Student%20CIBC%20direct%20deposit%20mar15.pdf
