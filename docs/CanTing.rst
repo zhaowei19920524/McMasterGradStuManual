@@ -3,14 +3,14 @@
 .. attention::
    **学长学姐们强烈建议大家自己做饭，而不是去餐厅！！！**
 
-一、McMaster餐厅官网
+McMaster餐厅官网
 -----------------------------------------
 | 官网主页：http://hospitality.mcmaster.ca/
 | Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 | Hour：http://hospitality.mcmaster.ca/hours.html
 | On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
 
-二、McMaster餐厅介绍
+McMaster餐厅介绍
 --------------------------------------------
 | McMaster的可以吃饭的地方有很多，大型的餐厅主要有两个：
 | ① CENTRO@Commons：俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
@@ -20,7 +20,7 @@
 | ③ Student Center和其它地方的甜点店：
 | 大家看看On-Campus Location就知道了。
 
-三、Meal Plan
+McMaster餐厅Meal Plan
 -------------------------------------
 | 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。其它甜点店比如Tim Hortons稍微便宜点。
 | 办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。
@@ -32,25 +32,30 @@
 | 有两种Meal Plan：
 | ①Freedom Plan（建议）
 | 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
-| 举例：买$10的食物：所需的费用就是：10*(1+13%)*95%≈10.74
+| 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
 | ②Term Plan
 | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
 | 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
 
-| 想要申请Meal Plan的同学填好网页里的表格，交到MAC Express Office(Commons Building 128)；或者可以直接去办公室填表，立即生效。
-| Meal Plan不仅可以支持线下充钱，也可以在网上充钱。在网上不但可以充值，也可以查看余额。
+| 想要申请Meal Plan的同学填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
+| Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值开始大家就可以在网上操作了，在网上不但可以充值，也可以查看余额。
 | 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
-| 第一次登录需要先重置密码，需要学生去MAC Express Office提交申请表后，并且充值交付100刀后工作人员会帮助重置。
+| 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
 | 充值：登录后点击ADD CASH。
 | 查看余额：登录后点击FINANCIAL->BALANCES。
 
-四、学校周边的饭店
+学校周边的饭店
 -----------------------------------------
-| 主要以Pizza和三明治为主
-| http://hospitality.mcmaster.ca/off-campus.html
-| 还有比较便宜的Tim Hortons，大家Google一下位置就知道了。
+主要以Pizza和三明治为主 http://hospitality.mcmaster.ca/off-campus.html
 
-五、中餐馆
+除了比较便宜的Tim Hortons甜点店，其它在学校南门对面还有：
+
+- Subway：三明治
+- Pink：汉堡薯条
+- Taco：墨西哥餐
+- Williams：西式咖啡店。推荐里面的hot rice box和vanilla（热的）。
+
+中餐馆
 ----------------------------------
 1. 学校周边（Zone 1）：
 
@@ -100,24 +105,24 @@
 
   - 1508 Upper James St, Hamilton, Ontario L9B 1K3
 
-- U SHAO BBQ：自助烧烤
+- 红海椒：点菜制
 
-  - 27 John St S, Hamilton, ON L8N 2B7
+  - 60 James street N
+  - (905)523-4888
 
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
   - 165 King St. East, Hamilton
   - (905)529-2226
 
+- Spring grill house（自助烧烤）
+
+  - 1441 UPPER JAMES ST
+
 - 喜临门酒楼：点菜制，外卖
 
   - 80 James St. North
   - (905)297-0228
-
-- 满江红京川菜馆：点菜制，外卖
-
-  - 60 James Street N
-  - (905)525-0657
 
 - Mr.Dumpling：点菜制，外卖
 
@@ -142,7 +147,69 @@
 
 - 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
-六、经验之谈
+越南米粉
+------------------------------------
+- Saigon
+
+  - 1024 KING ST W
+
+- NATIONS（进入超市一直走到最东边）
+
+  - 2 King St W #445, Hamilton
+
+- PHO RONG WONG
+
+  - 1120 MAIN ST W
+
+- 边城（Ben Thanh Viet Thai Restaurant）
+
+  - 113 JAMES ST N
+
+韩餐
+-------------------
+- 阿里郎（ALIRANG）
+
+  - 354 MAIN ST W
+
+- 猫头鹰(OWL)
+
+  - 309 MAIN ST E 
+
+- Korean house
+
+  - 281 CANNON ST E 
+
+- Ajio Restaurant
+
+  - 161 KING ST E
+
+日料
+--------------------------
+- August 8：自助
+
+  - 1 WILSON ST #12
+- Joya Sushi（点菜制）
+
+  - 1630 MAIN ST W 
+- Sapporo Restaurant：自助
+
+  - 6 MAIN ST E
+- HOTARU SUSHI：自助
+
+  - 1686 MAIN ST W 
+
+中式甜点
+-----------------------------------------
+- Coco奶茶
+
+  - 96 MAIN ST E  
+- 糖记
+
+  - 65 KING ST E  
+
+
+
+经验之谈
 -----------------------------------
 - 强烈建议大家自己做饭，原因主要有：校内外的餐厅和甜点店主要以西餐为主，一般从中国来的学生吃不惯，量少且贵。
 - 花费：从以往的经验来看，如果坚持自己做饭，每月的饮食类的花费大多在$200~$300左右。如果一直在外面买，则是$700/月，一般比这个要多得多。在学校餐厅吃，可能每天就要花掉$30左右。

@@ -27,7 +27,7 @@ git checkout -b staging
 ## 1. update your local repo first before adding any content!!!
 Just in case other people have updated the branch on github. So update your local repo
 ```
-git chekcout master
+git checkout master
 git pull origin master
 git checkout staging
 git pull origin staging
