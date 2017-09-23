@@ -67,7 +67,7 @@
 消费税
 --------------------------------
 | 在Canada，消费税是不包括在食品价格里面的。这就需要再购买的时候单独交付。
-| 消费税在每个省的税率是不一样的，在Ontario的消费税是HST（Goods and Services Tax），它的税率是商品价格的13%
+| 消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，一部分是联邦5%的税，和Ontario省8%的税。
 | http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
 | 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。
 | 也有一些产品是不用交税的：
@@ -78,6 +78,9 @@
  | 2. 儿童用品。
 
 | 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。
+| 不过也有个例外：https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064-harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
+| 加工过的食物，如果原始价格不超过$4，则不用交Ontario的8%的税，只需要交联邦5%的税即可。
+
 | 如果商品可以退货，那么交的税也会一起退回来。
 | HST对于刚来的Canada的同学来说可以退一次，有且只有一次。大概几百加元。
 
