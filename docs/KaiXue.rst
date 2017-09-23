@@ -16,24 +16,25 @@
 
 三、办理学校的手续
 ---------------------------------------------------
-1. 清offer上的condition，见 `conditional offer`_ 。
-2. 领student card，在院里小秘（administrator assistant）办公室领。
-3. 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
-4. 其它特殊的手续，比如lab门卡，TA相关的手续等等，请询问小秘。
-5. 可选的手续：
+1) 清offer上的condition，见 `conditional offer`_ 。
+#) 对于graduate student需要领student card，在院里小秘（administrator assistant）办公室领。
+#) 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
+#) 有实验室的同学领lab的钥匙或lab门卡，请询问本院小秘。小秘会开一张证明材料，然后拿着证明材料去JHE216领取。lab钥匙需要交$20押金，lab门卡需要交$10的押金。
+#) 有TA、RA的研究生，post doc，访问学者领Working at McMaster卡（工卡）。post doc和访问学者是没有student card的。领工卡后去JHE216把临时的lab门卡退了。顺便把权限转移到工卡上，把押金退回来。
+#) 可选的手续：
 
- - Meal Plan：见 `餐厅`_ 。
- - 学校健身房会员卡
+  A) Meal Plan：见 `餐厅`_ 。
+  #) 学校健身房（Pulse）会员。https://rec.mcmaster.ca/memberships
 
 四、办理校外的手续
 -----------------------------------------------------
-1. 办理SIN：如果在机场没有办理，则去市政厅办理即可，见 `SIN申请`_ 。
-2. 办理银行卡：见 `银行卡`_ 。
-3. 办理手机卡：见 `办理手机电话`_ 。
-4. 其它可选的手续：
+1) 办理SIN：如果在机场没有办理，则去市政厅办理即可，见 `SIN申请`_ 。
+2) 办理银行卡：见 `银行卡`_ 。
+3) 办理手机卡：见 `办理手机电话`_ 。
+4) 其它可选的手续：
 
- - Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽车，MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
- - Shoppers Drug Mart会员卡
+  A) 普通Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽、MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
+  #) Shoppers Drug Mart会员卡
 
 .. _conditional offer: conditional_offer.html
 .. _餐厅: CanTing.html

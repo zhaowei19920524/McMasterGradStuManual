@@ -87,7 +87,7 @@ McMaster餐厅Meal Plan
   - 1088 Main St W, Hamilton, ON L8S 1B3
   - (905)297-4702 
 
-- 明瓷御苑：自助火锅
+- 明瓷御苑（Porcelain Hot Pot & Lounge）：自助火锅
 
   - 1122 Main St W, Hamilton, ON L8S 1C1 
 
@@ -95,7 +95,9 @@ McMaster餐厅Meal Plan
 
 - LiuLiu Hot Pot（老乡四川）：自助火锅
 
+  - https://www.facebook.com/liuliuhotpot
   - 11 Walnut St S, Hamilton, ON L8N 2K8
+  - (905)581-0354
 
 - 海捞：自助火锅
  
@@ -103,7 +105,9 @@ McMaster餐厅Meal Plan
 
 - Mandarin：中餐自助
 
+  - https://mandarinrestaurant.com/
   - 1508 Upper James St, Hamilton, Ontario L9B 1K3
+  - (905)383-6000
 
 - 红海椒：点菜制
 
@@ -112,12 +116,15 @@ McMaster餐厅Meal Plan
 
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
+  - http://www.sparklenorthernchinese.com/
   - 165 King St. East, Hamilton
   - (905)529-2226
 
 - Spring grill house（自助烧烤）
 
+  - http://springgrillhouse.com/
   - 1441 UPPER JAMES ST
+  - (905)383-6868
 
 - 喜临门酒楼：点菜制，外卖
 
@@ -151,7 +158,9 @@ McMaster餐厅Meal Plan
 ------------------------------------
 - Saigon
 
+  - http://www.saigonasianrestaurant.com/
   - 1024 KING ST W
+  - (905)528-1096
 
 - NATIONS（进入超市一直走到最东边）
 
@@ -159,59 +168,81 @@ McMaster餐厅Meal Plan
 
 - PHO RONG WONG
 
+  - http://phorongvang.com/
   - 1120 MAIN ST W
+  - (289)389-8989
 
 - 边城（Ben Thanh Viet Thai Restaurant）
 
+  - http://www.benthanh.ca/
   - 113 JAMES ST N
+  - (905)528-6888
 
 韩餐
 -------------------
 - 阿里郎（ALIRANG）
 
-  - 354 MAIN ST W
-
+  - 354 Main St W, Hamilton, ON L8P 1K3
+  - (905)777-1236
 - 猫头鹰(OWL)
 
-  - 309 MAIN ST E 
-
+  - http://www.owlfamily.ca/
+  - 309 Main St E, Hamilton, ON L8N 1H8
+  - (905)528-7275
 - Korean house
 
-  - 281 CANNON ST E 
-
+  - 281 Cannon St E, Hamilton, ON L8L 2B4
+  - (905)526-1492
 - Ajio Restaurant
 
-  - 161 KING ST E
+  - http://www.ajiosushikorea.com/
+  - 161 King St E, Hamilton, ON L8N 1B1
+  - (905)526-8888
 
 日料
 --------------------------
 - August 8：自助
 
-  - 1 WILSON ST #12
-- Joya Sushi（点菜制）
+  - http://www.august8.ca/
+  - 1 Wilson St #12, Hamilton, ON L8R 1C4
+  - (905)524-3838
+- Joya Sushi：点菜制
 
-  - 1630 MAIN ST W 
-- Sapporo Restaurant：自助
+  - http://joyasushi.ca/
+  - 1630 Main St W, Hamilton, ON L8S 1G3
+  - (905)525-1114
+- 札幌（Sapporo Restaurant）：自助
 
-  - 6 MAIN ST E
+  - http://sapporo-hamilton.com/
+  - 96 Main St E, Hamilton, ON L8N 1G3
+  - (905)527-1668
 - HOTARU SUSHI：自助
 
-  - 1686 MAIN ST W 
+  - https://www.hotarusushi.ca/
+  - 1686 Main St W, Hamilton, ON L8S 0A2
+  - (905)527-5272
 
 中式甜点
 -----------------------------------------
 - Coco奶茶
 
-  - 96 MAIN ST E  
+  - https://www.facebook.com/CoCoFreshTeaHamilton
+  - 96 Main St E, Hamilton, ON L8N 1G3
+  - (905)521-6888
 - 糖记
 
-  - 65 KING ST E  
-
-
+  - http://www.sugarmarmalade.com/
+  - 65 King St E, Hamilton, ON L8N 1A5
+  - (905)527-9699
 
 经验之谈
 -----------------------------------
 - 强烈建议大家自己做饭，原因主要有：校内外的餐厅和甜点店主要以西餐为主，一般从中国来的学生吃不惯，量少且贵。
 - 花费：从以往的经验来看，如果坚持自己做饭，每月的饮食类的花费大多在$200~$300左右。如果一直在外面买，则是$700/月，一般比这个要多得多。在学校餐厅吃，可能每天就要花掉$30左右。
-- 体重问题：西餐的热值能量非常高，例如麦当劳肯德基类的垃圾食品，即使只吃一点，摄入的能量几乎相当于几顿中餐。很多同学来这不注意，刚来的3个月体重增长20斤比比皆是。希望大家引以为戒。
+- 体重问题：西餐的热值能量非常高，例如麦当劳肯德基类的垃圾食品，即使只吃一点，摄入的能量几乎相当于几顿中餐。很多同学来这不注意，刚来的3个月体重增长20斤比比皆是。大家引以为戒。
 - 最后希望大家能锻炼出好的手艺，不至于在同学家聚餐的时候什么也不会。
+
+注
+-------------------
+1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
+#) 去外面的餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
