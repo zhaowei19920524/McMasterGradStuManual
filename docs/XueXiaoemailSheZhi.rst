@@ -51,7 +51,7 @@ McMaster的email激活后，有两种方法可以收发 ：
 
 注意事项： 
 --------------------------------------
-1. Iphone： Do not select Gmail as the mail provider, select Other。 Set port to 465， not 587 
+1. Iphone：Do not select Gmail as the mail provider, select Other。Set port to 465，not 587
 2. Android phones：May require that the encryption method be set SSL-accept all certificates instead of just SSL. 
 3. 用户名是你的MACID，不要加@mcmaster.ca， MACID区分大小写的 
 4. After disabling multiple account log in on Google, it may be necessary to log into the McMaster account on the web in order to be able to set up IMAP. (Please go to https://studentmail.mcmaster.ca and log in, then log out and try the IMAP setup again.) 

@@ -18,7 +18,7 @@
 ---------------------------------------------------
 1) 清offer上的condition，见 `conditional offer`_ 。
 #) 对于graduate student需要领student card，在院里小秘（administrator assistant）办公室领。
-#) 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Bus及路线`_ ）。
+#) 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Hamilton公交车`_ ）。
 #) 有实验室的同学领lab的钥匙或lab门卡，请询问本院小秘。小秘会开一张证明材料，然后拿着证明材料去JHE216领取。lab钥匙需要交$20押金，lab门卡需要交$10的押金。
 #) 有TA、RA的研究生，post doc，访问学者领Working at McMaster卡（工卡）。post doc和访问学者是没有student card的。领工卡后去JHE216把临时的lab门卡退了。顺便把权限转移到工卡上，把押金退回来。
 #) 可选的手续：
@@ -29,7 +29,7 @@
 四、办理校外的手续
 -----------------------------------------------------
 1) 办理SIN：如果在机场没有办理，则去市政厅办理即可，见 `SIN申请`_ 。
-2) 办理银行卡：见 `银行卡`_ 。
+2) 办理银行卡：见 `银行`_ 。
 3) 办理手机卡：见 `办理手机电话`_ 。
 4) 其它可选的手续：
 
@@ -39,6 +39,6 @@
 .. _conditional offer: conditional_offer.html
 .. _餐厅: CanTing.html
 .. _SIN申请: SINShenQing.html
-.. _银行卡: YinHangKa.html
+.. _银行: YinHang.html
 .. _办理手机电话: BanLiShouJiHeDianHua.html
-.. _Bus及路线: BusJiLuXian.html
+.. _Hamilton公交车: HamiltonGongJiaoChe.html
