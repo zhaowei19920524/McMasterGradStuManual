@@ -1,14 +1,12 @@
-﻿银行卡
+﻿银行
 ==========================================
-加拿大银行简介
+加拿大五大银行
 -----------------------------
-加拿大五大银行：
-
-- Royal Bank of Canada (RBC) 
-- Canadian Imperial Bank of Commerce (CIBC) 
-- The Bank of Nova Scotia (Scotiabank)
-- TD Canada Trust (TD) 
-- Bank of Montreal (BMO) 
+- Royal Bank of Canada（RBC）：http://www.rbc.com/
+- Canadian Imperial Bank of Commerce（CIBC）：https://www.cibc.com/
+- The Bank of Nova Scotia（Scotiabank）：http://www.scotiabank.com/
+- TD Canada Trust（TD）：https://www.td.com/
+- Bank of Montreal（BMO）：https://www.bmo.com/
 
 这些银行的地位和中国的四大行一样，因为加拿大地广人稀的特点，所以银行业主要由这五大垄断的。加拿大的银行产品和国内银行还是由比较大的区别的。下面会为大家详细介绍产品类型及使用注意事项。
 
@@ -128,7 +126,7 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 
 2. 在online banking里还信用卡消费图文教程
 
-| 第一步：在credit card那一部分找到需要还的数额。接着，在转账的地方，把From选成chequing账户，To选为Visa账户，数额填写需要还钱的数额。然后确认。
+| 第一步：在credit card那一部分找到需要还的数额（current balance）。接着，在转账的地方，把From选成chequing账户，To选为Visa账户，数额填写需要还钱的数额。然后确认。
 
 .. attention::
    1. 如果是数值是正的，表示所欠费用；如果是0，表示已清空欠款；如果是负的，表示上次还的钱超过所欠的费用。
