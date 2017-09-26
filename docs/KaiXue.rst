@@ -30,7 +30,7 @@
 -----------------------------------------------------
 1) 办理SIN：如果在机场没有办理，则去市政厅办理即可，见 `SIN申请`_ 。
 2) 办理银行卡：见 `银行`_ 。
-3) 办理手机卡：见 `办理手机电话`_ 。
+3) 办理手机卡：见 `办理手机卡`_ 。
 4) 其它可选的手续：
 
   A) 普通Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽、MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
@@ -40,5 +40,5 @@
 .. _餐厅: CanTing.html
 .. _SIN申请: SINShenQing.html
 .. _银行: YinHang.html
-.. _办理手机电话: BanLiShouJiHeDianHua.html
+.. _办理手机卡: BanLiShouJiKa.html
 .. _Hamilton公交车: HamiltonGongJiaoChe.html
