@@ -12,7 +12,8 @@ Microsoft Office 365
 1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
 2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
 
-| 第一步：登录微软的网站 https://portal.office.com/ 。
+第一步：登录微软的网站 https://portal.office.com/ 
+
 | 用户名：MacId@ads.mcmaster.ca
 | 密码：登录mosaic的密码
 | 为了以后登录方便，可以勾上Keep me signed in。
@@ -20,12 +21,13 @@ Microsoft Office 365
 .. image:: /resource/office365/office365_1.png
    :align: center
 
-| 第二步：office网站上貌似默认装32位的office，在此推荐大家装64位的版本。点击Other installs。
+第二步：office网站上貌似默认装32位的office，在此推荐大家装64位的版本。点击Other installs。
 
 .. image:: /resource/office365/office365_2.png
    :align: center
 
-| 第三步：在version的地方选择64-bit，然后点击下方的Install。
+第三步：在version的地方选择64-bit，然后点击下方的Install。
+
 | 这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术）。它不会下载一个iso镜像，但macOS版会下载一个镜像，然后自己去安装。
 
 .. image:: /resource/office365/office365_3.png
