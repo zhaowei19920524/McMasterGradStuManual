@@ -75,7 +75,7 @@ Welcome to McMaster University!
    HamiltonJieShao
    ZuFang
    YinHang
-   BanLiShouJiHeDianHua
+   BanLiShouJiKa
    SINShenQing
    GongZuo
    JiaZhao
