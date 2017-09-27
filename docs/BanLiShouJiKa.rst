@@ -67,7 +67,7 @@ Canada手机业务介绍
 
 办理地点和准备的材料
 -------------------------------------------- 
-上面这些公司在Jackson Square基本上都有服务点（请查看 `Hamilton日常生活购物地点`_）。地址：2 King St W, Hamilton, ON L8P 1A1
+大家在网上或商店里看好手机的套餐后需要亲自去商店办理。上面提到的公司在Jackson Square基本上都有服务点（请查看 `Hamilton日常生活购物地点`_）。地址：2 King St W, Hamilton, ON L8P 1A1
 
 需要带的材料：
 
