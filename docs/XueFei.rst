@@ -2,12 +2,15 @@
 ==========
 学校Financial Service网站
 -----------------------------------------------------------------
-| 付学费的方法见学校Financial Service网站 
-| http://www.mcmaster.ca/bms/student/SAC_payment_methods.html
-| 各program的学费可以查这里 
-| http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
-| 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75并开始收利息。 
-| http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
+- 付学费的方法见学校Financial Service网站 
+
+  - http://www.mcmaster.ca/bms/student/SAC_payment_methods.html
+- 各program的学费可以查这里
+
+  - http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
+- 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75滞纳金并开始收利息。 
+
+  - http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
 
 付学费的方法
 -------------------------------------------

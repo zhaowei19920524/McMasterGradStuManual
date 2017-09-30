@@ -59,20 +59,20 @@ McMaster餐厅Meal Plan
 
 - McDonald's（麦当劳）
 
-| https://www.mcdonalds.com/ca/en-ca.html
-| 50 Dundurn St S, Hamilton, ON L8P 4W3
-| (905)577-1027
-| 麦当劳24小时营业
-| 优惠券：https://www4.mcdonalds.ca/coupons/
-| 优惠券的使用：在上面那个网页里，选择省份后，打印coupons（估计放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - https://www.mcdonalds.com/ca/en-ca.html
+  - 50 Dundurn St S, Hamilton, ON L8P 4W3
+  - (905)577-1027
+  - 麦当劳24小时营业
+  - 优惠券：https://www4.mcdonalds.ca/coupons/
+  - 优惠券的使用：在上面那个网页里，选择省份后，打印coupons（估计放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
 
 - KFC（肯德基）
 
-| http://www.kfc.ca/store/631-king-st-w-hamilton
-| 631 King St W, Hamilton, ON L8P 1C4
-| (905)528-8583
-| 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
-| 优惠券：http://www.kfc.ca/coupons
+  - http://www.kfc.ca/store/631-king-st-w-hamilton
+  - 631 King St W, Hamilton, ON L8P 1C4
+  - (905)528-8583
+  - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
+  - 优惠券：http://www.kfc.ca/coupons
 
 中餐馆
 ----------------------------------
