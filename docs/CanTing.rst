@@ -5,20 +5,26 @@
 
 McMaster餐厅官网
 -----------------------------------------
-| 官网主页：http://hospitality.mcmaster.ca/
-| Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
-| Hour：http://hospitality.mcmaster.ca/hours.html
-| On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
+- 官网主页：http://hospitality.mcmaster.ca/
+- Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+- Hour：http://hospitality.mcmaster.ca/hours.html
+- On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
 
 McMaster餐厅介绍
 --------------------------------------------
-| McMaster的可以吃饭的地方有很多，大型的餐厅主要有两个：
-| ① CENTRO@Commons：俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
+McMaster的可以吃饭的地方有很多，大型的餐厅主要有3个：
+
+1. CENTRO@Commons
+
+| 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
 | http://hospitality.mcmaster.ca/locations/centro.html
-| ② EAST MEETS WEST BISTRO：俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
+
+2. EAST MEETS WEST BISTRO
+
+| 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
 | http://hospitality.mcmaster.ca/locations/emw-bistro.html
-| ③ Student Center和其它地方的甜点店：
-| 大家看看On-Campus Location就知道了。
+
+3. Student Center一楼
 
 McMaster餐厅Meal Plan
 -------------------------------------
@@ -46,16 +52,45 @@ McMaster餐厅Meal Plan
 
 学校周边的西餐
 -----------------------------------------
-主要以Pizza和三明治为主 http://hospitality.mcmaster.ca/off-campus.html
-
-除了比较便宜的Tim Hortons甜点店，其它在学校南门对面还有：
+1. 学校南门对面：
 
 - Subway：三明治
-- Pink：汉堡薯条
+
+  - http://www.subway.com/en-ca
+  - 1335 Main St W, Hamilton, ON L8S 1C6
+  - (905)522-7827
+
+- Pinks：汉堡薯条
+
+  - http://pinksburgers.com/
+  - 1335 Main St W, Hamilton, ON L8S 1C6
+  - (905)317-4657
+  
 - Taco：墨西哥餐
+
+  - https://tacodelmar.com/
+  - 1331-1335 Main St W #5, Hamilton, ON L8S 1C6
+  - (289)389-0900
+
 - Williams：西式咖啡店。推荐里面的hot rice box和vanilla（热的）。
 
-稍远一点的有：
+  - https://williamsfreshcafe.com/
+  - 1309 Main St W, Hamilton, ON L8S 1C5
+  - (905)522-2636
+
+- Gino's Pizza：披萨店。推荐walk-in special。
+
+  - http://www.ginospizza.ca/
+  - 1309 Main St W, Hamilton, ON L8S 1C5
+  - (905)525-4444
+
+- Yogurty's：自助酸奶、冰淇淋店
+
+  - http://www.yogurtys.com/storelocator/store/4657/Main%20%20Cootes/1309%20Main%20Street%20West/Hamilton/Ontario/Canada
+  - 1309 Main St W #7, Hamilton, ON L8S 1C5
+  - (905)525-2523
+
+2. 稍远一点的有：
 
 - McDonald's（麦当劳）
 
@@ -63,8 +98,8 @@ McMaster餐厅Meal Plan
   - 50 Dundurn St S, Hamilton, ON L8P 4W3
   - (905)577-1027
   - 麦当劳24小时营业
-  - 优惠券：https://www4.mcdonalds.ca/coupons/
-  - 优惠券的使用：在上面那个网页里，选择省份后，打印coupons（估计放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - 去麦当劳吃饭强烈建议使用优惠券：https://www4.mcdonalds.ca/coupons/
+  - 优惠券的使用：在上面那个网页里，选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
 
 - KFC（肯德基）
 
@@ -73,6 +108,40 @@ McMaster餐厅Meal Plan
   - (905)528-8583
   - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
   - 优惠券：http://www.kfc.ca/coupons
+
+3. Tim Hortons
+
+| Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
+| http://www.timhortons.com/ca/en/index.php
+
+- 咖啡
+
+  - http://www.timhortons.com/ca/en/menu/coffee.php
+  - 主要有三种：Original Blend、Dark Roast Coffee、Decaf Coffee
+  - 一般喝以上原味的咖啡太苦，所以在购买的时候要跟服务员说需要cream和sugar，还可以说需要double或triple cream and sugar。
+
+- 茶
+
+  - http://www.timhortons.com/ca/en/menu/tea.php
+  - 主要有两种：Steeped Tea、Specialty Tea
+  - Steeped Tea就是店员已经冲好了。Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。
+  - Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。Specialty Tea通常需要加cream和sugar，变成奶茶来喝。
+  - 大家如果经常喝Specialty Tea，可以一次买一盒，里面有20个茶包，自己回家冲。并且非常非常便宜。
+
+- 热饮
+
+  - http://www.timhortons.com/ca/en/menu/hot-beverages.php
+  - 比较推荐：French Vanilla（法国香草）、White Hot Chocolate （热白巧克力）
+  - 它们都非常非常甜。
+
+- 冷饮
+
+  - http://www.timhortons.com/ca/en/menu/cold-beverages.php
+  - 其中Iced Capp是比较受欢迎的。
+
+- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。
+
+4. 其它：http://hospitality.mcmaster.ca/off-campus.html
 
 中餐馆
 ----------------------------------
