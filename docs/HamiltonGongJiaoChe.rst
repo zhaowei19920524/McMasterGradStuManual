@@ -86,3 +86,7 @@ Campus Store只负责卡片的分发。
 ---------------------
 - HSR （Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
 - HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
+- 查车APP：Transit
+
+  - iOS：https://itunes.apple.com/app/apple-store/id498151501?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.thetransitapp.droid

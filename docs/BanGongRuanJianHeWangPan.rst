@@ -4,6 +4,7 @@ Microsoft Office 365
 -----------------------------
 | 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
 | http://www.mcmaster.ca/uts/office365/index.html
+| Office 365 Education E5的价格是 https://products.office.com/en-ca/academic/compare-office-365-education-plans
 
 **Part I：电脑上的office的使用方法**
 
