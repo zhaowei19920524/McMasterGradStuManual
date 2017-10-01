@@ -8,7 +8,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 | 这个是主要的Internet接入方式。不限流量。速度是100Mb/s下载，100Mb/s上传。在McMaster所有的校区都能访问。
 | 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。
-| 连接成功后，你的设备会获得一个172.17.*.*的私有IP地址，可以无限制的访问Internet。
+| 连接成功后，你的设备会获得一个[172.16.0.0~172.31.255.255]区间内的B类私有IP地址，可以无限制的访问Internet。
 
 2. LAN：插网线
 
@@ -37,17 +37,20 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 三、家庭宽带
 -------------------------------------------------------
-- Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有altima, start.ca，CIK等等。小公司一般是先从大的公司购买宽带，再卖给小的家庭，优惠幅度极大，但是晚上等用网高峰时段，网络时常不稳定，网速波动较大。
+- Canada提供宽带的公司不计其数，大的公司有Bell、Rogers，小的公司有Carry、altima, start.ca，CIK等等。
+- 小公司一般是先从大的公司购买宽带，再卖给家庭，优惠幅度极大，但是晚上等用网高峰时段，网络时常不稳定，网速波动较大。
 
-  - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
-  - Rogers：https://residential.rogers.com/ontario/internet 网也非常稳定，且已经完全为家庭用户提供了ipv6的支持。
-  - Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由14-ECE-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。
-  - altima：https://www.altimatel.com/shop/internet
-  - start.ca：https://www.start.ca/
-  - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
-  - Cogego：https://www.cogeco.ca/en/internet/packages
+以下是常见的提供宽带服务的公司：
 
-- 其它便宜的Internet，大家可以去51.ca（加国无忧网）搜索一下。打开 http://www.51.ca/service/ ， 找到“上网电视“。里面有很多优惠活动。大家可以放心去打电话办理，至今没听说诈骗的情况。
+- Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
+- Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，且已经完全为家庭用户提供了ipv6的支持。
+- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由14-ECE-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。
+- altima：https://www.altimatel.com/shop/internet
+- start.ca：https://www.start.ca/
+- CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
+- Cogego：https://www.cogeco.ca/en/internet/packages
+
+其它便宜的Internet，大家可以去51.ca（加国无忧网）搜索一下。打开 http://www.51.ca/service/ ， 找到“上网电视“。里面有很多优惠活动。大家可以放心去打电话办理，至今没听说诈骗的情况。
 
 注
 -------------------------

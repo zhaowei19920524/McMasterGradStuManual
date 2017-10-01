@@ -4,14 +4,13 @@ Microsoft Office 365
 -----------------------------
 | 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
 | http://www.mcmaster.ca/uts/office365/index.html
-| Office 365 Education E5的价格是 https://products.office.com/en-ca/academic/compare-office-365-education-plans
+| 学校购买的Office 365 Education E5的价格是 https://products.office.com/en-ca/academic/compare-office-365-education-plans
 
 **Part I：电脑上的office的使用方法**
 
-写在前面的注意事项：
-
-1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
-2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
+.. attention::
+  1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
+  2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
 
 第一步：登录微软的网站 https://portal.office.com/ 
 
