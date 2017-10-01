@@ -11,7 +11,7 @@ G1
 -----------------------
 作用：
 
-1. 在Ontario最为基本的身份证，可以代替护照。这是出于安全考虑。
+1. 在Ontario最为基本的身份证，可以代替护照。这是出于安全考虑，而且在某些情况下，使用驾照会比护照更有效且高效。
 2. 可以在持有4年以上G license的人的陪同下开车，陪同人员必须坐在副驾驶的位置上。但不可以上高速，不可以在午夜至5:00 am期间开车。车上所有人都要系安全带。
 
 G1需要去Hamilton驾照考试中心参加考试。需要带护照。考试形式为上机考试。全部是选择题，题目类型分为2部分：
@@ -56,4 +56,4 @@ G license是终身制。
 ---------------------
 1. 驾照翻译 
 
-| http://search.atio.on.ca/search/do/SE962938e797d 
+| http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
