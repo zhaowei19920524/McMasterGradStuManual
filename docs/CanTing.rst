@@ -28,18 +28,22 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有3个：
 
 McMaster餐厅Meal Plan
 -------------------------------------
-| 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。其它甜点店比如Tim Hortons稍微便宜点。
-| 办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。
-| 学生卡不但可以用于餐厅，也可以用在学校里任何一个餐饮店。
-| http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
-.. image:: resource/MealPlan.jpg
+对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。学生卡不但可以用于餐厅，也可以用在学校里任何一个餐饮店。
 
-| 有两种Meal Plan：
-| ①Freedom Plan（建议）
+.. image:: resource/CanTing/MealPlan.jpg
+   :align: center
+
+有两种Meal Plan：
+
+1. Freedom Plan（建议）
+
 | 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
 | 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
-| ②Term Plan
+
+2. Term Plan
+
 | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
 | 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
 
@@ -124,9 +128,8 @@ McMaster餐厅Meal Plan
 
   - http://www.timhortons.com/ca/en/menu/tea.php
   - 主要有两种：Steeped Tea、Specialty Tea
-  - Steeped Tea就是店员已经冲好了。Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。
-  - Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。Specialty Tea通常需要加cream和sugar，变成奶茶来喝。
-  - 大家如果经常喝Specialty Tea，可以一次买一盒，里面有20个茶包，自己回家冲。并且非常非常便宜。
+  - Steeped Tea就是店员已经冲好了。
+  - Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。按照当地人的习惯通常需要加cream和sugar，变成奶茶来喝。大家如果经常喝Specialty Tea，可以一次买一盒，里面有20个茶包，自己回家冲。并且非常非常便宜。
 
 - 热饮
 
@@ -139,7 +142,19 @@ McMaster餐厅Meal Plan
   - http://www.timhortons.com/ca/en/menu/cold-beverages.php
   - 其中Iced Capp是比较受欢迎的。
 
-- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。
+- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。一般小的Tim Hortons店里只有甜点。
+
+.. image:: resource/CanTing/CanTing_Tim_0.png
+   :align: center
+
+.. image:: resource/CanTing/CanTing_Tim_1.png
+   :align: center
+
+.. image:: resource/CanTing/CanTing_Tim_2.png
+   :align: center
+
+.. image:: resource/CanTing/CanTing_Tim_3.png
+   :align: center
 
 4. 其它：http://hospitality.mcmaster.ca/off-campus.html
 
