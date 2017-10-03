@@ -134,7 +134,7 @@
 | ②蓝色的气球代表最多有2个bedroom的apt
 | ③紫色的气球代表最多有3个或3个以上bedroom的apt
 | 图中的apt没有包含以下几种类型：正在售卖的condo或已经卖出的condo再转租、马路边商店二楼的房间出租（太吵）、student apartments in a house。
-| 若有失效的链接请及时与14-ECE-赵伟联系。
+| 若有失效的链接请及时与17-CAS-赵伟联系。
 
 .. raw:: html
 
