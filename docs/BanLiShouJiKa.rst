@@ -28,7 +28,7 @@ Canada手机业务介绍
 
 选择运营商
 -------------------------------------------- 
-- 加拿大比较大的几家电信公司有：Rogers，Fido，Telus，Bell等等，相当于国内的移动、联通和电信。还有其它的公司，大一点的有Fido（Rogers旗下），小一点的有Chatr，Virgin，Freedom，Kodoo，mobilicity等等。 
+- 加拿大比较大的几家电信公司有：Bell、Rogers、Fido、Telus等等，相当于国内的移动、联通和电信。还有小一点的公司有Chatr，Virgin，Freedom，Kodoo等。 
 - 使用得比较多的公司排序依次是：Fido > Rogers > Telus > Chatr > Freedom。Fido由于信号非常好，价格也相对适中，所以用得同学是最多的。
 - 运营商列表
 
@@ -40,7 +40,6 @@ Canada手机业务介绍
   - Chatr：http://www.chatrwireless.com/ 
   - Freedom：https://www.freedommobile.ca/
   - kodoo：http://koodomobile.com/index.shtml?region 
-  - mobilicity：http://mobilicity.ca/ 
 
 选择套餐（plan）
 -------------------------------------------- 

@@ -47,12 +47,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
 | 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
 
-| 想要申请Meal Plan的同学填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
-| Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值开始大家就可以在网上操作了，在网上不但可以充值，也可以查看余额。
-| 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
-| 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
-| 充值：登录后点击ADD CASH。
-| 查看余额：登录后点击FINANCIAL->BALANCES。
+申请Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
+
+- Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值起，就可以在网上操作了，在网上不但可以充值，也可以查看余额。
+- 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
+- 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
+- 充值：登录后点击ADD CASH。
+- 查看余额：登录后点击FINANCIAL->BALANCES。
 
 学校周边的西餐
 -----------------------------------------
@@ -142,7 +143,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.timhortons.com/ca/en/menu/cold-beverages.php
   - 其中Iced Capp是比较受欢迎的。
 
-- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。一般小的Tim Hortons店里只有甜点。
+- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。一般小的Tim Hortons店里只有甜点（下面第一幅图）。
 
 .. image:: resource/CanTing/CanTing_Tim_0.png
    :align: center
