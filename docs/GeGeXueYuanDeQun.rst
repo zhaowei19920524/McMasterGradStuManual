@@ -7,27 +7,22 @@
 - ITB(CAS+ECE)
 
   - QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
-
 - Mechanical Engineering
 
   - QQ群：101378940
-
 - Civil Engineering
 
   - QQ群：287385782
-
 - W Booth (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
 
   - 15级 QQ群：368774358
   - 16级 微信群：请联系16-MEEI-张宸赫
   - 17级 微信群：请联系17-MTEI-刘润杰
-
 - MBA
 
   - QQ群：371421802
   - 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
-
 - MFin
 
   - 13级 QQ群：57925102
@@ -35,11 +30,9 @@
   - 15级 QQ群：478977527
   - 16级 QQ群：499347968
   - 17级 QQ群：606792601
-
 - Health Science
 
   - 微信群：请联系17-HP-王琪或14-HRM-亚平
-
 - Mathematics & Statistics
 
   - 微信群：请联系16-STATS-曾进
@@ -76,22 +69,21 @@ McMaster常见学院及简称
     - Engineering Entrepreneurship and Innovation：MEEI
     - Technology Entrepreneurship and Innovation：MTEI
     - Manufacturing Engineering：Manufacturing或MEME
-
 - DeGroote School of Business
 
   - Master of Finance：MFin
   - Master of Business Administration：MBA
-  - eHealth：eHealth
   - Doctor of Business Administration：DBA
 
     - Finance：DFin
-    - Accounting：ACCT
+    - Accounting：Accounting或ACCT
     - Information Systems：IS
     - Health Management：暂无
     - Management of Organizational Behaviour and Human Resources：OB&HR
     - Management Science：暂无
     - Marketing：暂无
-
+  - eHealth：eHealth
+  - Executive MBA：EMBA
 - Science
 
   - Biology：Biology或bio
@@ -102,7 +94,6 @@ McMaster常见学院及简称
   - Mathematics & Statistics：math或stats
   - Physics & Astronomy：Astronomy
   - Psychology, Neuroscience & Behaviour：Psychology
-
 - Health Sciences
 
   - Biochemistry & Biomedical Sciences：BMS
@@ -124,11 +115,8 @@ McMaster常见学院及简称
   - Medical Sciences：medsci
   - Nursing：Nursing
   - Child Life and Pediatric Psychosocial Care：childlife
-
 - Humanities：暂无
-
 - Social Sciences：social
-
 - Arts：暂无
 
 个别专业辨析

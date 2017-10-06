@@ -3,7 +3,7 @@
 一、医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。UHIP提供和OHIP一样的coverage。本国学生有OHIP(Ontario Health Insurance Plan) cover，国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：登录sunlife→benefits centre→coverage→my coverage→print my coverage card。  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center所有学生必须参加医疗保险, 具体有一下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。- UHIP/OHIP大体上只能报销看病的门诊费。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：登录sunlife→benefits centre→coverage→my coverage→print my coverage card。  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my sun life”查看。
 
 .. image:: /resource/Insurance/my_sunlife_app_1.png
@@ -13,7 +13,6 @@
    :align: center
 - 若8月毕业后，可申请UHIP有效至当年年底。2. GSA Health Insurance Plan - 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
-
 3. GSA Dental Insurance Plan- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。- 学校student center就有牙医诊所。Campus dentist预约：905-526-6020或 mcmaster@campusdentist.com 。网址： http://www.campusdentist.com/
 - GSA Dental Insurance Plan也提供了其它牙医诊所，请在网页右上角查找
 
