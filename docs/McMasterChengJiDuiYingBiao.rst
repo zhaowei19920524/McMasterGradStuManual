@@ -2,12 +2,7 @@
 ===================================
 McMaster成绩对应表：
 
-| B-：70~72 
-| B：73~76 
-| B+：77~79 
-| A-：80~84 
-| A：85~89 
-| A+：90~100 
+https://registrar.mcmaster.ca/services/transcripts/transcript-legend/
 
 .. image:: /resource/Marking_Schemes.jpg
  
