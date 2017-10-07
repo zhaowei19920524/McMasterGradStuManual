@@ -15,6 +15,19 @@ SGS 101# Academic Research Integrity and Ethics：德育课程，如考试不能
 
 SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同样，在学习完之后有一个online测试，必须保证所有题目全部正确，可以进行无限次尝试。 
 
+两门课程的考试顺利通过后，可以在Mosaic上查询课程结果。以下是查询窗口：
+
+.. image:: /resource/SGS/SGS_01.png
+   :align: center
+
+.. image:: /resource/SGS/SGS_02.png
+   :align: center
+
+.. image:: /resource/SGS/SGS_03.png
+   :align: center
+
+看到两门课程最后都有绿色的钩后即为通过。
+
 这两门课如果最终考试没通过，不但要计入挂科总数里，也会影响term 2的选课。
 
 三、academically accredited course OR a placeholder course
