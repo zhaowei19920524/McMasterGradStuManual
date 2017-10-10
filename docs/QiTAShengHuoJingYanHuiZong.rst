@@ -117,5 +117,4 @@
 | 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
 
 | Hamilton 华人网：http://www.hamiltonchinese.ca/
-| 新麦马论坛：http://hihamilton.com/
 | McMaster - 中国学生论坛：http://www.maccssa.org/

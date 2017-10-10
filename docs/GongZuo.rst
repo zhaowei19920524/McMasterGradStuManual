@@ -6,8 +6,8 @@ TA: Teaching Assistant
 
 比较特殊的有：
 
- - business学院：master学生不能选本院的TA，但PhD可以。 
- - 其它学院：如果offer上没写有TA，则不能优先选TA，只有等offer上写TA的同学选完还有剩余的名额才可以选。
+- business学院：master学生不能选本院的TA，但PhD可以。 
+- 其它学院：如果offer上没写有TA，则不能优先选TA，只有等offer上写TA的同学选完还有剩余的名额才可以选。
 
 如果本院的TA选不了，可以选其它学院的，不过要等其它学院选完，还有空余的名额才能选。 
 
