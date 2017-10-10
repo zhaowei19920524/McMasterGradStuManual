@@ -9,7 +9,7 @@
 
 - McMaster官方租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ 
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
-- McMaster的中文学生论坛：https://hihamilton.com ，https://www.maccssa.org/
+- McMaster的中国学生论坛：https://www.maccssa.org/
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
 - 租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。 
 
@@ -134,7 +134,7 @@
 | ②蓝色的气球代表最多有2个bedroom的apt
 | ③紫色的气球代表最多有3个或3个以上bedroom的apt
 | 图中的apt没有包含以下几种类型：正在售卖的condo或已经卖出的condo再转租、马路边商店二楼的房间出租（太吵）、student apartments in a house。
-| 若有失效的链接请及时与17-CAS-赵伟联系。
+| 若有失效的链接请及时与17-CAS-赵伟联系。如果失效的链接是macoffcampus网站的链接，则说明该公寓已满，公寓管理员暂时撤去出租广告。.
 
 .. raw:: html
 

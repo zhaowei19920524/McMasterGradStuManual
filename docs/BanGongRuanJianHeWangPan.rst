@@ -130,6 +130,12 @@ Microsoft实用办公工具
 | iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
 | Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 
+2. Microsoft Forms
+
+| https://forms.office.com
+| 微软推出的在线问卷和在线quiz系统。
+| 可以自己新建问卷和quiz。
+
 其它常用软件
 ----------------------------------
 1. WinRAR
