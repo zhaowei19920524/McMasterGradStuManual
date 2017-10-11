@@ -102,9 +102,8 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.mcdonalds.com/ca/en-ca.html
   - 50 Dundurn St S, Hamilton, ON L8P 4W3
   - (905)577-1027
-  - 麦当劳24小时营业
-  - 去麦当劳吃饭强烈建议使用优惠券：https://www4.mcdonalds.ca/coupons/
-  - 优惠券的使用：在上面那个网页里，选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - 麦当劳24小时营业。
+  - 去麦当劳吃饭强烈建议使用优惠券（如果有）：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
 
 - KFC（肯德基）
 
@@ -129,7 +128,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
   - http://www.timhortons.com/ca/en/menu/tea.php
   - 主要有两种：Steeped Tea、Specialty Tea
-  - Steeped Tea就是店员已经冲好了。
+  - Steeped Tea就是店员已经冲好的茶水。
   - Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。按照当地人的习惯通常需要加cream和sugar，变成奶茶来喝。大家如果经常喝Specialty Tea，可以一次买一盒，里面有20个茶包，自己回家冲。并且非常非常便宜。
 
 - 热饮
@@ -348,5 +347,5 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 注
 -------------------
-1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
+1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
 #) 去外面的餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。

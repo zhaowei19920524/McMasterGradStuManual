@@ -371,3 +371,6 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 #) Study Permit和Study Visa从即将失效到提交延长的申请最终都通过之前，请勿离开Canada。更不要打算在Canada境外提交延长所需的材料，否则可能还需要额外提交语言考试的成绩或体检单。
 #) 如果旧的Study Permit失效后才提交延长申请，则需额外交$200罚金。http://www.cic.gc.ca/english/study/study-extend.asp 。如果失效时间太长（超过3个月）都没有提交延长申请，移民局将视为非法居留而会采取强制措施。
 #) 如果大家的情况和上面的图文教程不一样，或对自己准备提交的材料没有100%的把握，请带上所需的材料尽快去学校里的Immigration consultant咨询。https://iss.mcmaster.ca/immigration/consultant/
+
+.. image:: /resource/StudyPermitVisa/immigration_consultant_appointment.png
+   :align: center
