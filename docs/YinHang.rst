@@ -58,7 +58,7 @@ Overdraft：叫做透支额保护，需另外申请，这个业务的功能是�
 
 .. image:: /resource/rbc_mcmaster_contact.jpeg
    :align: center
-   :scale: 50 %
+   :scale: 50%
 
 - 有关银行的问题也可以询问群里13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在Hamilton的CIBC工作，现在在Hamilton的Scotiabank上班。
    
