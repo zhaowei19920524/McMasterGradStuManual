@@ -6,7 +6,7 @@
 学校的邮件系统为所有学生和员工提供一个 MacID@mcmaster.ca 的邮箱，具体分为2部分
 
 - 本科生和研究生使用的是Google的企业邮箱服务，就是Gmail的企业版，在国内无法登陆，甚至激活都不可以，大家来Canada之后再激活登陆。如果想在国内激活并访问，请自行搜索翻墙方法。
-- Post doc、访问学者、联培学生和学校教职工使用的是Microsoft Exchange企业邮箱，就是Outlook的企业版，这个在国内可以登陆，现在已经可以激活并且使用了。
+- Post doc、访问学者、联培学生和学校教职工使用的是Microsoft Exchange企业邮箱，就是outlook.com的企业版，这个在国内可以登陆，现在已经可以激活并且使用了。
 
 激活方法
 ---------------------------------------
@@ -45,8 +45,6 @@
 
 邮箱客户端收发方法
 -------------------------------------------------
-
-
 iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用Outlook和Gmail客户端。
 
 1. 本科生、研究生
@@ -63,7 +61,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 | Outgoing server to require authentication using the same credentials as the incoming server. 
 | 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
 
-| 方法二（建议）：使用客户端自动配置功能。见附2。
+| 方法二（建议）：使用客户端自动配置功能。见附2。如果你已经把课程安排导入Google calendar，用这种方法还可以在同步邮箱的同时，同步Google calendar。这样就可以在客户端上看每周课程安排了。
 
 2. Post doc、访问学者、联培学生和学校教职工
 
@@ -109,10 +107,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 2) 手机Outlook客户端设置方法（本科生、研究生的邮箱）
 
-  步骤：
-
-| 第一步：
-| 下载客户端
+| 第一步：下载客户端
 | iOS：https://itunes.apple.com/ca/app/microsoft-outlook-email-and-calendar/id951937596?mt=8
 | Android：https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
 
@@ -120,50 +115,43 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
    :align: center
    :scale: 25%
 
-| 第二步：
-| 打开后点击左上角的三条横线的图标，然后点击加号。
+| 第二步： 打开后点击左上角的三条横线的图标，然后点击加号。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_2.png
    :align: center
    :scale: 25%
 
-| 第三步：
-| 输入McMaster邮箱的地址：MacID@mcmaster.ca。
+| 第三步：输入McMaster邮箱的地址：MacID@mcmaster.ca。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_3.png
    :align: center
    :scale: 25%
 
-| 第四步：
-| 点击右上角“Not Exchange”。再选“Change Account Provider”。
+| 第四步：点击右上角“Not Exchange”。再选“Change Account Provider”。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_4.png
    :align: center
    :scale: 25%
 
-| 第五步：
-| 选“Google”。
+| 第五步：选“Google”。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_5.png
    :align: center
    :scale: 25%
 
-| 第六步：
-| 在弹出的网页里登录邮箱。
+| 第六步：在弹出的网页里登录邮箱。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_6.png
    :align: center
    :scale: 25%
 
-| 第七步：
-| 点击McMaster的邮箱账户。
+| 第七步：点击McMaster的邮箱账户。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_7.png
    :align: center
    :scale: 25%
 
-| 第八步：
-| 点击Allow。Outlook客户端就会开始自动同步McMaster邮箱。
+| 第八步：点击Allow。Outlook客户端就会开始自动同步McMaster邮箱。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_8.png
    :align: center

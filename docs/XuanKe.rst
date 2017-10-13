@@ -70,8 +70,10 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 2. 注册后，选了Payment Agreement，选了课，你仍会看到你的status是 incomplete，这是因为你的study permit还没有交到研究生院。9月开学到学校后，将你的study permit交到研究生院GH212，才fully registered. 
 3. 想选的课如果满了，可以联系系秘书试试。
 
-附：学长学姐推荐课程
+附
 -----------------------------------------
+1) 学长学姐推荐课程
+
 .. note::
    
    | Mfin：
@@ -94,3 +96,20 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 
    | WBooth: 
    | 先把必修课选了，选修课等来了之后再定。 
+
+2) 选课成功后，把课程安排导入Google calendar
+
+| 第一步：登录mosaic，点击“Copy Schedule to Google”。
+
+.. image:: /resource/XuanKe/KeCheng_GoogleCalendar_1.png
+   :align: center
+
+| 第二步：按照网页里的步骤一步一步进行。
+
+.. image:: /resource/XuanKe/KeCheng_GoogleCalendar_2.png
+   :align: center
+
+| 第三步：查看Google calendar。
+
+.. image:: /resource/XuanKe/KeCheng_GoogleCalendar_3.png
+   :align: center
