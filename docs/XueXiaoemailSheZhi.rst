@@ -6,7 +6,7 @@
 学校的邮件系统为所有学生和员工提供一个 MacID@mcmaster.ca 的邮箱，具体分为2部分
 
 - 本科生和研究生使用的是Google的企业邮箱服务，就是Gmail的企业版，在国内无法登陆，甚至激活都不可以，大家来Canada之后再激活登陆。如果想在国内激活并访问，请自行搜索翻墙方法。
-- Post doc、访问学者、联培学生和学校教职工使用的是Microsoft Exchange企业邮箱，就是outlook.com的企业版，这个在国内可以登陆，现在已经可以激活并且使用了。
+- Post doc、访问学者、联培学生和学校教职工使用的是Microsoft Exchange企业邮箱，就是outlook.com的企业版，这个在国内可以登陆，注册完之后就可以激活并且使用了。
 
 激活方法
 ---------------------------------------
@@ -61,7 +61,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 | Outgoing server to require authentication using the same credentials as the incoming server. 
 | 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
 
-| 方法二（建议）：使用客户端自动配置功能。见附2。如果你已经把课程安排导入Google calendar，用这种方法还可以在同步邮箱的同时，同步Google calendar。这样就可以在客户端上看每周课程安排了。
+| 方法二（建议）：使用客户端自动配置功能。见附2、附3。如果你已经把课程安排导入Google calendar，用这种方法还可以在同步邮箱的同时，同步Google calendar。这样就可以在客户端上看每周课程安排了。
 
 2. Post doc、访问学者、联培学生和学校教职工
 
@@ -156,3 +156,54 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_8.png
    :align: center
    :scale: 25%
+
+| 最后，outlook客户端就开始同步McMaster的邮箱
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_ios_9.png
+   :align: center
+   :scale: 25%
+
+| 如果已经把课程表导入到McMaster邮箱附带的Google calendar里，则日历也会同步。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_ios_10.png
+   :align: center
+   :scale: 25%
+
+3) 电脑Outlook客户端设置方法（本科生、研究生的邮箱）
+
+| 首先确保你的电脑上已经安装了Outlook客户端。如果没安装，请参考 `办公软件和网盘`_ 里安装office365的教程。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_icon.png
+   :align: center
+
+| 第一步：打开Outlook客户端，它会自动提示新建账户，填写McMaster邮箱的地址 MacID@mcmaster.ca。点“Advanced option”，然后勾上“Let me set up my account manually”。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_01.png
+   :align: center
+
+| 第二步：点击Google的图标。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_02.png
+   :align: center
+
+| 第三步：输入McMaster邮箱的设置信息，这个在上面已经提到了。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_03.png
+   :align: center
+
+| 第四步：在弹出框中输入mosaic的密码。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.png
+   :align: center
+
+| 第五步：一个设置成功的页面，点击OK即可。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_05.png
+   :align: center
+
+| 对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置自动启动，大家可以在百度上搜索相关教程。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_settings_01.png
+   :align: center
+
+.. _办公软件和网盘: BanGongRuanJianHeWangPan.html

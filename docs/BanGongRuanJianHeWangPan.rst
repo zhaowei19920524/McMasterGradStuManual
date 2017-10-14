@@ -2,9 +2,13 @@
 ==============================
 Microsoft Office 365
 -----------------------------
-| 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
-| http://www.mcmaster.ca/uts/office365/index.html
-| 学校购买的Office 365 Education E5的价格是 https://products.office.com/en-ca/academic/compare-office-365-education-plans
+- 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
+
+  - http://www.mcmaster.ca/uts/office365/index.html
+- 学校购买的Office 365包括两部分服务
+
+  - Office 365 A1 for students：主要包括在线版本的office和团队合作工具Teams。https://products.office.com/en-us/academic/compare-office-365-education-plans
+  - Office 365 ProPlus for students：主要包括完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
 
 **Part I：电脑上的office的使用方法**
 
@@ -150,8 +154,6 @@ Microsoft实用办公工具
 
 | http://siva.bgk.uni-obuda.hu/setup/_Mathlab_Simulink/
 
-注：business学院的学生可以远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。请在vmba.mcmaster.ca使用自己的Mac id和密码登录
-
 附
 -------------------------
 1. 查看当前安装的office是不是office365
@@ -163,13 +165,43 @@ Microsoft实用办公工具
 .. image:: /resource/office365/check_if_office365.png
    :align: center
 
-2. Microsoft Imagine Premium（仅针对ECE和CAS学院的学生）
+2. 微软邮件服务介绍
+
+| outlook.com：就是我们平常说的个人版的outlook邮箱。
+| Outlook：指的是Microsoft推出的邮箱客户端，仅仅是个软件。可以同步几乎所有的邮箱，包括outlook.com、Gmail、163邮箱等等的邮件。
+| Exchange：Microsoft推出的企业邮箱，企业付费后可以自定义用户名和域名，比如McMaster的企业邮箱的用户名和域名就是 MacID@mcmaster.ca。
+
+3. Microsoft Imagine Premium（仅针对ECE和CAS学院的学生）
 
 | 你们的学院已经为本院每一个学生购买了Microsoft Imagine Premium的授权。
 | 这两个院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
-| ECE：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=1184cd61-0082-e211-bf66-f04da23e67f4&vsro=8 
+| ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
 | CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
 | 请联系本学院technical staff获取账户。
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
+
+4. 学院服务器
+
+   部分学院提供了高性能计算机或超级计算机供学生使用。
+
+   A. Computing and Software
+
+   | https://www.cas.mcmaster.ca/support/index.php/Main_Page
+   | virtual desktop：私有云Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
+   | 私有的版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
+   | 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
+
+   B. Business
+
+   | business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
+   | 登录网址：https://vlab.business.mcmaster.ca/
+   | 用户名：ADS\Mac ID
+   | 密码：登录mosaic的密码
+
+   C. Math and Statistics
+
+   | 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
+   | https://rhpcs.mcmaster.ca/
+   | 请联系导师或本院的technical staff。
