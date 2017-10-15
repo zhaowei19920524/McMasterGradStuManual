@@ -60,7 +60,7 @@ Microsoft Office 365
 
 1. 学校提供的office授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
 2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
-3. MacId@ads.mcmaster.ca仅仅是一个用户名，不是邮箱。
+3. MacId@ads.mcmaster.ca 仅仅是一个用户名，不是邮箱。
 
 Windows 10
 ----------------------------------------------
@@ -108,6 +108,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 下载地址：https://www.google.com/drive/download/client/
 | 使用方法：使用Gmail的邮箱账户登录即可。
 | 在线登录方法：https://drive.google.com/
+| 注：在国内无法访问。
 
 4. Google Drive（G Suite）
 
@@ -116,7 +117,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 下载地址： https://www.google.com/drive/download/client/
 | 使用方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
 | 在线登录方法：https://drive.google.com/
-| 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+| 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 5. Dropbox
 
@@ -167,9 +168,9 @@ Microsoft实用办公工具
 
 2. 微软邮件服务介绍
 
-| outlook.com：就是我们平常说的个人版的outlook邮箱。
-| Outlook：指的是Microsoft推出的邮箱客户端，仅仅是个软件。可以同步几乎所有的邮箱，包括outlook.com、Gmail、163邮箱等等的邮件。
-| Exchange：Microsoft推出的企业邮箱，企业付费后可以自定义用户名和域名，比如McMaster的企业邮箱的用户名和域名就是 MacID@mcmaster.ca。
+- outlook.com：就是我们平常说的个人版的outlook邮箱。
+- Outlook：指的是Microsoft推出的邮箱客户端，仅仅是个软件。可以同步几乎所有的邮箱，包括outlook.com、Gmail、163邮箱等等的邮件。
+- Exchange：Microsoft推出的企业邮箱，企业付费后可以自定义用户名和域名，比如McMaster的企业邮箱的用户名和域名就是 MacID@mcmaster.ca。
 
 3. Microsoft Imagine Premium（仅针对ECE和CAS学院的学生）
 
@@ -184,24 +185,24 @@ Microsoft实用办公工具
 
 4. 学院服务器
 
-   部分学院提供了高性能计算机或超级计算机供学生使用。
+  部分学院提供了高性能计算机或超级计算机供学生使用。
 
-   A. Computing and Software
+  A. Computing and Software
 
-   | https://www.cas.mcmaster.ca/support/index.php/Main_Page
-   | virtual desktop：私有云Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
-   | 私有的版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
-   | 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
+  | https://www.cas.mcmaster.ca/support/index.php/Main_Page
+  | virtual desktop：私有云Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
+  | 私有的版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
+  | 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
 
-   B. Business
+  B. Business
 
-   | business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
-   | 登录网址：https://vlab.business.mcmaster.ca/
-   | 用户名：ADS\Mac ID
-   | 密码：登录mosaic的密码
+  | business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
+  | 登录网址：https://vlab.business.mcmaster.ca/
+  | 用户名：ADS\Mac ID
+  | 密码：登录mosaic的密码
 
-   C. Math and Statistics
+  C. Math and Statistics
 
-   | 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
-   | https://rhpcs.mcmaster.ca/
-   | 请联系导师或本院的technical staff。
+  | 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
+  | https://rhpcs.mcmaster.ca/
+  | 请联系导师或本院的technical staff。

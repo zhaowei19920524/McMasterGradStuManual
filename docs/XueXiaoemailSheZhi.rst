@@ -85,7 +85,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/IMAP_1.png
    :align: center
 
-| 第二步：在“Forwarding and POP/IMAP”列表下，选择“Enable IMAP”。
+| 第二步：在“Forwarding and POP/IMAP”列表下，选择“Enable IMAP”。然后点“Save Changes”。
 
 .. image:: /resource/XueXiaoemailSheZhi/IMAP_2.png
    :align: center
@@ -175,8 +175,9 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_icon.png
    :align: center
+   :scale: 50%
 
-| 第一步：打开Outlook客户端，它会自动提示新建账户，填写McMaster邮箱的地址 MacID@mcmaster.ca。点“Advanced option”，然后勾上“Let me set up my account manually”。
+| 第一步：打开Outlook客户端，它会自动提示新建账户，填写McMaster邮箱的地址 MacID@mcmaster.ca。点“Advanced options”，然后勾上“Let me set up my account manually”。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_01.png
    :align: center
@@ -201,9 +202,57 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_05.png
    :align: center
 
-| 对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置自动启动，大家可以在百度上搜索相关教程。
+对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置自动启动，大家可以在百度上搜索相关教程。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_settings_01.png
+   :align: center
+   :scale: 50%
+
+Outlook桌面客户端需要额外设置同步Google Calendar，以下是步骤：
+
+| 第一步：打开Google Calendar：https://calendar.google.com/ 。使用McMaster的邮箱账户登录。
+| 在左侧点击有课程表的日历的右边向下的箭头。点击“Calendar settings”。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_01.png
+   :align: center
+
+| 第二步：在“Private Address”那一栏里点击“ICAL”的图标。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_02.png
+   :align: center
+
+| 第三步：复制弹出框中的链接。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_03.png
+   :align: center
+
+| 第四步：打开Outlook桌面客户端，在左下角点击日历的图标。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_04.png
+   :align: center
+   :scale: 50%
+
+| 第五步：右键点击左侧“Other Calendars”->“Add Calendar”->“From Internet...”
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_05.png
+   :align: center
+   :scale: 50%
+
+| 第六步：在弹出框中粘贴之前网页里的链接。点“OK”。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_06.png
+   :align: center
+   :scale: 50%
+
+| 第七步：在弹出框里选“Yes”。这样Outlook客户端就会按一定频率检查Google Calendar，如果有更新就会实时更新到Outlook客户端里。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_07.png
+   :align: center
+   :scale: 50%
+
+| 然后就可以在Outlook里查看McMaster邮箱的Calendar了。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_calendar_08.png
    :align: center
 
 .. _办公软件和网盘: BanGongRuanJianHeWangPan.html
