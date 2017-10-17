@@ -65,7 +65,8 @@ Welcome to McMaster University!
    GGWC
    McMasterZaiDuZhengMing
    McMasterChengJiDan
-   TanQinQianZheng
+   TanQinQianZheng_ZiNv
+   TanQinQianZheng_PeiOu_XiongDiJieMei
    ExtendStudyPermitVisa
 
 .. toctree::
