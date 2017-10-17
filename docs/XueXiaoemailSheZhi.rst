@@ -51,7 +51,8 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 | 首先在邮箱网页里设置允许IMAP协议和允许客户端访问（见附1）。然后是两种设置客户端的方法。
 
-| 方法一：
+- 方法一：
+
 | Account type: IMAP 
 | Incoming server: mcmasterimap.mcmaster.ca 
 | Outgoing server: mcmastersmtp.mcmaster.ca 
@@ -61,7 +62,9 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 | Outgoing server to require authentication using the same credentials as the incoming server. 
 | 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
 
-| 方法二（建议）：使用客户端自动配置功能。见附2、附3。如果你已经把课程安排导入Google calendar，用这种方法还可以在同步邮箱的同时，同步Google calendar。这样就可以在客户端上看每周课程安排了。
+- 方法二（建议）
+
+| 使用客户端自动配置功能。见附2、附3。如果你已经把课程安排导入Google calendar，用这种方法还可以在同步邮箱的同时，同步Google calendar。这样就可以在客户端上看每周课程安排了。
 
 2. Post doc、访问学者、联培学生和学校教职工
 
