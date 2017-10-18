@@ -1,2 +1,5 @@
 .vs/
 /docs/_build
+.DS_Store
+docs/.DS_Store
+docs/resource/.DS_Store
