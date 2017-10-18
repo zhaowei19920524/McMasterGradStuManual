@@ -223,6 +223,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 165 King St. East, Hamilton
   - (905)529-2226
 
+- 七味烤鱼：点菜制
+
+  - http://yellowpages.superlife.ca/yellowpagesclassify/七味烤鱼/
+  -	16 Jarvis St, Hamilton, ON L8R 1M2 
+  - (905)769-6163 
+
 - Spring grill house（自助烧烤）
 
   - http://springgrillhouse.com/
