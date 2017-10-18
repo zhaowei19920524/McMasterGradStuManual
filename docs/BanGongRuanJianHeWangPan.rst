@@ -10,6 +10,10 @@ Microsoft Office 365
   - Office 365 A1 for students：主要包括在线版本的office和团队合作工具Teams。https://products.office.com/en-us/academic/compare-office-365-education-plans
   - Office 365 ProPlus for students：主要包括完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
 
+.. image:: /resource/office365/Software_List.png
+   :align: center
+   :scale: 50%
+
 **Part I：电脑上的office的使用方法**
 
 .. attention::
@@ -198,7 +202,7 @@ Microsoft实用办公工具
 
   | business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
   | 登录网址：https://vlab.business.mcmaster.ca/
-  | 用户名：ADS\Mac ID
+  | 用户名：ADS\\Mac ID
   | 密码：登录mosaic的密码
 
   C. Math and Statistics

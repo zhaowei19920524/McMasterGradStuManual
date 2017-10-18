@@ -30,7 +30,7 @@
    :align: center
    :scale: 50%
 
-| 第四步：点击“Manage you Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
+| 第四步：点击“Manage your Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
 
 .. image:: /resource/activate_email_on_phone_4.png
    :align: center
@@ -45,7 +45,7 @@
 
 邮箱客户端收发方法
 -------------------------------------------------
-iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用Outlook和Gmail客户端。
+iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用Outlook或Gmail客户端。
 
 1. 本科生、研究生
 
@@ -78,6 +78,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 1) Android phones：May require that the encryption method be set SSL-accept all certificates instead of just SSL。
 #) MACID区分大小写。
 #) 学校的邮箱在没激活之前，都会先转发到你的申请邮箱里。学校Email激活后可以设置默认转发到McMaster的邮箱里，方法是mosaic->Student Center->Personal Information->email addresses，把你希望设置为默认接受学校邮件的Email勾上Preferred。
+#) 由于Gmail邮箱无法在国内访问，所以大家最好申请一个Outlook或Yahoo的邮箱作为以后个人长期使用的邮箱。
 
 附
 -------------------------------------------
@@ -160,7 +161,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
    :align: center
    :scale: 25%
 
-| 最后，outlook客户端就开始同步McMaster的邮箱
+| 最后，在outlook手机客户端就可以收发McMaster邮箱的邮件了。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_9.png
    :align: center
