@@ -15,6 +15,7 @@ So when you update code. First push to staging branch, readthedocs will automati
 pip install sphinx sphinx-autobuild
 pip install sphinx_rtd_theme
 ```
+In Windows, you might need to execute these commands with Administrator's priviledge.
 In Linux and macOS, you might need sudo.
 
 ### 0.3 Clone the project
@@ -24,7 +25,6 @@ git clone https://github.com/zhaowei19920524/McMasterGradStuManual
 cd McMasterGradStuManual
 git checkout -b staging
 ```
-
 And the local master branch will not be used any more.
 
 ## 1. update your local repo first before adding any content!!!

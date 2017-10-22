@@ -26,7 +26,7 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有3个：
 
 3. Student Center一楼
 
-McMaster餐厅Meal Plan
+Meal Plan
 -------------------------------------
 http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
@@ -49,10 +49,33 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 申请Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
 
+充值：
+
 - Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值起，就可以在网上操作了，在网上不但可以充值，也可以查看余额。
 - 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
 - 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
-- 充值：登录后点击ADD CASH。
+- 步骤：
+
+| 第一步：登录上面的网址。
+
+.. image:: resource/CanTing/MealPlan_ChongZhi_01.png
+   :align: center
+
+| 第二步：点击“ADD CASH”。E-mail填接受收据的邮箱。Deposit Amount填需要存入的金额。Deposite Note可以不填。
+
+.. image:: resource/CanTing/MealPlan_ChongZhi_02.png
+   :align: center
+
+| 第三步：填写信用卡的信息。然后点Process Transaction。
+
+.. image:: resource/CanTing/MealPlan_ChongZhi_03.png
+   :align: center
+
+| 第四步：交易成功后，一个显示收据的页面。
+
+.. image:: resource/CanTing/MealPlan_ChongZhi_04.png
+   :align: center
+
 - 查看余额：登录后点击FINANCIAL->BALANCES。
 
 学校周边的西餐

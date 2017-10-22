@@ -158,6 +158,13 @@ Microsoft实用办公工具
 3. MATLAB
 
 | http://siva.bgk.uni-obuda.hu/setup/_Mathlab_Simulink/
+| http://astral.banki.hu/OEmatlabISOk/
+
+4. LaTeX
+
+| 下面两个必须都安装：
+| MiKTeX（符号集、编译器）：https://miktex.org/download
+| TeXstudio（集成开发环境）：https://www.texstudio.org
 
 附
 -------------------------
