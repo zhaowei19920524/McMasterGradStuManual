@@ -54,7 +54,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值起，就可以在网上操作了，在网上不但可以充值，也可以查看余额。
 - 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
 - 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
-- 步骤：
+- 充值步骤：
 
 | 第一步：登录上面的网址。
 

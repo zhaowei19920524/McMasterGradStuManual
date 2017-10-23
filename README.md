@@ -16,6 +16,7 @@ pip install sphinx sphinx-autobuild
 pip install sphinx_rtd_theme
 ```
 In Windows, you might need to execute these commands with Administrator's priviledge.
+
 In Linux and macOS, you might need sudo.
 
 ### 0.3 Clone the project
@@ -39,7 +40,7 @@ Note:
 
 The Tree level
 
-一、二、三...：Only for Title
+一、二、三...：Only for title if neccessary
 ```
 1 2 3 4 5...
 

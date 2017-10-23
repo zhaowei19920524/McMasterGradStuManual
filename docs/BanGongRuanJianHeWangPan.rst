@@ -145,6 +145,14 @@ Microsoft实用办公工具
 | 微软推出的在线问卷和在线quiz系统。
 | 可以自己新建问卷和quiz。
 
+3. Microsoft To-Do
+
+| https://todo.microsoft.com
+| 微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
+| iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
+| Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
+| Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
+
 其它常用软件
 ----------------------------------
 1. WinRAR
@@ -172,7 +180,7 @@ Microsoft实用办公工具
 
 | office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
 | 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
-| 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版；如果写的直接是office 2013或office2016，则是非office365版。
+| 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
    :align: center
@@ -183,13 +191,16 @@ Microsoft实用办公工具
 - Outlook：指的是Microsoft推出的邮箱客户端，仅仅是个软件。可以同步几乎所有的邮箱，包括outlook.com、Gmail、163邮箱等等的邮件。
 - Exchange：Microsoft推出的企业邮箱，企业付费后可以自定义用户名和域名，比如McMaster的企业邮箱的用户名和域名就是 MacID@mcmaster.ca。
 
-3. Microsoft Imagine Premium（仅针对ECE和CAS学院的学生）
+3. Microsoft Imagine Premium（仅部分学院学生可用）
 
-| 你们的学院已经为本院每一个学生购买了Microsoft Imagine Premium的授权。
-| 这两个院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
+| 部分学院额外为本院每一个学生购买了Microsoft Imagine Premium的授权。
+| 这些学院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
 | ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
 | CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
-| 请联系本学院technical staff获取账户。
+| Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
+| Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
+| Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
+| 请联系本学院technical staff获取账户。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
@@ -201,8 +212,8 @@ Microsoft实用办公工具
   A. Computing and Software
 
   | https://www.cas.mcmaster.ca/support/index.php/Main_Page
-  | virtual desktop：私有云Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
-  | 私有的版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
+  | virtual desktop：私有云——Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
+  | 私有的代码版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
   | 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
 
   B. Business
