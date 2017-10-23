@@ -123,7 +123,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 .. image:: /resource/StudyPermitVisa/Study_Permit_20.png
    :align: center
 
-第八步：进入提交各种网申材料的页面
+第八步：进入提交各种网申材料的页面，点击“Document Name”下面的相关条目可以下载所需的表格。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_21.png
    :align: center
@@ -266,7 +266,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 .. image:: /resource/StudyPermitVisa/StudyVisa_13.png
    :align: center
 
-第八步：进入提交各种网申材料的页面
+第八步：进入提交各种网申材料的页面，点击“Document Name”下面的相关条目可以下载所需的表格。
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_14.png
    :align: center
@@ -342,7 +342,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
 **Part 6：延长Study Visa成功**
 
-| 如果延长Study Visa的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。这时候网页上会多出一个消息，让你寄护照。从寄护照到寄回来大概需要2周的时间。
+| 如果延长Study Visa的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。这时候网页上会多出一个消息，让你寄护照。从寄护照到寄回来大概需要2~4周的时间。
 
 .. image:: /resource/StudyPermitVisa/StudyVisaResult.png
    :align: center
