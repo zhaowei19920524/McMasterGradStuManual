@@ -74,36 +74,36 @@
 1. 使用“studentcare”手机App报销保险的方法
 
 | 第一步：下载App
-| iOS：
-| Android：
+| iOS：https://itunes.apple.com/ca/app/studentcare-mobile/id1135984328?mt=8
+| Android：https://play.google.com/store/apps/details?id=aseq.mobile.studentcare
 
 .. image:: /resource/Insurance/StudentCare_App_01.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第二步：打开App后点“Get Started”。
 
 .. image:: /resource/Insurance/StudentCare_App_02.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第三步：点“Create Profile”。
 
 .. image:: /resource/Insurance/StudentCare_App_03.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第四步：选“McMaster University GSA”。
 
 .. image:: /resource/Insurance/StudentCare_App_04.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第五步：填写个人信息。之后会在邮箱里收到一封激活账户的邮件。然后激活账户。
 
 .. image:: /resource/Insurance/StudentCare_App_05.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第六步：使用邮箱和自己设置的密码登录。
 
@@ -112,46 +112,46 @@
 
 .. image:: /resource/Insurance/StudentCare_App_06.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第七步：登录成功后一个欢迎页面，点“Enter”。
 
 .. image:: /resource/Insurance/StudentCare_App_07.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第八步：保险医药费，点“File a Claim”。
 
 .. image:: /resource/Insurance/StudentCare_App_08.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第九步：这一步是完善个人信息，大家第一次使用需要填写一下。需要填写的信息有身份信息、住址、联系方式、银行信息等等。此外还包括需不需要为配偶等其他家庭成员买保险，没有此类需求的同学直接选不需要就可以了。填完后以后就不会出现这一步了。
 
 .. image:: /resource/Insurance/StudentCare_App_09.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第十步：选为谁报销医药费。
 
 .. image:: /resource/Insurance/StudentCare_App_10.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第十一步：选医药费类型。眼睛相关的选第二个。牙齿相关的选第三个。请其它所有类型都选第一个。
 
 .. image:: /resource/Insurance/StudentCare_App_11.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第十二步：一个小的问卷。
 
 .. image:: /resource/Insurance/StudentCare_App_12.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 | 第十三步：上传所有相关的文件拍照或使用已经拍好的图片。后面还有一步同意书，在这里暂时省略。
 
 .. image:: /resource/Insurance/StudentCare_App_13.png
    :align: center
-   :scale: 50%
+   :scale: 25%
