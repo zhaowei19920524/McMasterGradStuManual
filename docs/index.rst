@@ -65,8 +65,6 @@ Welcome to McMaster University!
    GGWC
    McMasterZaiDuZhengMing
    McMasterChengJiDan
-   TanQinQianZheng_ZiNv
-   TanQinQianZheng_PeiOu_XiongDiJieMei
    ExtendStudyPermitVisa
 
 .. toctree::
@@ -88,6 +86,8 @@ Welcome to McMaster University!
    BaoShui
    kuaidi
    YingShiZiYuan
+   TanQinQianZheng_ZiNv
+   TanQinQianZheng_PeiOu_XiongDiJieMei
    MeiGuoLvYouQianZheng
    QiTAShengHuoJingYanHuiZong
 
