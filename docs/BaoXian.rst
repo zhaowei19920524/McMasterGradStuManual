@@ -13,7 +13,7 @@
 .. image:: /resource/Insurance/my_sunlife_app_2.png
    :align: center
    :scale: 75%
-- 若8月毕业后，可申请UHIP有效至当年年底。2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
+- 若8月毕业后，可申请UHIP有效至当年年底。- 看病地点：  - 学校Student Wellness Centre：https://wellness.mcmaster.ca/  - 校外Walk-in Clinic：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072注：MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/about/make-an-appointment/#Eligibility2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外10% off。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
 3. GSA Dental Insurance Plan（除MBA）- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。- 学校student center就有牙医诊所。Campus dentist预约：905-526-6020或 mcmaster@campusdentist.com 。网址： http://www.campusdentist.com/
 - GSA Dental Insurance Plan也提供了其它牙医诊所，请在网页右上角查找
