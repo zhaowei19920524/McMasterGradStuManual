@@ -11,6 +11,10 @@
 | 张诗晨的签名为 “Shichen Zhang”，或 “Shi-Chen Zhang”
 | 注意：千万不能写成：“Chen Shi Zhang” 或 “Shi Chen Zhang” 。因为这样就把原名改了。
 
+.. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_01.png
+   :align: center
+   :scale: 25%
+
 2) “名的汉语拼音首字母+'.' 姓的汉语拼音”
 
 | 解释：名的汉语拼音的第一个首字母大写+'.'。或名的各首字母大写+'.'，中间加连字符“-”
@@ -18,11 +22,19 @@
 | 张诗晨的签名为 “S. Zhang”，或 “S.-C. Zhang”
 | 注意：千万不能写成：“S.C.  Zhang” 或 “C. S. Zhang” 。因为这样就把原名改了。
 
+.. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_02.png
+   :align: center
+   :scale: 25%
+
 3) “姓的汉语拼音, 名的汉语拼音”
 
 | 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
 | 举例：李军的签名为 “Li, Jun”
 | 张诗晨的签名为 “Zhang, Shichen”，或 “Zhang, Shi-Chen”
+
+.. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_03.png
+   :align: center
+   :scale: 25%
 
 4) 直接签汉字
 

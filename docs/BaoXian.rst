@@ -34,14 +34,14 @@
 - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址。
 - CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
 - 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销+$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
-- 抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险
+- 抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险。
 
   - Insurance Provider: Equitable Life of Canada
   - Policy #: 97528
   - Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
   - Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
+- 如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。报销公司审核后会寄支票给你。
 - 寻找、预约医生 https://www.opencare.com/ 。输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输入Equitable Life of Canada。
-- 可下载APP StudentCare，在线提交报销表格。
 
 5. MSU Health/Dental Plan Insurance（MBA学生）
 
