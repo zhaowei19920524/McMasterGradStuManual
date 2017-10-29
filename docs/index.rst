@@ -87,7 +87,6 @@ Welcome to McMaster University!
    kuaidi
    YingShiZiYuan
    TanQinQianZheng_ZiNv
-   TanQinQianZheng_PeiOu_XiongDiJieMei
    MeiGuoLvYouQianZheng
    QiTAShengHuoJingYanHuiZong
 

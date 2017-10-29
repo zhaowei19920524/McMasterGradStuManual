@@ -86,11 +86,7 @@
 
 1) MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/about/make-an-appointment/#Eligibility
 #) 如何去诊所看普通身体的疾病，请带上UHIP医保卡。
-#) 如果看牙医或眼医，除了带上UHIP医保卡，还要有Group Number（在GSA Insurance Plan的网页可以找到），看病过程中可能需要用到。
-
-| GROUP NUMBERS：
-| 20639 - Health, Dental, and Vision
-| 97180 - Travel
+#) 如果看牙医或眼医，除了带上UHIP医保卡，还要有Group Number，看病过程中可能需要用到。非MBA学生可以在GSA Insurance Plan的网页找到；MBA学生在MSU  Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
 
 报销
 -------------------------------------------------
@@ -111,11 +107,11 @@
 | Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
 | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
-- 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。报销公司审核后会寄支票给你。
+- 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
 
 3. 报销MSU Health/Dental Plan Insurance
 
-- 打开 https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance 。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
+- 打开MSU Health/Dental Plan Insurance的主页。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
 
 房屋保险 
 --------------------------------

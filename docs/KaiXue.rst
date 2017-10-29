@@ -2,7 +2,7 @@
 ===========================
 一、开学日期
 --------------------------------
-| 大家的offer上都没有写开学日期，那是因为每年开学的时间都是七八月才定下来。开学的时间一般有个规律，那就是Canada Labour Day（劳动节）的那一周，或前一周。
+| 大家的offer上都没有写开学日期，那是因为每年开学的时间都是七八月才最后定下来。开学的时间一般有个规律，那就是Canada Labour Day（劳动节）的那一周，或前一周，或后一周。
 | 对于2017 Fall入学的新生，今年的Labour Day是9月4日星期一，那开学日期基本上可以确定是9月5日。
 | 对于非business学院的新生，开学第一周是orientation week。orientation week不会上课，主要是各种学校组织的迎新活动和社团活动。开学第一天会有welcome activity，在学校的大草坪上有一次免费的早餐。校长和校领导会在大家吃早餐的时候发表一个迎新演讲，就相当于是开学典礼了。这个活动每年都有变动，2016年是去Bay front Park举行的。大家在8月份注意一下学校的邮件通知。
 | 对于business学院的新生：MBA的学生在开学前会有preMBA，主要是各种社交活动。还会集体去一次Niagara Falls。所以MBA新生来之后不用先去大瀑布了。mfin新生会有transition week，也发生在开学前，所以其它学院orientation week的时候，mfin和MBA已经开始上课了。
@@ -17,7 +17,7 @@
 三、办理学校的手续
 ---------------------------------------------------
 1) 清offer上的condition，见 `conditional offer`_ 。
-#) 对于graduate student需要领student card，在院里小秘（administrator assistant）办公室领。
+#) Graduate student需要领student card，在院里小秘（administrator assistant）办公室领。
 #) 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `Hamilton公交车`_ ）。
 #) 有实验室的同学领lab的钥匙或lab门卡，请询问本院小秘。小秘会开一张证明材料，然后拿着证明材料去JHE216领取。lab钥匙需要交$20押金，lab门卡需要交$10的押金。
 #) 有TA、RA的研究生、post doc、访问学者去Campus Store领Working at McMaster卡（工卡）。post doc和访问学者是没有student card的。领工卡后去JHE216把临时的lab门卡退了。顺便把权限转移到工卡上，把押金退回来。
@@ -33,7 +33,7 @@
 3) 办理手机卡：见 `办理手机卡`_ 。
 4) 其它可选的手续：
 
-  A) 普通Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽、MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
+  A) 普通Presto Card（对于不能免费坐车的同学）：坐Go bus长途汽车、MBA坐Hamilton市内公交车都有打折。见 https://www.prestocard.ca/
   #) Shoppers Drug Mart会员卡
 
 .. _conditional offer: conditional_offer.html
