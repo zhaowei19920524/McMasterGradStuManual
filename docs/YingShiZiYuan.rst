@@ -36,6 +36,8 @@
 
   - BT天堂：http://www.bttiantang.org/ 
   - 电影天堂：http://www.dytt8.net/ 
+  - 美剧天堂：http://www.meijutt.com/
+  - 久久美剧：www.mkv99.com
   - 天天美剧：http://cn163.net/ 
 - 有风险
 
