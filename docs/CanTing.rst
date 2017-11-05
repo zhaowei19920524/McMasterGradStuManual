@@ -12,7 +12,7 @@ McMaster餐厅官网
 
 McMaster餐厅介绍
 --------------------------------------------
-McMaster的可以吃饭的地方有很多，大型的餐厅主要有3个：
+McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 1. CENTRO@Commons
 
@@ -24,7 +24,14 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有3个：
 | 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
 | http://hospitality.mcmaster.ca/locations/emw-bistro.html
 
-3. Student Center一楼
+3. The Phoenix
+
+| 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。
+| https://www.phoenixmcmaster.com/
+| 这个地方除了提供酒水饮料外，也提供较为全面的西餐。
+| 地点：Hamilton Hall延Scholars Rd向西走经过的北边第二个房子。
+
+4. Student Center一楼
 
 Meal Plan
 -------------------------------------

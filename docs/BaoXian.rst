@@ -61,7 +61,8 @@
 
 2. 校外Walk-in Clinic
 
-- http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
+- 所有人都可以去看病的公共的诊所。但通常不能看牙齿和眼睛。
+- 地址列表：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
 
 3. 校外的牙医、眼医诊所
 
@@ -85,7 +86,7 @@
 注：
 
 1) MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/about/make-an-appointment/#Eligibility
-#) 如何去诊所看普通身体的疾病，请带上UHIP医保卡。
+#) 如果去诊所看普通身体的疾病，请带上UHIP医保卡。
 #) 如果看牙医或眼医，除了带上UHIP医保卡，还要有Group Number，看病过程中可能需要用到。
 
 - 非MBA学生可以在GSA Insurance Plan的网页找到
