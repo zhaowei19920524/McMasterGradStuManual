@@ -77,11 +77,11 @@ Welcome to McMaster University!
    SINShenQing
    GongZuo
    JiaZhao
-   HamiltonGongJiaoChe
+   GongJiaoChe
    WiFiYuInternet
    HamiltonRiChangGouWuDiDian
    MaiJiaJu
-   BaoXian
+   KanBingYuBaoXian
    BaoShui
    kuaidi
    YingShiZiYuan
