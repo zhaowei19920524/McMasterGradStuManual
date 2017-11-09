@@ -1,4 +1,4 @@
-﻿Hamilton公交车
+﻿公交车
 ============================
 Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要交通工具，绝大多数研究生的杂费中包含了每年$200左右的Bus费，这样在市内坐车时就不再需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
 
@@ -84,9 +84,36 @@ Campus Store只负责卡片的分发。
 
 附
 ---------------------
+1. Hamilton公交交通图
+
 - HSR （Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
 - HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
-- 查车APP：Transit
 
-  - iOS：https://itunes.apple.com/app/apple-store/id498151501?mt=8
-  - Android：https://play.google.com/store/apps/details?id=com.thetransitapp.droid
+2. 查车APP：Transit
+
+| 查车App可以查多伦多地区以及多伦多周边城市所有公交系统的车次与实时交通情况。这其中当然包括了Hamilton公交系统。
+
+.. image:: /resource/bus/Transit_App_01.png
+   :align: center
+   :scale: 25%
+
+- iOS：https://itunes.apple.com/app/apple-store/id498151501?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.thetransitapp.droid
+
+| 打开App后会自动获取当前位置以及周围的公交车。对于每一个公交车，会列举下面马上到的几个车次的等待时间。
+
+.. image:: /resource/bus/Transit_App_02.png
+   :align: center
+   :scale: 25%
+
+| 点击打算乘坐的公交车那一栏下面第一个按钮，就会出现实时交通图，包括公交车现在的位置（大概有一分钟的延迟），预计到达每一站的时间，以及去车站最近的步行线路。
+
+.. image:: /resource/bus/Transit_App_03.png
+   :align: center
+   :scale: 25%
+
+| 点击打算乘坐的公交车那一栏下面第四个按钮，就会出现班次列表。
+
+.. image:: /resource/bus/Transit_App_04.png
+   :align: center
+   :scale: 25%
