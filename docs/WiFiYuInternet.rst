@@ -44,7 +44,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
 - Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，且已经完全为家庭用户提供了ipv6的支持。
-- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。
+- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。如果办理Cable Internet 75/150可以用ZH24525，这样购买modem可以便宜$40。
 - altima：https://www.altimatel.com/shop/internet
 - start.ca：https://www.start.ca/
 - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
