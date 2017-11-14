@@ -134,6 +134,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)577-1027
   - 麦当劳24小时营业。
   - 去麦当劳吃饭强烈建议使用优惠券（如果有）：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看
+
+    - iOS：https://itunes.apple.com/ca/app/my-mcds/id375695000?mt=8
+	- Android：https://play.google.com/store/apps/details?id=com.mcdonalds.superapp
 
 - KFC（肯德基）
 
@@ -224,7 +228,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
   - 1122 Main St W, Hamilton, ON L8S 1C1 
 
-2. 市区（Downtown）和山上（Upper James）：
+2. 市中心（Downtown）：
 
 - LiuLiu Hot Pot（老乡四川）：自助火锅
 
@@ -232,38 +236,31 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
 
-- 海捞：自助火锅
- 
-  - 129 King St. E., Hamilton, ON
-
-- Mandarin：中餐自助
-
-  - https://mandarinrestaurant.com/
-  - 1508 Upper James St, Hamilton, Ontario L9B 1K3
-  - (905)383-6000
-
-- 红海椒：点菜制
-
-  - 60 James street N
-  - (905)523-4888
-
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
   - http://www.sparklenorthernchinese.com/
   - 165 King St. East, Hamilton
   - (905)529-2226
 
+- Noodles one #2（马队长兰州拉面二店）：点菜制
+
+  - 242 King St W, Hamilton, ON L8P 1A9
+  - (905)522-6351
+
+- 红海椒：点菜制
+
+  - 60 James street N
+  - (905)523-4888
+
+- 海捞：自助火锅
+ 
+  - 129 King St. E., Hamilton, ON
+
 - 七味烤鱼：点菜制
 
   - http://yellowpages.superlife.ca/yellowpagesclassify/七味烤鱼/
   -	16 Jarvis St, Hamilton, ON L8R 1M2 
-  - (905)769-6163 
-
-- Spring grill house（自助烧烤）
-
-  - http://springgrillhouse.com/
-  - 1441 UPPER JAMES ST
-  - (905)383-6868
+  - (905)769-6163
 
 - 喜临门酒楼：点菜制，外卖
 
@@ -291,7 +288,21 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 273 King St E, Hamilton, ON L8N 1B9
   - (905)528-5945
 
-- 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
+3. 山上（Upper James）：
+
+- Mandarin：中餐自助
+
+  - https://mandarinrestaurant.com/
+  - 1508 Upper James St, Hamilton, Ontario L9B 1K3
+  - (905)383-6000
+
+- Spring grill house（自助烧烤）
+
+  - http://springgrillhouse.com/
+  - 1441 UPPER JAMES ST
+  - (905)383-6868
+
+其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
 越南米粉
 ------------------------------------
