@@ -125,29 +125,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1309 Main St W #7, Hamilton, ON L8S 1C5
   - (905)525-2523
 
-2. 稍远一点的有：
-
-- McDonald's（麦当劳）
-
-  - https://www.mcdonalds.com/ca/en-ca.html
-  - 50 Dundurn St S, Hamilton, ON L8P 4W3
-  - (905)577-1027
-  - 麦当劳24小时营业。
-  - 去麦当劳吃饭强烈建议使用优惠券（如果有）：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
-  - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看
-
-    - iOS：https://itunes.apple.com/ca/app/my-mcds/id375695000?mt=8
-	- Android：https://play.google.com/store/apps/details?id=com.mcdonalds.superapp
-
-- KFC（肯德基）
-
-  - http://www.kfc.ca/store/631-king-st-w-hamilton
-  - 631 King St W, Hamilton, ON L8P 1C4
-  - (905)528-8583
-  - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
-  - 优惠券：http://www.kfc.ca/coupons
-
-3. Tim Hortons
+2. Tim Hortons
 
 | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
 | http://www.timhortons.com/ca/en/index.php
@@ -176,21 +154,48 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.timhortons.com/ca/en/menu/cold-beverages.php
   - 其中Iced Capp是比较受欢迎的。
 
-- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。一般小的Tim Hortons店里只有甜点（下面第一幅图）。
+- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。也可以使用App查询：“Tim Hortons”。一般小的Tim Hortons店里只有甜点，如下图所示。
 
-.. image:: resource/CanTing/CanTing_Tim_0.png
+  - iOS：https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8
+  - Android：https://play.google.com/store/apps/details?id=digital.rbi.timhortons
+
+.. image:: /resource/CanTing/CanTing_Tim_App.png
    :align: center
+   :scale: 25%
 
-.. image:: resource/CanTing/CanTing_Tim_1.png
-   :align: center
+3. 其它：http://hospitality.mcmaster.ca/off-campus.html
 
-.. image:: resource/CanTing/CanTing_Tim_2.png
-   :align: center
+其它地方的西餐
+---------------------------------------------
+1. 市中心（downtown）
 
-.. image:: resource/CanTing/CanTing_Tim_3.png
-   :align: center
+- McDonald's（麦当劳）
 
-4. 其它：http://hospitality.mcmaster.ca/off-campus.html
+  - https://www.mcdonalds.com/ca/en-ca.html
+  - 50 Dundurn St S, Hamilton, ON L8P 4W3
+  - (905)577-1027
+  - 麦当劳24小时营业。
+  - 去麦当劳吃饭强烈建议使用优惠券（如果有）：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看
+
+    - iOS：https://itunes.apple.com/ca/app/my-mcds/id375695000?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.mcdonalds.superapp
+
+- KFC（肯德基）
+
+  - http://www.kfc.ca/store/631-king-st-w-hamilton
+  - 631 King St W, Hamilton, ON L8P 1C4
+  - (905)528-8583
+  - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
+  - 优惠券：http://www.kfc.ca/coupons
+
+2. 山上
+
+- The Keg Steakhouse + Bar（烤牛排）：点菜制
+
+  - https://www.kegsteakhouse.com/locations/hamilton-keg/
+  - 1170 Upper James St, Hamilton, ON L9C 3B1
+  - (905)574-7880
 
 中餐馆
 ----------------------------------
@@ -235,6 +240,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.facebook.com/liuliuhotpot
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
+  - 周二不营业。
 
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
@@ -273,6 +279,17 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 50 Dundurn St. South L8P 4W3
   - (905)570-1388
 
+- K w BBQ Kitchen（琪华）：点菜制
+
+  - 103 Queen St N, Hamilton, ON L8R 2V5
+  - (905)577-6888
+
+- 8090 TEAHOUSE：点菜制，外卖
+
+  - http://www.teahouse8090.com/
+  - 149 King St E, Hamilton, ON L8N 1B1
+  - (905)525-8788
+
 - Mark's Chinese Food & Tavern（中华酒家）：点菜制，外卖
 
   - 468 King St W, Hamilton, ON L8P 1B8
@@ -296,13 +313,20 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1508 Upper James St, Hamilton, Ontario L9B 1K3
   - (905)383-6000
 
-- Spring grill house（自助烧烤）
+4. 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
-  - http://springgrillhouse.com/
-  - 1441 UPPER JAMES ST
-  - (905)383-6868
+中式甜点
+-----------------------------------------
+- CoCo Fresh Tea & Juice（Coco奶茶）
 
-其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
+  - https://www.facebook.com/CoCoFreshTeaHamilton
+  - 96 Main St E, Hamilton, ON L8N 1G3
+  - (905)521-6888
+- Sugar Marmalade（糖记）
+
+  - http://www.sugarmarmalade.com/
+  - 65 King St E, Hamilton, ON L8N 1A5
+  - (905)527-9699
 
 越南米粉
 ------------------------------------
@@ -312,8 +336,9 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1024 KING ST W
   - (905)528-1096
 
-- NATIONS（进入超市一直走到最东边）
+- NATIONS（进入超市一直走到最东边，可以询问服务员具体位置）
 
+  - http://nationsfreshfoods.ca/pho.html
   - 2 King St W #445, Hamilton
 
 - PHO RONG WONG
@@ -348,6 +373,11 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.ajiosushikorea.com/
   - 161 King St E, Hamilton, ON L8N 1B1
   - (905)526-8888
+- Spring grill house（韩式自助烧烤）
+
+  - http://springgrillhouse.com/
+  - 1441 UPPER JAMES ST
+  - (905)383-6868
 
 日料
 --------------------------
@@ -372,19 +402,6 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1686 Main St W, Hamilton, ON L8S 0A2
   - (905)527-5272
 
-中式甜点
------------------------------------------
-- Coco奶茶
-
-  - https://www.facebook.com/CoCoFreshTeaHamilton
-  - 96 Main St E, Hamilton, ON L8N 1G3
-  - (905)521-6888
-- 糖记
-
-  - http://www.sugarmarmalade.com/
-  - 65 King St E, Hamilton, ON L8N 1A5
-  - (905)527-9699
-
 经验之谈
 -----------------------------------
 - 强烈建议大家自己做饭，原因主要有：校内外的餐厅和甜点店主要以西餐为主，一般从中国来的学生吃不惯，量少且贵。
@@ -395,4 +412,5 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 注
 -------------------
 1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
+#) 对于所有的自助餐餐馆，通常情况下，晚上的价格比中午要贵一些，周末的价格比工作日的价格要贵一些。所以工作日的中午价格最便宜，周末的晚上价格最高。大家去之前一定要在官网上查清楚，或打电话询问。
 #) 去外面的餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
