@@ -86,10 +86,9 @@
 注：
 
 1) MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/about/make-an-appointment/#Eligibility
-#) 如果去诊所看普通身体的疾病，请带上UHIP医保卡。
-#) 如果看牙医或眼医，除了带上UHIP医保卡，还要有Group Number，看病过程中可能需要用到。
+#) 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
 
-- 非MBA学生可以在GSA Insurance Plan的网页找到
+- 非MBA学生可以在GSA Insurance Plan的网页找到。
 - MBA学生在MSU  Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
 
 报销
