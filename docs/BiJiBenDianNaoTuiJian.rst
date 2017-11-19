@@ -38,7 +38,7 @@ This page is
 
   - http://www.canadacomputers.com/
   - 50 Dundurn St S #10, Hamilton, ON L8P 4W3
-  - Canada Computers出售各种电脑和高端电脑配件，如高端显卡，内存，机械键盘，游戏鼠标等等。
+  - Canada Computers出售各种电脑和高端电脑配件，如高端显卡，内存，机械键盘，游戏鼠标等等。这也是DIY用户首选。
 - Best Buy
 
   - https://www.bestbuy.ca/
@@ -70,9 +70,6 @@ This page is
 3. Asus
 4. Microsoft Surface
 5. Macbook
-
-Intel CPU简介
----------------------------
 
 注
 ---------------------------

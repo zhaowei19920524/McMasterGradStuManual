@@ -206,12 +206,14 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.gaolaozhuang.ca
   - 1561 Main Street West Hamilton, ON L8S 1E6
   - (289)309-1363
+  - 可以使用现金或debit卡（多付几十分）。
 
 - 龙庭：点菜制，外卖
 
   - http://www.westdaledragoncourt.com
   - 988 King Street W. Hamilton, ON L8S 1L1
   - (905)522-1999
+  - 可以使用现金、debit卡、信用卡。
 
 - South China：外卖
 
@@ -231,7 +233,8 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - 明瓷御苑（Porcelain Hot Pot & Lounge）：自助火锅
 
-  - 1122 Main St W, Hamilton, ON L8S 1C1 
+  - 1122 Main St W, Hamilton, ON L8S 1C1
+  - 可以使用现金、debit卡、信用卡。
 
 2. 市中心（Downtown）：
 
@@ -240,7 +243,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.facebook.com/liuliuhotpot
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
-  - 周二不营业。
+  - 周二不营业。可以使用现金或debit卡。
 
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
@@ -253,14 +256,16 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 242 King St W, Hamilton, ON L8P 1A9
   - (905)522-6351
 
-- 红海椒：点菜制
+- Great Red Peppers（红海椒）：点菜制
 
-  - 60 James street N
+  - 60 James St N, Hamilton, ON L8R 2K1
   - (905)523-4888
 
-- 海捞：自助火锅
+- O'Neko Hotpot & Ramen（海捞）：自助火锅
  
+  - https://www.facebook.com/pages/Oneko-Hot-Pot/610269105715666
   - 129 King St. E., Hamilton, ON
+  - 只能使用现金。
 
 - 七味烤鱼：点菜制
 
@@ -290,6 +295,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 149 King St E, Hamilton, ON L8N 1B1
   - (905)525-8788
 
+- TeaFun：外卖
+
+  - http://www.foodfun.ca/
+  - 139 King St E, Hamilton, ON L8N 1B1
+  - (289)389-8688
+
 - Mark's Chinese Food & Tavern（中华酒家）：点菜制，外卖
 
   - 468 King St W, Hamilton, ON L8P 1B8
@@ -297,11 +308,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - 美味栈粤菜馆（Crystal Dynasty Chinese Restaurant ）：点菜制
 
+  - http://crystaldynastyrestaurant.berlindoener.info/
   - 94 Cannon St W, Hamilton, ON L8R 2B6
   - (905)308-8208
 
 - Forbidden City Chinese Restaurant：外卖，点菜制
 
+  - http://www.forbiddencitydelivery.ca/
   - 273 King St E, Hamilton, ON L8N 1B9
   - (905)528-5945
 
@@ -312,6 +325,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://mandarinrestaurant.com/
   - 1508 Upper James St, Hamilton, Ontario L9B 1K3
   - (905)383-6000
+  - 可以使用现金、debit卡、信用卡。
 
 4. 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
@@ -335,23 +349,27 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.saigonasianrestaurant.com/
   - 1024 KING ST W
   - (905)528-1096
+  - 可以使用现金或debit卡（多付几十分）。
 
 - NATIONS（进入超市一直走到最东边，可以询问服务员具体位置）
 
   - http://nationsfreshfoods.ca/pho.html
   - 2 King St W #445, Hamilton
+  - 可以使用现金或debit卡。
 
 - PHO RONG WONG
 
   - http://phorongvang.com/
   - 1120 MAIN ST W
   - (289)389-8989
+  - 可以使用现金或debit卡（多付几十分）。
 
 - 边城（Ben Thanh Viet Thai Restaurant）
 
   - http://www.benthanh.ca/
   - 113 JAMES ST N
   - (905)528-6888
+  - 可以使用现金、debit卡、信用卡。
 
 韩餐
 -------------------
@@ -359,6 +377,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
   - 354 Main St W, Hamilton, ON L8P 1K3
   - (905)777-1236
+  - 可以使用现金、debit卡、信用卡。
 - 猫头鹰(OWL)
 
   - http://www.owlfamily.ca/
@@ -378,6 +397,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://springgrillhouse.com/
   - 1441 UPPER JAMES ST
   - (905)383-6868
+  - 可以使用现金、debit卡、信用卡。
 
 日料
 --------------------------
@@ -386,11 +406,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.august8.ca/
   - 1 Wilson St #12, Hamilton, ON L8R 1C4
   - (905)524-3838
+  - 可以使用现金、debit卡、信用卡。
 - Joya Sushi：点菜制
 
   - http://joyasushi.ca/
   - 1630 Main St W, Hamilton, ON L8S 1G3
   - (905)525-1114
+  - 可以使用现金、debit卡、信用卡。
 - 札幌（Sapporo Restaurant）：自助
 
   - http://sapporo-hamilton.com/
@@ -401,6 +423,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.hotarusushi.ca/
   - 1686 Main St W, Hamilton, ON L8S 0A2
   - (905)527-5272
+  - 可以使用现金、debit卡、信用卡。
+- Tatemono Sushi Bar & Restaurant：自助
+
+  - http://www.tatemono.ca/
+  - 135 King St E., Hamilton, ON L8N 1B2
+  - (905)521-2227
+  - 可以使用现金、debit卡、信用卡。
 
 经验之谈
 -----------------------------------
@@ -413,4 +442,5 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 -------------------
 1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
 #) 对于所有的自助餐餐馆，通常情况下，晚上的价格比中午要贵一些，周末的价格比工作日的价格要贵一些。所以工作日的中午价格最便宜，周末的晚上价格最高。大家去之前一定要在官网上查清楚，或打电话询问。
-#) 去外面的餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
+#) 去亚洲餐馆吃饭，尤其是中餐馆或越南餐馆，请打电话或向其它同学询问是否可以刷卡。绝大多数亚洲餐馆都只能付现金，如果使用debit卡通常会多出几十分。少数亚洲餐馆可以刷信用卡。大家问清楚再去，以便实现准备好现金。
+#) 去餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
