@@ -9,6 +9,7 @@ McMaster餐厅官网
 - Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - Hour：http://hospitality.mcmaster.ca/hours.html
 - On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
+- Off-Campus Location：http://hospitality.mcmaster.ca/off-campus.html
 
 McMaster餐厅介绍
 --------------------------------------------
@@ -146,7 +147,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - 热饮
 
   - http://www.timhortons.com/ca/en/menu/hot-beverages.php
-  - 比较推荐：French Vanilla（法国香草）、White Hot Chocolate （热白巧克力）
+  - 比较推荐：French Vanilla（法国香草）、White Hot Chocolate（热白巧克力）
   - 它们都非常非常甜。
 
 - 冷饮
@@ -163,7 +164,51 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
    :align: center
    :scale: 25%
 
-3. 其它：http://hospitality.mcmaster.ca/off-campus.html
+3. 学校东边
+
+- MR.SUB：三明治
+
+  - https://mrsub.ca/
+  - 1144 Main St W, Hamilton, ON L8S 1C1
+  - (905)521-6965
+
+- TCBY：特色冰淇淋店
+
+  - http://tcbycanada.com/
+  - 1059 King St W, Hamilton, ON L8S 1L6
+  - (905)572-6866
+
+- Subway：三明治
+
+  - http://www.subway.com/en-ca
+  - 1018 King St W, Hamilton, ON L8S 1L4
+  - (905)308-9378
+
+4. 学校西边
+
+- Tally Ho Restaurants：汉堡薯条
+
+  - https://www.facebook.com/pages/Tally-Ho-Restaurants/114415425271942
+  - 1536 Main St W, Hamilton, ON L8S 1E4
+  - (905)529-6043
+
+- Boston Pizza：披萨（高档）、汉堡薯条、酒吧
+
+  - https://bostonpizza.com/en/index.html
+  - 1563 Main St W, Hamilton, ON L8S 1E6
+  - (905)777-1919
+
+- Wendy's：汉堡薯条
+
+  - https://www.wendys.com/
+  - 1585 Main St W, Hamilton, ON L8S 1E6
+  - (905)527-1464
+
+- Baskin Robbins & Kernels Popcorn：特色冰淇淋店
+
+  - http://www.baskinrobbins.ca/
+  - 1685 Main St W, Hamilton, ON L8S 1G5
+  - (905)528-4300
 
 其它地方的西餐
 ---------------------------------------------
@@ -201,14 +246,14 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 ----------------------------------
 1. 学校周边（Zone 1）：
 
-- 高老庄：点菜制，外卖
+- Mr. Gao（高老庄）：点菜制，外卖
 
   - http://www.gaolaozhuang.ca
   - 1561 Main Street West Hamilton, ON L8S 1E6
   - (289)309-1363
   - 可以使用现金或debit卡（多付几十分）。
 
-- 龙庭：点菜制，外卖
+- Dragon Court Restaurant（龙庭）：点菜制，外卖
 
   - http://www.westdaledragoncourt.com
   - 988 King Street W. Hamilton, ON L8S 1L1
@@ -221,7 +266,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1223 Main St W, Hamilton, ON L8S
   - (905)528-8474 
 
-- 北京小屋：点菜制
+- Beijing Hut（北京小屋）：点菜制
 
   - 1467 Main St W, Hamilton, ON L8S 1C9 
   - (905)521-8886 
@@ -231,7 +276,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1088 Main St W, Hamilton, ON L8S 1B3
   - (905)297-4702 
 
-- 明瓷御苑（Porcelain Hot Pot & Lounge）：自助火锅
+- Porcelain Hot Pot & Lounge（明瓷御苑）：自助火锅
 
   - 1122 Main St W, Hamilton, ON L8S 1C1
   - 可以使用现金、debit卡、信用卡。
@@ -306,7 +351,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 468 King St W, Hamilton, ON L8P 1B8
   - (905)527-7621
 
-- 美味栈粤菜馆（Crystal Dynasty Chinese Restaurant ）：点菜制
+- Crystal Dynasty Chinese Restaurant（美味栈粤菜馆 ）：点菜制
 
   - http://crystaldynastyrestaurant.berlindoener.info/
   - 94 Cannon St W, Hamilton, ON L8R 2B6
@@ -364,7 +409,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (289)389-8989
   - 可以使用现金或debit卡（多付几十分）。
 
-- 边城（Ben Thanh Viet Thai Restaurant）
+- Ben Thanh Viet Thai Restaurant（边城）
 
   - http://www.benthanh.ca/
   - 113 JAMES ST N
@@ -373,12 +418,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 韩餐
 -------------------
-- 阿里郎（ALIRANG）
+- ALIRANG（阿里郎）
 
   - 354 Main St W, Hamilton, ON L8P 1K3
   - (905)777-1236
   - 可以使用现金、debit卡、信用卡。
-- 猫头鹰(OWL)
+- OWL（猫头鹰）
 
   - http://www.owlfamily.ca/
   - 309 Main St E, Hamilton, ON L8N 1H8
@@ -413,7 +458,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1630 Main St W, Hamilton, ON L8S 1G3
   - (905)525-1114
   - 可以使用现金、debit卡、信用卡。
-- 札幌（Sapporo Restaurant）：自助
+- Sapporo Restaurant（札幌）：自助
 
   - http://sapporo-hamilton.com/
   - 96 Main St E, Hamilton, ON L8N 1G3
@@ -442,5 +487,5 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 -------------------
 1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
 #) 对于所有的自助餐餐馆，通常情况下，晚上的价格比中午要贵一些，周末的价格比工作日的价格要贵一些。所以工作日的中午价格最便宜，周末的晚上价格最高。大家去之前一定要在官网上查清楚，或打电话询问。
-#) 去亚洲餐馆吃饭，尤其是中餐馆或越南餐馆，请打电话或向其它同学询问是否可以刷卡。绝大多数亚洲餐馆都只能付现金，如果使用debit卡通常会多出几十分。少数亚洲餐馆可以刷信用卡。大家问清楚再去，以便实现准备好现金。
+#) 去亚洲餐馆吃饭，尤其是中餐馆或越南餐馆，请打电话或向其它同学询问是否可以刷卡。绝大多数亚洲餐馆都只能付现金，如果使用debit卡通常会多出几十分。少数亚洲餐馆可以刷信用卡。大家问清楚再去，以便事先准备好现金。
 #) 去餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
