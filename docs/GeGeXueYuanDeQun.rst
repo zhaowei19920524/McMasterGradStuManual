@@ -36,6 +36,9 @@
 - Mathematics & Statistics
 
   - 微信群：请联系16-STATS-曾进
+- Chemistry & Biology
+
+  - 微信群：请联系16-Chem-孟凡旺
 
 欢迎大家推荐其它有用的群：
 
