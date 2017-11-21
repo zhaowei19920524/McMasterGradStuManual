@@ -126,7 +126,53 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1309 Main St W #7, Hamilton, ON L8S 1C5
   - (905)525-2523
 
-2. Tim Hortons
+2. 学校东边
+
+- MR.SUB：三明治
+
+  - https://mrsub.ca/
+  - 1144 Main St W, Hamilton, ON L8S 1C1
+  - (905)521-6965
+
+- TCBY：特色冰淇淋店
+
+  - http://tcbycanada.com/
+  - 1059 King St W, Hamilton, ON L8S 1L6
+  - (905)572-6866
+
+- Subway：三明治
+
+  - http://www.subway.com/en-ca
+  - 1018 King St W, Hamilton, ON L8S 1L4
+  - (905)308-9378
+
+3. 学校西边
+
+- Tally Ho Restaurants：汉堡薯条
+
+  - https://www.facebook.com/pages/Tally-Ho-Restaurants/114415425271942
+  - 1536 Main St W, Hamilton, ON L8S 1E4
+  - (905)529-6043
+
+- Boston Pizza：披萨（高档）、汉堡薯条、酒吧
+
+  - https://bostonpizza.com/en/index.html
+  - 1563 Main St W, Hamilton, ON L8S 1E6
+  - (905)777-1919
+
+- Wendy's：汉堡薯条
+
+  - https://www.wendys.com/
+  - 1585 Main St W, Hamilton, ON L8S 1E6
+  - (905)527-1464
+
+- Baskin Robbins & Kernels Popcorn：特色冰淇淋店
+
+  - http://www.baskinrobbins.ca/
+  - 1685 Main St W, Hamilton, ON L8S 1G5
+  - (905)528-4300
+
+4. Tim Hortons
 
 | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
 | http://www.timhortons.com/ca/en/index.php
@@ -163,52 +209,6 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 .. image:: /resource/CanTing/CanTing_Tim_App.png
    :align: center
    :scale: 25%
-
-3. 学校东边
-
-- MR.SUB：三明治
-
-  - https://mrsub.ca/
-  - 1144 Main St W, Hamilton, ON L8S 1C1
-  - (905)521-6965
-
-- TCBY：特色冰淇淋店
-
-  - http://tcbycanada.com/
-  - 1059 King St W, Hamilton, ON L8S 1L6
-  - (905)572-6866
-
-- Subway：三明治
-
-  - http://www.subway.com/en-ca
-  - 1018 King St W, Hamilton, ON L8S 1L4
-  - (905)308-9378
-
-4. 学校西边
-
-- Tally Ho Restaurants：汉堡薯条
-
-  - https://www.facebook.com/pages/Tally-Ho-Restaurants/114415425271942
-  - 1536 Main St W, Hamilton, ON L8S 1E4
-  - (905)529-6043
-
-- Boston Pizza：披萨（高档）、汉堡薯条、酒吧
-
-  - https://bostonpizza.com/en/index.html
-  - 1563 Main St W, Hamilton, ON L8S 1E6
-  - (905)777-1919
-
-- Wendy's：汉堡薯条
-
-  - https://www.wendys.com/
-  - 1585 Main St W, Hamilton, ON L8S 1E6
-  - (905)527-1464
-
-- Baskin Robbins & Kernels Popcorn：特色冰淇淋店
-
-  - http://www.baskinrobbins.ca/
-  - 1685 Main St W, Hamilton, ON L8S 1G5
-  - (905)528-4300
 
 其它地方的西餐
 ---------------------------------------------
@@ -260,7 +260,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)522-1999
   - 可以使用现金、debit卡、信用卡。
 
-- South China：外卖
+- South China（华南）：外卖
 
   - http://southchina.chinesemenu.com/
   - 1223 Main St W, Hamilton, ON L8S
@@ -437,7 +437,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.ajiosushikorea.com/
   - 161 King St E, Hamilton, ON L8N 1B1
   - (905)526-8888
-- Spring grill house（韩式自助烧烤）
+- Spring grill house：韩式自助烧烤
 
   - http://springgrillhouse.com/
   - 1441 UPPER JAMES ST
@@ -485,7 +485,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 注
 -------------------
-1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
+1) 小费：大家不管消费多少都应该按照这边的礼仪给一定的小费。一般比例为消费金额的10%。付小费最好用现金，如果刷卡，则小费也要额外多收13%的消费税。此外，很多餐馆的小费是完全被老板收走，比如hotaru sushi。对于这样的餐馆可以一分钱小费都不给。大家给小费之前可以问清楚。
 #) 对于所有的自助餐餐馆，通常情况下，晚上的价格比中午要贵一些，周末的价格比工作日的价格要贵一些。所以工作日的中午价格最便宜，周末的晚上价格最高。大家去之前一定要在官网上查清楚，或打电话询问。
 #) 去亚洲餐馆吃饭，尤其是中餐馆或越南餐馆，请打电话或向其它同学询问是否可以刷卡。绝大多数亚洲餐馆都只能付现金，如果使用debit卡通常会多出几十分。少数亚洲餐馆可以刷信用卡。大家问清楚再去，以便事先准备好现金。
 #) 去餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
