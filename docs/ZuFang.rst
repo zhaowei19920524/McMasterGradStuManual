@@ -129,12 +129,17 @@
 ------------------------------
 1. Hamilton主要公寓的位置（Google地图，国内的同学可能需要翻墙访问）：
 
-| 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
-| ①黄色的气球代表bachelor或只有1个bedroom的apt
-| ②蓝色的气球代表最多有2个bedroom的apt
-| ③紫色的气球代表最多有3个或3个以上bedroom的apt
-| 图中的apt没有包含以下几种类型：正在售卖的condo或已经卖出的condo再转租、马路边商店二楼的房间出租（太吵）、student apartments in a house。
-| 若有失效的链接请及时与17-CAS-赵伟联系。如果失效的链接是macoffcampus网站的链接，则说明该公寓已满，公寓管理员暂时撤去出租广告。
+- 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
+
+  - 黄色的气球代表bachelor或只有1个bedroom的apt
+  - 蓝色的气球代表最多有2个bedroom的apt
+  - 紫色的气球代表最多有3个或3个以上bedroom的apt
+- 图中的apt没有包含以下几种类型：
+
+  - 正在售卖的condo或已经卖出的condo再转租
+  - 马路边商店二楼的房间出租（太吵）
+  - student apartments in a house。
+- 若有失效的链接请及时与17-CAS-赵伟联系。如果失效的链接是macoffcampus网站的链接，则说明该公寓已满，公寓管理员暂时撤去出租广告。
 
 .. raw:: html
 
