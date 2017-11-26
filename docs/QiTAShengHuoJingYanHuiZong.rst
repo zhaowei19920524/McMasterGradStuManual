@@ -115,6 +115,15 @@
       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CdZTpkU3k56HCJTq2-Di8Ct3mrc" width="640" height="480"></iframe>
     </div>
 
+身份证件
+--------------------------------
+在Canada是没有像国内那种全国统一的身份证或户口簿的。但可以有替代的证件作为身份证明，叫“Government issued photo ID”。就是政府出具的同时带有全名、出生日期、照片和签名的证件。对于学生来说大概有一下几种：
+
+- Passport（护照）：这个是到Canada的留学生必须具有的证件，有了这个证件才能办理其它各种手续或证件。但经常携带不安全，丢了之后办理需要很久，不建议一直使用。
+- Driver License（驾照）：这个是最最常用的证件，大家来Canada之后就应该尽快把G1 License拿到手。有了它基本上可以走遍任何一个地方，办理几乎任何手续（除Study Permit和Study Visa）。
+- Ontario Photo Card：可以叫它安大略省身份证。如果大家仅仅短期来Canada，毕业后也不想留在Canada，也不想交将近200刀的费用去考Driver License。可以选择这种比较便宜的方法。费用$35。带上护照去Service Ontario营业点办理。https://www.ontario.ca/page/ontario-photo-card
+- Canadian Permanent Resident card with signature（枫叶卡或“绿卡”或永久居民卡）
+
 Toronto Citypass
 --------------------------------------------------
 提前购买Toronto Citypass可以在游玩多伦多几个主要景点的时候，不用再额外买票。并且非常划算。Citypass只有9天有效期。

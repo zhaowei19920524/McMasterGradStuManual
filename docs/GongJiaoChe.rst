@@ -82,7 +82,7 @@ PRESTO卡
 - HSR （Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
 - HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
 
-2. 如果自己已经办理了PRESTO card应该怎么办？
+2. 处理自己办理了PRESTO card
 
 | 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。
 | 若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。
