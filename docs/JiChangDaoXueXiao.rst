@@ -30,8 +30,10 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 
 .. note::
 
+  - 17-ECE-夏泽坤
   - 17-MED-孙婧怡
-  - 17-CSE-曹博
+  - 17-CSE-曹博（仅限一至两人）
+  - 16-MBA-曹星
   - 16-MEEI-张宸赫
   - 16-CAS-曲植
   - 16-MBA-刘钰
