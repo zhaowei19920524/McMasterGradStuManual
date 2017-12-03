@@ -6,7 +6,7 @@ PRESTO卡
 -------------------------------
 1. PRESTO卡介绍
 
-- 从2017年开始，学校为新生办理PRESTO card（U-pass）。麦马的学生能在没有没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
+- 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
 - PRESTO是在大多伦多地区（包括Hamilton）通行的电子交通计费系统，它可以无障碍的在Toronto, Hamilton, Brampton, Berlington, Durham, Mississauga, Oakville, York等地区使用，也可以在Go Transit上使用。
 - 该卡仅在Hamilton地区不再额外扣费，在乘坐Go Transit或者多伦多其他地区的公共交通前还是需要提前充值的。
 
@@ -55,7 +55,7 @@ PRESTO卡
 
 - 只需要在位于公车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
 
-.. image:: /resource/bus/presto2.jpg
+.. image:: /resource/bus/presto2.png
    :align: center
 
 5. 开设PRESTO网上账户
@@ -75,20 +75,88 @@ PRESTO卡
 
 更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2017/07/hsr-bus-pass-faq-final-aug-2017.pdf
 
+Hamilton公交车
+-----------------------------------------------
+Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通常车身是白色带有一条黄色的边。大多数McMaster全职的在校学生不需要在乘坐公交车时额外付费。
+
+.. image:: /resource/bus/HSR_bus.jpg
+   :align: center
+
+1. 各类资源
+
+- 官网：https://www.hamilton.ca/hsr-bus-schedules-fares
+- HSR（Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
+- HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
+- 查车APP：见本页最后的附里。
+
+2. 费用
+
+- 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了200多刀的公交车费，所以乘坐时不需要付费。
+- 其它：$3。https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
+
+3. 车站
+
+| 如上图中偏左位置所示，Hamilton的车站通常非常简易，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是黄色，中间有个公交车的图标。市中心的站牌上会标有停靠在此处的公交车，而其它地方的站牌上可能不会标出来，大家一定要提前查好。
+
+4. 站名
+
+- 几乎所有的站名都用“正在行驶道路的名称”+“at或opposite”+“交汇道路的名称”的格式。
+- 比如McMaster南门门口的站名叫"Main opposite Emerson"。意思就是公交车现在行驶在Main Street上，路对面有一条叫Emerson Street的道路和Main Street交汇在一起。
+- McMaster南门门口路对面的站名叫"Main at Emerson"。意思就是公交车现在行驶在Main Street上，路边有一条叫Emerson Street的道路和Main Street交汇在一起。
+- 有的地方也会把路对面的两个站统一写为"Main / Emerson"。
+- 大家可以在Google地图上研究一下它的命名规律。
+
+5. 乘坐方法：
+
+- 第一步：查好上车时间、找到HSR车站，等待公交车到来。强烈建议大家查好时间再等车。一般提前5~10分钟去车站等车即可。因为晚上和周末公交车通常半小时一般，并且冬天室外可能零下一二十度。在这种情况下，长时间在车站等车会让人非常心急。
+- 第二步：上车刷Presto卡或付现金。如果刷带有U-Pass的Presto卡，则不会从卡里扣钱；刷自己办理的Presto卡则会扣钱。如果付现金，请准备好硬币，付费时不设找零，并向司机索要transfer，这样可以2个小时里免费乘坐同一路公交车。
+- 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法是：按一下车里黄色柱子上的红色的按钮，或拉一下窗户上的黄色的绳子。不可以直接对司机说话。
+- 第四步：感谢司机。走出车门的时候需要礼貌的对司机说“Thank you”。
+
+.. image:: /resource/bus/HSR_bus_interior.jpg
+   :align: center
+
+6. 常见公交车
+
+| https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
+| 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
+
+- 5路：一共有9种5路车。他们大体路线基本一致，但在Zone1里行驶的路线略有区别
+
+  - 向西
+
+    - 5C：进入Zone1后，经过King St. -> Sterling St. -> 穿过校园 -> Emerson St。
+    - 51：和5C路线类似。
+    - 52：进入Zone1后，直接拐到Main St.上，并且一直在Main St.上行驶，经过学校南门，然后向西进入Dundas。
+
+  - 向东
+
+    - 5A：和5C路线一致，不过方向相反。它穿过校园。
+    - 5E：和52路线一致，不过方向相反。它不穿过校园，一直在Main St.上行驶。
+    - Downtown Main & MacNab：和5E路线类似。
+- 1路：这里指1A（1 A Line）
+
+  - 向西：进入Zone1后，经过King St. -> Sterling St. -> 穿过校园 -> 拐到Main St.上 -> 开往Dundas。
+  - 向东：跟向西的路线刚好反过来。
+- 10路：
+
+  - 10路车交B Line Express，它一条快速公交路线，所以停靠的站点非常少。在Zone 1里只停三站：MAIN at OSLER（向东的站名是MAIN at EWEN）、Emerson / Main、MAIN / LONGWOOD。
+  - 它只在Main上行驶。在市中心的向西的路线则一直在King St.上。
+
+注：
+
+- 对于1路车，大家通常坐的是1A（1 A Line），还有一个是1B（1 B Line）。通常大家坐的是1A，它是从往返于市中心和西边的Zone1之间。而1B是往返于市中心和东边的Stony Creek，是不会开往McMaster方向的。大家在市区坐1路千万不能做错了，否则南辕北辙。
+- 10路是B Line Express，它是贯穿Hamilton西边和东边的快速汽车。还有一个是20路车（A Line Express），它是贯穿Hamilton南边和北边的快速汽车，南边的终点站是Hamilton机场（机场没有国内航线）。
+
 附
 ---------------------
-1. Hamilton公交交通图
-
-- HSR （Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
-- HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
-
-2. 处理自己办理了PRESTO card
+1. 处理自己办理了PRESTO card
 
 | 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。
 | 若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。
 | 自己买的PRESTO卡不会退。
 
-3. PRESTO card挂失
+2. PRESTO card挂失
 
 | 请及时通过PRESTO网上账户或者电话联系客服（1-877-278-6123）进行挂失。
  
@@ -104,7 +172,7 @@ PRESTO卡
   - 一旦拿到新的卡，请首先联系PRESTO公司，将之前的U-pass和电子钱包转移到新卡上。
   - 注意！一定不要在转移好U-pass之前为这张卡进行注册！（如果不小心先注册，再联系PRESTO，那么需要再重新办理一张卡才能将丢失卡的U-pass转移过去）。
 
-4. 查车APP：Transit
+3. 查车APP：Transit
 
 | 查车App可以查多伦多地区以及多伦多周边城市所有公交系统的车次与实时交通情况。这其中当然包括了Hamilton公交系统。
 
