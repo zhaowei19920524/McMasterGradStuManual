@@ -6,7 +6,7 @@ PRESTO卡
 -------------------------------
 1. PRESTO卡介绍
 
-- 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
+- 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
 - PRESTO是在大多伦多地区（包括Hamilton）通行的电子交通计费系统，它可以无障碍的在Toronto, Hamilton, Brampton, Berlington, Durham, Mississauga, Oakville, York等地区使用，也可以在Go Transit上使用。
 - 该卡仅在Hamilton地区不再额外扣费，在乘坐Go Transit或者多伦多其他地区的公共交通前还是需要提前充值的。
 
@@ -89,10 +89,12 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 - HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
 - 查车APP：见本页最后的附里。
 
-2. 费用
+2. 费用（2017年）
 
 - 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了200多刀的公交车费，所以乘坐时不需要付费。
-- 其它：$3。https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
+- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.3
+- 现金：$3
+- 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
 3. 车站
 
@@ -103,13 +105,13 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 - 几乎所有的站名都用“正在行驶道路的名称”+“at或opposite”+“交汇道路的名称”的格式。
 - 比如McMaster南门门口的站名叫"Main opposite Emerson"。意思就是公交车现在行驶在Main Street上，路对面有一条叫Emerson Street的道路和Main Street交汇在一起。
 - McMaster南门门口路对面的站名叫"Main at Emerson"。意思就是公交车现在行驶在Main Street上，路边有一条叫Emerson Street的道路和Main Street交汇在一起。
-- 有的地方也会把路对面的两个站统一写为"Main / Emerson"。
+- 有的地方也会把道路两边的两个站统一写为“正在行驶道路的名称 / 交汇道路的名称”的格式。例如上面的两个站可统一写为"Main / Emerson"。
 - 大家可以在Google地图上研究一下它的命名规律。
 
 5. 乘坐方法：
 
-- 第一步：查好上车时间、找到HSR车站，等待公交车到来。强烈建议大家查好时间再等车。一般提前5~10分钟去车站等车即可。因为晚上和周末公交车通常半小时一般，并且冬天室外可能零下一二十度。在这种情况下，长时间在车站等车会让人非常心急。
-- 第二步：上车刷Presto卡或付现金。如果刷带有U-Pass的Presto卡，则不会从卡里扣钱；刷自己办理的Presto卡则会扣钱。如果付现金，请准备好硬币，付费时不设找零，并向司机索要transfer，这样可以2个小时里免费乘坐同一路公交车。
+- 第一步：查好上车时间、找到HSR车站，等待公交车到来。强烈建议大家查好时间再等车。一般提前5~10分钟去车站等车即可。因为晚上和周末公交车通常半小时一班，并且冬天室外可能零下一二十度。在这种情况下，长时间在车站等车会让人非常心急。
+- 第二步：上车刷Presto卡或付现金。如果刷带有U-Pass的Presto卡，则不会从卡里扣钱；刷自己办理的Presto卡则会扣钱，但Presto付费系统会自动记录刷卡记录，两个小时内乘坐同一路汽车，再次刷卡时不扣钱。如果付现金，请准备好硬币，付费时不设找零，不能使用信用卡，并向司机索要transfer，这样可以2个小时里免费乘坐同一路公交车。
 - 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法是：按一下车里黄色柱子上的红色的按钮，或拉一下窗户上的黄色的绳子。不可以直接对司机说话。
 - 第四步：感谢司机。走出车门的时候需要礼貌的对司机说“Thank you”。
 
@@ -121,7 +123,7 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 | https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
 | 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
 
-- 5路：一共有9种5路车。他们大体路线基本一致，但在Zone1里行驶的路线略有区别
+- 5路：一共有9种5路车，我们平时经常能看到其中6种，他们大体路线基本一致，但在Zone1里行驶的路线略有区别：
 
   - 向西
 
@@ -140,13 +142,72 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
   - 向东：跟向西的路线刚好反过来。
 - 10路：
 
-  - 10路车交B Line Express，它一条快速公交路线，所以停靠的站点非常少。在Zone 1里只停三站：MAIN at OSLER（向东的站名是MAIN at EWEN）、Emerson / Main、MAIN / LONGWOOD。
+  - 10路车叫B Line Express，它一条快速公交路线，所以停靠的站点非常少。在Zone 1里只停三站：MAIN at OSLER（向东的站名是MAIN at EWEN）、Emerson / Main、MAIN / LONGWOOD。
   - 它只在Main上行驶。在市中心的向西的路线则一直在King St.上。
 
 注：
 
-- 对于1路车，大家通常坐的是1A（1 A Line），还有一个是1B（1 B Line）。通常大家坐的是1A，它是从往返于市中心和西边的Zone1之间。而1B是往返于市中心和东边的Stony Creek，是不会开往McMaster方向的。大家在市区坐1路千万不能做错了，否则南辕北辙。
-- 10路是B Line Express，它是贯穿Hamilton西边和东边的快速汽车。还有一个是20路车（A Line Express），它是贯穿Hamilton南边和北边的快速汽车，南边的终点站是Hamilton机场（机场没有国内航线）。
+- 对于1路车，有1A（1 A Line）和1B（1 B Line）两种。通常大家坐的是1A，它是从往返于市中心和西边的Zone1之间。而1B是往返于市中心和东边的Stoney Creek，是不会开往McMaster方向的。大家在市区坐1路千万不能坐错了，否则南辕北辙。
+- 10路是B Line Express，它是贯穿Hamilton西边和东边的快速汽车。还有一个是20路车（A Line Express），它是贯穿Hamilton南边和北边的快速汽车，南边的终点站是Hamilton机场（该机场没有往返中国的航线，只有Canada境内的航线）。
+
+Go Transit公交车、火车
+----------------------------------------------------
+Go Transit公司运营安大略省，以多伦多为中心，连接南部各大城市的长途汽车和火车。其中汽车叫Go Bus，火车叫Go Train。他们的外表都有绿白条纹。其中Go Bus车头的LED屏幕里会显示自己是哪一路汽车和去往哪个终点站。由于Go Train比较少，并且也极少乘坐，以下不会详细介绍，大家有兴趣可以自行去Go Transit网站上查阅。
+
+.. image:: /resource/bus/Go_Bus.jpg
+   :align: center
+
+1. 各类资源
+
+- 官网：http://www.gotransit.com/publicroot/en/default.aspx
+
+2. 费用
+
+- 大家可以在官网的的Fares中估计所需要的费用。
+- 费用通常是按乘坐的距离收费，乘坐距离越长，费用越高。到多伦多或密西沙加单程大概十几加元。
+- 付费时，可以使用现金或刷Presto卡，不能使用信用卡。使用Presto卡可以获得相应的打折。这里，不管Presto卡里有没有U-Pass，都会扣去相应的费用。
+- 官网上的估计出来的费用不一定很准确，如果大家经常使用Presto卡坐Go Trasit的交通工具，请保持卡里最好不要少于$40。
+
+3. 车站
+
+- 汽车站：在当地的Go Center乘坐。或在市区的停靠点乘坐。Go Bus除了在Go Center终点站停靠外，一般也会在市区的若干小车站停靠，这时可以继续有人上车或下车。站牌如下图所示，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是绿色，中间有个公交车的图标。站牌上通常不会标有停靠的车辆，大家一定要在Google地图或在其它地方查清楚。
+- 火车站：只能去当地的Go Center乘坐。
+
+.. image:: /resource/bus/Go_Transit_Bus_Stop_Sign.svg.png
+   :align: center
+   :scale: 2%
+
+4. 站名
+
+- Go Bus的站名比较随意，终点站的名称会以当地地名或周围地标性质的建筑命名，而在市区的小车站则和市内公交车车站重名。
+
+5. 乘坐Go Bus方法：
+
+- 第一步：查好上车时间、找到Go Bus车站（没有必要一定去Go Center乘坐），等待Go Bus到来。强烈建议大家查好时间再等车，一般提前10~20分钟去车站等车即可。
+- 第二步：上车刷Presto卡或付现金。如果付现金，司机会找零。
+- 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法和乘坐HSR市内公交车类似，按一下车里座位附近红色的Stop按钮或其它标有Stop的按钮。不可以直接对司机说话。
+- 第四步：下车。如果刷Presto卡上车，则下车的时候务必再次刷Presto卡，否则计费系统会默认为你一直坐到终点站。此外也需要感谢司机，走出车门的时候需要礼貌的对司机说“Thank you”。
+
+6. 常见Go Bus
+
+- 16路：往返于Hamilton和多伦多。
+- 47路：往返于Hamilton和密西沙加。
+- 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
+- 12路：从Stoney Creek开往尼亚加拉瀑布。
+
+其它公交系统
+------------------------------------
+1. MegaBus
+
+- MegaBus是由Coach Canada公司运营的长途公交车。如果想坐车去Kitchener（Waterloo），则需要乘坐MegaBus。
+- https://ca.megabus.com/
+- 乘坐MegaBus一定要在官网上预定，不能上车再买票，上车时给司机出示购票后的确认邮件。
+- MegaBus的起点在学校西边Mary Keyes Residence宿舍楼的西北角，车站是一个标有Coach Canada和MegaBus的站牌，还有一个座椅。大家第一次乘坐请提前去寻找位置。终点在Kitchener市中心，还需要坐市内公交车去Waterloo或其它地方。Kitchener市内公交车不能使用Presto卡支付，付现金是$3.25（2017年），可以向司机索要Transfer。
+
+2. VIA
+
+- 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
+- http://www.viarail.ca/en
 
 附
 ---------------------
