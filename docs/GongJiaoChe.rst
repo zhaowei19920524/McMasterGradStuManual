@@ -159,7 +159,7 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 1. 各类资源
 
-- 官网：http://www.gotransit.com/publicroot/en/default.aspx
+- 官网：http://www.gotransit.com/
 
 2. 费用
 
@@ -170,7 +170,7 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 3. 车站
 
-- 汽车站：在当地的Go Center乘坐。或在市区的停靠点乘坐。Go Bus除了在Go Center终点站停靠外，一般也会在市区的若干小车站停靠，这时可以继续有人上车或下车。站牌如下图所示，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是绿色，中间有个公交车的图标。站牌上通常不会标有停靠的车辆，大家一定要在Google地图或在其它地方查清楚。
+- 汽车站：在当地的Go Center乘坐或在市区的停靠点乘坐。Go Bus除了在Go Center终点站停靠外，一般也会在市区的若干小车站停靠，这时可以继续有人上车或下车。站牌如下图所示，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是绿色，中间有个公交车的图标。站牌上通常不会标有停靠的车辆，大家一定要在Google地图或在其它地方查清楚。
 - 火车站：只能去当地的Go Center乘坐。
 
 .. image:: /resource/bus/Go_Transit_Bus_Stop_Sign.svg.png
@@ -197,14 +197,29 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 其它公交系统
 ------------------------------------
-1. MegaBus
+1. TTC
+
+- 多伦多的公交系统，包括公交车和地铁。
+- http://www.ttc.ca/
+- 费用：http://www.ttc.ca/Fares_and_passes/Prices/Prices.jsp 。乘坐地铁和公交车每次的价格是一样的。付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3/次（2017年）。
+- 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass：http://www.ttc.ca/Fares_and_passes/Passes/Day_Pass/index.jsp ，这样当日乘车的时候就不用再付费了。费用是：$12.50/天（2017年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
+
+2. Burlington Transit
+
+- Hamilton北边的城市Burlington的公交车系统。
+- http://www.burlingtontransit.ca/
+- 实时交通图：https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay
+- 如果大家准备坐公交车从Hamilton去Burlington的IKEA买小件家具，可以坐Burlington 1路。大家可以在Google地图或查车App里查好路线和时间。
+- 费用：http://www.burlingtontransit.ca/en/fares/Burlington-Transit-Fares.aspx 。具体为（2017年）：①现金：$3.50，不设找零，可以索要transfer。②Presto卡：$2.70
+
+3. MegaBus
 
 - MegaBus是由Coach Canada公司运营的长途公交车。如果想坐车去Kitchener（Waterloo），则需要乘坐MegaBus。
 - https://ca.megabus.com/
 - 乘坐MegaBus一定要在官网上预定，不能上车再买票，上车时给司机出示购票后的确认邮件。
 - MegaBus的起点在学校西边Mary Keyes Residence宿舍楼的西北角，车站是一个标有Coach Canada和MegaBus的站牌，还有一个座椅。大家第一次乘坐请提前去寻找位置。终点在Kitchener市中心，还需要坐市内公交车去Waterloo或其它地方。Kitchener市内公交车不能使用Presto卡支付，付现金是$3.25（2017年），可以向司机索要Transfer。
 
-2. VIA
+4. VIA
 
 - 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
 - http://www.viarail.ca/en

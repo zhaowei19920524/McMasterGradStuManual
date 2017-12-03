@@ -134,17 +134,36 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1144 Main St W, Hamilton, ON L8S 1C1
   - (905)521-6965
 
-- TCBY：特色冰淇淋店
+- Pita Pit：鸡肉卷
 
-  - http://tcbycanada.com/
-  - 1059 King St W, Hamilton, ON L8S 1L6
-  - (905)572-6866
+  - https://pitapit.ca/
+  - 1056 King St W, Hamilton, ON L8S 1L7
+  - (905)529-7482
 
 - Subway：三明治
 
   - http://www.subway.com/en-ca
   - 1018 King St W, Hamilton, ON L8S 1L4
   - (905)308-9378
+
+- Pizza Nova：披萨
+
+  - https://pizzanova.com/
+  - 1016 King St W, Hamilton, ON L8S 1L4
+  - +1(844)310-3300
+
+- Second Cup Westdale：茶水店
+
+  - http://www.secondcup.com/
+  - 1004 King St W, Hamilton, ON L8S 1L1
+  - (905)540-4839
+  - 这是一家专门的茶水店，里面供应各种茶水、咖啡、零食等等。不限制用餐时间。大家可以在这里讨论学习、作业、工作、业务等等。
+
+- TCBY：特色冰淇淋店
+
+  - http://tcbycanada.com/
+  - 1059 King St W, Hamilton, ON L8S 1L6
+  - (905)572-6866
 
 3. 学校西边
 
@@ -205,6 +224,14 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
   - iOS：https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8
   - Android：https://play.google.com/store/apps/details?id=digital.rbi.timhortons
+
+- 地点：
+
+  - McMaster Student Center一楼
+  - McMaster IAHS一楼
+  - McMaster东边：951 King St W, Hamilton, ON L8S 1K9
+  - McMaster西边：1554 Main St W, Hamilton, ON L8S 1E5
+  - 历史上第一家成立的Tim Hortons：65 Ottawa St N, Hamilton, ON L8H 3Y9
 
 .. image:: /resource/CanTing/CanTing_Tim_App.png
    :align: center
