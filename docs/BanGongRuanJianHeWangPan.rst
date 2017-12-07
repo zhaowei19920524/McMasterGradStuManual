@@ -85,7 +85,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 1. Microsoft Onedrive
 
 | Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
-| 存储空间：5GB
+| 存储空间：5GB（免费）
 | 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统：https://onedrive.com/download 。
 | 使用方法：用微软邮箱登录后就可以使用。
 | 在线登录方法：https://onedrive.com/
@@ -108,7 +108,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 3. Google Drive（Personal）
 
 | Google为每个注册Gmail的用户提供Google Drive网盘。
-| 存储空间：15GB
+| 存储空间：15GB（免费）
 | 下载地址：https://www.google.com/drive/download/client/
 | 使用方法：使用Gmail的邮箱账户登录即可。
 | 在线登录方法：https://drive.google.com/
@@ -126,7 +126,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 5. Dropbox
 
 | Dropbox也是比较流行的网盘。
-| 存储空间：2GB
+| 存储空间：2GB（免费）
 | 下载地址： https://www.dropbox.com/install
 | 使用方法：在Dropbox官网上自行注册登录。
 | 在线登录方法：https://www.dropbox.com/login
@@ -165,12 +165,12 @@ Microsoft实用办公工具
 
 3. MATLAB
 
-| http://www.0daydown.com/10/801054.html
+| http://www.0daydown.com/?s=matlab+r2017b
 
 4. LaTeX
 
 | 下面两个必须都安装：
-| MiKTeX（符号集、编译器）：https://miktex.org/download
+| LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
 | TeXstudio（图形界面集成开发环境）：https://www.texstudio.org
 
 附

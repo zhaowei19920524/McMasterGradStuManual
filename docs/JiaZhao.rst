@@ -62,7 +62,7 @@ G类驾照
 1) 第一次报名大概要交将近200刀的考试费，包括一次G1上机考试和一次G2路考的费用。需要带护照。
 #) G1和G2的驾照只有5年的有效期。过了有效期需要重新从G1开始考。除非已经获得G license。
 #) 国内驾照来Canada可以开3个月的车，但是要有相应的驾照翻译件。3个月的时间是从第一次落地Canada算起。如果考了G1就不能再使用了，因此G1结束考G2的时候就不能自己驾车。https://www.ontario.ca/page/drive-ontario-visitors
-#) 国内驾龄满两年，并且携带国内车管所开具的无违章记录证明和驾照翻译，则可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
+#) 国内驾龄满两年，并且携带国内车管所开具的无事故证明和驾照翻译，则可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
 #) 国内驾龄满两年，但是未携带国内车管所开具的无违章记录证明，则从G2开始考起。
 #) 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。https://drivetest.ca/book-a-road-test/helpnewbooking.html
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处可以在Google地图上找到 https://www.google.ca/maps/search/ServiceOntario,+1280+Main+St+W,+Hamilton,+ON+L8S+4L8,+Ontario/@43.2585818,-79.9343397,13z/data=!3m1!4b1 。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
