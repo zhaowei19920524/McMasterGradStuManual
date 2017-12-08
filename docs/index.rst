@@ -60,6 +60,7 @@ Welcome to McMaster University!
    CanTing
    RJCXiaoChe
    campusDiTu
+   TiYuGuan
    TuShuGuan
    GGWC
    McMasterZaiDuZhengMing

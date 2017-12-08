@@ -7,6 +7,9 @@
 - ITB(CAS+ECE)
 
   - QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
+- Computational Science & Engineering
+
+  - QQ群：225053068
 - Mechanical Engineering
 
   - QQ群：101378940
