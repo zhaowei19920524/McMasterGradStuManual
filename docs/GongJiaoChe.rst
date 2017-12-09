@@ -190,7 +190,7 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 6. 常见Go Bus
 
-- 16路：往返于Hamilton和多伦多。
+- 16路（Hamilton/Toronto Express Bus）：往返于Hamilton和多伦多的直达快速长途汽车。此外，还有18路（Lakeshore West）的路线类似，只不过中途在每个城市都要停，大概要停十几站。
 - 47路：往返于Hamilton和密西沙加。
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
 - 12路：从Stoney Creek开往尼亚加拉瀑布。
@@ -223,6 +223,17 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 - 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
 - http://www.viarail.ca/en
+
+Hamilton出租车
+------------------------------------------
+Hamilton的出租车叫“Hamilton Cab”。和国内的出租车类似，只不过不能使用招手停的方法，必须用App预定。大家也可以用这种方法去机场或从机场到学校。在这里并不推荐下飞机后用这种方法来Hamilton，因为出租车等待时间也需要付费，大家无法知道飞机是否晚点，也无法算准需要多长时间出机场。
+
+- 官网：http://www.hamiltoncab.com/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/us/app/hamilton-cab/id1209125752?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.limolabs.hamiltoncab
+- 费用：http://www.hamiltoncab.com/rates/ 。目前的费用（2017年）：起步的72.1米是$3.9。以后每72.1米是$0.13。注意，如果预定好了出租车，但没按时到达乘坐地点，出租车每等14秒也是$0.13。去Pearson机场整车费用大概$100。
 
 附
 ---------------------
