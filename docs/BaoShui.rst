@@ -20,7 +20,7 @@
 
 | 这个链接可以对大家的房租可以退多少税进行估计：https://www.ontario.ca/page/tax-credit-calculator
 
-6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关。 所以并不需要以往的购物凭证。对于来Canada的国际学生，GST/HST可以申报一次。来Canada第一次报税请务必提交这个表格，否则会出现无法统计该年度收入的错误。
+6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。对于来Canada的国际学生，GST/HST可以申报一次。来Canada第一次报税请务必提交这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
 
 有个不错的帖子麦大学生报税指南2.0版： http://mp.weixin.qq.com/s?__biz=MzAxNzMxMjQyNw==&mid=405952556&idx=2&sn=4e41a80c4ef96c6441566737bfdb86b2&scene=2&srcid=03134jG4znle5XGbot7CHafS#rd 
 
@@ -28,4 +28,4 @@
 ---------------------------
 1) 没有收入的同学可以在一年里任何时候报税。有收入的同学请务必在3~4月期间报税，因为可能涉及到交的税不够，不但不退税还要补税的情况。3~4月是处理报税请求最快的时期，晚于这个时间报税，处理时间可能会延长。
 #) 上面提到的T2~T5不一定每个人都有，但如果有一定要提交给税务局。
-#) Research scholarship、tuition bursary不属于employment收入，要申报，但不缴税，即不存在退税的问题。
+#) Research scholarship、entrance scholarship等各种scholarship、tuition bursary不属于employment收入，要申报，但不缴税，即不存在退税的问题。
