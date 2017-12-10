@@ -5,6 +5,8 @@
 官方资源
 --------------------------------------
 - 主页：http://marauders.ca/
+- 体育馆所有设施：https://rec.mcmaster.ca/facilities
+- 体育馆会员：https://rec.mcmaster.ca/memberships 。包括健身房、租用毛巾和锁。
 - 手机App
 
   - iOS：https://itunes.apple.com/ca/app/mcmaster-recreation-get-recd/id896011503?mt=8
@@ -35,7 +37,7 @@ https://rec.mcmaster.ca/memberships
 
 游泳池
 -----------------------------
-https://rec.mcmaster.ca/facilities/pool
+https://rec.mcmaster.ca/programs/drop-ins/recreational-swimming
 
 学校的室内游泳池条件可以说非常好，全长100米，50米是浅水，50米是深水。平常有一堵可移动的墙隔开。水池是温水，大概在25度左右。所以一年四季游泳都非常舒服。需要注意的是水池里的水虽然经常更换，但还是加了很多游泳池专用盐，因此务必佩戴游泳眼镜，否则在游泳的时候无法睁开眼睛，看清方向。
 
@@ -58,7 +60,7 @@ https://rec.mcmaster.ca/facilities/squash-courts
 .. image:: /resource/TiYuGuan/run_out_01.jpg
    :align: center
 
-其中室内跑道在体育馆的3楼。室外跑道在体育馆北边的足球场和橄榄球场。
+其中室内跑道在体育馆的3楼，注意看跑步的方向。室外跑道在体育馆北边的足球场和橄榄球场。
 
 乒乓球、羽毛球、排球、篮球
 ----------------------------------------------------------------------
@@ -73,3 +75,11 @@ https://rec.mcmaster.ca/facilities/squash-courts
    :align: center
 
 其中多用室内体育馆包括了乒乓球、羽毛球、排球、篮球。它会根据时间安排放上相应的设施。大家可以在App里查看。
+
+更衣室、洗澡、桑拿
+---------------------------------------------------
+更衣室里有标有daily locker的柜子，这些柜子是免费用的，但晚上关门前务必拿走里面的东西，否则会被收到失物招领处，自己上的锁也会被剪断。
+
+更衣室里还有免费的淋浴和桑拿，大家带上换洗的衣物、洗发水、拖鞋等等的物品，运动完之后可以洗个澡，蒸一下桑拿再出来。
+
+游泳结束后，可以使用更衣室里的高速甩干机，甩干泳裤。
