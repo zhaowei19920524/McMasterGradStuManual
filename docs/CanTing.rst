@@ -390,7 +390,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 273 King St E, Hamilton, ON L8N 1B9
   - (905)528-5945
 
-3. 山上（Upper James）：
+3. 山上（Mountain）：
 
 - Mandarin：中餐自助
 
