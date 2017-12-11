@@ -11,14 +11,14 @@ Hamilton各个区
 | 各类地图：http://map.hamilton.ca/
 
 | Hamilton有6个区：Hamilton市区、Dundas、Ancaster、Stoney Creek、 Flamborough、Glanbrook。后面那5个地方可以理解为县。
-| Hamilton最主要的资源和人口都在Hamilton市区。Dundas有很多便宜的house和公寓；Ancaster有很多瀑布和美丽的风景；Stoney Creek离McMaster有些远，但在Hamilton考驾照只能去那；剩下的Flamborough和Glanbrook主要是农田和林场，和我们关系不大。
+| Hamilton最主要的资源和人口都在Hamilton市区。此外，Dundas有很多便宜的house和公寓；Ancaster有很多瀑布和美丽的风景；Stoney Creek离McMaster有些远，但在Hamilton考驾照只能去那；剩下的Flamborough和Glanbrook主要是农田和林场，和我们关系不大。
 
 .. image:: /resource/HamiltonMapBigArea.jpg
 
-| 和我们关系最紧密的当然是Hamilton市区了。一个大的区又分为多个小的区，相当于国内的街道。
-| 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Gardens（原来叫University Plaza）。从租房的角度考虑，这些地方统称为Zone 1。
+| 和我们关系最紧密的当然是Hamilton市区了，Hamilton市区又分为三个部分：Downtown、Mountain、Zone 1。
+| 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Gardens（原来叫University Plaza），这些地方可以理解为国内的街道。从租房的角度考虑，这些地方统称为Zone 1。
 | 403高速以东就是Hamilton市区的Downtown了。其中最最中心和繁华的地方就在Kirkendall North、Beasley、Landsdale。如果大家想住在Downtown，那最好住在这一片。其它地方离McMaster太远，也不是特别安全。
-| Downtown和Zone 1以南是Hamilton的一座小山，山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的Lime Ridge Mall商场和Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是Hill最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
+| Downtown和Zone 1以南是Hamilton的一座小山（Mountain），山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的购物商场Lime Ridge Mall和杂货店Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是Hill最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
 

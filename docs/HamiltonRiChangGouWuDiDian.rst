@@ -5,16 +5,19 @@ Canada主要超市
 1. Shoppers Drug Mart
 
 | Shoppers可能是大家以后最经常去的超市，有点像国内大学里的超市一样，规模适中。但日常用品齐全。大家可以买到各种洗漱用品，牛奶鸡蛋面包，零食，化妆品以及其它生活用品。此外Shoppers里还卖各种保健品和营养品（不需要处方），以及其它药物（OTC和非OTC都需要处方）。
+| 周四使用学生卡可以对没有打折的商品打8折。
 | https://www1.shoppersdrugmart.ca/en/home
 
 2. Fortinos
 
 | 一家很大的西人超市，肉类可能是最有名的商品了。不但新鲜，而且可以按照你的要求处理好。
+| 周二使用学生卡可以对没有打折的商品打8折。
 | https://www.fortinos.ca/
 
 3. Foodbasic (Metro)
 
 | 原先是Metro，后来被Foodbasics收购走了部分商场，和Fortinos类似，但只卖吃的。
+| 周二使用学生卡可以对没有打折的商品打8折。
 | https://www.foodbasics.ca/index.en.html
 
 4. Nations Fresh Foods

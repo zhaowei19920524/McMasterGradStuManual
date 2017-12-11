@@ -16,6 +16,7 @@ Canada邮政公司：Canada Post
 
 华人快递公司
 ------------------------------------------------------
-1) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
+1) 申通快递：http://stoexpress.ca/
+#) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
 #) 锦程快递：http://www.hr-ex.com/ch Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
 #) 丰泰国际快递：http://soonexpress.com/
