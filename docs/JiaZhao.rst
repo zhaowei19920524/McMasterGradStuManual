@@ -8,7 +8,7 @@
 - 官网
 
   - https://drivetest.ca/
--考试费用
+- 考试费用
 
   - https://drivetest.ca/tests/fees.html
   - 官网列举的价格没有包含消费税。
