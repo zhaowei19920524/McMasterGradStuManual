@@ -1,11 +1,5 @@
 ﻿笔记本电脑推荐
 ==========================
-This page is 
-
-.. image:: /resource/under_construction.gif
-   :align: center
-
-
 下面为大家介绍新生购买电脑
 
 主流电脑配置
@@ -66,22 +60,73 @@ This page is
 推荐的笔记本电脑
 ----------------------------------------
 1. Lenovo
+
+- Yoga系列
+
+  - 分为Yoga 700和900系列。其中Yoga 700系列不但是联想，甚至是所有品牌的笔记本电脑里性价比最高的的电脑。大家遇到打折季，比如黑色星期五、圣诞购物季等等，一定要及时关注。
+  - 推荐Yoga 720 15寸的版本。
+
+- X系列
+
+  - Thinkpad系列的巅峰之作。
+  - 推荐X1 Carbon。
+  - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+
+- T系列
+
+  - Thinkpad系列价格较为平民化的一款电脑。
+  - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+
+- P系列
+
+  - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
+
 2. Dell
+
+- XPS
+
+  - 戴尔推出的非常轻薄的笔记本
+  - 分为13寸和15寸两个版本，其中15寸的版本配置普遍比较高。
+
 3. Asus
+
+- Zenbook Pro
+
+  - 华硕推出的比较轻薄且高端的笔记本，其中Pro系列配置较高，大家也可以浏览其它系列。
+  - 由于Asus在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
+
 4. Microsoft Surface
-5. Macbook
+
+- Surface Pro + 键盘
+
+  - 建议大家从i5处理器、4G内存、128G硬盘的版本开始选择，并且一定要买键盘，触控笔等需要的时候再买。
+
+5. MSI
+
+- GS系列
+
+  - MSI推出的游戏本里最为轻薄的一款。
+  - 由于MSI在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
+
+6. Macbook
+
+- MacBook Pro
+
+  - 强烈推荐至少从256GB的硬盘开始买。
+  - 不推荐MacBook和MacBook Air。因为他们的屏幕分辨率和处理器的配置都太低了。
 
 注
 ---------------------------
-1. 以下专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统 
+1. 除Microsoft Surface系列和Apple的产品，其它品牌的电脑一旦断货，是绝对不会补货的。这点是和国内最大的不同，大家如果发现比较满意的电脑一定要尽快购买，否则一旦断货，只能等该型号的下一代电脑发布。
+2. 以下专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统 
 
 | Civil，MSE 
 
-2. 下列专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
+3. 下列专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
 
 | Mfin、MBA、Math&Science 
 
 原因： 
 
 1. Business学院的服务器是windows server系统。你们的matlab SAS Excel作业如果想用学校的服务器完成，那必须在windows下。os x无法正常导入数据文件。 
-2. math&science学院的服务器是Linux系统，在os x里很难向服务器里导入数据文件。在windows下可以用Mobaxterm软件导入，并在服务器里跑程序。当然如果你想在自己电脑上安装matlab SAS 和R也行。不过那几个软件加起来足足要占用80G的硬盘空间。
+2. math&science学院的服务器是Linux系统，在os x里很难向服务器里导入数据文件。在windows下可以用Mobaxterm软件导入，并在服务器里跑程序。当然如果你想在自己电脑上安装matlab、SAS和R也行。不过那几个软件加起来足足要占用80G的硬盘空间。
