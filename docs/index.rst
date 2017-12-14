@@ -34,6 +34,7 @@ Welcome to McMaster University!
    QunGui
    QunDaShenJieShao
    GeGeXueYuanDeQun
+   QunRiLi
 
 .. toctree::
    :maxdepth: 1
