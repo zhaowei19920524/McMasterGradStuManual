@@ -131,6 +131,19 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 使用方法：在Dropbox官网上自行注册登录。
 | 在线登录方法：https://www.dropbox.com/login
 
+多人实时共同编辑一个文档
+------------------------------------------------------
+https://support.office.com/zh-cn/article/通过实时共同创作协作处理-Word-文档-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?omkt=zh-CN&ui=zh-CN&rs=zh-CN&ad=CN
+
+https://support.office.com/zh-cn/article/在-OneDrive-中协作处理-Office-文档-ea3807bc-2b73-406f-a8c9-a493de18258b?omkt=zh-CN&ui=zh-CN&rs=zh-CN&ad=CN
+
+大体步骤是：
+
+1) 新建一个文档，并且保存在Onedrive网盘里。
+#) 点击右上角的Share或共享按钮，在弹出框最下方点“Get a sharing link”，然后点“Create an edit link”。并把链接发给别人。
+#) 收到链接的人打开链接，并且点击网页上方的“Edit in word”（或其他Office软件）
+#) 最后就可以一起编辑了。
+
 Microsoft实用办公工具
 --------------------------------------------------
 1. Office Lens
