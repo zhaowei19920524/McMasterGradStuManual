@@ -26,7 +26,7 @@ Canada主要超市
 - https://www.fortinos.ca/
 - 一家很大的西人超市，肉类可能是最有名的商品了。不但新鲜，而且可以按照你的要求处理好。
 - 周二使用学生卡可以对没有打折的商品打一定的折扣。
-- PC Plus积分卡：结账是出示积分卡。到达一定数额后会有返现或其它优惠。第一次去Shoppers购物的时候可以办理。
+- PC Plus积分卡：结账时出示积分卡。到达一定数额后会有返现或其它优惠。第一次去Shoppers购物的时候可以办理。
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/pc-plus/id634040057?mt=8
