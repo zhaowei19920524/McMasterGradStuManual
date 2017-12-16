@@ -38,6 +38,8 @@
 
 以上截图感谢17-PH-朱莹提供
 
+学校写的指导教程：http://www.mcmaster.ca/uts/macid/
+
 在线登录方法
 -----------------------------------------------
 - 本科生、研究生：https://studentmail.mcmaster.ca

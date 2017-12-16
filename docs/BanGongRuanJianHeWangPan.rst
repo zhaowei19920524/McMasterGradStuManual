@@ -133,16 +133,47 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 多人实时共同编辑一个文档
 ------------------------------------------------------
-https://support.office.com/zh-cn/article/通过实时共同创作协作处理-Word-文档-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?omkt=zh-CN&ui=zh-CN&rs=zh-CN&ad=CN
+如果使用Onedrive网盘，则可以实现多人实时共同编辑一个Word文档、Excel、PowerPoint的功能。以下是步骤：
 
-https://support.office.com/zh-cn/article/在-OneDrive-中协作处理-Office-文档-ea3807bc-2b73-406f-a8c9-a493de18258b?omkt=zh-CN&ui=zh-CN&rs=zh-CN&ad=CN
+第一步：创建一个文档。
 
-大体步骤是：
+.. image:: /resource/office365/multi_editor/multi_edit_01.jpg
+   :align: center
 
-1) 新建一个文档，并且保存在Onedrive网盘里。
-#) 点击右上角的Share或共享按钮，在弹出框最下方点“Get a sharing link”，然后点“Create an edit link”。并把链接发给别人。
-#) 收到链接的人打开链接，并且点击网页上方的“Edit in word”（或其他Office软件）
-#) 最后就可以一起编辑了。
+第二步：保存在Onedrive网盘里。
+
+.. image:: /resource/office365/multi_editor/multi_edit_02.jpg
+   :align: center
+
+第三步：点击右上角的“Share”按钮，然后在弹出框里点击“Get a sharing link”。
+
+.. image:: /resource/office365/multi_editor/multi_edit_03.jpg
+   :align: center
+
+第四步：点击“Create an edit link”。
+
+.. image:: /resource/office365/multi_editor/multi_edit_04.jpg
+   :align: center
+
+第五步：点击“Copy”按钮。并发给所有一起合作编辑的同学。
+
+.. image:: /resource/office365/multi_editor/multi_edit_05.jpg
+   :align: center
+
+第六步：其他一起合作的同学接受到链接后，在浏览器里打开链接。
+
+.. image:: /resource/office365/multi_editor/multi_edit_06.jpg
+   :align: center
+
+第七步：点击浏览器里的“Edit in Browser”。这时候就可以在网页里一起编辑了，也可以看到别人在编辑文档的哪个位置。
+
+.. image:: /resource/office365/multi_editor/multi_edit_07.jpg
+   :align: center
+
+第八步（可选）：点击右上角的”Sign in“。登录后，点击网页里的”Edit Document“，然后在弹出框里选”Edit in Word“。这样其它合作编辑的同学就可以在桌面版的Word里编辑了。
+
+.. image:: /resource/office365/multi_editor/multi_edit_08.jpg
+   :align: center
 
 Microsoft实用办公工具
 --------------------------------------------------
