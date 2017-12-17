@@ -44,6 +44,10 @@ Debit Card也叫Client Card。它与国内借记卡功能基本相同，提供�
 
 不同之处在于：不管你有多少银行账户，你都只有一张Debit卡。也就是说一张debit卡里通常会有一个Chequing account和N个Savings account（N可以是0,1,2,3,...）。Debit Card至少都有一个Chequing account。可以没有Savings account。
 
+.. image:: /resource/bank/Debit_Card.jpg
+   :align: center
+   :scale: 40%
+
 交易密码：通常是一串不少于6位的阿拉伯数字。在用银行卡在ATM取钱或在pos机消费的时候使用。在第一次去银行开卡的时候可以设置。
 
 刷卡消费：在需要Debit Card刷卡消费的时候，用三种方式：
@@ -61,6 +65,10 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - 一个信用卡里只有一个信用卡账户。如果需要不同的信用卡，则需要不同的信用卡账户。
 - 需要注意的是大部分的商铺会接受VISA Card和MASTER Card， 小部商铺只接受其中一种。 
 - 不同于中国，加拿大允许学生在没有稳定收入的情况下也能申请信用卡，一般开卡额度定在500刀。随着你信用纪录的提升，你可以申请更高的limit，信用卡没有交易限额的规定，可以一个月无限笔额度内花费，加拿大信用卡有很多不同种类，有Cash back, Travel Rewards Card等等。 每种卡都有不同的开户要求，有的需要年费，这个在开户的时候可以和客户经理商谈。
+
+.. image:: /resource/bank/Credit_Card_01.jpg
+   :align: center
+   :scale: 40%
 
 保证金 (Security Deposit) ：
 
@@ -106,7 +114,7 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。也可以不预约直接去开户。银行地点请查看附1中的Google地图。
 
-.. image:: /resource/rbc_mcmaster_contact.jpeg
+.. image:: /resource/bank/rbc_mcmaster_contact.jpeg
    :align: center
    :scale: 50%
 
@@ -172,7 +180,7 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 | 列举了一个月以来该账户的进账和支出明细。
 | 大家跟银行提出最好用eStatement。如果出现问题，纸质的材料不一定能及时看到。
 
-——感谢13-MFin-Daisy Ding提供
+——感谢13-MFin-Daisy Ding、17-CAS-赵伟提供
 
 附
 --------------------------
