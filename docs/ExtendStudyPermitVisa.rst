@@ -10,7 +10,7 @@ Study Permit：学习许可，也叫“大签”（因为是一张Letter Size的
 
 - Study Permit的作用是在加拿大居住和学习，以及作为学生身份在校外工作的合法证明。
 
-Study Visa：学习签证，也叫“小签”（因为是贴在护照上的一张小纸）。
+Study Visa（Temporary Resident Visa或TRV）：学习签证，也叫“小签”（因为是贴在护照上的一张小纸）。
 
 - Study Visa的作用是在入境加拿大进行边检时，提供的合法入境的证明。
 
