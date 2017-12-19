@@ -118,15 +118,10 @@
 注
 ---------------------------
 1. 除Microsoft Surface系列和Apple的产品，其它品牌的电脑一旦断货，是绝对不会补货的。这点是和国内最大的不同，大家如果发现比较满意的电脑一定要尽快购买，否则一旦断货，只能等该型号的下一代电脑发布。
-2. 以下专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统 
+2. Civil，MSE等专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统。
+3. Mfin、MBA、Math&Science等专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
 
-| Civil，MSE 
+- 原因： 
 
-3. 下列专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
-
-| Mfin、MBA、Math&Science 
-
-原因： 
-
-1. Business学院的服务器是windows server系统。你们的matlab SAS Excel作业如果想用学校的服务器完成，那必须在windows下。os x无法正常导入数据文件。 
-2. math&science学院的服务器是Linux系统，在os x里很难向服务器里导入数据文件。在windows下可以用Mobaxterm软件导入，并在服务器里跑程序。当然如果你想在自己电脑上安装matlab、SAS和R也行。不过那几个软件加起来足足要占用80G的硬盘空间。
+  - Business学院的服务器是windows server系统。你们的matlab SAS Excel作业如果想用学校的服务器完成，那必须在windows下。os x无法正常导入数据文件。 
+  - math&science学院的服务器是Linux系统，在os x里很难向服务器里导入数据文件。在windows下可以用Mobaxterm软件导入，并在服务器里跑程序。当然如果你想在自己电脑上安装matlab、SAS和R也行。不过那几个软件加起来足足要占用80G的硬盘空间。

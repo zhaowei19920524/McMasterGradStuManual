@@ -110,17 +110,19 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1331-1335 Main St W #5, Hamilton, ON L8S 1C6
   - (289)389-0900
 
-- Williams：西式咖啡店。推荐里面的hot rice box和vanilla（热的）。
+- Williams：西式咖啡店
 
   - https://williamsfreshcafe.com/
   - 1309 Main St W, Hamilton, ON L8S 1C5
   - (905)522-2636
+  - 推荐里面的hot rice box和vanilla（热的）
 
-- Gino's Pizza：披萨店。推荐walk-in special。
+- Gino's Pizza：披萨店
 
   - http://www.ginospizza.ca/
   - 1309 Main St W, Hamilton, ON L8S 1C5
   - (905)525-4444
+  - 推荐walk-in special
 
 - Yogurty's：自助酸奶、冰淇淋店
 
@@ -168,6 +170,11 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)572-6866
 
 3. 学校西边
+
+- Maple Leaf Pancake House：煎饼、烤肠、炸土豆
+
+  - 1520 Main St W, Hamilton, ON L8S 1C8
+  - (905)522-4995
 
 - Tally Ho Restaurants：汉堡薯条
 
