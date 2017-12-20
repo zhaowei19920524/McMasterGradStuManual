@@ -103,6 +103,16 @@ Google地图的位置
       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1a6AjLLdzg55eOPqf5nBoteIO_pY" width="640" height="480"></iframe>
   </div>
 
+“团购”APP：Groupon
+-----------------------------
+Groupon是Canada版团购、打折信息App，虽然规模远远没法和国内的类似产品相比。
+
+- 网址：https://www.groupon.ca/
+- iOS：https://itunes.apple.com/app/groupon/id352683833
+- Android：https://play.google.com/store/apps/details?id=com.groupon
+
+Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜索想要的东西。其中Tim Hortons、密西沙加的小肥羊火锅（Mongolian）、Boston Pizza、部分电子产品（耳麦等等）是比较常用的优惠券。
+
 网上购物
 ------------------------------
 1. Amazon

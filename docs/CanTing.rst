@@ -187,6 +187,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://bostonpizza.com/en/index.html
   - 1563 Main St W, Hamilton, ON L8S 1E6
   - (905)777-1919
+  - Groupon App里可以搜到它的优惠券。
 
 - Wendy's：汉堡薯条
 
@@ -234,6 +235,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - iOS：https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8
   - Android：https://play.google.com/store/apps/details?id=digital.rbi.timhortons
 
+.. image:: /resource/CanTing/CanTing_Tim_App.png
+   :align: center
+   :scale: 25%
+
 - 地点：
 
   - McMaster Student Center一楼
@@ -241,10 +246,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - McMaster东边：951 King St W, Hamilton, ON L8S 1K9
   - McMaster西边：1554 Main St W, Hamilton, ON L8S 1E5
   - 历史上第一家成立的Tim Hortons：65 Ottawa St N, Hamilton, ON L8H 3Y9
+- 打折：
 
-.. image:: /resource/CanTing/CanTing_Tim_App.png
-   :align: center
-   :scale: 25%
+  - 大家下载Tim Hortons的App后可以使用Groupon App对Tim Hortons的账户充值。
+  - Groupon里有Tim Hortons 5折优惠券。比如购买$5的优惠券后，可以给自己Tim Hortons增加$10的余额。付款的时候直接刷App就可以了。
 
 其它地方的西餐
 ---------------------------------------------
