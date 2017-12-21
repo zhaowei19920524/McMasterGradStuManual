@@ -48,6 +48,30 @@
 | 中午12点开始可能要连续上3个小时的课，这都是很正常的事。business学院曾经出现过晚上10点半去Burlinton校区上课的情况，等下课已经半夜12点了。
 | 有选课自由的学生应尽量避免这种情况。
 
+节假日
+---------------------------------
+在Canada， 是没有国内那种过年和国庆那种七天假期的，唯一的放假安排是一个周末再加一天，一共三天。即使Canada的国庆节（Canada Day）。
+
+此外除了一些公共的节日外，每个省还有自己的节日，仅仅是本省境内放假，其它省依然继续上课上班。
+
+在Ontario的法定节假日有以下几天：
+
+- New Year's Day：January 1
+- Family Day：Third Monday in February
+- Good Friday：first Sunday after the first full moon in spring(after March 21st)
+- Victoria Day：Monday before May 25
+- Canada Day：July 1
+- Labour Day：First Monday in September
+- Thanksgiving Day：Second Monday in October
+- Christmas Day：December 25
+- Boxing Day：December 26
+
+比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位依然会放假。
+
+对于学生来说，是没有暑假和寒假的。一个学年有3个term，每个term是4个月。所以不会有任何假期，包括本科生（本科生term3要去校外实习）。
+
+对于研究生来说，大部分研究生虽然课程比较少，term5甚至term3以后就没有任何课程了，但不代表就处于放假状态。准确的说，研究生也没有任何假期，即使没有课也要跟导师一起写论文，或做项目。不过大家也不用担心，如果想回国，可以圣诞节到元旦那几天回去。并且大多数导师都会在一年里批一个月的假。
+
 电压与插座
 -------------------------------------
 | Canada的家用电压是110V。stove那个插座使用三相电单独供电除外（≥300V）。

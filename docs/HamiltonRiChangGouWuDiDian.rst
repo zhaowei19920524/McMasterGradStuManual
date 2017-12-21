@@ -63,11 +63,12 @@ Canada主要超市
 - https://www.costco.ca/
 - 地址：100 Legend Ct, Ancaster, ON L9K 1J3
 - Canada最大的批发商。它只卖批发的商品，比如厕纸，一次最少也得买30卷。他的策略是薄利多销。大家可以一段时间租车去一次，去那里购物一次买的东西，可以用很久。如果只买一两件小的商品，也可以坐5C公交车到“GOLF LINKS at MEADOWLANDS”。
-- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，$120会员可以免费开子卡给别人用。https://www.costco.ca/join-costco.html?COSTID=Header_EN_Membership_TOP
+- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，这两种会员卡都可以免费开子卡给别人（spouse或同一个住址的其它室友）用。https://www.costco.ca/join-costco.html?COSTID=Header_EN_Membership_TOP
 
-  - 购物：在Costco里购物必须有会员卡。
-  - 加油：https://www.costco.ca/gasoline.html 。Costco的加油站比其它公司的加油站的价格要便宜得多。
+  - 购物：在Costco里购物必须有会员卡。（注：由于会员卡上有持卡人的名字和照片，在Costco商场里结账的时候，会核对付款人的身份。如果借别人的卡去买东西，可能会被查出来）
+  - 加油：https://www.costco.ca/gasoline.html 。Costco商场外的自助加油站比其它公司的加油站的价格要便宜得多。
   - 租车、旅店：https://www.costcotravel.com/ 。用Costco的会员在Enterprise和Avis两大租车公司租车，基本价格比不用会员的价格能便宜大约20%。
+- 信用卡：https://www.capitalone.ca/credit-cards/costco/ 。用它的信用卡结账的时候有幅度较大的返现。
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/costco/id535509415?mt=8
