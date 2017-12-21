@@ -60,7 +60,7 @@
 
 2. 校外Walk-in Clinic
 
-- 所有人都可以去看病的公共的诊所。但通常不能看牙齿和眼睛。
+- 所有人都可以去看病的公共的诊所。但通常不能看牙齿。
 - 地址列表：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
 
 3. 校外的牙医、眼医诊所
