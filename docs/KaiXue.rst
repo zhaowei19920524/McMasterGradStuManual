@@ -21,6 +21,7 @@
 #) 领公交卡（HSR U-Pass/PRESTO Card）：凭student card，去campus store领（部分学生没有，见 `公交车`_ ）。
 #) 有实验室的同学领lab的钥匙或lab门卡，请询问本院小秘。小秘会开一张证明材料，然后拿着证明材料去JHE216A领取。lab钥匙需要交$20押金，lab门卡需要交$10的押金。
 #) 有TA、RA的研究生、post doc、访问学者去Campus Store领Working at McMaster卡（工卡）。post doc和访问学者是没有student card的。领工卡后去JHE216把临时的lab门卡退了。顺便把权限转移到工卡上，把押金退回来。
+#) 更新mosaic里在Canada的个人住址、联系方式。
 #) 可选的手续：
 
   A) Meal Plan：见 `餐厅`_ 。
