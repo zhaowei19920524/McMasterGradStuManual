@@ -100,6 +100,13 @@ Welcome to McMaster University!
    BanGongRuanJianHeWangPan
    BiJiBenDianNaoTuiJian
 
+.. toctree::
+   :maxdepth: 1
+   :caption: 关于本站
+
+   BenZhanJieShao
+   ZuiJinGengXin
+
 贡献与反馈：
 -----------------------------
 - 如有好的意见和建议，欢迎您的 `反馈`_ 。

@@ -120,7 +120,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 租房建议
 -------------------------------
 .. attention::
-   由于大家喜好不同，众多apt和house的情况也千差万别。所以在这里，我们不会给大家建议house或apt哪个更好。
+   由于大家喜好不同，众多apt和house的情况也千差万别。所以我们在这里不会给大家建议house或apt哪个更好。
 
 1. 新生一定要在来之前就把短租找好，否则会出现到校后没有地方住的尴尬局面。由于最多只住几周，大家不要对短租的住处有太高的要求，即使是地下室、客厅。
 2. 为了安全起见，也为了上学方便。大家最好住在Zone1，尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区（Zone 1）的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。没有车的同学如果住downtown，晚上最好在天黑前回家，以免遇到不愉快的事情，尤其是女生。
