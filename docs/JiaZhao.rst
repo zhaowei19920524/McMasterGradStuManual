@@ -77,16 +77,26 @@ G类驾照
 ------------------------------
 1. 租车公司
 
-- Discount: https://www.discountcar.com/
-- Enterprise: https://www.enterprise.ca/en/home.html
-- Avis: https://www.avis.ca/en/home
+- Discount
+
+  - 官网：https://www.discountcar.com/
+- Enterprise
+
+  - 官网：https://www.enterprise.ca/en/home.html
+  - iOS：https://itunes.apple.com/ca/app/enterprise-rent-a-car/id1020641417?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.ehi.enterprise.android
+- Avis
+
+  - 官网：https://www.avis.ca/en/home
+  - iOS：https://play.google.com/store/apps/details?id=com.avis.androidapp
+  - Android：https://play.google.com/store/apps/details?id=com.avis.androidapp
 
 2. 租车价格
 
 - 价格=基本价格+保险+young fee+税
 
   - 基本价格：租车网站上显示的价格。
-  - 保险（damage waiver或DW）：给车买的车辆损坏保险。大概二三十刀。可以买租车公司的保险，出事故之后租车的人不需要在付任何关于车的维修费用。
+  - 保险：给车买的车辆损坏保险。大概二三十刀。可以买租车公司的保险，出事故之后租车的人不需要在付任何关于车的维修费用。
   - young fee：对于25岁以下的人需要收额外的费用。
   - 税：前面几项费用之和的13%。
 - 通常周末比工作日便宜
@@ -104,11 +114,13 @@ G类驾照
 
 注：
 
-1. 下面是几种有关车的保险：
+1. 下面是几种有关车的保险 https://www.enterprise.com/en/help/faqs/car-rental-insurance-us.html
 
 - damage waiver（DW）：这个是租车的时候租车公司提供给客户的车辆意外损坏保险。意思是如果发生意外了，造成了车辆的损坏，只要买了这个保险，租车的人就不需要承担任何维修的费用。如果没有买，则需要租车的人自己掏钱修车。如果大家在其它地方购买了可以赔付修车的保险，则不需要买它。
-- liability：这个通常包含在信用卡里，可以理解为国内的“交强险”。主要负责赔付发生事故时，对第三方财产的损坏，比如撞到他人或撞到其它物品。这个通常赔付数额巨大，一般信用卡里会有100W刀左右的赔付额度。这里也提醒大家，需要有一张带有liability的信用卡去租车。否则出事故后会赔得倾家荡产。
-- 自己买的UHIP等等。这个主要是出事故时，自己受伤了，需要用自己买的健康保险来付自己的医药费。
+- Personal Accident Insurance（PAI）& Personal Effects Coverage（PEC）：主要赔付出事故时，自己的受伤的医药费等等。这个可能和UHIP等等类似，可以不买。
+- Supplemental Liability Protection（SLP）：这个通常包含在信用卡里，可以理解为国内的“交强险”。主要负责赔付发生事故时，对第三方财产的损坏，比如撞到他人或撞到其它物品。这个通常赔付数额巨大，一般信用卡里会有100W刀左右的赔付额度。这里也提醒大家，需要有一张带有liability的信用卡去租车，否则出事故后会赔得倾家荡产。如果自己信用卡里没有，则需要购买租车行提供的保险。
+- Roadside Assistance Protection（RAP）：这个主要负责车钥匙丢失、钥匙锁在车里面、半路没油等等的事故。大家如果对自己比较有信心，可以不买。
+- 自己买的UHIP、Health Insurance Plan等等。这个主要是出事故时，自己受伤了，需要用自己买的健康保险来付自己的医药费。
 
 2. 租车费用
 

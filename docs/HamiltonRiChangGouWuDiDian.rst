@@ -63,7 +63,7 @@ Canada主要超市
 - https://www.costco.ca/
 - 地址：100 Legend Ct, Ancaster, ON L9K 1J3
 - Canada最大的批发商。它只卖批发的商品，比如厕纸，一次最少也得买30卷。他的策略是薄利多销。大家可以一段时间租车去一次，去那里购物一次买的东西，可以用很久。如果只买一两件小的商品，也可以坐5C公交车到“GOLF LINKS at MEADOWLANDS”。
-- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，这两种会员卡都可以免费开子卡给别人（spouse或同一个住址的其它室友）用。https://www.costco.ca/join-costco.html?COSTID=Header_EN_Membership_TOP
+- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，这两种会员卡都可以免费开子卡给别人（spouse或同一个住址的其它室友，可能需要带上租房合同，或驾照等其它证件）用。https://www.costco.ca/join-costco.html?COSTID=Header_EN_Membership_TOP
 
   - 购物：在Costco里购物必须有会员卡。（注：由于会员卡上有持卡人的名字和照片，在Costco商场里结账的时候，会核对付款人的身份。如果借别人的卡去买东西，可能会被查出来）
   - 加油：https://www.costco.ca/gasoline.html 。Costco商场外的自助加油站比其它公司的加油站的价格要便宜得多。
@@ -112,7 +112,7 @@ Groupon是Canada版团购、打折信息App，虽然规模远远没法和国内�
 - iOS：https://itunes.apple.com/app/groupon/id352683833
 - Android：https://play.google.com/store/apps/details?id=com.groupon
 
-Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜索想要的东西。其中Tim Hortons、密西沙加的小肥羊火锅（Mongolian）、Boston Pizza、部分电子产品（耳麦等等）是比较常用的优惠券。
+Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜索想要的东西。其中Tim Hortons、密西沙加的小肥羊火锅（Mongolian）、Boston Pizza、电子产品是比较常用的优惠券。
 
 网上购物
 ------------------------------
@@ -122,6 +122,10 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 - 它非常像国内的淘宝和京东，虽然规模没法比。几乎卖任何常见的商品，大家如果平时有东西不知道在哪买，就可以去Amazon看看。
 - Prime Student会员：对于标有prime的商品可以享受2-day free shipping，年费$39，可以先试用半年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）
 - Amazon的退货政策也比较好，买了之后如果不满意，通常可以原价退货。但频繁退货会收罚金。
+- 手机App
+
+  - iOS：https://itunes.apple.com/app/amazon-shopping-made-easy/id297606951?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping
 
 .. image:: /resource/GouWu/Amazon_Prime.png
    :align: center
@@ -129,25 +133,29 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 2. 其它
 
-| 其它网站还有 https://www.ebay.ca/ 。在这里可以买到世界各地商品。价格也非常低，不过普遍质量确实不好，并且运送时间太长，从中国大陆运过来需要一个多月。
+- 其它网站还有 https://www.ebay.ca/ 。在这里可以买到世界各地商品。价格也非常低，不过普遍质量确实不好，并且运送时间太长，从中国大陆运过来需要一个多月。
 
 其它比较小型的商店
 -----------------------------------------
 1. Canadian Tire
 
-| 加拿大五金店。
-| http://www.canadiantire.ca/
+- http://www.canadiantire.ca/
+- 加拿大五金店和加油站。
+- 手机App
+
+  - iOS：https://itunes.apple.com/ca/app/canadian-tire-retail/id403884878?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.simplygood.ct
 
 2. NoFrills & Price Chopper
 
-| 比较便宜的食品店，购买的时候注意新鲜程度。
-| https://www.nofrills.ca/
-| https://www.pricechopper.com/
+- https://www.nofrills.ca/
+- https://www.pricechopper.com/
+- 比较便宜的食品店，购买的时候注意新鲜程度。
 
 3. Staples
 
-| 文具、办公家具、少量电子产品。
-| https://www.staples.ca/
+- https://www.staples.ca/
+- 文具、办公家具、少量电子产品。
 
 学姐经验
 --------------------------------------------------------
