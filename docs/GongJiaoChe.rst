@@ -12,7 +12,7 @@ PRESTO卡
 
 .. image:: /resource/bus/presto1.png
    :align: center
-   :scale: 50%
+   :scale: 30%
 
 2. 资格
 
@@ -152,7 +152,7 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 
 Go Transit公交车、火车
 ----------------------------------------------------
-Go Transit公司运营安大略省，以多伦多为中心，连接南部各大城市的长途汽车和火车。其中汽车叫Go Bus，火车叫Go Train。他们的外表都有绿白条纹。其中Go Bus车头的LED屏幕里会显示自己是哪一路汽车和去往哪个终点站。由于Go Train比较少，并且也极少乘坐，以下不会详细介绍，大家有兴趣可以自行去Go Transit网站上查阅。
+Go Transit公司运营以多伦多为中心，连接安大略省南部各大城市的长途汽车和火车。其中汽车叫Go Bus，火车叫Go Train。他们的外表都有绿白条纹。其中Go Bus车头的LED屏幕里会显示自己是哪一路汽车和去往哪个终点站。由于Go Train比较少，并且也极少乘坐，以下不会详细介绍，大家有兴趣可以自行去Go Transit网站上查阅。
 
 .. image:: /resource/bus/Go_Bus.jpg
    :align: center
@@ -223,6 +223,11 @@ Go Transit公司运营安大略省，以多伦多为中心，连接南部各大�
 
 - 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
 - http://www.viarail.ca/en
+
+5. Greyhound
+
+- 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
+- https://www.greyhound.ca/
 
 Hamilton出租车
 ------------------------------------------
