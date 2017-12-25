@@ -20,6 +20,7 @@ Canada主要超市
 - Nations里买菜结账的地方只能付现金或刷debit卡。超市内部的餐厅可能接受credit卡。
 - Nations每周都会对一些商品打折，大家可以去官网上的Weekly Special查看。
 - 超市里卖做好的熟食，熟食在每天3点以后有大幅度的打折。
+- 停车：Nations自带地下停车场，如果在nations里买菜或在其中的餐馆消费大于等于$20，并且停车时间不超过1小时，则停车免费。入口在nations西边的Bay Street上。
 
 3. Fortinos
 
