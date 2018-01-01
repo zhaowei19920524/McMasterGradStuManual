@@ -261,7 +261,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 50 Dundurn St S, Hamilton, ON L8P 4W3
   - (905)577-1027
   - 麦当劳24小时营业。
-  - 去麦当劳吃饭强烈建议使用优惠券（如果有）：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
+  - 去麦当劳吃饭强烈建议使用优惠券（digital mailer coupons），这种优惠券通常每个term开学之后的那一两个月有效。下载地址：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
   - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看
 
     - iOS：https://itunes.apple.com/ca/app/my-mcds/id375695000?mt=8
