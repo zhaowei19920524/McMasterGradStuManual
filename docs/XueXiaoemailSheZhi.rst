@@ -14,25 +14,25 @@
 
 | 第一步：登陆mosica之后，在右上角点击三个横线的图标
 
-.. image:: /resource/activate_email_on_phone_1.png
+.. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_1.png
    :align: center
    :scale: 50%
 
 | 第二步：选择Navigator
 
-.. image:: /resource/activate_email_on_phone_2.png
+.. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_2.png
    :align: center
    :scale: 50%
 
 | 第三步：选择Email Management
 
-.. image:: /resource/activate_email_on_phone_3.png
+.. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_3.png
    :align: center
    :scale: 50%
 
 | 第四步：点击“Manage your Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
 
-.. image:: /resource/activate_email_on_phone_4.png
+.. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_4.png
    :align: center
    :scale: 50%
 

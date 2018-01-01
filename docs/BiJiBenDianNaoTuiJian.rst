@@ -94,6 +94,10 @@
 
   - 华硕推出的比较轻薄且高端的笔记本，其中Pro系列配置较高，大家也可以浏览其它系列。
   - 由于Asus在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
+- Republic Of Gamers（ROG）
+
+  - https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/
+  - 华硕出品的游戏本，这款电脑也是近年来新出的一款极度轻薄的游戏笔记本电脑。它在普通笔记本电脑的厚度的外壳里硬是配上的顶级的显卡。但价格较高。
 
 4. Microsoft Surface
 

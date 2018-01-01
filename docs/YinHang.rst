@@ -52,7 +52,7 @@ Debit Card也叫Client Card。它与国内借记卡功能基本相同，提供�
 
 刷卡消费：在需要Debit Card刷卡消费的时候，用三种方式：
 
-- tap（推荐）：把银行卡贴到pos机的屏幕上方，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式最便捷。
+- tap（推荐）：把银行卡贴到pos机的屏幕上方，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式最便捷。但是大多数银行都有金额限制，一次付费不能超过$100。http://www.rbcroyalbank.com/chipandflash/index.html
 - swipe：把银行卡在pos机的侧边缘的槽里划一下，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。用这种方式刷卡，最后需要在小票上签名。
 - insert：把银行卡插入pos机下方插卡的地方，这种方式比较复杂，可选项也就比较多。可以选用哪个账户付钱，不过需要银行卡交易密码。
 
@@ -82,7 +82,7 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - 在借记卡丢失，损坏或者余额不足时提供资金支持。
 - 刷信用卡通常可以获得积分，积分可以返现或免费赠送购物卡，在开卡的时候可以问清楚。希望大家能刷信用卡的时候一定要刷信用卡。而刷debit卡没有任何优惠活动。
 
-刷卡消费：刷卡的方式和上面Debit卡一样。信用卡没有交易次数的限制。
+刷卡消费：刷卡的方式和上面Debit卡一样。信用卡没有交易次数的限制。但是如果使用tap的方法会有金额限制，通常一次付费不能超过$25或$50。每个银行的限制不太一样。
 
 注：
 
@@ -107,11 +107,11 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 需要开通的账户：
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
-- 一张没有年费或通过学生账户免去年费类型的信用卡。
+- 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利可以选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多。
 
 选择银行：
 
-- GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
+- GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。也可以不预约直接去开户。银行地点请查看附1中的Google地图。
 
 .. image:: /resource/bank/rbc_mcmaster_contact.jpeg
@@ -180,8 +180,6 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 | 列举了一个月以来该账户的进账和支出明细。
 | 大家跟银行提出最好用eStatement。如果出现问题，纸质的材料不一定能及时看到。
 
-——感谢13-MFin-Daisy Ding、17-CAS-赵伟提供
-
 附
 --------------------------
 1. Hamilton主要银行的位置（Google地图，国内的同学可能需要翻墙访问）
@@ -201,12 +199,12 @@ online banking密码：online banking的密码也是在第一次去银行开户�
    2. 如果是数值是负的，可以以后刷信用卡把多还的钱花了，或打电话给银行撤回上一次的还款操作。请勿用相同的方法把钱从信用卡账户转回到chequing或savings账户，否则银行默认为是在用信用卡借钱，进而收取利息。
    3. 还款需要从chequing账户里把钱转出，不要从savings账户直接转到visa账户，否则银行会加收手续费。如果需要savings账户里的钱去还信用卡消费，请先转到chequing账户里，再转给信用卡。
 
-.. image:: /resource/pay_credit_card_1.png
+.. image:: /resource/bank/pay_credit_card_1.png
    :align: center
 
 | 第二步：再次确认一下。
 
-.. image:: /resource/pay_credit_card_2.png
+.. image:: /resource/bank/pay_credit_card_2.png
    :align: center
 
 3. Interac etransfer（个人银行账户间的转账）图文教程
@@ -286,4 +284,4 @@ online banking密码：online banking的密码也是在第一次去银行开户�
    :align: center
 
 
-.. _教程: https://www.rbcroyalbank.com/onlinebanking/bankingusertips/notices/auto-deposit.html
+.. _教程: http://www.rbcroyalbank.com/dms/payments/autodeposit/

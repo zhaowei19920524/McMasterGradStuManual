@@ -54,7 +54,7 @@
 
 此外除了一些公共的节日外，每个省还有自己的节日，仅仅是本省境内放假，其它省依然继续上课上班。
 
-在Ontario的法定节假日有以下几天：
+在Ontario的法定节假日（Statutory Holidays）有以下几天：
 
 - New Year's Day：January 1
 - Family Day：Third Monday in February
@@ -66,7 +66,7 @@
 - Christmas Day：December 25
 - Boxing Day：December 26
 
-比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位依然会放假。
+比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位（包括学生）依然会放假。这时候会出现一个大约10天的长假。
 
 对于学生来说，是没有暑假和寒假的。一个学年有3个term，每个term是4个月。所以不会有任何假期，包括本科生（本科生term3要去校外实习）。
 
@@ -78,7 +78,7 @@
 | 插座则统一使用美标：2线插座和国内类似，有一边会略长一些，不过完全兼容国内电器的插头。3线则完全不同。
 | http://www.worldstandards.eu/electricity/plugs-and-sockets/ab/
 
-.. image:: resource/3LineElectricalSocket.jpg
+.. image:: resource/QiTaShengHuoJiangYanHuiZong/3LineElectricalSocket.jpg
    :align: center
 
 自来水
@@ -89,7 +89,7 @@
 
 电费
 ------------------------------
-.. image:: /resource/ElectronicRates.jpg
+.. image:: /resource/QiTaShengHuoJiangYanHuiZong/ElectronicRates.jpg
    :align: center
 
 | 大家住的House或apartment可能电费要另付，这就需要考虑省电的问题了。
@@ -146,7 +146,9 @@
 - Passport（护照）：这个是到Canada的留学生必须具有的证件，有了这个证件才能办理其它各种手续或证件。但经常携带不安全，丢了之后办理需要很久，不建议一直使用。
 - Driver License（驾照）：这个是最最常用的证件，大家来Canada之后就应该尽快把G1 License拿到手。有了它基本上可以走遍任何一个地方，办理几乎任何手续（除Study Permit和Study Visa）。
 - Ontario Photo Card：可以叫它安大略省身份证。如果大家仅仅短期来Canada，毕业后也不想留在Canada，也不想交将近200刀的费用去考Driver License。可以选择这种比较便宜的方法。费用$35。带上护照去Service Ontario营业点办理。https://www.ontario.ca/page/ontario-photo-card
-- Canadian Permanent Resident card with signature（枫叶卡或“绿卡”或永久居民卡）
+- Canadian Permanent Resident card with signature：枫叶卡或“绿卡”或永久居民卡
+
+大家最好把上面的其中一种随身携带。
 
 Toronto Citypass
 --------------------------------------------------
@@ -166,3 +168,4 @@ https://www.citypass.com/toronto
 
 | Hamilton 华人网：http://www.hamiltonchinese.ca/
 | McMaster - 中国学生论坛：http://www.maccssa.org/
+| McMaster学生论坛：http://www.macinsiders.com/
