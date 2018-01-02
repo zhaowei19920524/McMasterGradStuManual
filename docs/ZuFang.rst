@@ -84,7 +84,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 - rent：租金。
 - lease：租房合同，sublease或sublet则是转租的意思。
 - deposit：定金。
-- gas、heat：指暖气或天然气，由于暖气是通过燃烧天然气产生的，所以这两个词通用。
+- gas、heat：指天然气、暖气，由于暖气是通过燃烧天然气产生的，所以这两个词通用。
 - hydro：水（water）和电（electricity）的总称。
 - Internet：上网。注意有些公寓写的包括Internet cable，这个指的是房间里有网线接口，不是说包括上网。
 
@@ -126,7 +126,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 2. 为了安全起见，也为了上学方便。大家最好住在Zone1，尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区（Zone 1）的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。没有车的同学如果住downtown，晚上最好在天黑前回家，以免遇到不愉快的事情，尤其是女生。
 3. Full-time MBA学生虽然上课地点在RJC校区，但依然建议住在Hamilton，除非自己有车。原因是RJC校区所在地Burlington公共交通不便，中国超市缺乏。学习和生活的便捷程度会大打折扣。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
-5. 由于新生一般在国内，还未到Canada，很难详细了解house或apt的情况。可以通过以下方法解决： 
+5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
+6. 由于新生一般在国内，还未到Canada，很难详细了解house或apt的情况。可以通过以下方法解决： 
 
   A. 让房东多发些图片。 
   B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
@@ -143,15 +144,38 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 ---------------------------------
 1. 租房通常要交定金，定金一般是最后一个月的房租，一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚，再决定。否则后悔就来不及了。 
 2. 房东没有义务为任何人留房间。除非你已经交了定金。否则房东依然会把房间给其他人。 
-3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。如果和房东商量终止，最好有终止的协议。 
+3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。如果和房东商量终止，最好有终止的协议。 https://www.cleo.on.ca/en/publications/moving/legal-ways-move-out-early
 4. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
 
   A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
   B. 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
 5. 住一年以上的apt可以随时搬走或转给其它人，但也有个限制，就是如果是其中某一个或某几个人搬走需要征得其它人的同意，比如其它依旧租下去的人员愿意付所有的房租，或马上搬走的人找好了转租的人。如果所有人都搬走，那没有任何问题。
-6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。因为house门口的草坪不剪草或杂草过多，第二次警告会交罚金（>$200）。在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。所以在合同里一定要写明谁负责做这些事和出事谁负责。
+6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
+
+  A. 因为house门口的草坪不剪草（杂草超过20cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
+  B. 在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03-296.pdf
+  C. 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
+
 7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
+8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。http://www2.hamilton.ca/NR/rdonlyres/D2F70089-A992-400E-B6AD-AF28085F9F84/0/04091.pdf 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
+
+租房纠纷调解
+-----------------------------------------------
+普遍遇到的问题大多有：室友或邻居太吵、冬天房间太冷、房间设施不全等等。大家遇到问题不要忍着，更不要一气之下就搬走，这样反而因为违约而让房东抓住把柄。一定要尽可能求助周围同学，或联系学校及公共的相关部门。
+
+1. 相关部门
+
+- McMaster：https://macoffcampus.mcmaster.ca/ocrc_static/services_and_programs.html
+- Public：
+
+  - https://www.hamiltonjustice.ca/tenant-rights
+  - http://www.sjto.gov.on.ca/ltb/
+
+2. 建议
+
+- 做好记录：拍照或录音保存。
+- 流程：①首先找当事人解决，比如某个室友、邻居或房东。如果表达不清楚，可以求助周围的同学；②如果私下解决不了，可以找McMaster的相关部门；③最后还是无法解决，再联系public的相关部门。
 
 附
 ------------------------------
