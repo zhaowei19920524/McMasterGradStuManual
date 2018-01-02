@@ -94,7 +94,7 @@ Canada主要超市
 Jackson Square购物中心
 -------------------------------------------------------------------------
 | 地址：2 King St W, Hamilton, ON L8P 1A1
-| 以下图片更新于2017年7月18日。可以 `点此下载`_ 。
+| 以下图片更新于2017年7月18日。可以在官网上 `下载`_ 。
 
 .. image:: /resource/GouWu/JacksonSquareDirectory-201707-page-001.jpg
    :align: center
@@ -240,4 +240,4 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
    ——感谢14-Mfin-xinlei提供
 
 
-.. _点此下载: http://www.realpropertieslimited.com/files/JacksonSquareDirectory-201707.pdf
+.. _下载: http://www.realpropertieslimited.com/hamilton/jackson-square-availability.html

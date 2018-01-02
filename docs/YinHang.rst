@@ -107,7 +107,7 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 需要开通的账户：
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
-- 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利可以选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多。
+- 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利推荐选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多，而Reward却可以兑换日常用品、食品、电影票、租车、机票、旅馆等等，优惠幅度较大。
 
 选择银行：
 
@@ -117,11 +117,6 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 .. image:: /resource/bank/rbc_mcmaster_contact.jpeg
    :align: center
    :scale: 50%
-
-- 有关银行的问题也可以询问群里13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在Hamilton的CIBC工作，现在在Hamilton的Scotiabank上班。
-   
-  - 不涉及个人账户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
-  - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
 
 比较有特点的银行卡
 --------------------------------------------
