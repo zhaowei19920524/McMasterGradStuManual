@@ -37,6 +37,10 @@
 
   - https://www.bestbuy.ca/
   - 14 Martindale Crescent Unit 1, Ancaster, ON L9K 1J9
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/best-buy-canada/id386960831?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.coppi.bestbuy
   - Best Buy不但卖高端电脑配件，也卖日常生活中用的普通鼠标键盘等等。
 - Microsoft Store
 
@@ -132,8 +136,9 @@ https://www.intel.com/content/www/us/en/processors/processor-numbers.html
 注
 ---------------------------
 1. 除Microsoft Surface系列和Apple的产品，其它品牌的电脑一旦断货，是绝对不会补货的。这点是和国内最大的不同，大家如果发现比较满意的电脑一定要尽快购买，否则一旦断货，只能等该型号的下一代电脑发布。
-2. Civil，MSE等专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统。
-3. Mfin、MBA、Math&Science等专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
+2. Lenovo的电脑通常发货时间比较长，因为可能从国内运来。按往年经验，到货需要1~3周。大家看好后一到要尽快购买。
+3. Civil，MSE等专业所需软件只能运行在windows系统上，请在购买电脑是注意，若购买Mac电脑，请务必安装双系统。
+4. Mfin、MBA、Math&Science等专业需要Excel，SAS，R，MATLAB等。历史经验表明，依然需要Windows。 
 
 - 原因： 
 

@@ -9,7 +9,7 @@
 大家把日历的地址复制到APP里就可以查看了。
 
 - Android：https://play.google.com/store/apps/details?id=com.teamup.teamup
-- iOS：https://itunes.apple.com/us/app/teamup-calendar/id1065897968
+- iOS：https://itunes.apple.com/ca/app/teamup-calendar/id1065897968
 
 使用说明
 ---------------------------------------------------------

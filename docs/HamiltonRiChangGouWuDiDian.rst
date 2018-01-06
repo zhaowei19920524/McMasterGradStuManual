@@ -88,7 +88,7 @@ Canada主要超市
 - 它是Cadillac Fairview（CF）旗下在Canada的众多大型购物商场之一，Hamilton这家的规模只能算其中比较小的一家。大家有空可以逛一逛它开设在密西沙加和多伦多的更大型的商场。https://www.cfshops.com/home.html#malls 。例如：Toronto Eaton Centre、Sherway Gardens等等。
 - 手机App：
 
-  - iOS：https://itunes.apple.com/us/app/cf-shop!-make-most-your-mall/id929774368?mt=8
+  - iOS：https://itunes.apple.com/ca/app/cf-shop!-make-most-your-mall/id929774368?mt=8
   - Android：https://play.google.com/store/apps/details?id=air.com.blueband.cfsidekick
 
 Jackson Square购物中心

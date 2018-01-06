@@ -17,7 +17,7 @@ McMaster餐厅介绍
 --------------------------------------------
 McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
-1. CENTRO@Commons
+1. CENTRO @ Commons
 
 | 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
 | http://hospitality.mcmaster.ca/locations/centro.html
@@ -32,7 +32,7 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 | 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。
 | https://www.phoenixmcmaster.com/
 | 这个地方除了提供酒水饮料外，也提供较为全面的西餐。
-| 地点：Hamilton Hall延Scholars Rd向西走经过的北边第二个房子。
+| 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
 
 4. Student Center一楼
 
@@ -103,6 +103,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://pinksburgers.com/
   - 1335 Main St W, Hamilton, ON L8S 1C6
   - (905)317-4657
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/pinks-burgers/id1164540176?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.surepathmobile.pinks
   
 - Taco：墨西哥餐
 
@@ -110,12 +114,16 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1331-1335 Main St W #5, Hamilton, ON L8S 1C6
   - (289)389-0900
 
-- Williams：西式咖啡店
+- Williams Fresh Café：西式咖啡店
 
   - https://williamsfreshcafe.com/
   - 1309 Main St W, Hamilton, ON L8S 1C5
   - (905)522-2636
-  - 推荐里面的hot rice box和vanilla（热的）
+  - Williams是一家比较纯粹的西餐和西式咖啡店。推荐里面的hot rice box和vanilla（热的）
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/williams-fresh-cafe/id935711342?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.d1mobile.williams
 
 - Gino's Pizza：披萨店
 
@@ -123,12 +131,20 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1309 Main St W, Hamilton, ON L8S 1C5
   - (905)525-4444
   - 推荐walk-in special
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/ginos-pizza/id1132299725?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.menudrive.GinosPizza
 
 - Yogurty's：自助酸奶、冰淇淋店
 
   - http://www.yogurtys.com/storelocator/store/4657/Main%20%20Cootes/1309%20Main%20Street%20West/Hamilton/Ontario/Canada
   - 1309 Main St W #7, Hamilton, ON L8S 1C5
   - (905)525-2523
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/yogurtys/id828647980?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.d1mobile.yogurtys
 
 2. 学校东边
 
@@ -143,6 +159,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://pitapit.ca/
   - 1056 King St W, Hamilton, ON L8S 1L7
   - (905)529-7482
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/pita-pit-canada-more/id932480392?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.spoonity.pitapit
 
 - Subway：三明治
 
@@ -155,6 +175,10 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://pizzanova.com/
   - 1016 King St W, Hamilton, ON L8S 1L4
   - +1(844)310-3300
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/pizza-nova/id885029821?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.pizzanova.ui
 
 - Second Cup Westdale：茶水店
 
@@ -162,12 +186,20 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1004 King St W, Hamilton, ON L8S 1L1
   - (905)540-4839
   - 这是一家专门的茶水店，里面供应各种茶水、咖啡、零食等等。不限制用餐时间。大家可以在这里讨论学习、作业、工作、业务等等。
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/second-cup-coffee-co/id985820057?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.secondcup.mobile
 
 - TCBY：特色冰淇淋店
 
   - http://tcbycanada.com/
   - 1059 King St W, Hamilton, ON L8S 1L6
   - (905)572-6866
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/us/app/tcby/id1222063860?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.tcby.tcby.android.app
 
 3. 学校西边
 
@@ -188,12 +220,20 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1563 Main St W, Hamilton, ON L8S 1E6
   - (905)777-1919
   - Groupon App里可以搜到它的优惠券。
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/boston-pizza/id904724935?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.bostonpizza.bostonpizza
 
 - Wendy's：汉堡薯条
 
   - https://www.wendys.com/
   - 1585 Main St W, Hamilton, ON L8S 1E6
   - (905)527-1464
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/us/app/wendys/id540518599?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.wendys.nutritiontool
 
 - Baskin Robbins & Kernels Popcorn：特色冰淇淋店
 
@@ -260,12 +300,20 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.mcdonalds.com/ca/en-ca.html
   - 50 Dundurn St S, Hamilton, ON L8P 4W3
   - (905)577-1027
-  - 麦当劳24小时营业。
-  - 去麦当劳吃饭强烈建议使用优惠券（digital mailer coupons），这种优惠券通常每个term开学之后的那一两个月有效。下载地址：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码即可。
-  - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看
-
+  - 手机App“My McD's”：
+  
     - iOS：https://itunes.apple.com/ca/app/my-mcds/id375695000?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.mcdonalds.superapp
+  - 麦当劳24小时营业。
+  - 优惠券（如果有强烈建议使用）
+
+    - 一种是digital mailer coupons，这种优惠券通常每个term开学之后的那一两个月有效。下载地址：https://www4.mcdonalds.ca/coupons/ 。优惠券的使用：打开链接选择省份后，打印coupons（放在手机里也行），到麦当劳店里后可以在自助点餐亭里扫条形码，或手动输入即可。
+    - 还有一种mobile App优惠券，麦当劳会对某几种食物打折，一般有效期只有几天。大家可以下载App之后查看。
+  - 点餐方式：
+
+    - Front Table：就是最传统的方式，在服务台跟服务员说。如果大家刚来，不知道菜单上有哪些食物，甚至不知道怎么表达，在服务台点餐可能会花较多的时间，甚至不能买到想要的食物。比较推荐大家用下面两种方式。
+    - Kiosk：在自助点餐亭点餐。这个最推荐的。麦当劳店里的自助点餐亭里有所有食物菜单及其图片。大家可以慢慢得看，一个一个选。付款后，打印的发票上有号码，如果所点食物准备完毕，服务员会叫号。
+    - Mobile Ordering：用麦当劳的手机App点餐，可以选好哪个麦当劳的营业点，在线支付。到营业点里取。（这个就相当于在手机上点餐付款，但必须本人去之后，店员才会开始准备食物）
 
 - KFC（肯德基）
 

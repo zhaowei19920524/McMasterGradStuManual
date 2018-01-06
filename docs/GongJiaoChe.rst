@@ -241,7 +241,7 @@ Hamilton的出租车叫“Hamilton Cab”。和国内的出租车类似，只不
 - 官网：http://www.hamiltoncab.com/
 - 手机App：
 
-  - iOS：https://itunes.apple.com/us/app/hamilton-cab/id1209125752?mt=8
+  - iOS：https://itunes.apple.com/ca/app/hamilton-cab/id1209125752?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.limolabs.hamiltoncab
 - 费用：http://www.hamiltoncab.com/rates/ 。目前的费用（2017年）：起步的72.1米是$3.9。以后每72.1米是$0.13。注意，如果预定好了出租车，但没按时到达乘坐地点，出租车每等14秒也是$0.13。去Pearson机场整车费用大概$100。
 
