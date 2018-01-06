@@ -78,7 +78,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 .. image:: /resource/office365/windows10education.png
    :align: center
 
-注：Microsoft从Windows 10开始改变授权方式，一旦Windows 10在一台设备上激活，在硬件没有大的变动的情况下，重装任意多次相同的版本，联网后依然可以自动激活。
+注：Microsoft从Windows 10开始改变授权方式，一旦Windows 10在一台设备上激活，在硬件没有大的变动的情况下，重装任意多次相同的版本，联网后依然可以自动激活。比如：之前在某台电脑上激活过Win10 Home版，则可以重装任意次Home版都可以联网自动激活。但不可跨版本，比如之前激活过Home版，如果新装Pro版则不能自动激活，需要另外找Pro版的序列号。
 
 网盘
 -----------------------------
@@ -243,7 +243,7 @@ Microsoft实用办公工具
 | Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
 | Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
 | Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
-| 请联系本学院technical staff获取账户。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
+| 请联系本学院technical staff获取账户。用户名通常是McMaster的邮箱，密码是mosaic的密码。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
