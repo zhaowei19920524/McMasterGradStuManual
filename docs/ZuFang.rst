@@ -8,7 +8,7 @@ McMaster政策
 ------------------------------------
 https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-year-students/
 
-学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的新生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
+学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
 
 各类租房资源
 -----------------------
@@ -59,10 +59,10 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
  
   - bachelor：就是单人间。房间布局和国内普通宾馆里的单人间比较像，没有单独的卧室，只有一个大客厅。
   - Jr或junior bedroom：从户型上来看，房间可能会略小一点，并且没有阳台。
-  - condo：高级公寓，普通的apt一般只出租，不会售卖，因此只有一个房东；而condo则既出租又售卖，大家在租apt的时候若发现可以购买，则是condo。它的出租价格非常昂贵，一般在$1500+，房间布局和国内的住宅楼比较像。而配套设施上又像国内的豪华小区或高级宾馆，它在某一层一定会有单独的健身房、游泳池，每层都有大的会客厅。注意，如果租的condo是已经被购买下来了，则是跟房东签lease，房东可能按自己的意愿对apt进行了更改，大家租之前要仔细查看。
+  - condo：高级公寓，普通的apt一般只出租，不会售卖，因此只有一个房东；而condo则既出租又售卖，大家在租apt的时候若发现可以购买，则是condo。大家可以把它理解为国内的最为常见的住宅楼的房间。通常，condo的条件普遍比较好，甚至在某一层会有健身房和游泳池。注意，如果租的condo是已经被购买下来了，则是跟房东签lease，房东可能按自己的意愿对apt进行了更改，大家租之前要仔细查看。
   - den：指apartment里的公共区域除了客厅外还会有个单独的房间，一般作为娱乐室。这种apt的租金会比一般的apt多$50~100/月。den多出的房间最初设计的目的不是用来当卧室，里面不会有衣橱，如果接手别人apt里的房间一定要注意。
   - deluxe：顾名思义，apartment的豪华升级版，一般的apartment除了厨房和厕所装修过了，其它没有任何家具。而deluxe的apartment则是精装修过的，卧室里会有一个很大的床，还有其它各种家具。价格也非常高。
-  - penthouse：空中别墅，在楼顶的多层住宅，价格是所有种类的apt里最高的。大家租apt的时候注意一下就可以了。如果打算租一定要问一下有几个bedroom，最好看一看房间布局。
+  - penthouse：空中别墅，在楼顶的多层住宅，价格是所有种类的apt里最高的。大家租apt的时候注意一下就可以了。如果打算租一定要问一下有几个bedroom，最好看一看房间布局。对于一些陈旧的高层公寓来说，penthouse可能仅仅指公寓顶层的房间。
 
 - apt里没有洗衣机和烘干机，一般是去公寓某一层公共的洗衣房去洗衣服，需要额外付费。如果不想用公共的设备也可以自己购买小型的洗衣机。
 - 不论apt里有多少卧室，都只有一个厨房和公共的卫生间。≥3个卧室的apt，主卧会有单独的卫生间。
@@ -127,7 +127,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 3. Full-time MBA学生虽然上课地点在RJC校区，但依然建议住在Hamilton，除非自己有车。原因是RJC校区所在地Burlington公共交通不便，中国超市缺乏。学习和生活的便捷程度会大打折扣。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
 5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
-6. 由于新生一般在国内，还未到Canada，很难详细了解house或apt的情况。可以通过以下方法解决： 
+6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
+7. 由于新生一般在国内，还未到Canada，很难详细了解house或apt的情况。可以通过以下方法解决： 
 
   A. 让房东多发些图片。 
   B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。

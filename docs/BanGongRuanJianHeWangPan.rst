@@ -86,15 +86,17 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 | Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
 | 存储空间：5GB（免费）
-| 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统：https://onedrive.com/download 。
+| 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
 | 使用方法：用微软邮箱登录后就可以使用。
 | 在线登录方法：https://onedrive.com/
+| iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
+| Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
 
 2. Microsoft Onedrive for Business
 
 | 学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
 | 存储空间：1TB
-| 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统：https://onedrive.com/download 。
+| 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
 | 使用方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
 | 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
 | 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
@@ -112,6 +114,8 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 下载地址：https://www.google.com/drive/download/client/
 | 使用方法：使用Gmail的邮箱账户登录即可。
 | 在线登录方法：https://drive.google.com/
+| iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
+| Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
 | 注：在国内无法访问。
 
 4. Google Drive（G Suite）
@@ -130,6 +134,8 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 下载地址： https://www.dropbox.com/install
 | 使用方法：在Dropbox官网上自行注册登录。
 | 在线登录方法：https://www.dropbox.com/login
+| iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
+| Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
 
 多人实时共同编辑一个文档
 ------------------------------------------------------
@@ -196,6 +202,24 @@ Microsoft实用办公工具
 | iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
 | Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
 | Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
+
+4. Microsoft Edge
+
+| 微软windows 10自带浏览器的手机版。
+| iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
+| Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
+
+5. Microsoft Translator
+
+| 微软推出的手机翻译App
+| iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
+| Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
+
+6. Microsoft Remote Desktop
+
+| 微软远程桌面手机版。
+| iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
+| Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
 
 其它常用软件
 ----------------------------------
