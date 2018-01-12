@@ -228,6 +228,10 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 
 - 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
 - http://www.viarail.ca/en
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/via-rail/id1023455499?ls=1&mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.viarail.reservia
 
 5. Greyhound
 
