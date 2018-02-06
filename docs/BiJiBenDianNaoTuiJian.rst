@@ -140,11 +140,11 @@ https://www.intel.com/content/www/us/en/processors/processor-numbers.html
 
 打印机
 -----------------------------
-多数有实验室的同学，实验室里都配备了打印机。但很多同学没有实验室，或想自己购买更为高级的彩色打印机。在此推荐惠普打印机，型号为：“HP OfficeJet Pro 8XXX”系列或“HP OfficeJet Pro 6XXX”，这两个型号的喷墨打印机以往9月开学季都有大幅度打折。在功能上属于All-In-One，就是同时具有打印、扫描、复印、传真等功能。
+如果大家打算买打印机，在此推荐惠普彩色打印机，型号为：“HP OfficeJet Pro 8XXX”系列或“HP OfficeJet Pro 6XXX”，这两个型号的喷墨打印机以往9月开学季都有大幅度打折。在功能上属于All-In-One，就是同时具有打印、扫描、复印、传真等功能。
 
 Bestbuy网页链接：https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?type=product&query=hp+officejet+pro+all-in-one&sortBy=price&sortDir=desc
 
-打印机墨盒：惠普打印机购买时自带墨盒，但如果经常打印则很快就用完了，经常更换墨盒是一笔很大的开销。推荐大家用惠普的墨盒订购服务：https://instantink.hpconnected.com/ca/en 。这样每月只用交几加元，打印机墨盒用完时就可以自动申请新的墨盒，并且不用再额外付钱。但打印页数有限制。一般$5.99/月的订购服务，每月最多打印100页，用不完可以累计到下个月（累计总页数不能超过每月订阅页数）。大家可以用这个链接来注册，这样可以获取一个月的免费试用：http://try.hpinstantink.com/hVs6Q
+打印机墨盒：惠普打印机购买时自带墨盒，但如果经常打印则很快就用完了，经常更换墨盒是一笔很大的开销。推荐大家用惠普的墨盒订购服务：https://instantink.hpconnected.com/ca/en 。这样每月只用交几加元，打印机墨盒用完时就可以自动申请新的墨盒，并且不用再额外付钱。但打印页数有限制。一般$5.99/月的订购服务，每月最多打印100页，用不完可以累计到下个月（累计总页数不能超过每月订阅页数）。大家可以用这个链接来注册，这样可以多获取一个月的免费试用：http://try.hpinstantink.com/hVs6Q
 
 此外学校Campus Store里也有带有学生优惠的打印机，大家可以去看一看。
 
