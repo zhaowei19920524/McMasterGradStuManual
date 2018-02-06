@@ -15,7 +15,7 @@
 - T4：全称是“Statement of Remuneration Paid (slip)”。工资退税（不包括TA、RA），一般指intern，coop和full time工作的工资交的税。只有这个税表列举的所交的税收可以用学费抵税额度全部退回来。（这也激励大家要尽快找到正式的工作，把学费抵税额度退回来）
 - T4A：全称是“Statement of Pension, Retirement, Annuity, and Other Income”。2月份学校会发给每位有TA、RA学生T4A表，列出上一年度学生的各项收入，用于填报税表。对于学生，由于收入低，所征的税基本是全额退税。
 
-4. T5表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。
+4. T5表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-121-interest-other-investment-income.html
 5. 房租： 在安省租房，对低收入人群有部分退税。 
 
 | 这个链接可以对大家的房租可以退多少税进行估计：https://www.ontario.ca/page/tax-credit-calculator
@@ -26,6 +26,6 @@
 
 注
 ---------------------------
-1) 没有收入的同学可以在一年里任何时候报税。有收入的同学请务必在3~4月期间报税，因为可能涉及到交的税不够，不但不退税还要补税的情况，一旦晚于4月报税，则补税还要收利息。3~4月是处理报税请求最快的时期，晚于这个时间报税，处理时间可能会延长。
+1) 没有收入的同学可以在一年里任何时候报税。有收入的同学请务必在3~4月期间报税，因为可能涉及到交的税不够，不但不退税还要补交税的情况，一旦晚于4月报税，则未补交的税还要收利息。3~4月是处理报税请求最快的时期，晚于这个时间报税，处理时间可能会延长。
 #) 上面提到的T2~T5不一定每个人都有，但如果有一定要提交给税务局。
-#) Research scholarship、entrance scholarship等各种scholarship、tuition bursary不属于employment收入，要申报，但不缴税，即不存在退税的问题。
+#) Research scholarship、entrance scholarship等各种scholarship、tuition bursary等各种bursary都不属于employment收入，要申报，但不缴税，即不存在退税的问题。
