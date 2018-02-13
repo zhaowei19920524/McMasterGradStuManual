@@ -107,6 +107,16 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
     - iOS：https://itunes.apple.com/ca/app/pinks-burgers/id1164540176?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.surepathmobile.pinks
+
+- Quik Chik：炸鸡、薯条
+
+  - http://www.quikchik.ca/
+  - 1335 Main St W, Hamilton, ON L8S 1C6
+  - (905)306-7861
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/quik-chik/id1175711315?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.pogocorporation.mobidines.quikchik
   
 - Taco：墨西哥餐
 
