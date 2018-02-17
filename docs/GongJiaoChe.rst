@@ -251,7 +251,7 @@ Hamilton的出租车叫“Hamilton Cab”。和国内的出租车类似，只不
 
 附
 ---------------------
-1. 处理自己办理了PRESTO card
+1. 处理自己单独办理的PRESTO card
 
 | 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。
 | 若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。

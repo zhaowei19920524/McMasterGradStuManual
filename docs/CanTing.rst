@@ -296,7 +296,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - McMaster东边：951 King St W, Hamilton, ON L8S 1K9
   - McMaster西边：1554 Main St W, Hamilton, ON L8S 1E5
   - 历史上第一家成立的Tim Hortons：65 Ottawa St N, Hamilton, ON L8H 3Y9
-- 打折：
+- 打折（不一定一直都有）：
 
   - 大家下载Tim Hortons的App后可以使用Groupon App对Tim Hortons的账户充值。
   - Groupon里有Tim Hortons 5折优惠券。比如购买$5的优惠券后，可以给自己Tim Hortons增加$10的余额。付款的时候直接刷App就可以了。
