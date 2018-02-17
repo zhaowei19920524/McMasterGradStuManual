@@ -18,7 +18,7 @@ Hamilton各个区
 | 和我们关系最紧密的当然是Hamilton市区了，Hamilton市区又分为三个部分：Downtown、Mountain、Zone 1。
 | 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Gardens（原来叫University Plaza），这些地方可以理解为国内的街道。从租房的角度考虑，这些地方统称为Zone 1。
 | 403高速以东就是Hamilton市区的Downtown了。其中最最中心和繁华的地方就在Kirkendall North、Beasley、Landsdale。如果大家想住在Downtown，那最好住在这一片。其它地方离McMaster太远，也不是特别安全。
-| Downtown和Zone 1以南是Hamilton的一座小山（Mountain），山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的购物商场Lime Ridge Mall和杂货店Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是Hill最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
+| Downtown和Zone 1以南是Hamilton的一座小山（Mountain），山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的购物商场Lime Ridge Mall和杂货店Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是这座山最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
 
