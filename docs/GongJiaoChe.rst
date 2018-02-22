@@ -168,7 +168,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 
 2. 费用
 
-- 大家可以在官网的的Fares中估计所需要的费用。
+- 大家可以在官网的的Fares中估计所需要的费用。http://www.gotransit.com/publicroot/en/fares/farecalculator.aspx
 - 费用通常是按乘坐的距离收费，乘坐距离越长，费用越高。到多伦多或密西沙加单程大概十几加元。
 - 付费时，可以使用现金或刷Presto卡，不能使用信用卡。使用Presto卡可以获得相应的打折。这里，不管Presto卡里有没有U-Pass，都会扣去相应的费用。
 - 官网上的估计出来的费用不一定很准确，如果大家经常使用Presto卡坐Go Trasit的交通工具，请保持卡里最好不要少于$40。

@@ -5,7 +5,7 @@
 
 一、开学日期
 --------------------------------
-- 大家的offer上都没有写开学日期（Classes begin的日期），但开学的时间一般有个规律，那就是Canada Labour Day（劳动节）的那一周，或前一周，或后一周。
+- 大家的offer上都没有写开学日期（Classes begin的日期），那是因为研究生的开学日期通常是七八月才定下来，但开学的时间一般有个规律，那就是Canada Labour Day（劳动节）的那一周，或前一周，或后一周。
 - 对于2017 Fall入学的新生，今年的Labour Day是9月4日星期一，那开学日期基本上可以确定是9月5日。
 - 对于非business学院的新生，开学第一周是orientation week。orientation week不会上课，主要是各种学校组织的迎新活动和社团活动。开学第一天会有welcome activity，在学校的大草坪上有一次免费的早餐。校长和校领导会在大家吃早餐的时候发表一个迎新演讲，就相当于是开学典礼了。这个活动每年都有变动，2016年是去Bay front Park举行的。大家在8月份注意一下学校的邮件通知。
 - 对于business学院的新生：MBA的学生在开学前会有preMBA，主要是各种社交活动。还会集体去一次Niagara Falls。所以MBA新生来之后不用先去大瀑布了。mfin新生会有transition week，也发生在开学前，所以其它学院orientation week的时候，mfin和MBA已经开始上课了。
