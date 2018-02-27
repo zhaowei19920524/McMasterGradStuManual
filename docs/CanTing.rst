@@ -375,11 +375,6 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1088 Main St W, Hamilton, ON L8S 1B3
   - (905)297-4702 
 
-- Porcelain Hot Pot & Lounge（明瓷御苑）：自助火锅
-
-  - 1122 Main St W, Hamilton, ON L8S 1C1
-  - 可以使用现金、debit卡、信用卡。
-
 2. 市中心（Downtown）：
 
 - LiuLiu Hot Pot（老乡四川）：自助火锅
