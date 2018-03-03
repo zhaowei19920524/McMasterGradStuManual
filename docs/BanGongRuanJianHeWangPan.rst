@@ -29,9 +29,9 @@ Microsoft Office 365
 .. image:: /resource/office365/office365_1.png
    :align: center
 
-第二步：office网站上貌似默认装32位的office，在此推荐大家装64位的版本。点击Other installs。
+第二步：office网站上貌似默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
 
-.. image:: /resource/office365/office365_2.png
+.. image:: /resource/office365/office365_2.jpg
    :align: center
 
 第三步：在version的地方选择64-bit，然后点击下方的Install。
@@ -101,7 +101,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 | 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
 | 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
-.. image:: /resource/office365/onedrive_1.png
+.. image:: /resource/office365/onedrive_1.jpg
    :align: center
 
 .. image:: /resource/office365/onedrive_2.png
