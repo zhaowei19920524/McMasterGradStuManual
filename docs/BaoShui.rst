@@ -22,7 +22,7 @@
 
 6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。对于来Canada的国际学生，GST/HST可以申报一次。来Canada第一次报税请务必提交这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
 
-有个不错的帖子麦大学生报税指南2.0版： http://mp.weixin.qq.com/s?__biz=MzAxNzMxMjQyNw==&mid=405952556&idx=2&sn=4e41a80c4ef96c6441566737bfdb86b2&scene=2&srcid=03134jG4znle5XGbot7CHafS#rd 
+2017年报税：https://mp.weixin.qq.com/s/MPIOH0L-2I8GKn7OsVMr1A
 
 注
 ---------------------------
