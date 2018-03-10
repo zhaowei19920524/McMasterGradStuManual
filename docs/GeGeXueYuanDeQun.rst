@@ -61,7 +61,7 @@ McMaster常见学院及简称
   - Computing & Software：CAS
   - Chemical Engineering：ChemEng
   - Civil Engineering：Civil
-  - Engineering Physics：EngPhys
+  - Engineering Physics：EngPhys或EP
 
     - Nano- and Micro- Device Engineering：NanoEng
     - Nuclear Engineering：NE
