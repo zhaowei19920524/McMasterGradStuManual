@@ -267,7 +267,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.timhortons.com/ca/en/menu/tea.php
   - 主要有两种：Steeped Tea、Specialty Tea
   - Steeped Tea就是店员已经冲好的茶水。
-  - Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。按照当地人的习惯通常需要加cream和sugar，变成奶茶来喝。大家如果经常喝Specialty Tea，可以一次买一盒，里面有20个茶包，自己回家冲。并且非常非常便宜。
+  - Specialty Tea就是各种茶包，买的时候要在杯子里泡一会再喝。Specialty Tea一共有10种，比较推荐的是Green Tea（绿茶）和Orange Pekoe（锡兰红茶）。按照当地人的习惯通常需要加cream和sugar，变成奶茶来喝。
 
 - 热饮
 
@@ -280,7 +280,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.timhortons.com/ca/en/menu/cold-beverages.php
   - 其中Iced Capp是比较受欢迎的。
 
-- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。也可以使用App查询：“Tim Hortons”。一般小的Tim Hortons店里只有甜点，如下图所示。
+- 其它还有各种甜点、鸡肉卷、汉堡、三明治、薯饼等等。可以在官网上的menu里查到。也可以使用App查询：“Tim Hortons”。如下图所示。一般小的Tim Hortons店里只有甜点。
 
   - iOS：https://itunes.apple.com/ca/app/tim-hortons/id1143883086?mt=8
   - Android：https://play.google.com/store/apps/details?id=digital.rbi.timhortons
@@ -296,6 +296,11 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - McMaster东边：951 King St W, Hamilton, ON L8S 1K9
   - McMaster西边：1554 Main St W, Hamilton, ON L8S 1E5
   - 历史上第一家成立的Tim Hortons：65 Ottawa St N, Hamilton, ON L8H 3Y9
+- DIY
+
+  - 虽然一杯咖啡只要$1~2，但依然有更为省钱的方法。Tim Hortons在Amazon上有网店，里面卖了几乎所有的咖啡、热饮等等。如果大家经常喝，可以一次性买一大桶，回来自己冲泡。一大桶咖啡不会超过20刀，一大桶热饮不会超过10刀。足够冲泡几十杯，喝很长时间。
+  - https://www.amazon.ca/s/field-keywords=tim+hortons
+
 - 打折（不一定一直都有）：
 
   - 大家下载Tim Hortons的App后可以使用Groupon App对Tim Hortons的账户充值。
