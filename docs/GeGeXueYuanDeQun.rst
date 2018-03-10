@@ -94,6 +94,7 @@ McMaster常见学院及简称
   - Executive MBA：EMBA
 - Science
 
+  - Biochemistry & Biomedical Sciences：biochem
   - Biology：Biology或bio
   - Chemistry & Chemical Biology：chem
   - Geography & Earth Sciences：Geo
@@ -101,7 +102,7 @@ McMaster常见学院及简称
   - Kinesiology：kin
   - Mathematics & Statistics：math或stats
   - Physics & Astronomy：Astronomy
-  - Psychology, Neuroscience & Behaviour：Psychology
+  - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
 
   - Biochemistry & Biomedical Sciences：BMS
@@ -125,7 +126,20 @@ McMaster常见学院及简称
   - Child Life and Pediatric Psychosocial Care：childlife
 - Humanities：暂无
 - Social Sciences：social
-- Arts：暂无
+
+  - Anthropology：暂无
+  - Economics：暂无
+  - Geography & Environmental Studies：暂无
+  - Heath Aging & Society (Health Studies & Gerontology)：HAS
+  - Indigenous Studies：暂无
+  - Labour Studies：暂无
+  - Political Science：暂无
+  - Psychology, Neuroscience & Behaviour：Psychology或PNB
+  - Religious Studies：暂无
+  - Social Psychology：暂无
+  - Social Work：暂无
+  - Sociology：暂无
+- Arts & Science：暂无
 
 个别专业辨析
 ------------

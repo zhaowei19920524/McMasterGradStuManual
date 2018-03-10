@@ -8,4 +8,4 @@ http://mfin.degroote.mcmaster.ca/program-info/requirements/
 
 MBA
 -------------------
-http://mbarecruit.degroote.mcmaster.ca/after-youre-accepted/orientation-programs/pre-mba-program/pre-mba-program-info/
+https://mbastudent.degroote.mcmaster.ca/newly-admitted-students/pre-mba-program-international-students/
