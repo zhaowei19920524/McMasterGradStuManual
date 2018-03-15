@@ -6,7 +6,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 -------------------------------------------------
 1. WiFi热点：Mac-WiFi（只有5GHz频段）和MacSecure
 
-| 这个是主要的Internet接入方式。不限流量。速度是100Mb/s下载，100Mb/s上传。在McMaster所有的校区都能访问。
+| 这个是主要的Internet接入方式。不限流量。速度是50Mb/s下载，10Mb/s上传。在McMaster所有的校区都能访问。
 | 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。
 | 连接成功后，你的设备会获得一个[172.16.0.0~172.31.255.255]区间内的B类私有IP地址，可以无限制的访问Internet。
 
@@ -18,7 +18,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 3. 高校通用WiFi热点：eduroam
 
-| 这个是一个备用的Internet接入方式。在Canada以及世界上大部分高等学校都能搜到。不限流量。McMaster提供的速度是100Mb/s下载，100Mb/s上传。
+| 这个是一个备用的Internet接入方式。在Canada以及世界上大部分高等学校都能搜到。不限流量。McMaster提供的速度是50Mb/s下载，10Mb/s上传。
 | 用电子设备搜到这个热点后，用户名是MacID@mcmaster.ca（就是McMaster的邮箱），密码是登录Mosaic的密码。
 | 举例：在多伦多大学搜到这个热点后，用McMaster的账户也能认证成功并上网。可以无限制的访问Internet，但由于各个学校里的政策不同，基本上无法访问学校里的任何网络资源。
 
@@ -42,9 +42,9 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 以下是常见的提供宽带服务的公司：
 
-- Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动。
-- Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，且已经完全为家庭用户提供了ipv6的支持。
-- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。如果办理Cable Internet 75/150可以用ZH24525，这样购买modem可以便宜$40。
+- Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动（50Mb下载、10Mb上传）。
+- Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，价格也相对较高。且已经完全为家庭用户提供了ipv6的支持。
+- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。如果办理Cable Internet 75/150可以用ZH24525，这样购买modem可以便宜$40。（注：这家公司的modem信号太弱，强烈建议自带无线路由或网线）
 - altima：https://www.altimatel.com/shop/internet
 - start.ca：https://www.start.ca/
 - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
@@ -55,4 +55,4 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 注
 -------------------------
 1) 虽然学校LAN速度很快，但希望大家尽量不要用LAN下载违规的资源。JHE楼曾经严查了一次。
-#) 住公寓的同学，建议从国内带一个路由器，比如小米路由器。因为公寓信号之间干扰太严重，这会严重降低网速和大幅度增加网络延时。外接一个无线路由器可以放大信号。如果条件允许，也可以带几根至少20米的网线，插网线上网。
+#) 住公寓的同学，建议从国内带一个路由器，比如小米路由器。因为公寓信号之间干扰太严重，这会严重降低网速和大幅度增加网络延时。用一根至少20米长的网线外接一个无线路由器放在自己的卧室里可以放大信号。对于自己的台式机或笔记本电脑，如果条件允许，也可以再带几根1~2米的网线，插网线上网。

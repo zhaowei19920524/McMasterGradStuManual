@@ -1,9 +1,9 @@
 ﻿注册
 ============
 .. attention::
-   - **2017 Fall online注册：7月25日**
    - **2018 Winter online注册：11月30日~12月14日**
    - **2018 Summer online注册：4月5日~4月19日**
+   - **2018 Fall online注册：尚未决定**
 
 - In order to receive your graduate support payments (scholarship, bursaries, TA pay) on the first pay date in mid-September, you *must* have completely enrolled by August 29, 2017. 
 - 有资助的学生必须在8月29日之前交材料。这样才能在9月收到资助，没有资助的学生不受这个影响，可以推迟到9月底。
@@ -32,7 +32,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 
-| 最终成绩单、毕业证明、学位证明交到本学院小秘办公室。study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要go几天才会反映在mosaic上，conditional offer的图标会变成final offer。
+| 最终成绩单、毕业证明、学位证明交到本学院小秘办公室。study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上，conditional offer的图标会变成final offer。
 
 - Please find detailed enrolment instructions at: `gs.mcmaster.ca/academic-services/how-enroll`_ (site will be active from July 22, 2016 onwards). 
 - 详细信息在 `这里`_ 。大家要仔细按照流程来做。

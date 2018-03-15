@@ -7,6 +7,9 @@
 - ITB(CAS+ECE)
 
   - QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
+- Computational Science & Engineering
+
+  - QQ群：225053068
 - Mechanical Engineering
 
   - QQ群：101378940
@@ -18,11 +21,13 @@
   - 15级 QQ群：368774358
   - 16级 微信群：请联系16-MEEI-张宸赫
   - 17级 微信群：请联系17-MTEI-刘润杰
+  - 18级 微信群：请联系18-MTEI-马铭遥
 - MBA
 
   - QQ群：371421802
   - 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
+  - 18级 微信群：请联系18-MBA-韩雪松
 - MFin
 
   - 13级 QQ群：57925102
@@ -30,6 +35,7 @@
   - 15级 QQ群：478977527
   - 16级 QQ群：499347968
   - 17级 QQ群：606792601
+  - 18级 微信群：请联系18-MFin-姜梦婕
 - Health Science
 
   - 微信群：请联系17-HP-王琪或14-HRM-亚平
@@ -55,7 +61,7 @@ McMaster常见学院及简称
   - Computing & Software：CAS
   - Chemical Engineering：ChemEng
   - Civil Engineering：Civil
-  - Engineering Physics：EngPhys
+  - Engineering Physics：EngPhys或EP
 
     - Nano- and Micro- Device Engineering：NanoEng
     - Nuclear Engineering：NE
@@ -88,6 +94,7 @@ McMaster常见学院及简称
   - Executive MBA：EMBA
 - Science
 
+  - Biochemistry & Biomedical Sciences：biochem
   - Biology：Biology或bio
   - Chemistry & Chemical Biology：chem
   - Geography & Earth Sciences：Geo
@@ -95,7 +102,7 @@ McMaster常见学院及简称
   - Kinesiology：kin
   - Mathematics & Statistics：math或stats
   - Physics & Astronomy：Astronomy
-  - Psychology, Neuroscience & Behaviour：Psychology
+  - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
 
   - Biochemistry & Biomedical Sciences：BMS
@@ -119,7 +126,20 @@ McMaster常见学院及简称
   - Child Life and Pediatric Psychosocial Care：childlife
 - Humanities：暂无
 - Social Sciences：social
-- Arts：暂无
+
+  - Anthropology：暂无
+  - Economics：暂无
+  - Geography & Environmental Studies：暂无
+  - Heath Aging & Society (Health Studies & Gerontology)：HAS
+  - Indigenous Studies：暂无
+  - Labour Studies：暂无
+  - Political Science：暂无
+  - Psychology, Neuroscience & Behaviour：Psychology或PNB
+  - Religious Studies：暂无
+  - Social Psychology：暂无
+  - Social Work：暂无
+  - Sociology：暂无
+- Arts & Science：暂无
 
 个别专业辨析
 ------------

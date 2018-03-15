@@ -44,12 +44,16 @@ Debit Card也叫Client Card。它与国内借记卡功能基本相同，提供�
 
 不同之处在于：不管你有多少银行账户，你都只有一张Debit卡。也就是说一张debit卡里通常会有一个Chequing account和N个Savings account（N可以是0,1,2,3,...）。Debit Card至少都有一个Chequing account。可以没有Savings account。
 
+.. image:: /resource/bank/Debit_Card.jpg
+   :align: center
+   :scale: 40%
+
 交易密码：通常是一串不少于6位的阿拉伯数字。在用银行卡在ATM取钱或在pos机消费的时候使用。在第一次去银行开卡的时候可以设置。
 
 刷卡消费：在需要Debit Card刷卡消费的时候，用三种方式：
 
-- tap（推荐）：把银行卡贴到pos机的屏幕上方，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式最便捷。
-- swipe：把银行卡在pos机的测边缘的槽里划一下，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式刷卡，最后需要在小票上签名。
+- tap（推荐）：把银行卡贴到pos机的屏幕上方，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式最便捷。但是大多数银行都有金额限制，一次付费不能超过$100。http://www.rbcroyalbank.com/chipandflash/index.html
+- swipe：把银行卡在pos机的侧边缘的槽里划一下，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。用这种方式刷卡，最后需要在小票上签名。
 - insert：把银行卡插入pos机下方插卡的地方，这种方式比较复杂，可选项也就比较多。可以选用哪个账户付钱，不过需要银行卡交易密码。
 
 ATM：在这里ATM机存钱和国内有一些区别，如scotiabank的ATM机是需要把钱和支票放到信封里，然后输入存的金额，一般要冻结3-4个工作日才可以使用；CIBC部分的机器可以直接存现金和支票 ，不需要信封，现金可以直接到账，但是支票一般要3-4个工作日的兑现时间。新生第一次存钱可以选择去柜台存，问清楚ATM机的使用方法。
@@ -61,6 +65,10 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - 一个信用卡里只有一个信用卡账户。如果需要不同的信用卡，则需要不同的信用卡账户。
 - 需要注意的是大部分的商铺会接受VISA Card和MASTER Card， 小部商铺只接受其中一种。 
 - 不同于中国，加拿大允许学生在没有稳定收入的情况下也能申请信用卡，一般开卡额度定在500刀。随着你信用纪录的提升，你可以申请更高的limit，信用卡没有交易限额的规定，可以一个月无限笔额度内花费，加拿大信用卡有很多不同种类，有Cash back, Travel Rewards Card等等。 每种卡都有不同的开户要求，有的需要年费，这个在开户的时候可以和客户经理商谈。
+
+.. image:: /resource/bank/Credit_Card_01.jpg
+   :align: center
+   :scale: 40%
 
 保证金 (Security Deposit) ：
 
@@ -74,11 +82,11 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - 在借记卡丢失，损坏或者余额不足时提供资金支持。
 - 刷信用卡通常可以获得积分，积分可以返现或免费赠送购物卡，在开卡的时候可以问清楚。希望大家能刷信用卡的时候一定要刷信用卡。而刷debit卡没有任何优惠活动。
 
-刷卡消费：刷卡的方式和上面Debit卡一样。信用卡没有交易次数的限制。
+刷卡消费：刷卡的方式和上面Debit卡一样。信用卡没有交易次数的限制。但是如果使用tap的方法会有金额限制，通常一次付费不能超过$25或$50。每个银行的限制不太一样。
 
 注：
 
-1. 申信信用卡卡不一定需要那个银行的借记卡。一般情况下银行也是一家信用卡公司。除了银行外，其它公司，比如Walmart、Costco两个大的商场也有自己推出的特色信用卡，这些特色的信用卡通常在自己商场里使用能有各种优惠。如果需要还信用卡的消费，可以通过payee的方式，或去银行柜台里操作。
+1. 申信信用卡不一定需要那个银行的借记卡。一般情况下银行也是一家信用卡公司。除了银行外，其它公司，比如Walmart、Costco两个大的商场也有自己推出的特色信用卡，这些特色的信用卡在自己商场里使用能有各种优惠。如果需要还信用卡的消费，可以通过payee的方式，或去银行柜台里操作。
 2. 加拿大有带有Visa Card 和Master card两种功能的debit card卡。普通的debit card一般不允许网上购物，信用卡需要年满18岁以上才可办理，所以大部分银行会推出Visa Debit Card/Master Debit Card （卡上面会有Visa或者Master Card的标识，但是仍然属于debit card）。这类借记卡最主要的不同就是可以网上购物，其他功能和一般debit card一样。消费的时候自动从Chequing account里扣钱。
 
 网上银行（online banking）
@@ -99,19 +107,16 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 需要开通的账户：
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
-- 一张没有年费或通过学生账户免去年费类型的信用卡。
+- 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利推荐选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多，而Reward却可以兑换日常用品、食品、电影票、租车、机票、旅馆等等，优惠幅度较大。
 
-- GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理一定会有一位说普通话的客服接待。
-- 非GIC签证的同学：离学校最近的银行应该是学校体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。也可以不预约直接去开户。银行地点请查看附1中的Google地图。
+选择银行：
 
-.. image:: /resource/rbc_mcmaster_contact.jpeg
+- GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
+- 非GIC签证的同学：离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。下面是一个在那工作的华人的联系方式，可以找他预约开户。也可以不预约直接去开户。银行地点请查看附1中的Google地图。
+
+.. image:: /resource/bank/rbc_mcmaster_contact.jpeg
    :align: center
    :scale: 50%
-
-- 有关银行的问题也可以询问群里13-MFin-Daisy Ding[Scotiabank Senior Financial Advisor]，Daisy学姐原来在Hamilton的CIBC工作，现在在Hamilton的Scotiabank上班。
-   
-  - 不涉及个人账户等隐私的问题，请不要和Daisy学姐私聊。请在群里询问并at她。
-  - 请大家在Daisy学姐上班时间询问（Canada东部时间（+5）星期一到星期五早上9点到下午5点），非上班时间请直接打电话给银行询问。
 
 比较有特点的银行卡
 --------------------------------------------
@@ -143,7 +148,7 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 1. Interac etransfer（个人银行账户间的转账）
 
 - 发送方在online banking里填写对方的email地址，设置一下安全验证问题和答案，填上数额就可以了。接收方会收到一封邮件，上面会让你选存在哪个银行里，接着填写安全问题的答案。这样就可以立即收到钱了。
-- RBC等银行已经推出“Interac e-Transfer Autodeposit”的功能，这个功能可以让接收方设置一个可信任的Email地址，只有发送方转钱时填写该Email地址，接收方就可以自动收到钱，不需要填写安全问题和答案。这样就更加方便快捷，请看 `教程`_ 。
+- RBC等银行已经推出“Interac e-Transfer Autodeposit”的功能，这个功能可以让接收方设置一个可信任的Email地址，只要发送方转钱时填写该Email地址（依旧需要设置安全问题和答案），接收方就可以自动收到钱，不需要填写发送方设置的安全问题和答案。这样就更加方便快捷，请看 `教程`_ 。
 - 由于要通过email，所以也叫email转账。RBC等银行的学生账户可以每月有无限次免费此类转账。其它银行每次转账要多付$1~2的手续费。这个应该是在Canada同学间转账最便捷的方式了。
 - 图文教程请看附3。
 
@@ -170,8 +175,6 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 | 列举了一个月以来该账户的进账和支出明细。
 | 大家跟银行提出最好用eStatement。如果出现问题，纸质的材料不一定能及时看到。
 
-——感谢13-MFin-Daisy Ding提供
-
 附
 --------------------------
 1. Hamilton主要银行的位置（Google地图，国内的同学可能需要翻墙访问）
@@ -191,12 +194,12 @@ online banking密码：online banking的密码也是在第一次去银行开户�
    2. 如果是数值是负的，可以以后刷信用卡把多还的钱花了，或打电话给银行撤回上一次的还款操作。请勿用相同的方法把钱从信用卡账户转回到chequing或savings账户，否则银行默认为是在用信用卡借钱，进而收取利息。
    3. 还款需要从chequing账户里把钱转出，不要从savings账户直接转到visa账户，否则银行会加收手续费。如果需要savings账户里的钱去还信用卡消费，请先转到chequing账户里，再转给信用卡。
 
-.. image:: /resource/pay_credit_card_1.png
+.. image:: /resource/bank/pay_credit_card_1.png
    :align: center
 
 | 第二步：再次确认一下。
 
-.. image:: /resource/pay_credit_card_2.png
+.. image:: /resource/bank/pay_credit_card_2.png
    :align: center
 
 3. Interac etransfer（个人银行账户间的转账）图文教程
@@ -276,4 +279,4 @@ online banking密码：online banking的密码也是在第一次去银行开户�
    :align: center
 
 
-.. _教程: https://www.rbcroyalbank.com/onlinebanking/bankingusertips/notices/auto-deposit.html
+.. _教程: http://www.rbcroyalbank.com/dms/payments/autodeposit/

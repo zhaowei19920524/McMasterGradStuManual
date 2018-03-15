@@ -38,7 +38,7 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
    | Also if you are on a leave you will also need to register.
    | ——Cheryl（ECE小秘）
 
-这个是enroll比较重要的一项，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://www.mcmaster.ca/bms/student/SAC_fees_grad.html）。占位课没有学分，不需要上课，也不会有成绩。下面是方法：
+这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。此外，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://www.mcmaster.ca/bms/student/SAC_fees_grad.html）。占位课没有学分，不需要上课，也不会有成绩。下面是方法：
 
 1. Go to enroll
 
@@ -59,10 +59,10 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 2. 大家尽量选7开头的课，尽量不要选6开头的课。因为6开头的课是研究生选本科生的课，虽然6开头的课比较有实用价值，但是本科生的课对研究生要求较高，很容易挂科。即使不挂科，分也很低。 
 3. 选课前，先在你们各个学院的群里问一下学长学姐们，看看哪门课比较容易，哪门课的老师比较好。学长学姐推荐课程，看本页结尾。 
 4. 至于有哪些课可以选，可以在mosaic里或者学院主页上能查到。 
-5. 大家可以任意选其它学院的课。只要选了，考核通过了就算学分。如果没过也要计入挂科总数里的。Divinity College的课不能选。其它学院不能选finance的课。
+5. 大家可以任意选其它学院的课。只要选了，考核通过了就算学分。如果没过也要计入挂科总数里的。Divinity College的课不能选。其它学院不能选finance的课，否则需要额外付费。
 6. enroll算选课。audit或sit in算旁听，旁听不算学分。 
 7. 选了导师指定的课程之后，想再选其它课自己决定。不用提前跟导师和任课老师说明。 
-8. 选课一次要选3个term。就是一整个学年的课程。如果term 2和term 3的课程尚未决定，可以先选SGS 700占位课。等决定好专业课之后，不需要把SGS700移除。
+8. 选课一次要选一整个学年的课程。对于9月入学的学生，如果term 2和term 3的课程尚未决定，可以先选SGS 700占位课。等决定好专业课之后，不需要把SGS700移除。对于1月入学的学生，需要选term2和term3的课。对于5月入学的学生，只需要选term3的课程。
 
 注
 ------------------------
