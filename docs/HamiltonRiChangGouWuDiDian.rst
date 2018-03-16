@@ -73,7 +73,7 @@ Canada主要超市
 
   - 购物：在Costco里购物必须有会员卡。（注：由于会员卡上有持卡人的名字和照片，在Costco商场里结账的时候，会核对付款人的身份。如果借别人的卡去买东西，可能会被查出来）
   - 加油：https://www.costco.ca/gasoline.html 。Costco商场外的自助加油站比其它公司的加油站的价格要便宜得多。
-  - 租车、旅店：https://www.costcotravel.com/ 。用Costco的会员在Enterprise和Avis两大租车公司租车，基本价格比不用会员的价格能便宜大约20%。
+  - 租车、旅店：https://www.costcotravel.com/ 。用Costco的会员在Enterprise和Avis两大租车公司租车，在基本价格的基础上可能还会有一些折扣。
 - 信用卡：https://www.capitalone.ca/credit-cards/costco/ 。用它的信用卡结账的时候有幅度较大的返现。
 - 手机App：
 

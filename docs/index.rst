@@ -118,6 +118,7 @@ Welcome to McMaster University!
   - 13-MFin-Daisy Ding
   - 17-ECE-牛晨骁
   - 17-ECE-刘欢
+  - 14-EP-张斌
 - 想贡献自己的内容？请联系17-CAS-赵伟。
 
 .. note::
