@@ -98,6 +98,7 @@ Welcome to McMaster University!
    MicrosoftChanPin
    AppleChanPin
    BanGongRuanJianHeWangPan
+   MATLAB
    BiJiBenDianNaoTuiJian
 
 .. toctree::
