@@ -231,15 +231,11 @@ Microsoft实用办公工具
 
 | https://get.adobe.com/reader/
 
-3. MATLAB
-
-| http://www.0daydown.com/?s=matlab+r2017b
-
-4. LaTeX
+3. LaTeX
 
 | 下面两个必须都安装：
 | LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
-| TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全等功能）：https://www.texstudio.org
+| TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
 
 附
 -------------------------
