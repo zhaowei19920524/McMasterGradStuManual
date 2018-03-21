@@ -185,13 +185,13 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 5. FreshCo
 
 - http://freshco.com/
-- 所买商品和metro或foodbasics类似，但蔬菜品种比前两者较多。可以理解为西人版的Nations Fresh Foods。
+- 所卖商品和metro或foodbasics类似，但蔬菜品种比前两者多。可以理解为西人版的Nations Fresh Foods。
 
 6. Hamilton Farmers' Market
 
 - https://hamiltonfarmersmarket.ca/
 - 1837开始就有的一个菜市场，后来几经变迁，现在设在Jackson Square东北角。
-- 里面的大多数商家所卖的东西都是Hamilton各个县里在自家的农场里的收货。
+- 里面的大多数商家所卖的东西都是Hamilton各个县里的农民在自家的农场里的收货。
 
 学姐经验
 --------------------------------------------------------
