@@ -12,8 +12,8 @@
 2. T3表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。
 3. T4表：
 
-- T4：全称是“Statement of Remuneration Paid (slip)”。工资退税（不包括TA、RA），一般指intern，coop和full/part time工作的工资交的税。只有这个税表列举的个人所得税可以用学费抵税额度全部退回来。（这也激励大家要尽快找到正式的工作，把学费抵税额度用完）
-- T4A：全称是“Statement of Pension, Retirement, Annuity, and Other Income”。2月份学校会发给每位有TA、RA学生T4A表，列出上一年度学生的各项收入，用于填报税表。对于学生，由于收入低，所征的个人所得税基本是全额退税。
+- T4：全称是“Statement of Remuneration Paid (slip)”：工资退税，一般指intern，coop和full/part time工作的工资交的税。只有这个税表列举的个人所得税可以用学费抵税额度全部退回来（这也激励大家要尽快找到正式的工作，把学费抵税额度用完）。2月份学校会发给每位有TA、RA学生T4表，列出上一年度学生的各项收入，用于填报税表。对于学生，由于收入低，所征的个人所得税基本是全额退税。
+- T4A：全称是“Statement of Pension, Retirement, Annuity, and Other Income”：对于有奖学金（各种scholarship或bursary）的同学，会收到T4A。奖学金不交税，但要作为收入申报。
 
 4. T5表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-121-interest-other-investment-income.html
 5. 房租： 在安省租房，对低收入人群有部分退税。 
@@ -26,7 +26,7 @@
 | 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
 | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit/gst-hst-credit-application-eligibility.html
 
-2017年报税：https://mp.weixin.qq.com/s/MPIOH0L-2I8GKn7OsVMr1A
+2017年报税：https://mp.weixin.qq.com/s?__biz=MjM5NjA5NDg1OQ==&mid=2652723905&idx=1&sn=8750cfccc32320238a9ffa898b8dfd89&chksm=bd078c258a70053355485b3c6e8122fddb2961fffdf50950153b9ad3aeb62f1742d6ce8c473b&scene=0#rd
 
 注
 ---------------------------
