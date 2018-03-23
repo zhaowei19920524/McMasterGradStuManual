@@ -136,6 +136,6 @@
 注
 ----------------
 1) 在校外使用请务必提前连接学校的VPN，并在使用中保持VPN处于连接状态。而在学校里，只要一直连接学校的校园网就可以了。
-#) 学校的授权是concurrent license，通常最多360人同时使用。
+#) 学校的授权是concurrent license，通常最多360人同时使用。建议business学院的学生使用你们学院服务器里的MATLAB https://vlab.business.mcmaster.ca/ 。
 
 .. _介绍: WiFiYuInternet.html

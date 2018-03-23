@@ -1,19 +1,26 @@
 ﻿学费
 ==========
+.. attention::
+   **从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样**
+
 学校Financial Service网站
 -----------------------------------------------------------------
 - 付学费的方法见学校Financial Service网站 
 
   - http://www.mcmaster.ca/bms/student/SAC_payment_methods.html
-- 各program的学费可以查这里
+- 各program的学费可以查这里（2017年）
 
   - http://www.mcmaster.ca/bms/student/SAC_fees_grad.html
+  - 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样，大家的offer上依然写的是未降之前的费用，具体数额需要等八九月份通知。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
 - 对于2017 Fall入学的新生，付学费截止日期2017年9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75滞纳金并开始收利息。 
 
   - http://www.mcmaster.ca/bms/student/SAC_dates_deadlines.html 
 
 付学费的方法
 -------------------------------------------
+.. attention::
+   **无论使用哪种方法，付费时注意注明你自己的学号和姓名，不然很可能替别人付学费**
+
 1) （ **优先考虑** ）加拿大银行间转账：这个方法最简单方便而且免费。如果你有加拿大银行账户，可以自己在网上转账，或打电话给银行转账，也可去银行亲自办理。 步骤是从你的银行账户转钱到学校付你的学费。可登陆你的网上银行，在Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
 
 2) International Wire Transfer：国际电汇
@@ -32,9 +39,6 @@
 | 如果使用国际电汇，除学费外，要另付$30，这是银行收McMaster的手续费。 
 
 3) 信用卡：用信用卡付学费，要加1.95%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，手续费太高，并且大家的信用卡额度也没这么高。
-
-.. attention::
-   **无论哪种方法，付费时注意注明你自己的学号和姓名，不然很可能替别人付学费**
 
 注
 ----------------------
