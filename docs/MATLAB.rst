@@ -32,7 +32,7 @@
 
 第6步：根据你的电脑的系统选择下载的版本。这个时候会下载一个100多MB的MATLAB安装器，并不会开始下载整个MATLAB镜像。
 
-| 注：请尽量不要选最新的版本，而是选最新版的上一个版本。因为学校的license server不一定及时更新了许可的版本。目前已测试2017b是可以使用的最新版本。
+| 注：请尽量不要选最新的版本，因为学校的license server不一定及时更新了许可的版本。目前已测试R2018a是可以使用的最新版本。
 
 .. image:: /resource/matlab/matlab06.jpg
    :align: center
@@ -101,6 +101,8 @@
    :align: center
 
 第19步：matlab安装器会开始下载所需要的文件（大约10GB），然后安装MATLAB。
+
+| 注：安装过程中请关闭杀毒软件。否则杀毒软件会阻止安装程序执行部分操作。
 
 .. image:: /resource/matlab/matlab19.jpg
    :align: center
