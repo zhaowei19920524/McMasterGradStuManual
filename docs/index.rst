@@ -67,6 +67,7 @@ Welcome to McMaster University!
    McMasterZaiDuZhengMing
    McMasterChengJiDan
    ExtendStudyPermitVisa
+   QiTaMcMasterGongLveHuiZong
 
 .. toctree::
    :maxdepth: 1
@@ -98,7 +99,6 @@ Welcome to McMaster University!
    MicrosoftChanPin
    AppleChanPin
    BanGongRuanJianHeWangPan
-   MATLAB
    BiJiBenDianNaoTuiJian
 
 .. toctree::

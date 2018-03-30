@@ -4,6 +4,9 @@ MBA大部分课程和Mfin有些课程在Burlington rjc校区授课。学校提�
 
 虽然网站上写需要凭学生证上车，但是执行起来不严格，即使没有证件也是可以上车的。
 
-schedule: http://rjc.degroote.mcmaster.ca/transportation/#shuttle 
+schedule: 
+
+- http://rjc.degroote.mcmaster.ca/transportation/#shuttle 
+- https://shuttle.degroote.mcmaster.ca/
 
 ——感谢14-MBA-Sharon Zhang提供
