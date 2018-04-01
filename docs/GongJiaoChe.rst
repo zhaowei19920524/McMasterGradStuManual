@@ -250,6 +250,24 @@ Hamilton的出租车叫“Hamilton Cab”。和国内的出租车类似，只不
   - Android：https://play.google.com/store/apps/details?id=com.limolabs.hamiltoncab
 - 费用：http://www.hamiltoncab.com/rates/ 。目前的费用（2017年）：起步的72.1米是$3.9。以后每72.1米是$0.13。注意，如果预定好了出租车，但没按时到达乘坐地点，出租车每等14秒也是$0.13。去Pearson机场整车费用大概$100。
 
+Hamilton共享单车——“SoBi”
+-----------------------------------------------------
+SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一。在Hamilton，它主要提供有桩共享单车。取车地点主要分布在Zone1、Hamilton downtown和Dundas。
+
+- 网站：https://hamilton.socialbicycles.com/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/app/apple-store/id641497286
+  - Android：https://play.google.com/store/apps/details?id=com.socialbicycles.app
+
+- 价格（请在手机App上查看）：如果经常骑自行车的同学，可以购买$12的“McMaster Student Monthly”，每天可以骑90min不用额外花钱。如果仅仅想体验一下，可以使用“Pay As You Go”，这样每骑1小时是$5.4。
+
+.. image:: /resource/bus/SoBi_pricing.png
+   :align: center
+   :scale: 25%
+
+注：用完之后没有锁在桩上，或没有正确锁住，会收罚金。 https://hamilton.socialbicycles.com/#memberships
+
 附
 ---------------------
 1. 处理自己单独办理的PRESTO card
