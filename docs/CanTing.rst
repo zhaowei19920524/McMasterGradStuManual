@@ -97,6 +97,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - http://www.subway.com/en-ca
   - 1335 Main St W, Hamilton, ON L8S 1C6
   - (905)522-7827
+  - 每天都会对其中一种三明治打折。
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/ca/app/subway-app/id901941015
+    - Android：https://play.google.com/store/apps/details?id=com.subway.mobile.subwayapp03
+  - 大家第一次去如果不知道怎么点餐，可以先在手机App上选好三明治、配方和取的时间，这样到时见去店里直接取就可以了。此外如果去店里直接买，再付款前可以先扫一下手机App里的二维码获取积分，积分可以变成代金券或优惠券。
 
 - Pinks：汉堡薯条
 
@@ -402,6 +408,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 242 King St W, Hamilton, ON L8P 1A9
   - (905)522-6351
 
+- Noodle Me（味道拉面）：点菜制
+
+  - https://www.facebook.com/noodlemerestaurant
+  - 1 Wilson St #7, Hamilton, ON L8R 1C4
+  - (905)540-1166
+
 - Great Red Peppers（红海椒）：点菜制
 
   - 60 James St N, Hamilton, ON L8R 2K1
@@ -524,6 +536,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 354 Main St W, Hamilton, ON L8P 1K3
   - (905)777-1236
   - 可以使用现金、debit卡、信用卡。
+
+- Manna Korean Takeout：外卖
+
+  - 1050 King St W, Hamilton, ON L8S 1L5
+  - (905)523-0777
+
 - OWL（猫头鹰）
 
   - http://www.owlfamily.ca/
