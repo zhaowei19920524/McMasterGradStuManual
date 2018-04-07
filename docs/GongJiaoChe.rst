@@ -150,6 +150,12 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
   - 10路车叫B Line Express，它一条快速公交路线，所以停靠的站点非常少。在Zone 1里只停三站：MAIN at OSLER（向东的站名是MAIN at EWEN）、Emerson / Main、MAIN / LONGWOOD。
   - 它只在Main上行驶。在市中心的向西的路线则一直在King St.上。
 
+7. 车载自行车
+
+- 大家在Hamilton骑自行车，如果突然遇到不能骑车，必须乘坐公交车的情形，可以将自行车放在公交车前的架子（rack）上。但不能推进车里。这个不需要额外付费。
+- https://www.hamilton.ca/hsr-bus-schedules-fares/riding-hsr/bikes-buses-program
+- 一个演示的视频：https://www.youtube.com/watch?v=ZmlkxR2rvpg
+
 注：
 
 - 对于1路车，有1A（1 A Line）和1B（1 B Line）两种。通常大家坐的是1A，它是从往返于市中心和西边的Zone1之间。而1B是往返于市中心和东边的Stoney Creek，是不会开往McMaster方向的。大家在市区坐1路千万不能坐错了，否则南辕北辙。
@@ -199,6 +205,11 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 47路：往返于Hamilton和密西沙加。
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
 - 12路：从Stoney Creek上车可以到尼亚加拉瀑布。
+
+7. 车载自行车
+
+- 大家乘坐Go Bus去其它城市，如果想带上自行车一起去，可以将自行车放在Go Bus车前的架子（rack）上。但不能推进车里。操作方法和Hamilton公交车一模一样。这个不需要额外付费。
+- http://www.gotransit.com/public/en/docs/publications/GO_Bike_By_Bus.pdf
 
 其它公交系统
 ------------------------------------

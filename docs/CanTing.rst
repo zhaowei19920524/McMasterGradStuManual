@@ -102,7 +102,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
     - iOS：https://itunes.apple.com/ca/app/subway-app/id901941015
     - Android：https://play.google.com/store/apps/details?id=com.subway.mobile.subwayapp03
-  - 大家第一次去如果不知道怎么点餐，可以先在手机App上选好三明治、配方和取的时间，这样到时见去店里直接取就可以了。此外如果去店里直接买，再付款前可以先扫一下手机App里的二维码获取积分，积分可以变成代金券或优惠券。
+  - 大家第一次去如果不知道怎么点餐，可以先在手机App上选好三明治、配方和取的时间，这样到时间去店里直接取就可以了。此外，如果去店里直接买，在付款前可以先扫一下手机App里的二维码获取积分，积分未来可以变成代金券或优惠券。
 
 - Pinks：汉堡薯条
 
@@ -395,7 +395,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - https://www.facebook.com/liuliuhotpot
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
-  - 周二不营业。可以使用现金或debit卡。
+  - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV，在此用餐后KTV有优惠。
 
 - Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
 
@@ -405,6 +405,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - Noodles one #2（马队长兰州拉面二店）：点菜制
 
+  - http://www.sunriseday.com/
   - 242 King St W, Hamilton, ON L8P 1A9
   - (905)522-6351
 
@@ -425,11 +426,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 129 King St. E., Hamilton, ON
   - 只能使用现金。
 
-- 七味烤鱼：点菜制
+- Grand Leisure Gastro House（盛宴国际）：点菜制
 
-  - http://yellowpages.superlife.ca/yellowpagesclassify/七味烤鱼/
+  - https://www.grandleisure.ca/
   -	16 Jarvis St, Hamilton, ON L8R 1M2 
-  - (905)769-6163
+  - (905)522-9888
+  - 这家店的饮食已经不是它主要业务了，仅仅算是小吃。它主要运营KTV。
 
 - 喜临门酒楼：点菜制，外卖
 
@@ -438,9 +440,9 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - Mr.Dumpling：点菜制，外卖
 
-  - http://www.mrdumpling.ca/hamilton/index.html
   - 50 Dundurn St. South L8P 4W3
   - (905)570-1388
+  - 这家店不仅仅卖水饺，还有其它快餐。
 
 - K w BBQ Kitchen（琪华）：点菜制
 
@@ -466,7 +468,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - Crystal Dynasty Chinese Restaurant（美味栈粤菜馆 ）：点菜制
 
-  - http://crystaldynastyrestaurant.berlindoener.info/
+  - http://placeweb.site/crystal-dynasty-restaurant?opentab=1
   - 94 Cannon St W, Hamilton, ON L8R 2B6
   - (905)308-8208
 
