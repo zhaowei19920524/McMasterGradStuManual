@@ -30,7 +30,7 @@ G类驾照
 - 作用
 
   - 在Ontario最为基本的身份证，可以代替护照。这是出于安全考虑，而且在某些情况下，使用驾照会比护照更有效且高效，可以说驾照在加拿大使用范围更广。
-  - 可以在持有4年以上G license的人的陪同下开车，陪同人员必须坐在副驾驶的位置上。但不可以上高速，不可以在午夜至5:00 am期间开车。车上所有人都要系安全带。
+  - 可以在持有4年以上G license的人的陪同下开车，陪同人员必须坐在副驾驶的位置上。但不可以上高速，不可以在午夜至5:00 am期间开车。车上所有人必须系安全带。
 
 - 考试：G1不需要预约，直接去Hamilton驾照考试中心参加考试就可以。需要带护照。考试形式为上机考试。全部是选择题，https://drivetest.ca/tests/knowledge-tests.html 。题目类型分为2部分：
 
@@ -50,7 +50,7 @@ G类驾照
   - Part I：红绿灯和无信号灯下的左右转、直行、停车。
   - Part II：变道
   - Part III：three-point turn（三点调头）
-  - Part IV：路边停车，包括：pull over（直接停下）和parallel parking（平行泊车）
+  - Part IV：路边停车，包括：pull over（路边直接停下）和parallel parking（平行泊车）
   - 考试各个Part的各项指标一共100分，70分算通过。但如果出现严重的错误，例如：闯红灯、变道没有看倒车镜和盲点、撞到路牙石或其它人和车等等，则直接fail。
   - 若第一次考G2没过，则需要再交$52.50+tax重新考一次。
 
@@ -71,6 +71,19 @@ G类驾照
 #) 国内驾龄满两年，但是未携带国内车管所开具的无事故证明（或无违章记录证），则从G2开始考起。
 #) 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。https://drivetest.ca/licences/drivers-licences-cars.html
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处可以在Google地图上找到 https://www.google.ca/maps/search/ServiceOntario,+1280+Main+St+W,+Hamilton,+ON+L8S+4L8,+Ontario/@43.2585818,-79.9343397,13z/data=!3m1!4b1 。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
+
+国际驾照（International Driving Permit或IDP）
+--------------------------------------------------------------------------------------
+大家获得G License之后就可以申请国际驾照了，使用国际驾照，可以在美国或欧洲国家游玩的时候租车。在Canada，国际驾照是由Canadian Automobile Association（CAA）授予的，每次授予的有效期为1年。可以反复申请。
+
+- 官网
+
+  - https://travel.gc.ca/travelling/documents/international-driving-permit
+  - https://www.caa.ca/idp/
+- 常见问题及解答，所需材料清单：https://www.caa.ca/international-driving-permit/
+- 国际驾照可以使用的国家清单：https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&Temp=mtdsg5&clang=_en
+
+离学校最近的CAA网点在1717 Main St W, Hamilton, ON L8S 1G5。https://www.caasco.com/About-Us/Contact-Us/Store-Locations/Hamilton/CAA-Hamilton-West.aspx
 
 租车
 ------------------------------
@@ -146,10 +159,10 @@ G类驾照
 ---------------------
 1. 驾照翻译 
 
-| http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
+- http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
 
 2. 驾校教练
 
-| 大家可以联系以下驾校的华人教练来准备G2 Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。练车方式都是一对一教学，大概$40/小时。
-| 董教练：(289)237-9486
-| 林教练：(905)525-2288（Office），(905)923-0038（Cell）
+- 大家可以联系以下驾校的华人教练来准备G2 Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。练车方式都是一对一教学，大概$40/小时。
+- 董教练：(289)237-9486
+- 林教练：(905)525-2288（Office），(905)923-0038（Cell）

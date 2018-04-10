@@ -55,6 +55,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 - apt都是整栋楼集中供暖、供热水。
 - 除少数高档的apt外，普通的apt里一般没有空调，也不会集中供应冷气。合租的同学如果觉得热，可以商量一下，自行购买窗式空调（注意电费）。
 - 厨房：apt的厨房里通常至少会有stove、冰箱。有些陈旧的apt可能没有抽油烟机。
+- 卧室：除deluxe外的apt，卧室里面除了衣柜没有任何家具，甚至没有窗帘。
 - apt的房型除了最常见的N室1厅外。还有几种特殊的情况：
  
   - bachelor：就是单人间。房间布局和国内普通宾馆里的单人间比较像，没有单独的卧室，只有一个大客厅。
@@ -66,7 +67,6 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 - apt里没有洗衣机和烘干机，一般是去公寓某一层公共的洗衣房去洗衣服，需要额外付费（一次洗+烘干的费用大概是$4）。如果不想用公共的设备也可以自己购买小型的洗衣机。
 - 不论apt里有多少卧室，都只有一个厨房和公共的卫生间。≥3个卧室的apt，主卧会有单独的卫生间。
-- 除deluxe外的apt，卧室里面除了衣柜没有任何家具，甚至没有窗帘。
 
 3. 其它
 
@@ -128,7 +128,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
 5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
 6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
-7. 由于新生一般在国内，还未到Canada，很难详细了解house或apt的情况。可以通过以下方法解决： 
+7. 由于新生一般在国内，还未到Canada，很难详细了解house或apt。往年出现过出租广告和实际情况差异巨大的情况。可以通过以下方法解决： 
 
   A. 让房东多发些图片。 
   B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
@@ -222,7 +222,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
   - 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
   - 其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 此外，69 Sanders Blvd也类似于学生公寓。这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。
+  - 此外，69 Sanders Blvd也类似于学生公寓。这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。
 
 - West Village Suites（1686 Main St W）
 
