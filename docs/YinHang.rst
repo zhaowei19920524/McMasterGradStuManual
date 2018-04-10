@@ -62,9 +62,9 @@ ATM：在这里ATM机存钱和国内有一些区别，如scotiabank的ATM机是�
 ----------------------------------------------
 Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：Visa Card和Master Card，它会被标记在你的信用卡上。 
 
-- 一个信用卡里只有一个信用卡账户。如果需要不同的信用卡，则需要不同的信用卡账户。
+- 一个信用卡里只有一个信用卡账户。如果需要不同的信用卡账户，则需要开不同的信用卡。
 - 需要注意的是大部分的商铺会接受VISA Card和MASTER Card， 小部商铺只接受其中一种。 
-- 不同于中国，加拿大允许学生在没有稳定收入的情况下也能申请信用卡，一般开卡额度定在500刀。随着你信用纪录的提升，你可以申请更高的limit，信用卡没有交易限额的规定，可以一个月无限笔额度内花费，加拿大信用卡有很多不同种类，有Cash back, Travel Rewards Card等等。 每种卡都有不同的开户要求，有的需要年费，这个在开户的时候可以和客户经理商谈。
+- 不同于中国，加拿大允许学生在没有稳定收入的情况下也能申请信用卡，一般开卡额度定在500刀。随着你信用纪录的提升，你可以申请更高的limit，信用卡没有交易限额的规定，可以一个月无限笔额度内花费，加拿大信用卡有很多不同种类，有Cash back、Rewards等等。 每种卡都有不同的开户要求，有的需要年费，这个在开户的时候可以和客户经理商谈。
 
 .. image:: /resource/bank/Credit_Card_01.jpg
    :align: center
@@ -80,7 +80,7 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - 信用卡支持网上购物。
 - 预定酒店，租赁车辆等都必须以信用卡作为担保。建立信用历史，有利于未来在加拿大贷款买房，lease私家车等。
 - 在借记卡丢失，损坏或者余额不足时提供资金支持。
-- 刷信用卡通常可以获得积分，积分可以返现或免费赠送购物卡，在开卡的时候可以问清楚。希望大家能刷信用卡的时候一定要刷信用卡。而刷debit卡没有任何优惠活动。
+- 刷信用卡通常可以获得积分（Rewards），积分可以返现或免费赠送生活用品或超市代金券，在开卡的时候可以问清楚（积分使用方法见附4）。希望大家能刷信用卡的时候一定要刷信用卡。而刷debit卡没有任何优惠活动。
 
 刷卡消费：刷卡的方式和上面Debit卡一样。信用卡没有交易次数的限制。但是如果使用tap的方法会有金额限制，通常一次付费不能超过$25或$50。每个银行的限制不太一样。
 
@@ -108,6 +108,10 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
 - 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利推荐选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多，而Reward却可以兑换日常用品、食品、电影票、租车、机票、旅馆等等，优惠幅度较大。
+
+需要额外询问的问题：
+
+- 如何接收国际电汇、国际电汇需要的信息等等。
 
 选择银行：
 
@@ -165,15 +169,15 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 ----------------------------------
 1. balance
 
-| 余额。
-| 对于Chequing和Savings Account来说，余额指的是账户里还剩余多少钱，如果数值是负的，说明存在overdraft，欠银行钱。
-| 对于Credit卡来说，余额指欠银行的钱，也就是需要还银行之前的花费。如果数值是负的，说明之前还款操作时还的钱超过了欠的钱。
+- 余额。
+- 对于Chequing和Savings Account来说，余额指的是账户里还剩余多少钱，如果数值是负的，说明存在overdraft，欠银行钱。
+- 对于Credit卡来说，余额指欠银行的钱，也就是需要还银行之前的花费。如果数值是负的，说明之前还款操作时还的钱超过了欠的钱。
 
 2. Statement和eStatement
 
-| Statement是月结单的意思（纸质）。eStatement是电子月结单（发到电子邮箱里）。
-| 列举了一个月以来该账户的进账和支出明细。
-| 大家跟银行提出最好用eStatement。如果出现问题，纸质的材料不一定能及时看到。
+- Statement是月结单的意思（纸质）。eStatement是电子月结单（发到电子邮箱里）。
+- 列举了一个月以来该账户的进账和支出明细。
+- 大家跟银行提出最好用eStatement。如果出现问题，纸质的材料不一定能及时看到。
 
 附
 --------------------------
@@ -278,5 +282,33 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 .. image:: /resource/bank/interac/interact_11.png
    :align: center
 
+4. 使用信用卡积分
+
+| 大家不要总把credit card翻译成信用卡，其实更通俗易懂的翻译应该是“积分卡”。刷卡赚积分，积分可以兑换商品或服务。下面介绍如何使用信用卡的积分：
+
+| 第一步：再次确认你的信用卡赚取的是何种积分。对于学生来说“RBC Rewards+ Visa”是比较常见的，它不需要年费，并且赚取积分的速度很快。“Signature RBC Rewards Visa”赚取积分速度更快，但需要$39年费，不过可以通过学生身份免去年费。
+
+.. image:: /resource/bank/Rewards/Rewards00.jpg
+   :align: center
+
+| 第二步：登录网上银行，进入RBC Rewards页面。
+
+.. image:: /resource/bank/Rewards/Rewards01.jpg
+   :align: center
+
+| 第三步：检查你现在的积分，并选择左侧积分兑换商品还是服务。我们选“Shop Rewards”。大家可以自行了解一下其它Travel相关的代金券，比如Air Canada、Enterprise或其它公司的代金券。
+
+.. image:: /resource/bank/Rewards/Rewards02.jpg
+   :align: center
+
+| 第四步：这里面会列举常见的商品，大家可以选“View All Top Picks”，看所有常见的种类。
+
+.. image:: /resource/bank/Rewards/Rewards03.jpg
+   :align: center
+
+| 第五步：选择喜爱的商品，在最上面“Merchandise”里可以看到所有的分类。找好之后就可以用积分免费兑换商品了。
+
+.. image:: /resource/bank/Rewards/Rewards04.jpg
+   :align: center
 
 .. _教程: http://www.rbcroyalbank.com/dms/payments/autodeposit/

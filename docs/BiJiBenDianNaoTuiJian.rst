@@ -47,7 +47,7 @@
 
   - https://www.microsoft.com/en-ca/store/b/pc?icid=CNavDevicesPC
   - Microsoft也代售各个PC厂商的电脑，并且称之为Microsoft Signature系列。第三方厂商会在出售电脑时预装了各种软件，而Microsoft Signature系列的电脑绝对是纯净版的系统，不会有任何第三方预装软件。
-  - 可以在Microsoft官网和实体店里买到
+  - 可以在Microsoft官网和实体店里买到。
 - Costco
 
   - https://www.costco.ca/computers.html
@@ -68,22 +68,25 @@
 
 - Yoga系列
 
+  - https://www3.lenovo.com/ca/en/yoga/
   - 分为Yoga 700和900系列，他们都非常轻薄。其中Yoga 700系列不但是联想，甚至是所有品牌的笔记本电脑里性价比最高的的电脑。大家遇到打折季，比如黑色星期五、圣诞购物季等等，一定要及时关注。
-  - 推荐Yoga 720 15寸的版本，或Yoga 920 14寸的版本。
+  - Yoga 720 15寸的版本带有独立显卡。
 
 - X系列
 
-  - Thinkpad系列的巅峰之作。
-  - 推荐X1 Carbon。
+  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/c/thinkpadx
+  - Thinkpad系列的巅峰之作。推荐X1 Carbon。
   - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
 - T系列
 
+  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt
   - Thinkpad系列价格较为平民化的一款电脑。
   - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
 - P系列
 
+  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-p/c/thinkpadp
   - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
 
 - 正在打折的电脑汇总：https://www3.lenovo.com/ca/en/promotions/consumer-deals/
@@ -92,6 +95,7 @@
 
 - XPS
 
+  - http://www.dell.com/en-ca/shop/dell-laptops-netbooks-and-tablets/sc/laptops/xps-laptops
   - 戴尔推出的非常轻薄的笔记本
   - 分为13寸和15寸两个版本，其中15寸的版本配置普遍比较高。
 
@@ -99,8 +103,9 @@
 
 3. Asus
 
-- Zenbook Pro
+- Zenbook
 
+  - https://www.asus.com/ca-en/Laptops/ZenBook-Series-Home/
   - 华硕推出的比较轻薄且高端的笔记本，其中Pro系列配置较高，大家也可以浏览其它系列。
   - 由于Asus在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
 - Republic Of Gamers（ROG）
@@ -118,6 +123,7 @@
 
 - GS系列
 
+  - https://ca.msi.com/Laptops/#?tag=GS-Series
   - MSI推出的游戏本里最为轻薄的一款。
   - 由于MSI在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
 
@@ -126,7 +132,7 @@
 - MacBook Pro
 
   - 强烈推荐至少从256GB的硬盘开始买。
-  - 不推荐MacBook和MacBook Air。因为他们的屏幕分辨率和处理器的配置都太低了。
+  - 不推荐MacBook（12寸）和MacBook Air。因为他们的屏幕分辨率和处理器的配置都太低了。
 
 Intel处理器末尾字母含义
 ------------------------------------------
