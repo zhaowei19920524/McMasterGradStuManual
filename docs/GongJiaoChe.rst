@@ -206,11 +206,6 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
 - 12路：从Stoney Creek上车可以到尼亚加拉瀑布。
 
-7. 车载自行车
-
-- 大家乘坐Go Bus去其它城市，如果想带上自行车一起去，可以将自行车放在Go Bus车前的架子（rack）上。但不能推进车里。操作方法和Hamilton公交车一模一样。这个不需要额外付费。
-- http://www.gotransit.com/public/en/docs/publications/GO_Bike_By_Bus.pdf
-
 其它公交系统
 ------------------------------------
 1. TTC

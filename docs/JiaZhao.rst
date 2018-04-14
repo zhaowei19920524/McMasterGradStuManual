@@ -66,15 +66,15 @@ G类驾照
 
 1) 第一次报名大概要交$158.25+tax（2017年）的考试费，包括一次G1上机考试和一次G2路考的费用。需要带护照。
 #) G1和G2的驾照只有5年的有效期。过了有效期需要重新从G1开始考。除非已经获得G license。
-#) 国内驾照来Canada可以开3个月的车，但是要有相应的驾照翻译件。3个月的时间是从第一次落地Canada算起。如果考了G1就不能再使用了，因此G1结束考G2的时候就不能自己驾车。https://www.ontario.ca/page/drive-ontario-visitors
-#) 国内驾龄满两年，并且携带国内车管所开具的无事故证明（或无违章记录证）和驾照翻译，则可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
+#) 国内驾照来Canada可以开3个月的车，但是要有相应的驾照翻译件（见附1）。3个月的时间是从第一次落地Canada算起。如果考了G1就不能再使用了，因此G1结束考G2的时候就不能自己驾车。https://www.ontario.ca/page/drive-ontario-visitors
+#) 国内驾龄满两年，并且携带国内车管所开具的无事故证明（或无违章记录证）和驾照翻译件（见附1），则可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
 #) 国内驾龄满两年，但是未携带国内车管所开具的无事故证明（或无违章记录证），则从G2开始考起。
 #) 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。https://drivetest.ca/licences/drivers-licences-cars.html
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处可以在Google地图上找到 https://www.google.ca/maps/search/ServiceOntario,+1280+Main+St+W,+Hamilton,+ON+L8S+4L8,+Ontario/@43.2585818,-79.9343397,13z/data=!3m1!4b1 。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
 
-国际驾照（International Driving Permit或IDP）
+国际驾照
 --------------------------------------------------------------------------------------
-大家获得G License之后就可以申请国际驾照了，使用国际驾照，可以在美国或欧洲国家游玩的时候租车。在Canada，国际驾照是由Canadian Automobile Association（CAA）授予的，每次授予的有效期为1年。可以反复申请。
+大家获得G License之后就可以申请国际驾照（International Driving Permit或IDP）了，使用国际驾照，可以在美国或欧洲国家游玩的时候租车。在Canada，国际驾照是由Canadian Automobile Association（CAA）授予的，每次授予的有效期为1年。可以反复申请。
 
 - 官网
 
@@ -131,10 +131,10 @@ G类驾照
 
 1. 下面是几种有关车的保险（这里参考Enterprise公司提供的保险：https://www.enterprise.com/en/help/faqs/car-rental-insurance-canada.html ）
 
-- damage waiver（DW）：这个保险强烈建议大家购买，它是租车公司提供给客户的车辆意外损坏保险。意思是如果发生意外了，造成了车辆的损坏，只要买了这个保险，租车的人就不需要承担任何维修的费用。如果没有买，则需要租车的人自己掏钱修车。如果大家在其它地方购买了可以赔付修车的保险，则不需要买它。通常大家的信用卡里也会有该类保险，不过还是建议大家买租车公司的，因为这样把车撞坏可以直接扔给租车公司，如果用自己的保险，可能流程比较繁琐。
+- damage waiver（DW）：这个保险强烈建议大家购买，它是租车公司提供给客户的车辆意外损坏保险。意思是如果发生意外了，造成了车辆的损坏，只要买了这个保险，租车的人就不需要承担任何维修所租车辆的费用。如果没有买，则需要租车的人自己掏钱修车。如果大家在其它地方购买了可以赔付修车的保险，则不需要买它。通常大家的信用卡里也会有该类保险，不过还是建议大家买租车公司的，因为这样把车撞坏可以直接扔给租车公司，如果用自己的保险，可能流程比较繁琐。
 - Personal Accident Insurance（PAI）& Personal Effects Coverage（PEC）：主要赔付出事故时，自己受伤的医药费等等。这个可能和UHIP等等类似，可以不买。
 - Roadside Assistance Protection（RAP）：这个主要负责车钥匙丢失、钥匙锁在车里面、半路没油等等的事故。大家如果对自己比较有信心，可以不买。
-- Liability：可以理解为国内的“交强险”。主要负责赔付发生事故时，对第三方财产的损坏，比如撞到他人或撞到其它物品。这个通常赔付数额巨大，Canada的租车行一般都至少给自己的车买了20W加元额度的保险，不需要顾客再买。（注意同一家公司在Canada和美国的政策可能不同，比如Enterprise在Canada是预先给车买了liability，而在美国可能需要顾客自己额外购买。）
+- Liability：可以理解为国内的“交强险”。主要负责赔付发生事故时，对第三方财产的损坏，比如撞到他人、其它车辆或物品。这个通常赔付数额巨大，Canada的租车行一般都至少给自己的车买了20W加元额度的保险，不需要顾客再买。（注意同一家公司在Canada和美国的政策可能不同，比如Enterprise在Canada是预先给车买了liability，而在美国可能需要顾客自己额外购买。）
 - 自己买的UHIP、Health Insurance Plan等等。这个主要是出事故时，自己受伤了，需要用自己买的健康保险来付自己的医药费。
 
 2. 租车价格
@@ -157,8 +157,9 @@ G类驾照
 
 附
 ---------------------
-1. 驾照翻译 
+1. 驾照翻译
 
+- 国内的驾照不能自己翻译，必须联系认证翻译师。
 - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
 
 2. 驾校教练
