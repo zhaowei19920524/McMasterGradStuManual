@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'McMaster研究生新生手册'
+project = u'McMaster研究生新生手册'
 copyright = '2018, Wei Zhao'
 author = 'Wei Zhao'
 
@@ -113,7 +113,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'McMaster研究生新生手册doc'
+htmlhelp_basename = u'McMaster研究生新生手册doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -140,7 +140,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'McMaster研究生新生手册.tex', 'McMaster研究生新生手册 Documentation',
+    (master_doc, u'McMaster研究生新生手册.tex', u'McMaster研究生新生手册 Documentation',
      'Wei Zhao', 'manual'),
 ]
 
@@ -188,7 +188,7 @@ else:
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'McMaster研究生新生手册', 'McMaster研究生新生手册 Documentation',
+    (master_doc, u'McMaster研究生新生手册', u'McMaster研究生新生手册 Documentation',
      [author], 1)
 ]
 
@@ -199,8 +199,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'McMaster研究生新生手册', 'McMaster研究生新生手册 Documentation',
-     author, 'McMaster研究生新生手册', 'One line description of project.',
+    (master_doc, u'McMaster研究生新生手册', u'McMaster研究生新生手册 Documentation',
+     author, u'McMaster研究生新生手册', 'One line description of project.',
      'Miscellaneous'),
 ]
 
