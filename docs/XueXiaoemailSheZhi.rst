@@ -208,7 +208,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_05.png
    :align: center
 
-对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置自动启动，大家可以在百度上搜索相关教程。
+对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置为开机自动启动，大家可以在百度或谷歌上搜索相关教程。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_settings_01.png
    :align: center
