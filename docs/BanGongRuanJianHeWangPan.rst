@@ -223,15 +223,10 @@ Microsoft实用办公工具
 
 其它常用软件
 ----------------------------------
-1. WinRAR
-
-| http://rarlab.com/
-
-2. Adobe Acrobat Reader
-
-| https://get.adobe.com/reader/
-
-3. LaTeX
+1) WinRAR：http://rarlab.com/
+#) Adobe Acrobat Reader：https://get.adobe.com/reader/
+#) MATLAB：https://bbs.feng.com/forum.php?mod=viewthread&tid=11683142&page=1&from=forumIndex
+#) LaTeX
 
 | 下面两个必须都安装：
 | LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
@@ -256,14 +251,13 @@ Microsoft实用办公工具
 
 3. Microsoft Imagine Premium（仅部分学院学生可用）
 
-| 部分学院额外为本院每一个学生购买了Microsoft Imagine Premium的授权。
-| 这些学院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
-| ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
-| CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
-| Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
-| Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
-| Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
-| 请联系本学院technical staff获取账户。用户名通常是McMaster的邮箱，密码是mosaic的密码。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
+- 部分学院额外为本院每一个学生购买了Microsoft Imagine Premium的授权。这些学院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
+- ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
+- CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
+- Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
+- Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
+- Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
+- 请联系本学院technical staff获取账户。用户名通常是McMaster的邮箱，密码是mosaic的密码。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
@@ -274,20 +268,20 @@ Microsoft实用办公工具
 
   A. Computing and Software
 
-  | https://www.cas.mcmaster.ca/support/index.php/Main_Page
-  | virtual desktop：私有云——Windows虚拟机。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
-  | 私有的代码版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
-  | 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
+  - https://www.cas.mcmaster.ca/support/index.php/Main_Page
+  - virtual desktop：私有云——Windows虚拟机（包含MATLAB、labview、Maple等软件）。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
+  - 私有的代码版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
+  - 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/
 
   B. Business
 
-  | business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
-  | 登录网址：https://vlab.business.mcmaster.ca/
-  | 用户名：ADS\\Mac ID
-  | 密码：登录mosaic的密码
+  - business学院的学生可以在学院的服务器上远程运行MATLAB，SAS等软件，省去了在自己电脑上安装的麻烦。
+  - 登录网址：https://vlab.business.mcmaster.ca/
+  - 用户名：ADS\\Mac ID
+  - 密码：登录mosaic的密码
 
   C. Math and Statistics
 
-  | 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
-  | https://rhpcs.mcmaster.ca/
-  | 请联系导师或本院的technical staff。
+  - 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
+  - https://rhpcs.mcmaster.ca/
+  - 请联系导师或本院的technical staff。

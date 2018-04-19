@@ -6,6 +6,7 @@
 --------------------------------------
 - 主页：http://marauders.ca/
 - 体育馆所有设施：https://rec.mcmaster.ca/facilities
+- 开放时间：https://rec.mcmaster.ca/facilities/hours
 - 体育馆会员：https://rec.mcmaster.ca/memberships 。包括健身房、租用毛巾和锁。
 - 手机App
 
