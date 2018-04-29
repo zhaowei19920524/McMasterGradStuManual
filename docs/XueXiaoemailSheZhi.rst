@@ -198,7 +198,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_03.png
    :align: center
 
-| 第四步：在弹出框中输入mosaic的密码。
+| 第四步：输入mosaic的密码。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.png
    :align: center
@@ -208,11 +208,28 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_05.png
    :align: center
 
-对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置为开机自动启动，大家可以在百度或谷歌上搜索相关教程。
+对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置为开机自动启动（参考Windows 8的教程）：https://support.office.com/en-us/article/automatically-start-an-office-program-when-you-turn-on-your-computer-4a42ed45-c064-47b6-b497-119c870f7bab
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_settings_01.png
    :align: center
    :scale: 50%
+
+由于学校的Email非常多，如果全部都同步到电脑里将占用很大一部分硬盘空间。我们可以把它设置成只同步最近一个月的邮件：
+
+| 第一步：在Outlook窗口中点击“File”，这样就进入到了Info页面，点击“Account Settings...”。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_01.png
+   :align: center
+
+| 第二步：选择McMaster的邮箱账户，点“Change”。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_02.png
+   :align: center
+
+| 第三步：在弹出框里，把“Mail to keep offline”，设置成1 month。点next，后面Outlook会自动完成相应的设置。
+
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_03.png
+   :align: center
 
 Outlook桌面客户端需要额外设置同步Google Calendar，以下是步骤：
 
