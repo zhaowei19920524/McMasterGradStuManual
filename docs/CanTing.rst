@@ -253,6 +253,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
     - iOS：https://itunes.apple.com/us/app/wendys/id540518599?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.wendys.nutritiontool
 
+- Popeyes Louisiana Kitchen：炸鸡、薯条
+
+  - http://popeyeschicken.ca/
+  - https://www.ubereats.com/hamilton/food-delivery/popeyes-louisiana-kitchen-main-st/JghticQNREKy0aAWOAUj8Q/
+  - 1711 Main St W, Hamilton, ON L8S 1G5
+  - (905)528-2222
+
 - Baskin Robbins & Kernels Popcorn：特色冰淇淋店
 
   - http://www.baskinrobbins.ca/
@@ -403,7 +410,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 165 King St. East, Hamilton
   - (905)529-2226
 
-- Noodles one #2（马队长兰州拉面二店）：点菜制
+- Sunrise Restaurant（马队长兰州拉面）：点菜制
 
   - http://www.sunriseday.com/
   - 242 King St W, Hamilton, ON L8P 1A9

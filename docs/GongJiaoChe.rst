@@ -171,6 +171,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 1. 各类资源
 
 - 官网：http://www.gotransit.com/
+- 时刻表：https://www.gotransit.com/en/trip-planning/seeschedules/full-schedules
 
 2. 费用
 
