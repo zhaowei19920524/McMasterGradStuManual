@@ -124,21 +124,30 @@ McMaster常见学院及简称
   - Medical Sciences：medsci
   - Nursing：Nursing
   - Child Life and Pediatric Psychosocial Care：childlife
-- Humanities：暂无
-- Social Sciences：social
+- Humanities：
 
-  - Anthropology：暂无
-  - Economics：暂无
-  - Geography & Environmental Studies：暂无
+  - Classics：Classics
+  - Communication Studies & Multimedia：CSMM
+  - English & Cultural Studies：English
+  - French：French
+  - History：History
+  - Gender Studies and Feminist Research：GSFR
+  - Linguistics & Languages：linguistics
+  - Philosophy：Philosophy
+- Social Sciences：
+
+  - Anthropology：anthropology
+  - Economics：economics
+  - Geography & Environmental Studies：geography
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
   - Indigenous Studies：暂无
-  - Labour Studies：暂无
+  - Labour Studies：Labour
   - Political Science：暂无
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
   - Religious Studies：暂无
   - Social Psychology：暂无
   - Social Work：暂无
-  - Sociology：暂无
+  - Sociology：sociology
 - Arts & Science：暂无
 
 个别专业辨析
