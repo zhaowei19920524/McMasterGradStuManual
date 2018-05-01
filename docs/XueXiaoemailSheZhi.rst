@@ -200,7 +200,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 | 第四步：输入mosaic的密码。
 
-.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.jpg
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.JPG
    :align: center
 
 | 第五步：一个设置成功的页面，点击OK即可。
