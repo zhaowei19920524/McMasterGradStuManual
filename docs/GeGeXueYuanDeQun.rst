@@ -83,11 +83,11 @@ McMaster常见学院及简称
   - Master of Business Administration：MBA
   - Doctor of Business Administration：DBA
 
-    - Finance：DFin
-    - Accounting：Accounting或ACCT
-    - Information Systems：IS
+    - Finance：DFin或DBA(Finance)
+    - Accounting：Accounting或ACCT或DBA(Accounting)
+    - Information Systems：IS或DBA(IS)
     - Health Management：暂无
-    - Management of Organizational Behaviour and Human Resources：OB&HR
+    - Management of Organizational Behaviour and Human Resources：OB&HR或DBA(OB&HR)
     - Management Science：暂无
     - Marketing：暂无
   - eHealth：eHealth
@@ -140,15 +140,15 @@ McMaster常见学院及简称
   - Economics：economics
   - Geography & Environmental Studies：geography
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
-  - Indigenous Studies：暂无
+  - Indigenous Studies：Indigenous
   - Labour Studies：Labour
-  - Political Science：暂无
+  - Political Science：Political Science
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
-  - Religious Studies：暂无
-  - Social Psychology：暂无
-  - Social Work：暂无
+  - Religious Studies：Religious
+  - Social Psychology：Social Psychology
+  - Social Work：Social Work
   - Sociology：sociology
-- Arts & Science：暂无
+- Arts & Science：Art
 
 个别专业辨析
 ------------
