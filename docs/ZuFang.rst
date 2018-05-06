@@ -143,7 +143,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 注意事项
 ---------------------------------
-1. 租房通常要交定金，定金一般是最后一个月的房租，一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚，再决定。否则后悔就来不及了。 
+1. 租房通常要交定金，定金一般是最后一个月的房租，一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚再决定。否则后悔就来不及了。 
 2. 房东没有义务为任何人留房间。除非你已经交了定金。否则房东依然会把房间给其他人。 
 3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。如果和房东商量终止，最好有终止的协议。 https://www.cleo.on.ca/en/publications/moving/legal-ways-move-out-early
 4. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
@@ -151,15 +151,15 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
   B. 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
-5. 住一年以上的apt可以随时搬走或转给其它人，但也有个限制，就是如果是其中某一个或某几个人搬走需要征得其它人的同意，比如其它依旧租下去的人员愿意付所有的房租，或马上搬走的人找好了转租的人。如果所有人都搬走，那没有任何问题。
-6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
+5. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
 
   A. 因为house门口的草坪不剪草（杂草超过20cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
   B. 在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03-296.pdf
   C. 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
-7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
-8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。http://www2.hamilton.ca/NR/rdonlyres/D2F70089-A992-400E-B6AD-AF28085F9F84/0/04091.pdf 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
+6. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
+7. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。http://www2.hamilton.ca/NR/rdonlyres/D2F70089-A992-400E-B6AD-AF28085F9F84/0/04091.pdf 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
+8. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外一个室友，如果没通知，则会罚2个月的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 
 租房纠纷调解
 -----------------------------------------------
@@ -180,7 +180,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-03.xlsx>` ）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-05.xlsx>` 从Google地图里导出的数据）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
@@ -207,8 +207,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 - 981 & 1001 Main St W
 
-  - 他们是离学校最近的高层公寓。
-  - 这两个公寓算是Zone 1里最陈旧的公寓之一了。所以价格不是很高，尤其是3室1厅。
+  - 它们是离学校最近的高层公寓，同时也是Zone 1里最陈旧的公寓之一了。所以价格不是很高，尤其是3室1厅。
+  - 在租房的时候，可以通过扫描、发邮件的形式签合同，交定金可以刷国际信用卡，但需要额外交1.75%的手续费。在国内的新生可以在没来之前就签好合同。
 
 - 644 Main St W
 
@@ -222,7 +222,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
   - 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
   - 其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 此外，69 Sanders Blvd也类似于学生公寓。这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。
+  - 此外，69 Sanders Blvd也类似于学生公寓。这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
 
 - West Village Suites（1686 Main St W）
 
