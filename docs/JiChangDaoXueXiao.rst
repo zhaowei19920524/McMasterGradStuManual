@@ -40,7 +40,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 
 .. note::
 
-  - 17-ECE-夏泽坤
+  - 17-ECE-夏泽坤（可以一次接1~4人）
   - 17-CSE-曹博（仅限一至两人）
   - 16-ECE-张璇（只能一次接一个人）
   - 16-CAS-姜同辉

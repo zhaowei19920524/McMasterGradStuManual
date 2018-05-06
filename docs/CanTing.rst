@@ -188,6 +188,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)308-9378
   - 每天都会对其中一种三明治打折。
 
+- Lava Pizza & Wings
+
+  - https://westdale.lavapizza.ca/
+  - 876 King St W, Hamilton, ON L8S 4S6
+  - (905)525-6606
+  - 这家店的pizza可以在网上DIY预订，顾客可以自由选择尺寸、配方、加入的蔬菜肉类等等，等做好后直接去取。
+
 - Pizza Nova：披萨
 
   - https://pizzanova.com/
