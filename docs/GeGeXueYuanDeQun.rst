@@ -83,6 +83,10 @@ McMaster常见学院专业及简称
 
   - Master of Finance：MFin
   - Master of Business Administration：MBA
+
+    - Full-time MBA：MBA(Full Time)
+    - Co-op MBA：MBA(Co-op)
+    - Part-time MBA：MBA(Part Time)
   - Doctor of Business Administration：DBA
 
     - Finance：DFin或DBA(Finance)

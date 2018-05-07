@@ -21,7 +21,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 - Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。 
 
   - 已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
-  - 租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。
+  - 租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。为了大家的生命财产安全着想，请勿在租房群里找接机、Carpool等服务。
 
 2. 各类租房经验：
 
@@ -93,12 +93,12 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 4. 长租时间： 
 
 - house：根据房东，最少8个月，有的最少12个月。如果只租8个月，可能房租会略高一点。合同到期后需要再签新的长租的租房合同。
-- apt：至少12个月，按月交房租。过了12个月之后，不需要再签新的合同，可以按原来的价格按月续租，随时都可以搬走或转给其它人。如果一开始就接手别人住过了1年以上的apt，则可以按之前的价格继续租下去，避免公寓管理员租给新人时涨房租，也可以随时搬走或转给其它人（需提前2个月通知房东或其他继续住下去的室友）。
+- apt：至少12个月，按月交房租。过了12个月之后，不需要再签新的合同，可以按原来的价格按月续租，随时都可以搬走或转给其它人。如果一开始就接手别人住过了1年以上的apt，则可以按之前的价格继续租下去，避免公寓管理员租给新人时涨房租，也可以随时搬走或转给其它人（需提前2个月通知房东和其他继续住下去的室友）。
 
 5. 长租价格（CAD/月，房租不用额外交消费税）： 
 
 - house：①basement：$400以下。②ground：$400~550之间。utility（水电气(heat)网4项）花费已经包含在房租里的项目越多，离学校越近，房租越高。
-- apt：按apt里bedroom的数量：①1 bedroom：$900+ ②2 bedroom：$1100+ ③3 bedroom：$1300+ ④bachelor：$800+。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
+- apt：按apt里bedroom的数量：①1 bedroom：$900+ ②2 bedroom：$1100+ ③3 bedroom：$1300+ ④bachelor：$800+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
 
 6. 何时开始寻找房源（对于9月入学的新生）
 
@@ -151,7 +151,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
   B. 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
-| 强烈建议合租公寓的几个同学之间签Housemate Agreement（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ）。它明确了舍友之间如果分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东或其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要明确。
+ | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ）。它明确了舍友之间如果分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
 
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ），如果没通知，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
@@ -183,7 +183,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-05.xlsx>` 从Google地图里导出的数据）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-07.xlsx>` 从Google地图里导出的数据）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
