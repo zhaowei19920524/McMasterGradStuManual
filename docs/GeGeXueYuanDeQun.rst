@@ -1,10 +1,12 @@
 ﻿各个学院的群及学院简称
 ===================================================
+各个学院的群
+---------------------------------------------------
 | 鼓励大家为自己的学院建立相应的交流群，建好后请和17-CAS-赵伟联系。
 | 大家可以在自己学院的群里讨论比较专业的问题，加群请写明验证消息，就是群ID。
 | 请大家依旧随时关注新生群里的消息。有些最新的消息和公告可能不会即时传达给各个学院的群里。
 
-- ITB(CAS+ECE)
+- ITB（CAS+ECE）
 
   - QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
 - Computational Science & Engineering
@@ -51,7 +53,7 @@
 - 麦马红枫（CSC公派群）QQ：54015237
 - McMaster PhD交流群QQ：438996754
 
-McMaster常见学院及简称
+McMaster常见学院专业及简称
 ----------------------------------------------------
 以下列举了McMaster常见的学院及简称，希望大家把群ID的学院按照下列各式书写。部分学院暂无简称，请写你的学院的全称。另：Mitacs交换生请直接把专业写为“Mitacs”。
 
@@ -105,25 +107,22 @@ McMaster常见学院及简称
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
 
-  - Biochemistry & Biomedical Sciences：BMS
-
-    - Biomedical Discovery & Commercialization：BDC
-    - Biochemistry：BioChem
-  - Chemical Biology：ChemBio
-  - Health Research Methods, Evidence, and Impact
-
-    - Public Health：PH
-    - Health Research Methodology：HRM
-    - Public Health & Preventive Medicine：PHPM
-    - Health Policy：HP
-    - eHealth：eHealth
-    - Graduate Diploma in Clinical Epidemiology：GDCE
-  - Global Health：暂无
-  - Health Management：暂无
-  - Neuroscience：MiNDS
+  - Biochemistry：biochem
+  - Biomedical Discovery & Commercialization：BDC
+  - Child Life and Pediatric Psychosocial Care：childlife
+  - Health Research Methodology：HRM
+  - Health Science Education：hsed
   - Medical Sciences：medsci
   - Nursing：Nursing
-  - Child Life and Pediatric Psychosocial Care：childlife
+  - Public Health：PH
+  - Rehabilitation Science：SRS
+  - Biomedical Engineering：msbe
+  - Chemical Biology：chembio
+  - eHealth：eHealth
+  - Global Health：globalhealth
+  - Health Management：healthmanagement
+  - Health Policy：HP
+  - Neuroscience：MiNDS
 - Humanities：
 
   - Classics：Classics
