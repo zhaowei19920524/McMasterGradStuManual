@@ -103,7 +103,7 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 
 3. 车站
 
- | 如上图中偏左位置所示，Hamilton的车站通常非常简易，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是黄色，中间有个公交车的图标。市中心的站牌上会标有停靠在此处的公交车，而其它地方的站牌上可能不会标出来，大家一定要提前查好。
+| 如上图中偏左位置所示，Hamilton的车站通常非常简易，一般是一根电线杆上会有一个条形的铁牌，铁牌上下是黄色，中间有个公交车的图标。市中心的站牌上会标有停靠在此处的公交车，而其它地方的站牌上可能不会标出来，大家一定要提前查好。
 
 4. 站名
 
@@ -125,8 +125,8 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 
 6. 常见公交车
 
- | https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
- | 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
+| https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
+| 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
 
 - 5路：一共有9种5路车，我们平时经常能看到其中6种，他们大体路线基本一致，但在Zone1里行驶的路线略有区别：
 
@@ -279,13 +279,13 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 ---------------------
 1. 处理自己单独办理的PRESTO card
 
- | 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。
- | 若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。
- | 自己买的PRESTO卡不会退。
+| 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。
+| 若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。
+| 自己买的PRESTO卡不会退。
 
 2. PRESTO card挂失
 
- | 请及时通过PRESTO网上账户或者电话联系客服（1-877-278-6123）进行挂失。
+| 请及时通过PRESTO网上账户或者电话联系客服（1-877-278-6123）进行挂失。
  
 - 已经在PRESTO网上注册过的卡
 
@@ -301,7 +301,7 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 
 3. 查车APP：Transit
 
- | 查车App可以查多伦多地区以及多伦多周边城市所有公交系统的车次与实时交通情况。这其中当然包括了Hamilton公交系统。
+| 查车App可以查多伦多地区以及多伦多周边城市所有公交系统的车次与实时交通情况。这其中当然包括了Hamilton公交系统。
 
 .. image:: /resource/bus/Transit_App_01.png
    :align: center
@@ -310,19 +310,19 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 - iOS：https://itunes.apple.com/app/apple-store/id498151501?mt=8
 - Android：https://play.google.com/store/apps/details?id=com.thetransitapp.droid
 
- 打开App后会自动获取当前位置以及周围的公交车。对于每一个公交车，会列举下面马上到的几个车次的等待时间。
+| 打开App后会自动获取当前位置以及周围的公交车。对于每一个公交车，会列举下面马上到的几个车次的等待时间。
 
 .. image:: /resource/bus/Transit_App_02.png
    :align: center
    :scale: 25%
 
-点击打算乘坐的公交车那一栏下面第一个按钮，就会出现实时交通图，包括公交车现在的位置（大概有一分钟的延迟），预计到达每一站的时间，以及去车站最近的步行线路。
+| 点击打算乘坐的公交车那一栏下面第一个按钮，就会出现实时交通图，包括公交车现在的位置（大概有一分钟的延迟），预计到达每一站的时间，以及去车站最近的步行线路。
 
 .. image:: /resource/bus/Transit_App_03.png
    :align: center
    :scale: 25%
 
-点击打算乘坐的公交车那一栏下面第四个按钮，就会出现班次列表。
+| 点击打算乘坐的公交车那一栏下面第四个按钮，就会出现班次列表。
 
 .. image:: /resource/bus/Transit_App_04.png
    :align: center

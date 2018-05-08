@@ -6,8 +6,8 @@
 
 1. T2202A表：全称是“Tuition, Education, and Textbook Amounts Certificate”。也就是学费抵税。在mosaic上可以下载打印。
 
- | 国际学生每年学费和书费中有20%的抵税额度。在你有收入之后，需要缴税时，有这些额度来抵税，所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费书费的20%，在以后有工作之后都会以退税的方式退回来。
- | 书费按Full Time学习的月份数计算，不需要以往的买书凭证。
+| 国际学生每年学费和书费中有20%的抵税额度。在你有收入之后，需要缴税时，有这些额度来抵税，所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费书费的20%，在以后有工作之后都会以退税的方式退回来。
+| 书费按Full Time学习的月份数计算，不需要以往的买书凭证。
 
 2. T3表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。
 3. T4表：
@@ -18,13 +18,13 @@
 4. T5表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-121-interest-other-investment-income.html
 5. 房租： 在安省租房，对低收入人群有部分退税。 
 
- | 这个链接可以对大家的房租可以退多少税进行估计：https://www.ontario.ca/page/tax-credit-calculator
+| 这个链接可以对大家的房租可以退多少税进行估计：https://www.ontario.ca/page/tax-credit-calculator
 
 6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。
 
- | 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。
- | 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
- | https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit/gst-hst-credit-application-eligibility.html
+| 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。
+| 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
+| https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit/gst-hst-credit-application-eligibility.html
 
 2017年报税：https://mp.weixin.qq.com/s?__biz=MjM5NjA5NDg1OQ==&mid=2652723905&idx=1&sn=8750cfccc32320238a9ffa898b8dfd89&chksm=bd078c258a70053355485b3c6e8122fddb2961fffdf50950153b9ad3aeb62f1742d6ce8c473b&scene=0#rd
 

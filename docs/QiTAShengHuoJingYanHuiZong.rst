@@ -6,10 +6,10 @@
 
 1) “名的汉语拼音 姓的汉语拼音”
 
- | 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
- | 举例：李军的签名为 “Jun Li”
- | 张诗晨的签名为 “Shichen Zhang”，或 “Shi-Chen Zhang”
- | 注意：千万不能写成：“Chen Shi Zhang” 或 “Shi Chen Zhang” 。因为这样就把原名改了。
+| 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
+| 举例：李军的签名为 “Jun Li”
+| 张诗晨的签名为 “Shichen Zhang”，或 “Shi-Chen Zhang”
+| 注意：千万不能写成：“Chen Shi Zhang” 或 “Shi Chen Zhang” 。因为这样就把原名改了。
 
 .. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_01.png
    :align: center
@@ -17,10 +17,10 @@
 
 2) “名的汉语拼音首字母+'.' 姓的汉语拼音”
 
- | 解释：名的汉语拼音的第一个首字母大写+'.'。或名的各首字母大写+'.'，中间加连字符“-”
- | 举例：李军的签名为 “J. Li”
- | 张诗晨的签名为 “S. Zhang”，或 “S.-C. Zhang”
- | 注意：千万不能写成：“S.C.  Zhang” 或 “C. S. Zhang” 。因为这样就把原名改了。
+| 解释：名的汉语拼音的第一个首字母大写+'.'。或名的各首字母大写+'.'，中间加连字符“-”
+| 举例：李军的签名为 “J. Li”
+| 张诗晨的签名为 “S. Zhang”，或 “S.-C. Zhang”
+| 注意：千万不能写成：“S.C.  Zhang” 或 “C. S. Zhang” 。因为这样就把原名改了。
 
 .. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_02.png
    :align: center
@@ -28,9 +28,9 @@
 
 3) “姓的汉语拼音, 名的汉语拼音”
 
- | 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
- | 举例：李军的签名为 “Li, Jun”
- | 张诗晨的签名为 “Zhang, Shichen”，或 “Zhang, Shi-Chen”
+| 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
+| 举例：李军的签名为 “Li, Jun”
+| 张诗晨的签名为 “Zhang, Shichen”，或 “Zhang, Shi-Chen”
 
 .. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_03.png
    :align: center
@@ -38,7 +38,7 @@
 
 4) 直接签汉字
 
- | 这个在Canada也是接受的。但是极其不推荐，因为别人验证起来很麻烦。
+| 这个在Canada也是接受的。但是极其不推荐，因为别人验证起来很麻烦。
 
 除这几种之外，签名的时候禁止签自己起的英文名。只有等入籍Canada，办理Canada护照的时候才可以变更自己名字。
 
@@ -107,8 +107,8 @@
 | http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/stps/cllct-eng.html#type
 | 大体上跟我们相关的有：
 
-1. 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品。
-2. 儿童用品。
+ | 1. 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品。
+ | 2. 儿童用品。
 
 | 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。
 | 不过也有个例外：https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064-harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html

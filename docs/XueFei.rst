@@ -25,18 +25,18 @@
 
 2) International Wire Transfer：国际电汇
 
- | 如果大家实在来不及办这边的银行卡再转账交学费，可以直接从国内的银行电汇到McMaster。
- | 学校账号在 `这里`_
- | 上面的表格里已经提供了国际电汇需要的Swift号、fields 50, 57A & 59。大家在国内银行汇款的时候照着上面表格里的内容填写就可以了。
- | 汇款成功后，填好上面的表格后打印并亲自提交，或传真，或Email到 
- | Student Accounts & Cashiers 
- | Gilmour Hall, Room 209 
- | McMaster University 
- | 1280 Main Street, West Hamilton, ON 
- | L8S 4L8 
- | Fax: 1-905-527-3615 
- | Email: student.accounts@mcmaster.ca
- | 如果使用国际电汇，除学费外，要另付$30，这是银行收McMaster的手续费。 
+| 如果大家实在来不及办这边的银行卡再转账交学费，可以直接从国内的银行电汇到McMaster。
+| 学校账号在 `这里`_
+| 上面的表格里已经提供了国际电汇需要的Swift号、fields 50, 57A & 59。大家在国内银行汇款的时候照着上面表格里的内容填写就可以了。
+| 汇款成功后，填好上面的表格后打印并亲自提交，或传真，或Email到 
+| Student Accounts & Cashiers 
+| Gilmour Hall, Room 209 
+| McMaster University 
+| 1280 Main Street, West Hamilton, ON 
+| L8S 4L8 
+| Fax: 1-905-527-3615 
+| Email: student.accounts@mcmaster.ca
+| 如果使用国际电汇，除学费外，要另付$30，这是银行收McMaster的手续费。 
 
 3) 信用卡：用信用卡付学费，要加1.95%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，手续费太高，并且大家的信用卡额度也没这么高。
 
