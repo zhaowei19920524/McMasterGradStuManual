@@ -151,7 +151,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
   B. 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
- | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ）。它明确了舍友之间如果分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
+ | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ）。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
 
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ），如果没通知，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
@@ -245,7 +245,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 - 200 Bay St S
 
   - 大家都叫它Bay 200。它是Hamilton市中心比较新的高档的公寓。
-  - 除了少部分房型是跃层外，其它所有的房型都是错层的结构。
+  - penthouse部分的房型是跃层结构（就是一户占两层），penthouse以下的所有楼层的房型都是错层的结构。
   - 有公共的健身房和空调。
 
 - 140 Main St W
