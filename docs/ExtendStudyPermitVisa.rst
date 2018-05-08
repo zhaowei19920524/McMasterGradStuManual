@@ -188,11 +188,11 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
 **Part 4：确认提交的文件**
 
-| 等所有文件提交后，网页右下部会多出一个按钮，后面就是签名和缴费。
+ | 等所有文件提交后，网页右下部会多出一个按钮，后面就是签名和缴费。
 
 **Part 5：延长Study Permit成功**
 
-| 如果延长Study Permit的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。新的Study Permit会以纸质的形式寄给你。寄送大概需要1~2周。
+ | 如果延长Study Permit的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。新的Study Permit会以纸质的形式寄给你。寄送大概需要1~2周。
 
 .. image:: /resource/StudyPermitVisa/StudyPermitResult.png
    :align: center
@@ -217,7 +217,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
 第三步：从这一步开始之后的很多网页都是问卷。作用是检查你现在的情况是否符合延长Visitor visa。
 
-| 由于问卷和申请Study Permit时的问卷一模一样，所以请大家查看上面介绍延长Study Permit的问卷网页截图。
+ | 由于问卷和申请Study Permit时的问卷一模一样，所以请大家查看上面介绍延长Study Permit的问卷网页截图。
 
 第四步：做完问卷后，网站上会显示你的条件符合延长Study Visa。点击在“Temporary Resident Visa”框里的Continue。
 
@@ -313,7 +313,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
 **Part 3：填写IMM5257B_1**
 
-| 填上相关信息，点击validate，没有错误即可。不会多出一页二维码。
+ | 填上相关信息，点击validate，没有错误即可。不会多出一页二维码。
 
 .. image:: /resource/StudyPermitVisa/IMM5257B_1.png
    :align: center
@@ -338,7 +338,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
 **Part 5：确认提交的文件**
 
-| 等所有文件提交后，网页右下部会多出一个按钮，后面就是签名和缴费。
+ | 等所有文件提交后，网页右下部会多出一个按钮，后面就是签名和缴费。
 
 **Part 6：延长Study Visa成功**
 
@@ -356,11 +356,11 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 -------------------------
 1. 合并、转换PDF的工具：
 
-| http://topdf.com/
+ | http://topdf.com/
 
 2. 调整照片尺寸的工具：
 
-| http://resizeimage.net/
+ | http://resizeimage.net/
 
 注
 ---------------------

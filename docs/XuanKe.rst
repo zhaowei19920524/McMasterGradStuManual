@@ -42,16 +42,16 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 
 1. Go to enroll
 
-| Add - select term - search course (if not taking a course place marker as was in your letter that you received from SGS for SGS 700 for full-time and 701 for part-time)
-| The SGS 701 course no longer exits. SGS 700 now acts as a placeholder for both full-time and part-time students.
-| Pick plan - click on shopping cart - then select term again
+ | Add - select term - search course (if not taking a course place marker as was in your letter that you received from SGS for SGS 700 for full-time and 701 for part-time)
+ | The SGS 701 course no longer exits. SGS 700 now acts as a placeholder for both full-time and part-time students.
+ | Pick plan - click on shopping cart - then select term again
 
 2. Click on search 
 
-| If you are picking SGS course please click on "S".
-| After choosing course # "is exactly" after type in right hand box type 700 (what you are taking)
-| Course Carrier should be graduate.
-| After searching Select class
+ | If you are picking SGS course please click on "S".
+ | After choosing course # "is exactly" after type in right hand box type 700 (what you are taking)
+ | Course Carrier should be graduate.
+ | After searching Select class
 
 四、科普与技巧
 ----------------------------------------------------------
@@ -99,17 +99,17 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 
 2) 选课成功后，把课程安排导入Google calendar
 
-| 第一步：登录mosaic，点击“Copy Schedule to Google”。
+ | 第一步：登录mosaic，点击“Copy Schedule to Google”。
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_1.png
    :align: center
 
-| 第二步：按照网页里的步骤一步一步进行。
+ | 第二步：按照网页里的步骤一步一步进行。
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_2.png
    :align: center
 
-| 第三步：查看Google calendar。
+ | 第三步：查看Google calendar。
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_3.png
    :align: center

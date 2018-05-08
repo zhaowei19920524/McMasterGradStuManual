@@ -94,7 +94,7 @@
 -------------------------------------------------
 1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
 
-| 以上三种保险都是由Sunlife承保，报销方法为
+ | 以上三种保险都是由Sunlife承保，报销方法为
 
 - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
@@ -104,10 +104,10 @@
 
 - 方法1：抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险。
 
-| Insurance Provider: Equitable Life of Canada
-| Policy #: 97528
-| Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
-| Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
+ | Insurance Provider: Equitable Life of Canada
+ | Policy #: 97528
+ | Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
+ | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
 
@@ -119,51 +119,51 @@
 --------------------------------
 .. note::
 
-  | 在加拿大每个房子都要有保险，银行才可能贷款，否则万一一把火房子烧了，银行没地方去收回贷款的。
-  | 如果大家想买，只需要买财产险，因为liabilities 应该是房东已经买了的。财产险应该不贵，但通常会有deduction。也就是说只有发生较大损失时才有可能拿到保险公司赔付。 
-  | 以一个家庭的home insurance为例，如果买了保险，低于5000自己出，超过部分由保险公司赔，最高200万。年报费600左右。
-  | 学生租的house，应该是商业保险，年保费2000多。大部分房东没有买商业险，只买个家庭保险以便拿到银行贷款。这样的房子一旦出事，保险公司不会赔付的。也就是你即使买了财产险，一旦火灾出现人身伤亡，也没有保险公司赔付，除非你自己买了liabilities 
-  | 如果你租apt或condo，apt或condo的管理费里通常包含的liabilities，你只需要买财产险 
-  | 加拿大几个比较大的保险公司 Sunlife， Manulife，Great West Life。 McMaster用的是Sunlife。此外各大银行也有相应的保险业务。例如：RBC，每月大概十几加元。
-  | ——感谢陆定维老师提供
+   | 在加拿大每个房子都要有保险，银行才可能贷款，否则万一一把火房子烧了，银行没地方去收回贷款的。
+   | 如果大家想买，只需要买财产险，因为liabilities 应该是房东已经买了的。财产险应该不贵，但通常会有deduction。也就是说只有发生较大损失时才有可能拿到保险公司赔付。 
+   | 以一个家庭的home insurance为例，如果买了保险，低于5000自己出，超过部分由保险公司赔，最高200万。年报费600左右。
+   | 学生租的house，应该是商业保险，年保费2000多。大部分房东没有买商业险，只买个家庭保险以便拿到银行贷款。这样的房子一旦出事，保险公司不会赔付的。也就是你即使买了财产险，一旦火灾出现人身伤亡，也没有保险公司赔付，除非你自己买了liabilities 
+   | 如果你租apt或condo，apt或condo的管理费里通常包含的liabilities，你只需要买财产险 
+   | 加拿大几个比较大的保险公司 Sunlife， Manulife，Great West Life。 McMaster用的是Sunlife。此外各大银行也有相应的保险业务。例如：RBC，每月大概十几加元。
+   | ——感谢陆定维老师提供
 
 附
 ----------------------
 1. 使用“studentcare”手机App报销保险的方法
 
-| 第一步：下载App
-| iOS：https://itunes.apple.com/ca/app/studentcare-mobile/id1135984328?mt=8
-| Android：https://play.google.com/store/apps/details?id=aseq.mobile.studentcare
+ | 第一步：下载App
+ | iOS：https://itunes.apple.com/ca/app/studentcare-mobile/id1135984328?mt=8
+ | Android：https://play.google.com/store/apps/details?id=aseq.mobile.studentcare
 
 .. image:: /resource/Insurance/StudentCare_App_01.png
    :align: center
    :scale: 25%
 
-| 第二步：打开App后点“Get Started”。
+ | 第二步：打开App后点“Get Started”。
 
 .. image:: /resource/Insurance/StudentCare_App_02.png
    :align: center
    :scale: 25%
 
-| 第三步：点“Create Profile”。
+ | 第三步：点“Create Profile”。
 
 .. image:: /resource/Insurance/StudentCare_App_03.png
    :align: center
    :scale: 25%
 
-| 第四步：选“McMaster University GSA”。
+ | 第四步：选“McMaster University GSA”。
 
 .. image:: /resource/Insurance/StudentCare_App_04.png
    :align: center
    :scale: 25%
 
-| 第五步：填写个人信息。之后会在邮箱里收到一封激活账户的邮件。然后激活账户。
+ | 第五步：填写个人信息。之后会在邮箱里收到一封激活账户的邮件。然后激活账户。
 
 .. image:: /resource/Insurance/StudentCare_App_05.png
    :align: center
    :scale: 25%
 
-| 第六步：使用邮箱和自己设置的密码登录。
+ | 第六步：使用邮箱和自己设置的密码登录。
 
 .. attention::
   从这一步开始，请务必保持该App处于正在使用的状态，不能切换App，锁屏等等的操作。否则它会强制重新登录，任何进度都会丢失。
@@ -172,43 +172,43 @@
    :align: center
    :scale: 25%
 
-| 第七步：登录成功后一个欢迎页面，点“Enter”。
+ | 第七步：登录成功后一个欢迎页面，点“Enter”。
 
 .. image:: /resource/Insurance/StudentCare_App_07.png
    :align: center
    :scale: 25%
 
-| 第八步：保险医药费，点“File a Claim”。
+ | 第八步：保险医药费，点“File a Claim”。
 
 .. image:: /resource/Insurance/StudentCare_App_08.png
    :align: center
    :scale: 25%
 
-| 第九步：这一步是完善个人信息，大家第一次使用需要填写一下。需要填写的信息有身份信息、住址、联系方式、银行信息等等。此外还包括需不需要为配偶等其他家庭成员买保险，没有此类需求的同学直接选不需要就可以了。填完后以后就不会出现这一步了。
+ | 第九步：这一步是完善个人信息，大家第一次使用需要填写一下。需要填写的信息有身份信息、住址、联系方式、银行信息等等。此外还包括需不需要为配偶等其他家庭成员买保险，没有此类需求的同学直接选不需要就可以了。填完后以后就不会出现这一步了。
 
 .. image:: /resource/Insurance/StudentCare_App_09.png
    :align: center
    :scale: 25%
 
-| 第十步：选为谁报销医药费。
+ | 第十步：选为谁报销医药费。
 
 .. image:: /resource/Insurance/StudentCare_App_10.png
    :align: center
    :scale: 25%
 
-| 第十一步：选医药费类型。眼睛相关的选第二个。牙齿相关的选第三个。请其它所有类型都选第一个。
+ | 第十一步：选医药费类型。眼睛相关的选第二个。牙齿相关的选第三个。请其它所有类型都选第一个。
 
 .. image:: /resource/Insurance/StudentCare_App_11.png
    :align: center
    :scale: 25%
 
-| 第十二步：一个小的问卷。
+ | 第十二步：一个小的问卷。
 
 .. image:: /resource/Insurance/StudentCare_App_12.png
    :align: center
    :scale: 25%
 
-| 第十三步：上传所有相关的文件拍照或使用已经拍好的图片。后面还有一步同意书，在这里暂时省略。
+ | 第十三步：上传所有相关的文件拍照或使用已经拍好的图片。后面还有一步同意书，在这里暂时省略。
 
 .. image:: /resource/Insurance/StudentCare_App_13.png
    :align: center

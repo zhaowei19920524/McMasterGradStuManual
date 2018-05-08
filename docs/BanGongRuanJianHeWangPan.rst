@@ -22,9 +22,9 @@ Microsoft Office 365
 
 第一步：登录微软的网站 https://portal.office.com/ 
 
-| 用户名：MacId@ads.mcmaster.ca
-| 密码：登录mosaic的密码
-| 为了以后登录方便，可以勾上Keep me signed in。
+ | 用户名：MacId@ads.mcmaster.ca
+ | 密码：登录mosaic的密码
+ | 为了以后登录方便，可以勾上Keep me signed in。
 
 .. image:: /resource/office365/office365_1.png
    :align: center
@@ -36,7 +36,7 @@ Microsoft Office 365
 
 第三步：在version的地方选择64-bit，然后点击下方的Install。
 
-| 这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术）。它不会下载一个iso镜像，但macOS版会下载一个镜像，然后自己去安装。
+ | 这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术）。它不会下载一个iso镜像，但macOS版会下载一个镜像，然后自己去安装。
 
 .. image:: /resource/office365/office365_3.png
    :align: center
@@ -84,22 +84,24 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 -----------------------------
 1. Microsoft Onedrive
 
-| Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
-| 存储空间：5GB（免费）
-| 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
-| 使用方法：用微软邮箱登录后就可以使用。
-| 在线登录方法：https://onedrive.com/
-| iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
+- Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
+- 存储空间：5GB（免费）
+- 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
+- 使用方法：用微软邮箱登录后就可以使用。
+- 在线登录方法：https://onedrive.com/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
 
 2. Microsoft Onedrive for Business
 
-| 学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
-| 存储空间：1TB
-| 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
-| 使用方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
-| 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
-| 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+- 学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
+- 存储空间：1TB
+- 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
+- 使用方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
+- 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
+- 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 .. image:: /resource/office365/onedrive_1.jpg
    :align: center
@@ -109,33 +111,37 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 3. Google Drive（Personal）
 
-| Google为每个注册Gmail的用户提供Google Drive网盘。
-| 存储空间：15GB（免费）
-| 下载地址：https://www.google.com/drive/download/client/
-| 使用方法：使用Gmail的邮箱账户登录即可。
-| 在线登录方法：https://drive.google.com/
-| iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
-| 注：在国内无法访问。
+- Google为每个注册Gmail的用户提供Google Drive网盘。
+- 存储空间：15GB（免费）
+- 下载地址：https://www.google.com/drive/download/client/
+- 使用方法：使用Gmail的邮箱账户登录即可。
+- 在线登录方法：https://drive.google.com/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
+- 注：在国内无法访问。
 
 4. Google Drive（G Suite）
 
-| 大家用的MacID@mcmaster.ca的Google企业邮箱里自带了Google Drive网盘。
-| 存储空间：5TB
-| 下载地址： https://www.google.com/drive/download/client/
-| 使用方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
-| 在线登录方法：https://drive.google.com/
-| 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+- 大家用的MacID@mcmaster.ca的Google企业邮箱里自带了Google Drive网盘。
+- 存储空间：5TB
+- 下载地址： https://www.google.com/drive/download/client/
+- 使用方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
+- 在线登录方法：https://drive.google.com/
+- 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 5. Dropbox
 
-| Dropbox也是比较流行的网盘。
-| 存储空间：2GB（免费）
-| 下载地址： https://www.dropbox.com/install
-| 使用方法：在Dropbox官网上自行注册登录。
-| 在线登录方法：https://www.dropbox.com/login
-| iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
-| Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
+- Dropbox也是比较流行的网盘。
+- 存储空间：2GB（免费）
+- 下载地址： https://www.dropbox.com/install
+- 使用方法：在Dropbox官网上自行注册登录。
+- 在线登录方法：https://www.dropbox.com/login
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
+  - Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
 
 多人实时共同编辑一个文档
 ------------------------------------------------------
@@ -185,41 +191,41 @@ Microsoft实用办公工具
 --------------------------------------------------
 1. Office Lens
 
-| 微软扫描仪：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
-| iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+- 微软扫描仪：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
+- iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 
 2. Microsoft Forms
 
-| https://forms.office.com
-| 微软推出的在线问卷和在线quiz系统。
-| 可以自己新建问卷和quiz。
+- https://forms.office.com
+- 微软推出的在线问卷和在线quiz系统。
+- 可以自己新建问卷和quiz。
 
 3. Microsoft To-Do
 
-| https://todo.microsoft.com
-| 微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
-| iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
-| Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
+- https://todo.microsoft.com
+- 微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
+- iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
+- Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
+- Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
 
 4. Microsoft Edge
 
-| 微软windows 10自带浏览器的手机版。
-| iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
+- 微软windows 10自带浏览器的手机版。
+- iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
 
 5. Microsoft Translator
 
-| 微软推出的手机翻译App
-| iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
+- 微软推出的手机翻译App
+- iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
 
 6. Microsoft Remote Desktop
 
-| 微软远程桌面手机版。
-| iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
+- 微软远程桌面手机版。
+- iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
 
 其它常用软件
 ----------------------------------
@@ -228,17 +234,17 @@ Microsoft实用办公工具
 #) MATLAB：https://bbs.feng.com/forum.php?mod=viewthread&tid=11683142&page=1&from=forumIndex
 #) LaTeX
 
-| 下面两个必须都安装：
-| LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
-| TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
+- 下面两个必须都安装：
+- LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
+- TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
 
 附
 -------------------------
 1. 查看当前安装的office是不是office365
 
-| office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
-| 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
-| 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
+ | office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
+ | 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
+ | 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
    :align: center
