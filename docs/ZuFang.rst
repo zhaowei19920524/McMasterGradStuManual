@@ -157,7 +157,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
 
   A. 因为house门口的草坪不剪草（杂草超过20cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
-  B. 在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03-296.pdf
+  B. 在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
   C. 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
 7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
@@ -220,14 +220,14 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   - 目前新租的三室一厅价格（2018年）为$1500/月，两室一厅为$1250/月，且房租不含电费。三角楼的租金是在15年涨价幅度较大，若是能接到旧的lease的话，性价比还是非常高的。
   - 付定金需要亲自去一趟公寓管理员办公室。
 
-- 191 Main St W
+- 校外第三方机构旗下的学生公寓（这几个公寓都是第三方机构建造的公寓，它们只租给学生，并且管理上也类似于学校的公寓）
 
-  - 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
-  - 其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 此外，还有2个公寓也类似于学生公寓：
-  
-    - 69 Sanders Blvd：这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
-    - 46 James St N：这套公寓是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了，公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
+  - 191 Main St W
+
+    - 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
+    - 其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
+  - 69 Sanders Blvd：这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
+  - 46 James St N：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
 
 - West Village Suites（1686 Main St W）
 
