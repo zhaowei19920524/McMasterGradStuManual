@@ -107,7 +107,11 @@ McMaster常见学院专业及简称
   - Geography & Earth Sciences：Geo
   - Interdisciplinary Science：ISCI
   - Kinesiology：kin
-  - Mathematics & Statistics：math或stats
+  - Mathematics & Statistics：
+
+    - Mathematics：math
+    - Statistics：stats
+    - Financial Mathematics：MFM或Phimac
   - Physics & Astronomy：Astronomy
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
@@ -121,7 +125,7 @@ McMaster常见学院专业及简称
   - Nursing：Nursing
   - Public Health：PH
   - Rehabilitation Science：SRS
-  - Biomedical Engineering：msbe
+  - Biomedical Engineering：BME
   - Chemical Biology：chembio
   - eHealth：eHealth
   - Global Health：globalhealth

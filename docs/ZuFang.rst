@@ -183,7 +183,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-10.xlsx>` 从Google地图里导出的数据）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-05-10.xlsx>` 从Google地图里导出的数据，2018年5月10日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
@@ -222,11 +222,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 - 校外第三方机构旗下的学生公寓（这几个公寓都是第三方机构建造的公寓，它们只租给学生，并且管理上也类似于学校的公寓）
 
-  - 191 Main St W
-
-    - 很多同学都推荐这个市区的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。
-    - 其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 69 Sanders Blvd：这套公寓一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
+  - 191 Main St W： 很多同学都推荐这个downtown的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
+  - 69 Sanders Blvd：这套公寓在学校西边不远处，一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
   - 46 James St N：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
 
 - West Village Suites（1686 Main St W）
