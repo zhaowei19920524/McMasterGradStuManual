@@ -8,8 +8,8 @@
 
 - ITB（CAS+ECE）
 
-  - QQ总群：237168063（备注导师入群），微信总群：加入QQ群后，联系群管理员
-  - 18级ECE微信群：请联系18-ECE-袁邵祎
+  - 历届 QQ总群：237168063（备注导师入群），微信总群：加入QQ群后，联系群管理员
+  - 18级 ECE微信群：请联系18-ECE-袁邵祎
 - Computational Science & Engineering
 
   - QQ群：225053068
@@ -27,8 +27,8 @@
   - 18级 微信群：请联系18-MTEI-马铭遥
 - MBA
 
-  - QQ总群：371421802
-  - 16级 QQ群：431729307 微信群：请联系16-MBA-曹星
+  - 历届 QQ总群：371421802，微信总群：请联系17-MBA-董宇英翔
+  - 16级 QQ群：431729307，微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
   - 18级 微信群：请联系18-MBA-韩雪松
 - MFin
@@ -111,7 +111,7 @@ McMaster常见学院专业及简称
 
     - Mathematics：math
     - Statistics：stats
-    - Financial Mathematics：MFM或Phimac
+    - Master of Financial Mathematics：MFM或Phimac
   - Physics & Astronomy：Astronomy
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
