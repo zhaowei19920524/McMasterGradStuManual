@@ -115,7 +115,7 @@ Welcome to McMaster University!
 
   - 17-CAS-赵伟
   - 16-Chem-孟凡旺
-  - 15-ECE-Huawei、慈海波
+  - 15-ECE-Huawei Zhu、慈海波
   - 13-MFin-Daisy Ding
   - 17-ECE-牛晨骁
   - 17-ECE-刘欢
