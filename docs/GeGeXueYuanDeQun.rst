@@ -125,6 +125,11 @@ McMaster常见学院专业及简称
   - Nursing：Nursing
   - Public Health：PH
   - Rehabilitation Science：SRS
+
+    - Occupational Therapy：OT
+    - Physiotherapy：PT
+    - Speech-Language Pathology：SLP
+    - Rehabilitation Science：RS
   - Biomedical Engineering：BME
   - Chemical Biology：chembio
   - eHealth：eHealth
