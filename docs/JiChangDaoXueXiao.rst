@@ -42,12 +42,13 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 
   - 17-ECE-夏泽坤（可以一次接1~4人）
   - 17-CSE-曹博（仅限一至两人）
+  - 17-ME-Kan Zhang
   - 16-ECE-张璇
   - 16-CAS-姜同辉
   - 16-MBA-曹星
   - 16-CAS-龚哲（只能一次接一个人）
   - 15-MFin-魏丹阳（仅限周末，一至两人）
-  - 15-ECE-Huawei
+  - 15-ECE-Huawei Zhu
   - 14-Mech-李彤瑞
 
 - 接机的费用一般是$50~100，付费时请准备好现金。
