@@ -6,28 +6,28 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 -------------------------------------------------
 1. WiFi热点：Mac-WiFi（只有5GHz频段）和MacSecure
 
-| 这个是主要的Internet接入方式。不限流量。速度是50Mb/s下载，10Mb/s上传。在McMaster所有的校区都能访问。
-| 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。
-| 连接成功后，你的设备会获得一个[172.16.0.0~172.31.255.255]区间内的B类私有IP地址，可以无限制的访问Internet。
+ | 这个是主要的Internet接入方式。不限流量。速度是50Mb/s下载，10Mb/s上传。在McMaster所有的校区都能访问。
+ | 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。
+ | 连接成功后，你的设备会获得一个[172.16.0.0~172.31.255.255]区间内的B类私有IP地址，可以无限制的访问Internet。
 
 2. LAN：插网线
 
-| 对于有实验室的同学来说，LAN是一种极好的上网方式，速度极快，网络稳定，不限流量。网速是500Mb/s下载，500Mb/s上传。
-| 插上网线就可以使用，如果不行，就去找所在学院的Technical staff帮忙设置一下。
-| 连接成功后，你的设备会获得一个130.113.*.*的公网IP地址，可以访问学校里的所有的网络资源。包括图书馆、超级计算机的计算服务、远程桌面或远程登录lab里的电脑、打印服务等等。这个IP虽然是公网IP，但由于学校防火墙设置，在学校外是无法直接访问校内的分配有该类IP的设备，ping也会失败。
+ | 对于有实验室的同学来说，LAN是一种极好的上网方式，速度极快，网络稳定，不限流量。网速是500Mb/s下载，500Mb/s上传。
+ | 插上网线就可以使用，如果不行，就去找所在学院的Technical staff帮忙设置一下。
+ | 连接成功后，你的设备会获得一个130.113.*.*的公网IP地址，可以访问学校里的所有的网络资源。包括图书馆、超级计算机的计算服务、远程桌面或远程登录lab里的电脑、打印服务等等。这个IP虽然是公网IP，但由于学校防火墙设置，在学校外是无法直接访问校内的分配有该类IP的设备，ping也会失败。
 
 3. 高校通用WiFi热点：eduroam
 
-| 这个是一个备用的Internet接入方式。在Canada以及世界上大部分高等学校都能搜到。不限流量。McMaster提供的速度是50Mb/s下载，10Mb/s上传。
-| 用电子设备搜到这个热点后，用户名是MacID@mcmaster.ca（就是McMaster的邮箱），密码是登录Mosaic的密码。
-| 举例：在多伦多大学搜到这个热点后，用McMaster的账户也能认证成功并上网。可以无限制的访问Internet，但由于各个学校里的政策不同，基本上无法访问学校里的任何网络资源。
+ | 这个是一个备用的Internet接入方式。在Canada以及世界上大部分高等学校都能搜到。不限流量。McMaster提供的速度是50Mb/s下载，10Mb/s上传。
+ | 用电子设备搜到这个热点后，用户名是MacID@mcmaster.ca（就是McMaster的邮箱），密码是登录Mosaic的密码。
+ | 举例：在多伦多大学搜到这个热点后，用McMaster的账户也能认证成功并上网。可以无限制的访问Internet，但由于各个学校里的政策不同，基本上无法访问学校里的任何网络资源。
 
 4. VPN
 
-| 如果想在校外访问校内的各种网络资源，那就需要使用McMaster提供的VPN服务了。
-| http://www.mcmaster.ca/uts/network/vpn/
-| 此时你的设备会分到一个130.113.*.*的IP地址，就可以像在学校里面一样使用了。
-| 在国内的同学请注意，学校的VPN不提供浏览网页的服务。也就是说，无法用学校VPN翻墙。
+ | 如果想在校外访问校内的各种网络资源，那就需要使用McMaster提供的VPN服务了。
+ | http://www.mcmaster.ca/uts/network/vpn/
+ | 此时你的设备会分到一个130.113.*.*的IP地址，就可以像在学校里面一样使用了。
+ | 在国内的同学请注意，学校的VPN不提供浏览网页的服务。也就是说，无法用学校VPN翻墙。
 
 二、城市里的热点
 ----------------------------------------------
@@ -44,7 +44,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动（50Mb下载、10Mb上传）。
 - Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，价格也相对较高。且已经完全为家庭用户提供了ipv6的支持。
-- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber Internet 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。如果办理Cable Internet 75/150可以用ZH24525，这样购买modem可以便宜$40。（注：这家公司的modem信号太弱，强烈建议自带无线路由或网线）
+- Carry：http://www.carrytel.ca/internet-plans.aspx 办理Fiber 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。如果办理Cable 40/60/75/120/150可以用ZH24525，这样购买modem可以便宜$40。（注：这家公司的modem信号太弱，强烈建议自带无线路由或网线）
 - altima：https://www.altimatel.com/shop/internet
 - start.ca：https://www.start.ca/
 - CIK：https://www.ciktel.com/InternetPlans/FiberLiteInternet
