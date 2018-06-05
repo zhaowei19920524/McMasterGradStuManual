@@ -127,9 +127,9 @@ McMaster常见学院专业及简称
   - Rehabilitation Science：SRS
 
     - Occupational Therapy：OT
-	- Physiotherapy：PT
-	- Speech-Language Pathology：SLP
-	- Rehabilitation Science：RS
+    - Physiotherapy：PT
+    - Speech-Language Pathology：SLP
+    - Rehabilitation Science：RS
   - Biomedical Engineering：BME
   - Chemical Biology：chembio
   - eHealth：eHealth
