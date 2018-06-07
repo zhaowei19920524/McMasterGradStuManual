@@ -44,6 +44,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
   - 17-CSE-曹博（仅限一至两人）
   - 17-ME-Kan Zhang
   - 17-ME-皇甫一欣
+  - 17-CAS-贾宏斌
   - 16-ECE-张璇
   - 16-CAS-姜同辉
   - 16-MBA-曹星
