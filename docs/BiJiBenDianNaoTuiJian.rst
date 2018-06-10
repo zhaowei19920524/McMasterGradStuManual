@@ -163,5 +163,35 @@ Bestbuy网页链接：https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?typ
 
 - 原因： 
 
-  - Business学院的服务器是windows server系统。你们的matlab SAS Excel作业如果想用学校的服务器完成，那必须在windows下。os x无法正常导入数据文件。 
+  - Business学院的服务器是windows server系统。matlab、SAS、Excel作业如果想用学校的服务器完成，那必须在windows下。macOS无法正常导入数据文件。 
   - math&science学院的服务器是Linux系统，在macOS里很难向服务器里导入数据文件。在windows下可以用Mobaxterm软件导入，并在服务器里跑程序。当然如果你想在自己电脑上安装matlab、SAS和R也行。不过那几个软件加起来足足要占用80G的硬盘空间。
+
+5. 购买预装Windows系统的电脑的同学请手动调中文字体，否则中文字体会发虚甚至乱码的情况。
+
+ | 第一步：在系统做下次的搜索栏里输入“Control Panel”，点击搜索结果。
+
+.. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_01.png
+   :align: center
+   :scale: 50%
+
+| 第二步：点击“Clock and Region”。
+
+.. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_02.png
+   :align: center
+
+| 第三步：点击“Region”。
+
+.. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_03.png
+   :align: center
+
+| 第四步：先选择“Administrator”选项卡，然后点击“Change system locale”按钮。
+
+.. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_04.png
+   :align: center
+   :scale: 50%
+
+| 第五步：在下拉列表中选择“Chinese (Simplified, China)”，然后重新启动计算机。
+
+.. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_05.png
+   :align: center
+   :scale: 50%
