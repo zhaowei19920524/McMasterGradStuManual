@@ -112,7 +112,7 @@ McMaster常见学院专业及简称
     - Mathematics：math
     - Statistics：stats
     - Master of Financial Mathematics：MFM或Phimac
-  - Physics & Astronomy：Astronomy
+  - Physics & Astronomy：Physics或Astronomy
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
 - Health Sciences
 
@@ -129,7 +129,6 @@ McMaster常见学院专业及简称
     - Occupational Therapy：OT
     - Physiotherapy：PT
     - Speech-Language Pathology：SLP
-    - Rehabilitation Science：RS
   - Biomedical Engineering：BME
   - Chemical Biology：chembio
   - eHealth：eHealth

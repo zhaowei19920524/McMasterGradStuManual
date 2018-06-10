@@ -19,20 +19,20 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 1. CENTRO @ Commons
 
-| 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
-| http://hospitality.mcmaster.ca/locations/centro.html
+ | 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
+ | http://hospitality.mcmaster.ca/locations/centro.html
 
 2. EAST MEETS WEST BISTRO
 
-| 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
-| http://hospitality.mcmaster.ca/locations/emw-bistro.html
+ | 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
+ | http://hospitality.mcmaster.ca/locations/emw-bistro.html
 
 3. The Phoenix
 
-| 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。
-| https://www.phoenixmcmaster.com/
-| 这个地方除了提供酒水饮料外，也提供较为全面的西餐。
-| 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
+ | 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。
+ | https://www.phoenixmcmaster.com/
+ | 这个地方除了提供酒水饮料外，也提供较为全面的西餐。
+ | 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
 
 4. Student Center一楼
 
@@ -49,13 +49,13 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 1. Freedom Plan（建议）
 
-| 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
-| 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
+ | 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
+ | 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
 
 2. Term Plan
 
-| 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
-| 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
+ | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
+ | 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
 
 申请Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
 
@@ -66,7 +66,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
 - 充值步骤：
 
-| 第一步：登录上面的网址。
+ | 第一步：登录上面的网址。
 
 .. image:: resource/CanTing/MealPlan_ChongZhi_01.png
    :align: center
@@ -275,8 +275,8 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 4. Tim Hortons
 
-| Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
-| http://www.timhortons.com/ca/en/index.php
+ | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
+ | http://www.timhortons.com/ca/en/index.php
 
 - 咖啡
 
