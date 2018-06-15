@@ -24,7 +24,6 @@ Canada主要超市
 
 .. image:: /resource/GouWu/nations_parking.jpg
    :align: center
-   :scale: 100%
 
 3. Fortinos
 
