@@ -94,7 +94,7 @@
 -------------------------------------------------
 1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
 
-| 以上三种保险都是由Sunlife承保，报销方法为
+ | 以上三种保险都是由Sunlife承保，报销方法为
 
 - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
@@ -104,10 +104,10 @@
 
 - 方法1：抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险。
 
-| Insurance Provider: Equitable Life of Canada
-| Policy #: 97528
-| Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
-| Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
+ | Insurance Provider: Equitable Life of Canada
+ | Policy #: 97528
+ | Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
+ | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
 
@@ -131,9 +131,9 @@
 ----------------------
 1. 使用“studentcare”手机App报销保险的方法
 
-| 第一步：下载App
-| iOS：https://itunes.apple.com/ca/app/studentcare-mobile/id1135984328?mt=8
-| Android：https://play.google.com/store/apps/details?id=aseq.mobile.studentcare
+ | 第一步：下载App
+ | iOS：https://itunes.apple.com/ca/app/studentcare-mobile/id1135984328?mt=8
+ | Android：https://play.google.com/store/apps/details?id=aseq.mobile.studentcare
 
 .. image:: /resource/Insurance/StudentCare_App_01.png
    :align: center
