@@ -30,6 +30,7 @@ UPS在Zone1里的地址是：1063 King St W, Hamilton, ON L8S 4S3
 - Hamilton营业点地址：270 Sherman Ave North, Unit M-108, Hamilton, ON, L8L 6N4。电话：(289)407-3628。微信：StoHamilton
 - Hamilton营业点Facebook：https://www.facebook.com/STO-Express-Hamilton-144304912890150/
 
-2) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
-3) 锦程快递：http://www.hr-ex.com/ch Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
-4) 丰泰国际快递：http://soonexpress.com/
+2) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
+3) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
+4) 锦程快递：http://www.hr-ex.com/ch Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
+5) 丰泰国际快递：http://soonexpress.com/
