@@ -54,6 +54,7 @@ PRESTO卡
 4. 使用PRESTO card
 
 - 只需要在位于公车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
+- Presto卡一次只能给一个人刷。如果需要多人付费乘坐公交车，其它人可以先买车票或使用现金。
 
 .. image:: /resource/bus/presto2.png
    :align: center
@@ -125,8 +126,8 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 
 6. 常见公交车
 
-| https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
-| 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
+ | https://www.hamilton.ca/hsr-bus-schedules-fares/schedule-routes-maps/pdf-bus-schedules
+ | 大家可以在上面的链接里找到具体某一路公交车的线路和计划的车次。
 
 - 5路：一共有9种5路车，我们平时经常能看到其中6种，他们大体路线基本一致，但在Zone1里行驶的路线略有区别：
 
