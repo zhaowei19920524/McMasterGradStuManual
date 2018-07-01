@@ -117,7 +117,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - Quik Chik：炸鸡、薯条
 
   - http://www.quikchik.ca/
-  - 1335 Main St W, Hamilton, ON L8S 1C6
+  - 1331 Main St W, Hamilton, ON L8S 1C6
   - (905)306-7861
   - 手机App：
 
@@ -394,6 +394,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - Beijing Hut（北京小屋）：点菜制
 
+  - https://plus.google.com/photos/photo/105671526178142822524/6536351373545148434
   - 1467 Main St W, Hamilton, ON L8S 1C9 
   - (905)521-8886 
 
@@ -429,6 +430,11 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1 Wilson St #7, Hamilton, ON L8R 1C4
   - (905)540-1166
 
+- Squares Hot Pot（九宫格）：自助火锅
+
+  - 80 James St. North
+  - (905)525-1488
+
 - Great Red Peppers（红海椒）：点菜制
 
   - 60 James St N, Hamilton, ON L8R 2K1
@@ -446,11 +452,6 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   -	16 Jarvis St, Hamilton, ON L8R 1M2 
   - (905)522-9888
   - 这家店的饮食已经不是它主要业务了，仅仅算是小吃。它主要运营KTV。
-
-- 喜临门酒楼：点菜制，外卖
-
-  - 80 James St. North
-  - (905)297-0228
 
 - Mr.Dumpling：点菜制，外卖
 

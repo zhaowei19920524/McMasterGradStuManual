@@ -231,7 +231,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - https://ca.megabus.com/
 - 乘坐MegaBus一定要在官网上预定，不能上车再买票，上车时给司机出示购票后的确认邮件。
 - MegaBus的起点在学校西边Mary Keyes Residence宿舍楼的西北角，车站是一个标有Coach Canada和MegaBus的站牌和座椅。大家第一次乘坐请提前去寻找位置。如果不确定自己是否上了正确的车，可以向司机确认是不是去Kitchener的MegaBus。
-- 终点在Kitchener市中心，还需要坐市内公交车去Waterloo或其它地方。Kitchener市内公交车不能使用Presto卡支付，付现金是$3.25（2017年），可以向司机索要Transfer。
+- 终点在Kitchener市中心，还需要坐市内公交车去Waterloo或其它地方，如果去Waterloo大学，可以坐7路或8路。Kitchener市内公交车是由GRT运营的（http://www.grt.ca/en/index.aspx），不能使用Presto卡支付，付现金是$3.25（2017年），可以向司机索要Transfer。
 
 4. VIA
 

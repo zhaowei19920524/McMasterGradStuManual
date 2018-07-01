@@ -41,9 +41,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 ---------------
 1) 在注册开始会出现一个“Voluntary First Nations”的问卷页面，大家随意选，不影响后面任何注册流程。 
 #) 上面6项，必须要都完成。其中1、2、3、5可以在网上完成，4、6只能来McMaster之后完成。 
-#) 2018 Fall - 2019 Summer学年的学历可以在 `这里`_ 找到。
 
 .. _gs.mcmaster.ca/academic-services/how-enroll: http://gs.mcmaster.ca/academic-services/how-enroll
-.. _这里: https://academiccalendars.romcmaster.ca/content.php?catoid=37&navoid=7560	
 .. _选课: XuanKe.html
 .. _conditional offer: conditional_offer.html
