@@ -168,7 +168,7 @@ Bestbuy网页链接：https://www.bestbuy.ca/en-CA/Search/SearchResults.aspx?typ
 
 5. 购买预装Windows系统的电脑的同学请手动调中文字体，否则中文字体会发虚甚至乱码的情况。
 
- | 第一步：在系统做下次的搜索栏里输入“Control Panel”，点击搜索结果。
+ | 第一步：在系统左下角的搜索栏里输入“Control Panel”，点击搜索结果。
 
 .. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_01.png
    :align: center
