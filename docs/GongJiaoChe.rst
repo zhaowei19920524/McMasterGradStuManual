@@ -97,10 +97,9 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 2. 费用（2017年）
 
 - 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了200多刀的公交车费，所以乘坐时不需要付费。
-- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.3
+- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.3。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
 - 现金：$3
 - 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
-- Transfers and Connections：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/transfers-and-connections 。
 
 3. 车站
 
@@ -117,7 +116,7 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 5. 乘坐方法：
 
 - 第一步：查好上车时间、找到HSR车站，等待公交车到来。强烈建议大家查好时间再等车。一般提前5~10分钟去车站等车即可。因为晚上和周末公交车通常半小时一班，并且冬天室外可能零下一二十度。在这种情况下，长时间在车站等车会让人非常心急。
-- 第二步：上车刷Presto卡或付现金。如果刷带有U-Pass的Presto卡，则不会从卡里扣钱；刷自己办理的Presto卡则会扣钱，但Presto付费系统会自动记录刷卡记录，两个小时内乘坐HSR任意一路汽车，再次刷卡时不扣钱。如果付现金，请准备好硬币，付费时不设找零，不能使用信用卡，并向司机索要transfer，这样可以2个小时里免费乘坐HSR任意一路公交车。
+- 第二步：上车刷Presto卡或付现金。如果刷带有U-Pass的Presto卡，则不会从卡里扣钱；刷自己办理的Presto卡则会扣钱，但Presto付费系统会自动记录刷卡记录，两个小时内乘坐HSR任意一路汽车，再次刷卡时不扣钱。如果付现金，请准备好硬币，付费时不设找零，不能使用信用卡，并向司机索要transfer，这样可以2个小时里免费乘坐HSR任意一路公交车（https://www.hamilton.ca/hsr-bus-schedules-fares/fares/transfers-and-connections）。
 - 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法是：按一下车里黄色柱子上的红色的按钮，或拉一下窗户上的黄色的绳子。不可以直接对司机说话。
 - 第四步：感谢司机。走出车门的时候需要礼貌的对司机说“Thank you”。
 
