@@ -150,7 +150,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 ---------------------------------
 1. 租房通常要交定金，定金绝大多数情况下是最后一个月的房租（https://www.ontario.ca/laws/statute/06r17#BK161）。一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚再决定。否则后悔就来不及了。 
 2. 房东没有义务为任何人留房间。除非你已经交了定金。否则房东依然会把房间给其他人。 
-3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。如果和房东商量终止，最好有终止的协议（Form N11）。 http://www.sjto.gov.on.ca/documents/ltb/Other%20Forms/N11.pdf
+3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。极少情况下房东允许租客提前离开（http://www.sjto.gov.on.ca/documents/ltb/Brochures/How%20a%20Tenant%20Can%20End%20Their%20Tenancy%20(EN).html）。如果和房东商量终止，最好有终止的协议（Form N11）。 http://www.sjto.gov.on.ca/documents/ltb/Other%20Forms/N11.pdf
 4. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
 
   A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
