@@ -1,6 +1,6 @@
 ﻿公交车
 ============================
-Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要交通工具，绝大多数研究生的杂费中包含了每年$200左右的Bus费，这样在市内坐车时就不再需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
+Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要交通工具，绝大多数研究生的杂费中包含了每年$250左右的公交车费，这样在市内坐车时就不再需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
 
 PRESTO卡
 -------------------------------
@@ -203,7 +203,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 6. 常见Go Bus
 
 - 16路（Hamilton/Toronto Express Bus）：往返于Hamilton和多伦多的直达快速长途汽车。此外，还有18路（Lakeshore West）的路线类似，只不过中途在每个城市都要停，大概要停十几站。
-- 47路：往返于Hamilton和密西沙加。
+- 47路：往返于Hamilton和密西沙加市中心（Square One Shopping Centre）。
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
 - 12路：从Stoney Creek上车可以到尼亚加拉瀑布。
 

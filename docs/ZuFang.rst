@@ -133,7 +133,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   A. 让房东多发些图片。 
   B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
   C. 接手马上要毕业学长学姐房子，这样最稳妥。
-  D. 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间。但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间。
+  D. 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间。但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间，租客没有选择房间的权利。
 
 租房流程
 -------------------
@@ -188,7 +188,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-07-02.xlsx>` 从Google地图里导出的数据，2018年7月2日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-07-12.xlsx>` 从Google地图里导出的数据，2018年7月12日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
