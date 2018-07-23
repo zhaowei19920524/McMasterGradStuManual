@@ -69,9 +69,18 @@ G类驾照
 #) 国内驾照来Canada可以开3个月的车，但是要有相应的驾照翻译件（见附1）。3个月的时间是从第一次落地Canada算起。如果考了G1就不能再使用了，因此G1结束考G2的时候就不能自己驾车。https://www.ontario.ca/page/drive-ontario-visitors
 #) 国内驾龄满两年，并且携带国内车管所开具的无事故证明（或无违章记录证明）和驾照翻译件（见附1），则可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
 #) 国内驾龄满两年，但是未携带国内车管所开具的无事故证明（或无违章记录证明），则从G2开始考起。
-#) 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。https://drivetest.ca/licences/drivers-licences-cars.html
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处在50 Dundurn St S, Hamilton, ON L8P 4W3。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
 #) 其它省份的驾照来到Ontario省的处理方法：https://www.ontario.ca/page/exchange-out-province-drivers-licence
+
+驾校
+----------------------------------------------
+| 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学，大概$40/小时。https://drivetest.ca/tests/resources/beginner-driver-education.html
+| 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。当然如果不急着考G2，并且出于省钱考虑，也可以不参加驾校的理论课学习，不拿全科证书。https://drivetest.ca/licences/drivers-licences-cars.html
+| 大家在参加驾校的时候一定要在省政府官网上看看是不是被认可的驾校：http://www.mto.gov.on.ca/english/driver/driving-schools.shtml
+| 此外，大家也可以直接和驾校的华人教练联系来准备G2 Road Test和G Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。
+
+- 董教练：(289)237-9486
+- 林教练：(905)525-2288（Office），(905)923-0038（Cell）
 
 国际驾照
 --------------------------------------------------------------------------------------
@@ -116,6 +125,16 @@ G类驾照
     - “Second Driver“：由于租车行规定只能租车的那个人开这个车。其它人不得驾驶（出事故后，在租车行买的保险不赔偿）。如果需要开车去比较远的地方，需要有人轮流驾驶，则需要付费加上”Second Driver“。
     - 提前取车：如果比预定的时间早提车，则也需要额外付费。费用是浮动的。
   - 税：前面几项费用之和的13%。
+- 其它计费政策
+
+  - 一般以24小时为一个周期，超过的部分按一整天算。例如：从第一天中午12点，到第二天下午1点，一共25个小时。但实际的费用与租2天（48小时）的费用是一样的。
+  - 即使是同一家公司，不同的取车地点，价格可能差得非常多。例如：Enterprise在downtown有一个取车点，在山上的Rymal还有一个取车点，同样一款车，在山上取车时，租到的价格可能会比downtown便宜一半。大家租的时候一定要多查一查。
+  - 用Costco的会员在Enterprise和Avis两大租车公司租车，在基本价格的基础上可能还会有一些折扣。https://www.costcotravel.com/ 。此外可以免费加Second Driver。
+  - 通常周末比工作日便宜。
+  - 提前还车
+
+    - https://www.enterprise.ca/en/help/faqs/early-return.html
+    - 如果提前还车，大部分租车公司是可以退回剩下若干天的租车费用的，但是如果遇到节假日，租车行不开门，则会一直计费到下一个工作日。如果在租车行下班时间还车，可以把车钥匙放在租车行门口的“Key Drop”的信箱里。
 
 3. 租车流程
 
@@ -128,43 +147,24 @@ G类驾照
 
   - 在还车的前务必把油量加到取车时候的高度，否则会额外交罚金。
 
-注：
-
-1. 下面是几种有关车的保险（这里参考Enterprise公司提供的保险：https://www.enterprise.com/en/help/faqs/car-rental-insurance-canada.html ）
+4. 保险（这里参考Enterprise公司提供的保险：https://www.enterprise.com/en/help/faqs/car-rental-insurance-canada.html ）
 
 - damage waiver（DW）：这个保险强烈建议大家购买，它是租车公司提供给客户的车辆意外损坏保险。意思是如果发生意外了，造成了车辆的损坏，只要买了这个保险，租车的人就不需要承担任何维修所租车辆的费用。如果没有买，则需要租车的人自己掏钱修车。如果大家在其它地方购买了可以赔付修车的保险，则不需要买它。通常大家的信用卡里也会有该类保险，不过还是建议大家买租车公司的，因为这样把车撞坏可以直接扔给租车公司，如果用自己的保险，可能流程比较繁琐。
-- Personal Accident Insurance（PAI）& Personal Effects Coverage（PEC）：主要赔付出事故时，自己受伤的医药费等等。这个可能和UHIP等等类似，可以不买。
+- Personal Accident Insurance（PAI）& Personal Effects Coverage（PEC）：主要赔付出事故时，自己受伤的医药费等等。这个可能和UHIP等保险类似，可以不买。
 - Roadside Assistance Protection（RAP）：这个主要负责车钥匙丢失、钥匙锁在车里面、半路没油等等的事故。大家如果对自己比较有信心，可以不买。
 - Liability：可以理解为国内的“交强险”。主要负责赔付发生事故时，对第三方财产的损坏，比如撞到他人、其它车辆或物品。这个通常赔付数额巨大，Canada的租车行一般都至少给自己的车买了20W加元额度的保险，不需要顾客再买。（注意同一家公司在Canada和美国的政策可能不同，比如Enterprise在Canada是预先给车买了liability，而在美国可能需要顾客自己额外购买。）
 - 自己买的UHIP、Health Insurance Plan等等。这个主要是出事故时，自己受伤了，需要用自己买的健康保险来付自己的医药费。
 
-2. 租车价格
 
-- 一般以24小时为一个周期，超过的部分按一整天算。例如：从第一天中午12点，到第二天下午1点，一共25个小时。但实际的费用与租2天（48小时）的费用是一样的。
-- 即使是同一家公司，不同的取车地点，价格可能差得非常多。例如：Enterprise在downtown有一个取车点，在山上的Rymal还有一个取车点，同样一款车，在山上取车时，租到的价格可能会比downtown便宜一半。大家租的时候一定要多查一查。
-- 用Costco的会员在Enterprise和Avis两大租车公司租车，在基本价格的基础上可能还会有一些折扣。https://www.costcotravel.com/ 。此外可以免费加Second Driver。
-- 通常周末比工作日便宜。
-
-3. 接送
+5. 接送
 
 - https://www.enterprise.ca/en/help/faqs/pick-up.html
 - 通常租车公司提供免费的接送的服务。机场除外。
 - 就是租车前开车把你从住处接到租车行，或者还车后开车把你从租车行送到住处。
 
-4. 提前还车
-
-- https://www.enterprise.ca/en/help/faqs/early-return.html
-- 如果提前还车，大部分租车公司是可以退回剩下若干天的租车费用的，但是如果遇到节假日，租车行不开门，则会一直计费到下一个工作日。如果在租车行下班时间还车，可以把车钥匙放在租车行门口的“Key Drop”的信箱里。
-
 附
 ---------------------
 1. 驾照翻译
 
-- 国内的驾照不能自己翻译，必须联系认证翻译师。
+- 国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师。
 - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
-
-2. 驾校教练
-
-- 大家可以联系以下驾校的华人教练来准备G2 Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。练车方式都是一对一教学，大概$40/小时。
-- 董教练：(289)237-9486
-- 林教练：(905)525-2288（Office），(905)923-0038（Cell）
