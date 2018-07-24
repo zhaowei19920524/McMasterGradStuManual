@@ -12,7 +12,7 @@
 ---------------------------------------
 1. 方法一：在手机上登录mosaic
 
-| 第一步：登陆mosaic之后，在右上角点击三个横线的图标
+| 第一步：登陆mosaic之后，在右上角点击三个横线的图标，再点"NavBar"。
 
 .. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_1.png
    :align: center

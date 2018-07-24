@@ -1,13 +1,13 @@
 ﻿选课
 ================
-一、学期代码
+学期代码
 -----------------------------------
 选课时，会有学期代码。以下是各代码所代表的学期：
 
 .. image:: /resource/term_number.jpg
    :align: center
  
-二、SGS 101 201 德育课程
+SGS 101 201 德育课程
 ------------------------------------------------------
 SGS 101 和 SGS 201 是2门所有研究生都要学习的online课程，如果不在这个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成，网址如下：http://avenue.mcmaster.ca/。 
 
@@ -17,20 +17,20 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
 
 两门课程的考试顺利通过后，可以在Mosaic上查询课程结果。以下是查询窗口：
 
-.. image:: /resource/SGS/SGS_01.png
+.. image:: /resource/XuanKe/SGS_01.png
    :align: center
 
-.. image:: /resource/SGS/SGS_02.png
+.. image:: /resource/XuanKe/SGS_02.png
    :align: center
 
-.. image:: /resource/SGS/SGS_03.png
+.. image:: /resource/XuanKe/SGS_03.png
    :align: center
 
 看到两门课程最后都有绿色的钩后即为通过。
 
 这两门课如果最终考试没通过，不但要计入挂科总数里，也会影响term 2的选课。
 
-三、academically accredited course OR a placeholder course
+academically accredited course OR a placeholder course
 --------------------------------------------------------------------------------------------------------
 .. note::
    
@@ -38,22 +38,64 @@ SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同
    | Also if you are on a leave you will also need to register.
    | ——Cheryl（ECE小秘）
 
-这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。此外，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://www.mcmaster.ca/bms/student/SAC_fees_grad.html）。占位课没有学分，不需要上课，也不会有成绩。下面是方法：
+这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。此外，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://www.mcmaster.ca/bms/student/SAC_fees_grad.html）。占位课没有学分，不需要上课，也不会有成绩。选课的图文教程如下：
 
-1. Go to enroll
+第一步：登录mosaic，进入student center。在“Academics”下面点击“Enroll”。
 
-| Add - select term - search course (if not taking a course place marker as was in your letter that you received from SGS for SGS 700 for full-time and 701 for part-time)
-| The SGS 701 course no longer exits. SGS 700 now acts as a placeholder for both full-time and part-time students.
-| Pick plan - click on shopping cart - then select term again
+.. image:: /resource/XuanKe/Search01.png
+   :align: center
 
-2. Click on search 
+第二步：选择需要选课的学期，点“Continue”。
 
-| If you are picking SGS course please click on "S".
-| After choosing course # "is exactly" after type in right hand box type 700 (what you are taking)
-| Course Carrier should be graduate.
-| After searching Select class
+.. image:: /resource/XuanKe/Search02.png
+   :align: center
 
-四、科普与技巧
+第三步：点“search”。
+
+.. image:: /resource/XuanKe/Search03.png
+   :align: center
+
+第四步：点“select subject”。
+
+.. image:: /resource/XuanKe/Search04.png
+   :align: center
+
+第五步：（这里拿SGS700举例，选其它课程同理）先选“S”，点击SGS上面的“select”。
+
+.. image:: /resource/XuanKe/Search05.png
+   :align: center
+
+第六步：在"Course Number"后面填700。再点”Search“。
+
+.. image:: /resource/XuanKe/Search06.png
+   :align: center
+
+第七步：找到课程后点”select class“。
+
+.. image:: /resource/XuanKe/Search07.png
+   :align: center
+
+第八步：点”Next“。
+
+.. image:: /resource/XuanKe/Search08.png
+   :align: center
+
+第九步：点”Proceed To Step 2 of 3“。
+
+.. image:: /resource/XuanKe/Search09.png
+   :align: center
+
+第十步：点”Finish Enrolling“。
+
+.. image:: /resource/XuanKe/Search10.png
+   :align: center
+
+第十一步：选课成功，可以在“My Class Schedule”里查看课程表。
+
+.. image:: /resource/XuanKe/Search11.png
+   :align: center
+
+科普与技巧
 ----------------------------------------------------------
 1. Masc和Phd选课需要和导师商量，不能自己决定。Meng可以根据自己的喜好选课。business根据项目要求选相应的课程。 
 2. 大家尽量选7开头的课，尽量不要选6开头的课。因为6开头的课是研究生选本科生的课，虽然6开头的课比较有实用价值，但是本科生的课对研究生要求较高，很容易挂科。即使不挂科，分也很低。 
