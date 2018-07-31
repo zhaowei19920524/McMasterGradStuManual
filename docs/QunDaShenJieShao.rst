@@ -18,7 +18,7 @@
 | ☆13-MFin-Daisy Ding：McMaster第一届Mfin学生，现已毕业，在Hamilton的Scotiabank任Senior Financial Advisor。
 | ☆14-MED-高雯淼：W booth学院Master。曾经是本群有名话唠。善于解决出国省钱的相关问题。现已毕业。
 | ☆14-MBA-Sharon Zhang：曾经是本群有名话唠。烧钱小能手，化妆品专家。现已毕业。
-| ★14-HRM-亚平：Health Science Ph.D.。本群为数不多的医学院博士，大家有小病小样可以联系她寻求帮助。若对基督教会感兴趣，也可以联系此人。
+| ★14-Health Research Method-常亚平：Health Science Ph.D.。本群为数不多的医学院博士，大家有小病小样可以联系她寻求帮助。若对基督教会感兴趣，也可以联系此人。
 | ★15-ECE-Huawei Zhu：ECE PhD。北大毕业来McMaster读博士的才女。虽然在ECE学院，但对经济学颇有了解。她也是GGWC社团的创始人和主席。
 | ★15-MED-周光宇：W booth学院Master。周光宇学长在Canada生活多年，对有关车辆的问题了如指掌，例如：驾照、租车、买车、相关政策等等。大家如果有问题，可以写在群里，然后at他。
 | ☆16-MBA-Molly(Yimo Yuan)：美签经验分享。
