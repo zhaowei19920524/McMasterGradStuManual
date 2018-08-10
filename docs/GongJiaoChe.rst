@@ -205,7 +205,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 16路（Hamilton/Toronto Express Bus）：往返于Hamilton和多伦多的直达快速长途汽车。此外，还有18路（Lakeshore West）的路线类似，只不过中途在每个城市都要停，大概要停十几站。
 - 47路：往返于Hamilton和密西沙加市中心（Square One Shopping Centre）。
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
-- 12路：从Stoney Creek上车可以到尼亚加拉瀑布。
+- 12路：先坐HSR 12路到BARTON at NASH，然后在Nash Rd. @ Barton St. Park & Ride坐Go Bus 12路到尼亚加拉瀑布，中间在Outlet Collection at Niagara停，大家也可以顺便去那里买衣服鞋帽。
 
 其它公交系统
 ------------------------------------
