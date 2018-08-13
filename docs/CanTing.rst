@@ -611,6 +611,12 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 135 King St E., Hamilton, ON L8N 1B2
   - (905)521-2227
   - 可以使用现金、debit卡、信用卡。
+- Kenzo Ramen：点菜制
+	
+	- http://www.kenzoramen.ca/g5/
+	- 21 King St W, Hamilton, ON L8P 1B5
+	- (905)577-6666
+	- 这是一家日式拉面馆。
 
 经验之谈
 -----------------------------------
