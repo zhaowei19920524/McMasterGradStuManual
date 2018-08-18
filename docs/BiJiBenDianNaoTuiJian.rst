@@ -90,6 +90,7 @@
   - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
 
 - 正在打折的电脑汇总：https://www3.lenovo.com/ca/en/promotions/consumer-deals/
+- 优惠码Coupon：https://www.offers.com/lenovo-canada/?path=zof-266581-gls-100h1a&adposition=1t2&creative=278722326685&device=c&network=g&source=s
 
 2. Dell
 

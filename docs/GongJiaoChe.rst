@@ -74,7 +74,7 @@ PRESTO卡
 - 方法3：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
 - 方法4：（仅限Go Bus）上车充钱。就是准备好现金，上车的时候把现金给司机，然后司机帮你充钱。这种方法不适用于HSR公交系统。并且最好不要在起点站用这种方法，司机会觉得你在耽误时间。
 
-更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2017/07/hsr-bus-pass-faq-final-aug-2017.pdf
+更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2018/08/hsr-bus-pass-faq-aug-2018.pdf 和 https://gsamcmaster.org/hsr/
 
 注：
 
@@ -206,6 +206,14 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 47路：往返于Hamilton和密西沙加市中心（Square One Shopping Centre）。
 - 40路：往返于Hamilton和Pearson机场。注：由于Pearson机场不是终点站，大家在Pearson机场乘坐40路的时候，一定要看清楚去往的方向，去Hamilton一定是Hamilton Go Center。
 - 12路：先坐HSR 12路到BARTON at NASH，然后在Nash Rd. @ Barton St. Park & Ride坐Go Bus 12路到尼亚加拉瀑布，中间在Outlet Collection at Niagara停，大家也可以顺便去那里买衣服鞋帽。
+
+7. 常见Go Train
+
+- 18路（Lakeshore West）：这趟火车应该是大家最有可能乘坐的火车了。它往返于多伦多和Hamilton之间，路线和Go Bus 18路基本重合。但不是一天24小时都有。车票价格和Go Bus相同。乘坐地点只能去Toronto Union Station和Hamilton Go Center。
+
+  - 时刻表：https://www.gotransit.com/static_files/gotransit/assets/pdf/TripPlanning/FullSchedules/Table01.pdf
+  - 工作日去多伦多只有早上05:48、06:18、06:48、07:18四趟；回Hamilton只有傍晚16:30、17:00、17:30、18:00四趟。周末没有Go Train往返这两个城市。
+  - 多伦多和Hamilton之间的整个行程一共1小时15分钟。如果Go Bus 16路在403高速上不堵车，那么Go Train 18路还没有Go Bus 16路快。但工作日的下班点403高速会非常堵，坐Go Bus可能一个半小时都不一定能到，所以这个时间坐Go Train 18路返回Hamilton是一个非常不错的选择。
 
 其它公交系统
 ------------------------------------
