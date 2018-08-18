@@ -63,7 +63,6 @@ Welcome to McMaster University!
    campusDiTu
    TiYuGuan
    TuShuGuan
-   GGWC
    McMasterZaiDuZhengMing
    McMasterChengJiDan
    ExtendStudyPermitVisa
