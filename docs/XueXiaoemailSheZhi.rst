@@ -36,7 +36,8 @@
    :align: center
    :scale: 50%
 
-以上截图感谢17-PH-朱莹提供
+| 以上截图感谢17-PH-朱莹提供
+| 在激活的的时候显示的邮箱是@studentmail.os.mcmaster.ca，但实际在用的时候请把后缀写成@mcmaster.ca。https://www.mcmaster.ca/uts/selfservice/student_email.html
 
 学校写的指导教程：http://www.mcmaster.ca/uts/macid/
 
@@ -62,7 +63,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
  | Incoming port 993 
  | Outgoing port 465 
  | Outgoing server to require authentication using the same credentials as the incoming server. 
- | 具体看这里： http://mcmaster.ca/uts/gmailforstudents/imapsetup.html 
+ | 具体看这里： https://www.mcmaster.ca/uts/selfservice/documents/Studentmail_Outlook_%202016.pdf
 
 - 方法二（建议）
 
@@ -70,8 +71,10 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 2. Post doc、访问学者、联培学生和学校教职工
 
- | iPhone - http://macmailhelp.mcmaster.ca/docs/default-source/default-document-library/uts-documents/macmail---how-to-configure-iphone.pdf?sfvrsn=2
- | Android - http://macmailhelp.mcmaster.ca/docs/default-source/default-document-library/uts-documents/macmail---how-to-configure-android.pdf?sfvrsn=2 
+ | Outlook客户端：https://macmailhelp.mcmaster.ca/docs/default-source/default-document-library/how-to-configure-outlook2016.pdf?sfvrsn=2
+ | iPhone： http://macmailhelp.mcmaster.ca/docs/default-source/default-document-library/uts-documents/macmail---how-to-configure-iphone.pdf?sfvrsn=2
+ | Android: http://macmailhelp.mcmaster.ca/docs/default-source/default-document-library/uts-documents/macmail---how-to-configure-android.pdf?sfvrsn=2 
+ | 更多：https://macmailhelp.mcmaster.ca/MacMail/help
 
 如果有其它原因导致Email收发不成功，请联系学校UTS，http://www.mcmaster.ca/uts/
 

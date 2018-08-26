@@ -24,7 +24,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
 4. For conditional offers, the required documents must be sent to your department prior to September 30th.
 
- | 清condition。大家可以在自己的mosaic里看到自己需要提交哪些材料。也可以查看 `conditional offer`_ 。 
+ | 清condition。大家可以在自己的mosaic里看到自己需要提交哪些材料。对于大多数同学来说，需要把最终成绩单、毕业证明、学位证明交到本学院小秘办公室。也可以查看 `conditional offer`_ 。 
 
 5. Incoming students only upload your photo for your ID card. 
 
@@ -32,7 +32,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 
- | 最终成绩单、毕业证明、学位证明交到本学院小秘办公室。study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上，conditional offer的图标会变成final offer。
+ | study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上，conditional offer的图标会变成final offer。
 
 Please find detailed enrolment instructions at: `gs.mcmaster.ca/academic-services/how-enroll`_ (site will be active from July 22, 2016 onwards). 
 

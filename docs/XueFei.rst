@@ -5,20 +5,20 @@
 
 学校Financial Service网站
 -----------------------------------------------------------------
-- 付学费的方法见学校Financial Service网站 
-
-  - http://student-accounts.mcmaster.ca/payments/payment-methods/
 - 各program的学费可以查这里
 
   - http://student-accounts.mcmaster.ca/tuition-fees/undergraduate/graduate/
   - 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样，大家的offer上依然写的是未降之前的费用，具体数额需要等八九月份通知。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
-- 对于2018 Fall入学的新生，付学费截止日期是9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75滞纳金并开始收利息。 
+- 对于2018 Fall入学的新生，付学费截止日期是9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75滞纳金并开始收利息。
+
   - http://student-accounts.mcmaster.ca/payments/important-dates-deadlines/
 
 付学费的方法
 -------------------------------------------
 .. attention::
    **无论使用哪种方法，付费时注意注明你自己的学号和姓名，不然很可能替别人付学费**
+
+付学费的方法见学校Financial Service网站：http://student-accounts.mcmaster.ca/payments/payment-methods/
 
 1) （ **优先考虑** ）加拿大银行间转账：这个方法最简单方便而且免费。如果你有加拿大银行账户，可以自己在网上转账，或打电话给银行转账，也可去银行亲自办理。 步骤是从你的银行账户转钱到学校付你的学费。可登陆你的网上银行，在Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
 2) 国际转账：如果大家实在来不及办这边的银行卡再转账交学费，可以通过Western Union直接从国内的银行电汇到McMaster。
