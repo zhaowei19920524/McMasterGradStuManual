@@ -164,7 +164,7 @@ G类驾照
 
 附
 ---------------------
-1. 驾照翻译
-
-- 国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师。
-- http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
+1. 驾照翻译：国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师。例如以下学长学姐曾经使用过得翻译机构：
+  
+  - https://www.51.ca/service/showitem.php?itemid=144943
+  - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm

@@ -588,35 +588,40 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1 Wilson St #12, Hamilton, ON L8R 1C4
   - (905)524-3838
   - 可以使用现金、debit卡、信用卡。
+
 - Joya Sushi：点菜制
 
   - http://joyasushi.ca/
   - 1630 Main St W, Hamilton, ON L8S 1G3
   - (905)525-1114
   - 可以使用现金、debit卡、信用卡。
+
 - Sapporo Restaurant（札幌）：自助
 
   - http://sapporo-hamilton.com/
   - 96 Main St E, Hamilton, ON L8N 1G3
   - (905)527-1668
+
 - HOTARU SUSHI：自助
 
   - https://www.hotarusushi.ca/
   - 1686 Main St W, Hamilton, ON L8S 0A2
   - (905)527-5272
   - 可以使用现金、debit卡、信用卡。
+
 - Tatemono Sushi Bar & Restaurant：自助
 
   - http://www.tatemono.ca/
   - 135 King St E., Hamilton, ON L8N 1B2
   - (905)521-2227
   - 可以使用现金、debit卡、信用卡。
+
 - Kenzo Ramen：点菜制
 	
-	- http://www.kenzoramen.ca/g5/
-	- 21 King St W, Hamilton, ON L8P 1B5
-	- (905)577-6666
-	- 这是一家日式拉面馆。
+  - http://www.kenzoramen.ca/g5/
+  - 21 King St W, Hamilton, ON L8P 1B5
+  - (905)577-6666
+  - 这是一家日式拉面馆。
 
 经验之谈
 -----------------------------------
