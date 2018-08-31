@@ -88,7 +88,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 - 查看余额：登录后点击FINANCIAL->BALANCES。
 
-学校周边的西餐
+McMaster周边的西餐
 -----------------------------------------
 1. 学校南门对面：
 
@@ -328,7 +328,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 大家下载Tim Hortons的App后可以使用Groupon App对Tim Hortons的账户充值。
   - Groupon里有Tim Hortons 5折优惠券。比如购买$5的优惠券后，可以给自己Tim Hortons增加$10的余额。付款的时候直接刷App就可以了。
 
-其它地方的西餐
+Hamilton其它地方的西餐
 ---------------------------------------------
 1. 市中心（downtown）
 
@@ -368,7 +368,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 1170 Upper James St, Hamilton, ON L9C 3B1
   - (905)574-7880
 
-中餐馆
+Hamilton 中餐馆
 ----------------------------------
 1. 学校周边（Zone 1）：
 
@@ -434,6 +434,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
   - 80 James St. North
   - (905)525-1488
+  - 价格：周一~周四：午餐$21.99，晚餐$23.99；周五~周日：午餐$26.99，晚餐$28.99。锅底另付：清汤：$7.99，鸳鸯：$8.99，九宫格：$9.99
 
 - Great Red Peppers（红海椒）：点菜制
 
@@ -504,7 +505,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 
 4. 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
-中式甜点
+Hamilton 中式甜点
 -----------------------------------------
 - CoCo Fresh Tea & Juice（Coco奶茶）
 
@@ -517,7 +518,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - 65 King St E, Hamilton, ON L8N 1A5
   - (905)527-9699
 
-越南米粉
+Hamilton 越南米粉
 ------------------------------------
 - Saigon
 
@@ -546,7 +547,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)528-6888
   - 可以使用现金、debit卡、信用卡。
 
-韩餐
+Hamilton 韩餐
 -------------------
 - ALIRANG（阿里郎）
 
@@ -580,7 +581,7 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)383-6868
   - 可以使用现金、debit卡、信用卡。
 
-日料
+Hamilton 日料
 --------------------------
 - August 8：自助
 
@@ -623,6 +624,82 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
   - (905)577-6666
   - 这是一家日式拉面馆。
 
+其它城市的特色餐厅
+------------------------------------------------
+Toronto：
+
+- Litter Sheep Mongolian Hot Pot（小肥羊）：自助火锅
+
+  - https://www.littlesheephotpot.com/location/toronto-downtown-on
+  - 421 Dundas St W, Toronto, ON M5T 2W4
+  - (416)792-8885
+  - 可以用微信或者支付宝支付。
+
+- Morals Village Hot Pot（德庄）：自助火锅
+
+  - http://cqdz.ca/zh/home-5/
+  - 436 Dundas Street West, Toronto, ON, M5T 1G7
+  - (647)352-7588
+
+- Crown Price Fine Dining and Banquet（紫京盛宴）：粤菜、早茶
+
+  - http://www.crown-prince.ca/english/index.asp
+  - 3600 Victoria Park Ave, North York, ON M2H 3B2
+  - (416)490-8893
+
+Mississauga：
+
+- Litter Sheep Mongolian Hot Pot（小肥羊）：自助火锅
+
+  - https://www.littlesheephotpot.com/location/mississauga-on
+  - 1100 Burnhamthorpe Rd W #17, Mississauga, ON L5C 4E9
+  - (905)232-7775
+  - 可以用微信或者支付宝支付。
+
+- Morals Village Hot Pot（德庄）：自助火锅
+
+  - http://cqdz.ca/zh/home-5/
+  - Unit 2, 1177 Central Pkwy W, Mississauga, ON L5C 4P3
+  - (905)276-6768
+
+- Bashu Sichuan Cuisine（巴蜀人家）
+
+  - http://bashuonline.com/index.htm
+  - 4559 Hurontario Street #7, Mississauga, ON L4Z 3X3
+  - (905)568-9988
+  - 非常地道的川菜，很辣，但是很好吃。
+
+- Red Lotus Restaurant（满江红）：川菜
+
+  - 1177 Central Pkwy W, Mississauga, ON L5C 4P3
+  - (905)896-8828
+
+- Foodie North（北食客）：鲁菜以及北方菜
+
+  - http://foodienorth.com/
+  - 325 Central Pkwy W #2&4, Mississauga, ON L5B 3X9
+  - (905)277-8989
+  - 推荐鱼头泡饼，北京烤鸭
+
+- Silk Road Restaurant（丝绸之路）：西北菜
+
+  - http://www.thesilkroad.ca/
+  - 1852 Dundas St E, Mississauga, ON L4X 1L9
+  - (905)279-9444
+  - 推荐大盘鸡、烤羊肉串儿等。
+
+- Emerald Chinese Restaurant（康翠酒楼）：广式早茶
+
+  - http://www.emeraldchineserestaurant.com/
+  - 30 Eglinton Ave W, Mississauga, ON L5R 3E7
+  - (905)890-9338
+
+- Long Zu BBQ（龙族烧烤）
+
+  - 888 Dundas Street East A2, Mississauga, ON L4Y 4G6
+  - (905)803-9333
+
+
 经验之谈
 -----------------------------------
 - 强烈建议大家自己做饭，原因主要有：校内外的餐厅和甜点店主要以西餐为主，一般从中国来的学生吃不惯，量少且贵。
@@ -636,3 +713,8 @@ http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 #) 对于所有的自助餐餐馆，通常情况下，晚上的价格比中午要贵一些，周末的价格比工作日的价格要贵一些。所以工作日的中午价格最便宜，周末的晚上价格最高。大家去之前一定要在官网上查清楚，或打电话询问。
 #) 去亚洲餐馆吃饭，尤其是中餐馆或越南餐馆，请打电话或向其它同学询问是否可以刷卡。绝大多数亚洲餐馆都只能付现金，如果使用debit卡通常会多出几十分。少数亚洲餐馆可以刷信用卡。大家问清楚再去，以便事先准备好现金。
 #) 去餐馆吃饭，最好先打电话预约一下座位。尤其是饭点的时候或集体聚餐。
+
+.. admonition:: 本页作者
+   
+   - 17-CAS-赵伟
+   - 14-BME-Yushan Zhang

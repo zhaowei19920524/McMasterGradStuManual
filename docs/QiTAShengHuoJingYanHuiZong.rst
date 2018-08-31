@@ -126,7 +126,7 @@
   - http://www.firstchoice.com/
   - 成人单剪$19.75。
 
-2. 华人开的理发店（费用基本和西人洗发店差不多，可能会便宜几加元）
+2. 华人开的理发店（费用基本和西人理发店差不多，可能会便宜几加元）
 
   - Olivia Hair Salon：93 James St N, Hamilton, ON L8R 2K6
   - Amy's Hair & Nails（发艺轩）：76 James St N, Hamilton, ON L8R 2K5

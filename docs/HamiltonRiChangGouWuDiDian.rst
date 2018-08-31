@@ -133,7 +133,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 - Prime Student会员：https://www.amazon.ca/gp/help/customer/display.html/?nodeId=201552870 。
 
   - 对于标有prime的商品可以享受2-day free shipping，年费$39，可以先免费试用半年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）。
-  - 部分标有prime的商品可以享受更高级的1-day free shipping。但注意必须一次性购买的商品必须不低于$25，否则依然会收运费。
+  - 部分标有prime的商品可以享受更高级的1-day free shipping。但注意一次性购买的商品必须不低于$25，否则依然会收运费。
 - Amazon的退货政策也比较好，买了之后如果不满意，通常可以原价退货。但频繁退货会收罚金。
 - 手机App
 

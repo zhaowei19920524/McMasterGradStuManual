@@ -7,8 +7,8 @@
 - 处理器：Intel Core i5及其以上
 - 屏幕大小：①笔记本：13~15寸。②台式机：21寸及其以上
 - 屏幕分辨率：1920×1080及其以上
-- RAM（内存）：笔记本电脑：8GB及其以上。平板电脑：4GB及其以上
-- 硬盘：256GB SSD（固态硬盘）或1TB HDD（机械硬盘）
+- RAM（内存）：8GB及其以上。推荐16GB DDR4
+- 硬盘：256GB SSD 固态硬盘 及其以上。出于轻薄、续航考虑，不建议笔记本电脑只有机械硬盘（HDD）
 - 独显（如果需要）：独立显存为2GB GDDR5及其以上，例如Nvidia GeForce GTX 1050
 
 购买电脑的网站
@@ -69,25 +69,31 @@
 - Yoga系列
 
   - https://www3.lenovo.com/ca/en/yoga/
-  - 分为Yoga 700和900系列，他们都非常轻薄。其中Yoga 700系列不但是联想，甚至是所有品牌的笔记本电脑里性价比最高的的电脑。大家遇到打折季，比如黑色星期五、圣诞购物季等等，一定要及时关注。
-  - Yoga 720 15寸的版本带有独立显卡。
+  - 分为Yoga 700和900系列，他们都非常轻薄。其中Yoga 700系列不但是联想，甚至是所有品牌的笔记本电脑里性价比最高的的电脑，15寸的版本带有独立显卡。大家遇到打折季，比如黑色星期五、圣诞购物季等等，一定要及时关注。
 
-- X系列
+- ThinkPad系列
 
-  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/c/thinkpadx
-  - Thinkpad系列的巅峰之作。推荐X1 Carbon。
-  - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+  - X系列
 
-- T系列
+    - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/c/thinkpadx
+    - Thinkpad系列的巅峰之作。推荐X1 Carbon。
+    - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
-  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt
-  - Thinkpad系列价格较为平民化的一款电脑。
-  - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+  - T系列
 
-- P系列
+    - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt
+    - Thinkpad系列价格较为平民化的一款电脑。
+    - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
-  - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-p/c/thinkpadp
-  - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
+  - P系列
+
+    - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-p/c/thinkpadp
+    - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
+
+- IdeaPad系列
+
+  - https://www.lenovo.com/ca/en/laptops/ideapad/c/IdeaPad
+  - IdeaPad系列的电脑分5个等级，为了应付日常学习工作的需要，我们只建议大家买最高级的700系列。事实上IdeaPad 700系列和Yoga 700系列的电脑从外形上看没有太大的区别，都非常轻薄。只不过IdeaPad 700系列的电脑不是2合1，不带有触摸屏。
 
 - 正在打折的电脑汇总：https://www3.lenovo.com/ca/en/promotions/consumer-deals/
 - 优惠码Coupon：https://www.offers.com/lenovo-canada/?path=zof-266581-gls-100h1a&adposition=1t2&creative=278722326685&device=c&network=g&source=s
