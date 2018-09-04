@@ -10,27 +10,25 @@
 
 激活方法
 ---------------------------------------
-1. 方法一：在手机上登录mosaic
-
-| 第一步：登陆mosaic之后，在右上角点击三个横线的图标，再点"NavBar"。
+第一步：登陆mosaic之后，在右上角点击三个横线的图标，再点"NavBar"。
 
 .. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_1.png
    :align: center
    :scale: 50%
 
-| 第二步：选择Navigator
+第二步：选择Navigator
 
 .. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_2.png
    :align: center
    :scale: 50%
 
-| 第三步：选择Email Management
+第三步：选择Email Management
 
 .. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_3.png
    :align: center
    :scale: 50%
 
-| 第四步：点击“Manage your Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
+第四步：点击“Manage your Email Service”，找到学校的邮箱，选择Activate。同时也设置一下Primary Email Account，就是默认接受学校发的Email的邮箱。
 
 .. image:: /resource/XueXiaoemailSheZhi/activate_email_on_phone_4.png
    :align: center
@@ -83,6 +81,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 1) Android phones：May require that the encryption method be set SSL-accept all certificates instead of just SSL。
 #) MACID区分大小写。
 #) 学校的邮箱在没激活之前，都会先转发到你的申请邮箱里。学校Email激活后可以设置默认转发到McMaster的邮箱里，方法是mosaic->Student Center->Personal Information->email addresses，把你希望设置为默认接受学校邮件的Email勾上Preferred。
+#) 邮箱激活后可能需要几天才能正常收发邮件。
 #) 由于Gmail邮箱无法在国内访问，所以大家最好申请一个Outlook或Yahoo的邮箱作为以后个人长期使用的邮箱。
 
 附

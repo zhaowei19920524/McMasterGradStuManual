@@ -3,7 +3,7 @@
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- UHIP/OHIP大体上只能报销看病的门诊费。http://uhip.ca/your-coverage.aspx- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。  - 网址：http://mysunlife.ca 。  - 步骤：http://uhip.ca/_uploads/en_UHIP_Howtoprintyourcoveragecard.pdf  - 建议大家把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$612，2人家庭$1224，3人及以上$1836。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- UHIP/OHIP大体上只能报销看病的门诊费。http://uhip.ca/your-coverage.aspx- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/register-now.aspx  - 第一步：注册账户：http://uhip.ca/_uploads/en_UHIP_Howtoregisterandgetacoveragecard.pdf  - 第二步：打印医保卡：http://uhip.ca/_uploads/en_UHIP_Howtoprintyourcoveragecard.pdf  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。看病时随身携带。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
@@ -19,24 +19,17 @@
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
   - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
   - Unit 3: Post-Doctoral Fellows
-- CUPE dental plan提供的保险项目优于GSA dental plan，所有Unit 1的学生自动opt-out GSA dental plan，退回GSA Dental Insurance Plan的费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
-- 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址。
-- CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
-- 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销和$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
+- CUPE dental plan提供的保险项目优于GSA dental plan，主要福利：
+
+  - 所有Unit 1的学生自动opt-out GSA dental plan，退回GSA Dental Insurance Plan的费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
+  - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
+  - CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
+  - 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销和$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
 
 5. MSU Health/Dental Plan Insurance（MBA学生）
 
 - MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。保险按学期交，每学期$258（2017年）。
 - https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance
-
-更多信息请参考
-
-- GSA： https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/health-plan/health-coverage
-- CUPE：https://cupe3906.org/
-- Sunlife：http://mysunlife.ca
-- UHIP： http://uhip.ca/Defaulthome.aspx
-
-——感谢陆定维老师、14-ECE-Huihui Wu、16-CAS-Tyler Li（LiJun）提供
 
 看病
 -------------------------------------------
@@ -91,6 +84,32 @@
 - 非MBA学生可以在GSA Insurance Plan的网页找到。
 - MBA学生在MSU  Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
 
+买药
+-----------------------------------
+主要有以下地方可以买药（Pharmacy）：
+
+1. McMaster University Centre Pharmasave
+
+- 官网：https://universitypharmacy.ca/mcmaster/
+- 这个是学校的药房，在Student Center Room 109B，如果在校医院看病需要买药，应当优先考虑去这里。
+
+2. Shoppers Drug Mart
+
+- 官网：https://www1.shoppersdrugmart.ca/en/health-and-pharmacy/pharmacy-services
+- 从店名就可以看出，它绝不仅仅是一家超市，而是一家正规的药店。
+
+3. Fortinos
+
+- 官网：https://www.fortinos.ca/pharmacy
+- Fortinos作为一家规模较大的西人超市，也提供药品服务。
+
+4. Rexall
+
+- 官网：https://www.rexall.ca/pharmacy
+- Rexall主要是一家药店，现在也零售一些生活用品，在Jackson Square。
+
+由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）的药也是可以自由购买的。
+
 报销
 -------------------------------------------------
 1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
@@ -114,19 +133,38 @@
 
 3. 报销MSU Health/Dental Plan Insurance
 
-- 打开MSU Health/Dental Plan Insurance的主页。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
+- 方法1：打开MSU Health/Dental Plan Insurance的主页（https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/health-plan/health-claims）。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
+- 方法2：在ClaimSecure官网（https://www.claimsecure.com）注册eProfile, 进行Online claim。（无法报销HPV）
 
-房屋保险 
---------------------------------
-.. note::
+.. image:: /resource/Insurance/ClaimSecure.png
+   :align: center
+   :scale: 100%
 
-  | 在加拿大每个房子都要有保险，银行才可能贷款，否则万一一把火房子烧了，银行没地方去收回贷款的。
-  | 如果大家想买，只需要买财产险，因为liabilities 应该是房东已经买了的。财产险应该不贵，但通常会有deduction。也就是说只有发生较大损失时才有可能拿到保险公司赔付。 
-  | 以一个家庭的home insurance为例，如果买了保险，低于5000自己出，超过部分由保险公司赔，最高200万。年报费600左右。
-  | 学生租的house，应该是商业保险，年保费2000多。大部分房东没有买商业险，只买个家庭保险以便拿到银行贷款。这样的房子一旦出事，保险公司不会赔付的。也就是你即使买了财产险，一旦火灾出现人身伤亡，也没有保险公司赔付，除非你自己买了liabilities 
-  | 如果你租apt或condo，apt或condo的管理费里通常包含的liabilities，你只需要买财产险 
-  | 加拿大几个比较大的保险公司 Sunlife， Manulife，Great West Life。 McMaster用的是Sunlife。此外各大银行也有相应的保险业务。例如：RBC，每月大概十几加元。
-  | ——感谢陆定维老师提供
+- 方法3：直接发邮件进行报销，附件附上方法一提到的claim form和所有发票单据。邮箱地址：customerresponse@claimsecure.com（此方法可能同样需要先注册eProfile）
+
+举例：HPV疫苗
+----------------------------------------
+| 加拿大的HPV疫苗为9价，一共要打三针：第一针 —— 间隔一个月 —— 第二针 —— 间隔4个月 —— 第三针
+| 打疫苗的流程如下：
+
+.. image:: /resource/Insurance/HPV01.png
+   :align: center
+   :scale: 50%
+
+- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，e.g.: Dundurn Medical Center）
+- 第二步：自己拿着处方去药店买疫苗，McMaster University Centre Pharmasave、Fortinos、Shoppers等地方都可以买。疫苗无法在药房直接报销。这一步属于买药环节，需要用GSA或MSU的保险。（报销80%的费用）
+- 第三步：回到clinic打疫苗。
+
+| 报销疫苗的方法：
+| 对于使用GSA Health Insurance Plan的学生：
+
+- 在学校药房买疫苗，工作人员会给你claim form，如果没给就用GSA的claim form。
+- 自己填好form，然后用上面报销GSA Health Insurance Plan的其中一种报销方法即可。
+
+| 对于使用MSU Health Plan Insurance的学生：
+
+- 买疫苗后，填写打印Extended health care claim form。
+- 附上发票和表格，寄给ClaimSecure，地址：PO Box 6500, STN A, Sudbury, ON P3A 5N5 （claim form上面有地址，以最新的表格上的地址为准）
 
 附
 ----------------------
@@ -214,3 +252,11 @@
 .. image:: /resource/Insurance/StudentCare_App_13.png
    :align: center
    :scale: 25%
+
+.. admonition:: 本页作者
+   
+   - 陆定维老师
+   - 14-ECE-Huihui Wu
+   - 16-CAS-Tyler Li（LiJun）
+   - 17-CAS-赵伟
+   - 17-MBA-林小艺

@@ -9,7 +9,7 @@
 
   - http://student-accounts.mcmaster.ca/tuition-fees/undergraduate/graduate/
   - 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样，大家的offer上依然写的是未降之前的费用，具体数额需要等八九月份通知。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
-- 对于2018 Fall入学的新生，付学费截止日期是9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。9月28日之后如果没交齐，就会罚$75滞纳金并开始收利息。
+- 对于2018 Fall入学的新生，付学费截止日期是9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。如果学费没交齐，学校在9月30日会罚$75滞纳金并开始收利息。
 
   - http://student-accounts.mcmaster.ca/payments/important-dates-deadlines/
 
@@ -24,16 +24,28 @@
 2) 国际转账：如果大家实在来不及办这边的银行卡再转账交学费，可以通过Western Union直接从国内的银行电汇到McMaster。
 3) 信用卡：用信用卡付学费，要加1.95%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，手续费太高，并且大家的信用卡额度也没这么高。
 
+当前需要付的学费
+------------------------------------
+学费从2015年开始可以按学期交，由于数额不少，建议大家通过银行转账的方式。 至于当前学期需要交多少学费，可以登录mosaic在student center的Finances里查看。
+
+.. image:: /resource/XueFei/XueFeiShuE.png
+   :align: center
+   :scale: 50%
+
+- Current balance：指这一学年还需要缴纳的学费（不一定现在交齐）
+- Due Now：指当前学期需要缴纳的学费（务必在交学费截止日期之前交齐）
+- Future Due：Current balance - Due Now的数值
+- Pending Aid：学校将要发的补助数额
+
+大家只需要按照Due Now的数额交齐当前学期的学费就可以了。
+
 注
 ----------------------
-- 学费从2015年开始可以按学期交，由于数额不少，建议大家通过银行转账的方式。 
 - 新生们交学费不要着急，等来Canada之后，把银行卡办理好了，父母先把学费从国内的银行转到Canada的银行卡里，再转给学校。至于如何国际转账，请先咨询你办卡的那家加拿大银行。
 - 交学费必须用加元。
 - 学校不再自动从资助和奖学金中扣学费了，也就是说每个人都要自己交学费，不管有没有奖学金。奖学金等资助都发给学生，然后学生自己交学费。
 - 从2016学年开始，学校规定交学费不得使用现金和任何形式的支票。
 - Visiting学生只需要交杂费，不需要交学费。
-
-——感谢陆定维老师提供
 
 附：银行间转账付学费图文教程 
 ----------------------------------------------------------------------
@@ -79,5 +91,9 @@ Step9: 一个转账付学费成功的页面。
 
 .. image:: /resource/XueFei/XueFei_payee_09.png
 
+.. admonition:: 本页作者
+   
+   - 17-CAS-赵伟
+   - 陆定维老师
 
 .. _这里: http://www.mcmaster.ca/bms/student/pdf/Student%20CIBC%20direct%20deposit%20mar15.pdf

@@ -34,7 +34,7 @@ https://rec.mcmaster.ca/memberships
 .. image:: /resource/TiYuGuan/Pulse_02.jpg
    :align: center
 
-健身房是体育馆里为数不多需要额外付费的设施。年费$240（2017年）。在体育馆南门进门右手边的办公室里缴费。
+健身房是体育馆里为数不多需要额外付费的设施。年费$260（2018年）。在体育馆南门进门右手边的办公室里缴费。
 
 健身房里有三部分设施：上面第一幅图为健身器材室。第二幅图为健身课（Fitness Classes），详细课表在 https://rec.mcmaster.ca/activities/fitness-classes-pulse 。除此之外还有攀岩：https://rec.mcmaster.ca/facilities/feather-family-climbing-wall 。
 
