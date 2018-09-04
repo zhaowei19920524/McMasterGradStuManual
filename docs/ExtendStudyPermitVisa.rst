@@ -10,9 +10,9 @@ Study Permit：学习许可，也叫“大签”（因为是一张Letter Size的
 
 - Study Permit的作用是在加拿大居住和学习，以及作为学生身份在校外工作的合法证明。
 
-Study Visa（Temporary Resident Visa或TRV）：学习签证，也叫“小签”（因为是贴在护照上的一张小纸）。
+Student Visa（Temporary Resident Visa或TRV）：学习签证，也叫“小签”（因为是贴在护照上的一张小纸）。
 
-- Study Visa的作用是在入境加拿大进行边检时，提供的合法入境的证明。
+- Student Visa的作用是在入境加拿大进行边检时，提供的合法入境的证明。
 
 
 官方网站
@@ -25,22 +25,22 @@ Study Visa（Temporary Resident Visa或TRV）：学习签证，也叫“小签�
 --------------------------------------------------------------------------------------------
 Study Permit：至少在过期前3个月提交申请。由于申请太多，通常审核需要2个月的时间。
 
-Study Visa：如果需要延长，则至少提前2个月申请。由于申请太多，加上往返寄送护照的时间，通常需要1个月的时间。
+Student Visa：如果需要延长，则至少提前2个月申请。由于申请太多，加上往返寄送护照的时间，通常需要1个月的时间。
 
-- 由于延长Study Visa需要持有有效的Study Permit，所以如果Study Permit和Study Visa同时到期，请务必先延长Study Permit。
-- 如果在Canada长期不离境，自然暂时也不会涉及出境和再次入境的问题，这时候可以不延长Study Visa，等需要的时候再提前提交申请。（虽然可行，但不推荐）
+- 由于延长Student Visa需要持有有效的Study Permit，所以如果Study Permit和Student Visa同时到期，请务必先延长Study Permit。
+- 如果在Canada长期不离境，自然暂时也不会涉及出境和再次入境的问题，这时候可以不延长Student Visa，等需要的时候再提前提交申请。（虽然可行，但不推荐）
 
 提交申请前需要开具的材料
 ----------------------------------------------------------------
 1. Enrolment Letter：在读证明。请务必去学院办公室或研究生院办公室（GH212）开具，并且要明确指出，开具的材料上需要有预计的毕业时间（至少精确到月份）。请勿使用mosaic自助服务系统开具，那上面生成的文件没有标明毕业时间。
 2. Bank Account Statement：近4个月的银行流水账单，这个可以在Online Banking里找到。如果找不到，可以去银行开具。对于自费上学的学生，请务必保证近4个月的银行存款都不少于$5000。如果实在不够，可以按照第一次申请签证所需要的材料准备，例如：让父母提供存款或财产证明和亲属关系证明。
-3. Letter Of Explanation：解释信。就是想对签证官说的话。大概包括：为什么要延长Study Permit或Study Visa、上学的资金证明从哪来、如果有拒签记录解释一下原因，等等。
-4. Recent Education Transcript：请在mosaic里申请正式成绩单，步骤是Student Center->Academics->在下拉列表中选“Transcript: Request Official”，接着填上相关信息提交即可。或去GH212申请也可以。
+3. Letter Of Explanation：解释信。就是想对签证官说的话。大概包括：为什么要延长Study Permit或Student Visa、上学的资金从哪来、如果有拒签记录解释一下原因，等等。
+4. Recent Education Transcript：请在mosaic里申请正式成绩单，步骤是Student Center->Academics->在下拉列表中选“Transcript: Request Official”，接着填上相关信息提交即可。
 
 费用
 --------------------------
 - 延长Study Permit：$150
-- 延长Study Visa：$100
+- 延长Student Visa：$100
 
 延长Study Permit的流程
 ----------------------------------------------------------------
@@ -197,11 +197,11 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 .. image:: /resource/StudyPermitVisa/StudyPermitResult.png
    :align: center
 
-延长Study Visa的流程
+延长Student Visa的流程
 ----------------------------------------------------------------
 .. attention::
    1. **以下步骤适合未婚、独自一人来Canada上学、没有任何亲属在Canada有永久居住的身份、不持有美国公民或绿卡、近12个月在Canada境外的时间不超过6个月的情形**
-   2. **请务必持先延长Study Permit，并且收到纸质的文件后，再延长Study Visa**
+   2. **请务必持先延长Study Permit，并且收到纸质的文件后，再延长Student Visa**
 
 **Part 1：在移民局的网站上做问卷**
 
@@ -219,7 +219,7 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
  | 由于问卷和申请Study Permit时的问卷一模一样，所以请大家查看上面介绍延长Study Permit的问卷网页截图。
 
-第四步：做完问卷后，网站上会显示你的条件符合延长Study Visa。点击在“Temporary Resident Visa”框里的Continue。
+第四步：做完问卷后，网站上会显示你的条件符合延长Student Visa。点击在“Temporary Resident Visa”框里的Continue。
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_01.png
    :align: center
@@ -340,9 +340,9 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 
  | 等所有文件提交后，网页右下部会多出一个按钮，后面就是签名和缴费。
 
-**Part 6：延长Study Visa成功**
+**Part 6：延长Student Visa成功**
 
- | 如果延长Study Visa的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。这时候网页上会多出一个消息，让你寄护照。从寄护照到寄回来大概需要2~4周的时间。
+ | 如果延长Student Visa的申请通过了，会收到邮件提醒，并且网页上的信息也会更新。这时候网页上会多出一个消息，让你寄护照。从寄护照到寄回来大概需要2~4周的时间。
 
 .. image:: /resource/StudyPermitVisa/StudyVisaResult.png
    :align: center
@@ -366,9 +366,9 @@ Study Visa：如果需要延长，则至少提前2个月申请。由于申请太
 ---------------------
 1) Study Permit只能用于入境后的合法居留，不能用于入境Canada。
 #) 如果提交了延长Study Permit的申请，但是在旧的Study Permit过期前都没有审核通过，这时候依然可以继续在Canada居留、学习、生活。http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=492&top=15
-#) 如果提交了延长Study Visa的申请，但是在旧的Study Visa过期前都没有审核通过，这时候只要有Study Permit就可以继续在Canada居留、学习、生活，但不能离境（比如回国，去美国或其它国家）。否则将无法再次入境Canada。
-#) Study Visa不同于普通旅游的Visitor Visa，普通旅游的Visitor Visa既可以用来入境Canada，也是居留的合法证明。而Study Visa只能用来入境，并不能说明可以合法居留、学习、工作。所以还需要Study Permit。
-#) Study Permit和Study Visa从即将失效到提交延长的申请最终都通过之前，请勿离开Canada。更不要打算在Canada境外提交延长所需的材料，否则可能还需要额外提交语言考试的成绩或体检单。
+#) 如果提交了延长Student Visa的申请，但是在旧的Student Visa过期前都没有审核通过，这时候只要有Study Permit就可以继续在Canada居留、学习、生活，但不能离境（比如回国，去美国或其它国家）。否则将无法再次入境Canada。
+#) Student Visa不同于普通旅游的Visitor Visa，普通旅游的Visitor Visa既可以用来入境Canada，也是居留的合法证明。而Student Visa只能用来入境，并不能说明可以合法居留、学习、工作。所以还需要Study Permit。
+#) Study Permit和Student Visa从即将失效到提交延长的申请最终都通过之前，请勿离开Canada。更不要打算在Canada境外提交延长所需的材料，否则可能还需要额外提交语言考试的成绩或体检单。
 #) 如果旧的Study Permit失效后才提交延长申请，则需额外交$200罚金（restoration）。http://www.cic.gc.ca/english/information/fees/fees.asp 。如果失效时间太长（超过90天）都没有提交延长申请，移民局将视为非法居留而会采取强制措施。
 #) 如果大家的情况和上面的图文教程不一样，或对自己准备提交的材料没有100%的把握，请带上所需的材料尽快去学校里的Immigration consultant咨询。https://iss.mcmaster.ca/immigration/consultant/
 

@@ -31,7 +31,7 @@
   - 16级 QQ群：431729307，微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
   - 18级 微信群：请联系18-MBA-韩雪松
-- DBA
+- PhD in Business Administration
 
   - 微信群：请联系17-DBA(Management Science)-仉帅
 - MFin
@@ -91,7 +91,7 @@ McMaster常见学院专业及简称
     - Full-time MBA：MBA(Full Time)
     - Co-op MBA：MBA(Co-op)
     - Part-time MBA：MBA(Part Time)
-  - Doctor of Business Administration：DBA
+  - PhD in Business Administration：DBA
 
     - Finance：DFin或DBA(Finance)
     - Accounting：Accounting或ACCT或DBA(Accounting)
@@ -99,7 +99,7 @@ McMaster常见学院专业及简称
     - Health Management：暂无
     - Management of Organizational Behaviour and Human Resources：OB&HR或DBA(OB&HR)
     - Management Science：暂无
-    - Marketing：暂无
+    - Marketing：DBA(Marketing)
   - eHealth：eHealth
   - Executive MBA：EMBA
 - Science
@@ -167,7 +167,6 @@ McMaster常见学院专业及简称
 
 个别专业辨析
 ------------
-
 有几个专业会让人产生误解，此处做简单的辨析。
 
 - Chemical Engineering
@@ -205,3 +204,8 @@ McMaster常见学院专业及简称
 - Chemistry and Chemical Biology
 
   这是化学系的升级版。该系的教授研究领域涵括材料化学、理论化学、生物化学、分析化学、有机化学、固态化学、表面化学、光化学、结构生物学、天然产物化学、无机化学等，主要都是基础研究，也有应用型的研究（材料化学、放射药物化学）。
+
+.. admonition:: 本页作者
+   
+   - 17-CAS-赵伟
+   - 16-Chem-孟凡旺

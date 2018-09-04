@@ -29,10 +29,10 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 3. The Phoenix
 
- | 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。
+ | 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。这个地方除了提供酒水饮料外，也提供较为全面的西餐。
  | https://www.phoenixmcmaster.com/
- | 这个地方除了提供酒水饮料外，也提供较为全面的西餐。
  | 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
+ | 如果有GSA stickers（小秘会发邮件通知领取），可以在这个餐馆里吃饭享受9折优惠 https://gsamcmaster.org/student-specials/ 。
 
 4. Student Center一楼
 

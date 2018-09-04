@@ -311,4 +311,10 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 .. image:: /resource/bank/Rewards/Rewards04.jpg
    :align: center
 
+.. admonition:: 本页作者
+   
+   - 17-CAS-赵伟
+   - 13-MFin-Daisy Ding
+
+
 .. _教程: http://www.rbcroyalbank.com/dms/payments/autodeposit/

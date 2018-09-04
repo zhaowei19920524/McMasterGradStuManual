@@ -40,18 +40,47 @@ PRESTO卡
   - CSC联合培养的学生
   - CSC访问学者
 
-注：
-
-- 不能免费坐公交车的同学可以在学校的Student Center自行办理Presto卡或提前购买纸质的车票，用它坐公交会相对便宜些。
-- 如果不能免费坐公交车，则是$3.00一次，不能刷信用卡。上车后向司机索要transfer，一般在2小时内免费换乘同一路车。 
-- 目前比较便宜的方案是Adult Paper Ticket or PRESTO或Monthly Pass or PRESTO。详情请见 https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
+.. attention::
+   - 不能免费坐公交车的同学可以在学校的Student Center自行办理Presto卡或提前购买纸质的车票，用它坐公交会相对便宜些。
+   - 如果不能免费坐公交车，则是$3.00一次，不能刷信用卡。上车后向司机索要transfer，一般在2小时内免费换乘同一路车。 
+   - 目前比较便宜的方案是Adult Paper Ticket or PRESTO或Monthly Pass or PRESTO。详情请见 https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
 3. 领取PRESTO card
 
-- 凭Student Card去Campus Store领取PRESTO card。
+- 除Health Science以外所有学院的研究生凭Student Card去Campus Store（Gilmour Hall B101）领取PRESTO card，Health Science学院的学生在Health Sciences Campus Store（HSC 1G1）领取。
 - 此外Campus Store只负责卡片的分发。充值、挂失等等均不属于在这办理。
 
-4. 使用PRESTO card
+4. 注册Presto账户，激活Presto card
+
+- 拿到Presto card之后需要在网上激活，首先在presto官网上建立“My Account”账户。在官网上激活（activate）并关联自己的Presto card。通过该网上账户，如果卡片丢失或被盗刷可以及时更换，并且可将之前的U-Pass和现金余额恢复。 
+- 网址：https://www.prestocard.ca/en/
+
+.. image:: /resource/bus/presto3.png
+   :align: center
+
+5. 加载免费坐公交的优惠码（Voucher Code）：
+
+- 第一步：登录mosaic，点击“HSR Bus Pass”。复制voucher code。
+
+.. image:: /resource/bus/voucher01.png
+   :align: center
+
+- 第二步：在presto官网登录自己的账户，在左上角点“LOAD”，然后点“Redeem Voucher”。输入刚刚复制的voucher code。
+
+.. image:: /resource/bus/voucher02.png
+   :align: center
+   :scale: 50%
+
+- 第三步：如果load成功应该会显示这个信息。
+
+.. image:: /resource/bus/voucher03.png
+   :align: center
+   :scale: 50%
+
+.. attention::
+   - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
+
+6. 使用PRESTO card
 
 - 只需要在位于公车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
 - Presto卡一次只能给一个人刷。如果需要多人付费乘坐公交车，其它人可以先买车票或使用现金。
@@ -59,26 +88,17 @@ PRESTO卡
 .. image:: /resource/bus/presto2.png
    :align: center
 
-5. 开设PRESTO网上账户
-
-- 强烈建议去presto官网上建立“My Account”账户。通过该网上账户，如果卡片丢失或被盗刷可以及时更换，并且可将之前的U-Pass和现金余额恢复。 
-- 网址：https://www.prestocard.ca/en/
-
-.. image:: /resource/bus/presto3.png
-   :align: center
-
-6. 充值
+7. 充值
 
 - 方法1：在presto官网充值。可以一次性充值几十刀，或者设置Auto Reload，当卡里余额少于一定数目时自动从信用卡里充值。
 - 方法2：McMaster Student Center一楼大厅里最南边的Presto服务柜台。
 - 方法3：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
 - 方法4：（仅限Go Bus）上车充钱。就是准备好现金，上车的时候把现金给司机，然后司机帮你充钱。这种方法不适用于HSR公交系统。并且最好不要在起点站用这种方法，司机会觉得你在耽误时间。
 
+.. attention::
+   - 如果使用方法2、3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
+
 更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2018/08/hsr-bus-pass-faq-aug-2018.pdf 和 https://gsamcmaster.org/hsr/
-
-注：
-
-- 如果使用方法2、3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
 
 Hamilton公交车
 -----------------------------------------------
@@ -94,10 +114,10 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 - HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
 - 查车APP：见本页最后的附里。
 
-2. 费用（2017年）
+2. 费用（2018年）
 
-- 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了200多刀的公交车费，所以乘坐时不需要付费。
-- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.3。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
+- 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了$250左右的公交车费，所以乘坐时不需要再付费。
+- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.4。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
 - 现金：$3
 - 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
@@ -108,9 +128,9 @@ Hamilton公交车指的是由HSR公司运营的Hamilton市内的公交车，通�
 4. 站名
 
 - 几乎所有的站名都用“正在行驶道路的名称”+“at或opposite”+“交汇道路的名称”的格式。
-- 比如McMaster南门门口的站名叫"Main opposite Emerson"。意思就是公交车现在行驶在Main Street上，路对面有一条叫Emerson Street的道路和Main Street交汇在一起。
-- McMaster南门门口路对面的站名叫"Main at Emerson"。意思就是公交车现在行驶在Main Street上，路边有一条叫Emerson Street的道路和Main Street交汇在一起。
+- 举例：McMaster南门门口的站名叫"Main opposite Emerson"。意思就是公交车现在行驶在Main Street上，路对面有一条叫Emerson Street的道路和Main Street交汇在一起。而McMaster南门门口路对面的站名叫"Main at Emerson"。意思就是公交车现在行驶在Main Street上，路边有一条叫Emerson Street的道路和Main Street交汇在一起。
 - 有的地方也会把道路两边的两个站统一写为“正在行驶道路的名称 / 交汇道路的名称”的格式。例如上面的两个站可统一写为"Main / Emerson"。
+- 对于极少几个车站并不在两个路口的交界处，则站名的格式是“at”+车站旁边建筑物的地址。
 - 大家可以在Google地图上研究一下它的命名规律。
 
 5. 乘坐方法：
@@ -198,7 +218,7 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 第一步：查好上车时间、找到Go Bus车站（没有必要一定去Go Center乘坐），等待Go Bus到来。强烈建议大家查好时间再等车，一般提前10~20分钟去车站等车即可。
 - 第二步：上车刷Presto卡或付现金。如果付现金，司机会找零。
 - 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法和乘坐HSR市内公交车类似，按一下车里座位附近红色的Stop按钮或其它标有Stop的按钮。不可以直接对司机说话。
-- 第四步：下车。如果刷Presto卡上车，则下车的时候务必再次刷Presto卡，否则计费系统会默认为你一直坐到终点站。此外也需要感谢司机，走出车门的时候需要礼貌的对司机说“Thank you”。
+- 第四步：下车。如果刷Presto卡上车，则 **下车的时候务必再次刷Presto卡** ，否则计费系统会默认为你一直坐到终点站。此外也需要感谢司机，走出车门的时候需要礼貌的对司机说“Thank you”。
 
 6. 常见Go Bus
 
@@ -335,3 +355,8 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 .. image:: /resource/bus/Transit_App_04.png
    :align: center
    :scale: 25%
+
+.. admonition:: 本页作者
+   
+   - 17-ECE-刘欢
+   - 17-CAS-赵伟

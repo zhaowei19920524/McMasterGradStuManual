@@ -80,6 +80,7 @@ Welcome to McMaster University!
    GongZuo
    JiaZhao
    GongJiaoChe
+   Wan
    WiFiYuInternet
    HamiltonRiChangGouWuDiDian
    MaiJiaJu
