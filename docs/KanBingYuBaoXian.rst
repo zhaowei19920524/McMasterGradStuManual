@@ -96,7 +96,7 @@
 2. Shoppers Drug Mart
 
 - 官网：https://www1.shoppersdrugmart.ca/en/health-and-pharmacy/pharmacy-services
-- 从店名就可以看出，它绝不仅仅是一家超市，而是一家正规的药店。
+- 从店名就可以看出，它绝不仅仅是一家超市，而且还是一家正规的药店。
 
 3. Fortinos
 
@@ -144,7 +144,7 @@
 
 举例：HPV疫苗
 ----------------------------------------
-| 加拿大的HPV疫苗为9价，一共要打三针：第一针 —— 间隔一个月 —— 第二针 —— 间隔4个月 —— 第三针
+| 加拿大的HPV疫苗为9价，一共要打三针：第一针 —— 【间隔一个月】 —— 第二针 —— 【间隔4个月】 —— 第三针
 | 打疫苗的流程如下：
 
 .. image:: /resource/Insurance/HPV01.png

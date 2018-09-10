@@ -9,7 +9,6 @@
 - ITB（CAS+ECE）
 
   - 历届 QQ总群：237168063（备注导师入群），微信总群：加入QQ群后，联系群管理员
-  - 18级 ECE微信群：请联系18-ECE-袁邵祎
 - Computational Science & Engineering
 
   - QQ群：225053068
@@ -96,9 +95,9 @@ McMaster常见学院专业及简称
     - Finance：DFin或DBA(Finance)
     - Accounting：Accounting或ACCT或DBA(Accounting)
     - Information Systems：IS或DBA(IS)
-    - Health Management：暂无
+    - Health Management：DBA(Health Management)
     - Management of Organizational Behaviour and Human Resources：OB&HR或DBA(OB&HR)
-    - Management Science：暂无
+    - Management Science：DBA(Management Science)
     - Marketing：DBA(Marketing)
   - eHealth：eHealth
   - Executive MBA：EMBA

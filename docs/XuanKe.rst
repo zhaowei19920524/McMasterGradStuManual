@@ -11,8 +11,8 @@ SGS 101 201 德育课程
 ------------------------------------------------------
 SGS 101 和 SGS 201 是2门所有研究生都要学习的online课程，如果不在这个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成，网址如下：http://avenue.mcmaster.ca/。 
 
-| SGS 101# Academic Research Integrity and Ethics：德育课程，如考试不能作弊，科研不能剽窃等。这门课要计分，在线学习完之后会有一个online的测验。测验一共20道选择题，正确率70%及格（至少对14题），考试有10次机会。
-| SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同样，在学习完之后有一个online测试，必须保证所有题目全部正确，可以进行无限次尝试。 
+- SGS 101# Academic Research Integrity and Ethics：德育课程，如考试不能作弊，科研不能剽窃等。这门课要计分，在线学习完之后会有一个online的测验。测验一共20道选择题，正确率70%及格（至少对14题），考试有10次机会。
+- SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同样，在学习完之后有一个online测试，必须保证所有题目全部正确，可以进行无限次尝试。 
 
 两门课程的考试顺利通过后，可以在Mosaic上查询课程结果。以下是查询窗口：
 
@@ -35,7 +35,12 @@ academically accredited course OR a placeholder course （专业课或占位课�
    | Also if you are on a leave you will also need to register.
    | ——Cheryl（ECE小秘）
 
-这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。此外，不管你那一学期有没有课，都要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（https://gs.mcmaster.ca/academic-services/how-enroll）。占位课没有学分，不需要上课，也不会有成绩。
+| 这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/undergraduate/graduate/）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
+
+- SGS 700：按学期数目收费的研究生。例如：多数PhD、MASc、MSc、MEng学生。
+- SGS 711：按课程数目收费的研究生。
+- SGS 302：Visiting Student访问或联培的研究生。
+
 
 | 选课的图文教程如下：
 | 第一步：登录mosaic，进入student center。在“Academics”下面点击“Enroll”。

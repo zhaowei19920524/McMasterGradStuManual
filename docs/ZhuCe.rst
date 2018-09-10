@@ -28,7 +28,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
 5. Incoming students only upload your photo for your ID card. 
 
- | 这个大家一定要尽快提交，这样才能保证学校能尽快制作学生卡，新生在8月底能拿到。否则拿学生卡会推迟，会影响到免费坐车。根据学校的规定，上传照片只有一次机会，不能更改。
+ | 这个大家一定要尽快提交，这样才能保证学校能尽快制作学生卡，新生在8月底能拿到。否则拿学生卡会推迟，会影响到免费坐车。根据学校的规定，上传照片只有一次机会，不能更改。按照往年经验，学生卡上的照片是1:1比例，大家上传前可以先处理一下以防被截。https://registrar.mcmaster.ca/services/id-cards/
 
 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 
@@ -39,7 +39,7 @@ Please find detailed enrolment instructions at: `gs.mcmaster.ca/academic-service
 注
 ---------------
 1) 在注册开始会出现一个“Voluntary First Nations”的问卷页面，大家随意选，不影响后面任何注册流程。 
-#) 上面6项，必须要都完成。其中1、2、3、5可以在网上完成，4、6只能来McMaster之后完成。 
+#) 上面6项，必须要都完成才算注册完毕。其中1、2、3、5可以在网上完成，4、6只能来McMaster之后完成。 
 
 .. _gs.mcmaster.ca/academic-services/how-enroll: http://gs.mcmaster.ca/academic-services/how-enroll
 .. _选课: XuanKe.html
