@@ -6,8 +6,8 @@ Canada主要超市
 
 - https://www1.shoppersdrugmart.ca/en/home
 - Shoppers可能是大家以后最经常去的超市，有点像国内大学里的超市一样，规模适中。但日常用品齐全。大家可以买到各种洗漱用品，牛奶鸡蛋面包，零食，化妆品以及其它生活用品。此外Shoppers里还卖各种保健品和营养品（不需要处方），以及其它药物（OTC和非OTC都需要处方）。
-- Shoppers每天会随机对一些商品打折。周四使用学生卡可以对没有打折的商品打8折。
 - PC Optimum积分卡：结账是出示积分卡。到达一定数额后会有返现或其它优惠。第一次去Shoppers购物的时候可以办理。
+- Shoppers每天会随机对一些商品打折。每周四，在学校南门（1341 Main St W, Hamilton, ON L8S 1C6）和westdale（991 King St W, Hamilton, ON L8S 1K9）两家shoppers里，使用McMaster Student Card和PC Optimum积分卡可以对没有打折的商品打8折。
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/pc-plus/id634040057?mt=8
@@ -16,10 +16,9 @@ Canada主要超市
 2. Nations Fresh Foods
 
 - http://www.nationsfreshfoods.ca/
-- Hamilton最大的华人超市。里面有各种来自中国的蔬菜，水果，零食，鱼肉。可谓非常齐全，中国化。几乎所有国内常见，甚至冷门的商品都能买到。大家也可以在这里买锅碗瓢盆，油盐酱醋。希望大家来之后认认真真把这个超市每个货架都逛一遍。也在此建议大家每周末去一次nations，买下一周所需的饭菜。
-- Nations里买菜结账的地方只能付现金或刷debit卡。超市内部的餐厅可能接受credit卡。
+- Hamilton最大的华人超市。里面有各种来自中国的蔬菜，水果，零食，鱼肉。可谓非常齐全，中国化。几乎所有国内常见，甚至冷门的商品都能买到。大家也可以在这里买锅碗瓢盆，油盐酱醋。希望大家来之后认认真真把这个超市每个货架都逛一遍。也在此建议大家每周末去一次nations，买下一周所需的饭菜。同时，超市里卖做好的熟食，熟食在每天3点以后有大幅度的打折。
+- Nations里买菜结账的地方可以付现金或刷debit卡，此外在超市西边出口结账的地方也可以使用微信支付和支付宝（需要额外付手续费）。超市内部的餐厅可能接受credit卡。
 - Nations每周都会对一些商品打折，大家可以去官网上的Weekly Special查看。
-- 超市里卖做好的熟食，熟食在每天3点以后有大幅度的打折。
 - 停车：Nations自带地下停车场，如果在nations里买菜或在其中的餐馆消费大于等于$20，并且停车时间不超过1小时，则停车免费（凭停车小票和购物小票在nations门口的那个保安处盖章）。入口在nations西边的Bay Street上，如下图方框内的箭头。
 
 .. image:: /resource/GouWu/nations_parking.jpg
@@ -29,7 +28,7 @@ Canada主要超市
 
 - https://www.fortinos.ca/
 - 一家很大的西人超市，肉类可能是最有名的商品了。不但新鲜，而且可以按照你的要求处理好。它也卖各种生活用品、少量衣物等等。
-- 周二使用学生卡可以对没有打折的商品打一定的折扣。
+- 周二使用学生卡可以对没有打折的商品打9折。
 - PC Plus积分卡：结账时出示积分卡。到达一定数额后会有返现或其它优惠。第一次去Shoppers购物的时候可以办理。
 - 手机App：
 
@@ -40,7 +39,7 @@ Canada主要超市
 
 - https://www.foodbasics.ca/index.en.html
 - 原先是Metro，后来被Foodbasics收购走了部分商场，和Fortinos类似，但只卖吃的。
-- 周二使用学生卡可以对没有打折的商品打一定的折扣。
+- 周二使用学生卡可以对没有打折的商品打9折。
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/food-basics/id1186302098?mt=8
@@ -247,5 +246,10 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
    ——感谢14-Mfin-xinlei提供
 
+.. admonition:: 本页作者
+
+   - 17-CAS-赵伟
+   - 14-MED-高雯淼
+   - 14-Mfin-xinlei
 
 .. _下载: http://www.realpropertieslimited.com/hamilton/jackson-square-availability.html

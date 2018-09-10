@@ -1,5 +1,17 @@
 ﻿其它生活经验汇总
 =========================
+各大论坛网站
+--------------------------------------
+| 加国无忧：http://www.51.ca/ ， 手机App，微信小程序：http://app.51.ca/ ， 微信公共号：www51ca
+| 加拿大华人网（新闻）：http://www.sinoca.com/
+
+| 约克论坛（多伦多地区）：http://www.yorkbbs.ca/
+| 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
+
+| Hamilton 华人网：http://www.hamiltonchinese.ca/
+| McMaster - 中国学生论坛（麦克马斯特大学中国学生学者联谊会官网。注：此网站由本科生运营，发布的信息主要针对本科生，希望大家一定要注意甄别）：http://www.maccssa.org/
+| McMaster学生论坛：http://www.macinsiders.com/
+
 签名
 ------------------
 在Canada签名是非常严肃的一件事情。其法律效力等同于国内盖章。在Canada是没有盖章这个说法的，一切都是签名生效。例如你们的offer。下面介绍签名的几种方式：
@@ -149,14 +161,6 @@
 
 大家最好把上面的其中一种随身携带。
 
-各大论坛网站
---------------------------------------
-| 加国无忧：http://www.51.ca/
-| 加拿大华人网（新闻）：http://www.sinoca.com/
+.. admonition:: 本页作者
 
-| 约克论坛（多伦多地区）：http://www.yorkbbs.ca/
-| 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
-
-| Hamilton 华人网：http://www.hamiltonchinese.ca/
-| McMaster - 中国学生论坛（麦克马斯特大学中国学生学者联谊会官网。注：此网站由本科生运营，发布的信息主要针对本科生，希望大家一定要注意甄别）：http://www.maccssa.org/
-| McMaster学生论坛：http://www.macinsiders.com/
+   - 17-CAS-赵伟

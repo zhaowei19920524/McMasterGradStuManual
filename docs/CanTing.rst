@@ -628,7 +628,7 @@ Hamilton 日料
 ------------------------------------------------
 Toronto：
 
-- Litter Sheep Mongolian Hot Pot（小肥羊）：自助火锅
+- Little Sheep Mongolian Hot Pot（小肥羊）：自助火锅
 
   - https://www.littlesheephotpot.com/location/toronto-downtown-on
   - 421 Dundas St W, Toronto, ON M5T 2W4
@@ -649,7 +649,7 @@ Toronto：
 
 Mississauga：
 
-- Litter Sheep Mongolian Hot Pot（小肥羊）：自助火锅
+- Little Sheep Mongolian Hot Pot（小肥羊）：自助火锅
 
   - https://www.littlesheephotpot.com/location/mississauga-on
   - 1100 Burnhamthorpe Rd W #17, Mississauga, ON L5C 4E9

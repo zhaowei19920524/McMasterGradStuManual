@@ -16,18 +16,16 @@ Canada邮政公司：Canada Post
 #) Fedex：http://www.fedex.com/ca_english/
 #) Purolator：https://www.purolator.com/
 
-上面几家国际快递公司只有Purolator是Canada土生土长的公司。但规模较小，近几年才逐渐流行起来。
-
-其中比较建议大家用UPS，只有它在Zone1里有收发点，其它公司的收发点离学校太远，如果遇到必须签收的包裹但又没及时接受，就需要自己去收发点取，路途会比较远。
-
-UPS在Zone1里的地址是：1063 King St W, Hamilton, ON L8S 4S3
+| 上面几家国际快递公司只有Purolator是Canada土生土长的公司。但规模较小，近几年才逐渐流行起来。
+| 其中比较建议大家用UPS，只有它在Zone1里有收发点，其它公司的收发点离学校太远，如果遇到必须签收的包裹但又没及时接受，就需要自己去收发点取，路途会比较远。
+| UPS在Zone1里的地址是：1063 King St W, Hamilton, ON L8S 4S3
 
 华人快递公司
 ------------------------------------------------------
 1) 申通快递：http://stoexpress.ca/
 
-- 营业点列表：http://www.stoexpress.ca/listxx.aspx?id=86
-- Hamilton营业点地址：270 Sherman Ave North, Unit M-108, Hamilton, ON, L8L 6N4。电话：(289)407-3628。微信：StoHamilton
+- 营业点列表：http://www.stoexpress.ca/Home/NetSearch
+- Hamilton营业点地址：901 King St W, Hamilton, ON L8S 1K5。电话：(905)975-3578。微信：StoHamilton
 - Hamilton营业点Facebook：https://www.facebook.com/STO-Express-Hamilton-144304912890150/
 
 2) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
