@@ -40,17 +40,15 @@
 
 借记卡（Debit Card）
 --------------------------------------------
-Debit Card也叫Client Card。它与国内借记卡功能基本相同，提供存/取钱，刷卡消费的基本功能。
-
-不同之处在于：不管你有多少银行账户，你都只有一张Debit卡。也就是说一张debit卡里通常会有一个Chequing account和N个Savings account（N可以是0,1,2,3,...）。Debit Card至少都有一个Chequing account。可以没有Savings account。
+| Debit Card也叫Client Card。它与国内借记卡功能基本相同，提供存/取钱，刷卡消费的基本功能。
+| 不同之处在于：不管你有多少银行账户，你都只有一张Debit卡。也就是说一张debit卡里通常会有一个Chequing account和N个Savings account（N可以是0,1,2,3,...）。Debit Card至少都有一个Chequing account。可以没有Savings account。
 
 .. image:: /resource/bank/Debit_Card.jpg
    :align: center
    :scale: 40%
 
-交易密码：通常是一串不少于6位的阿拉伯数字。在用银行卡在ATM取钱或在pos机消费的时候使用。在第一次去银行开卡的时候可以设置。
-
-刷卡消费：在需要Debit Card刷卡消费的时候，用三种方式：
+| 交易密码：通常是一串不少于6位的阿拉伯数字。在用银行卡在ATM取钱或在pos机消费的时候使用。在第一次去银行开卡的时候可以设置。
+| 刷卡消费：在需要Debit Card刷卡消费的时候，用三种方式：
 
 - tap（推荐）：把银行卡贴到pos机的屏幕上方，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。这种方式最便捷。但是大多数银行都有金额限制，一次付费不能超过$100。http://www.rbcroyalbank.com/chipandflash/index.html
 - swipe：把银行卡在pos机的侧边缘的槽里划一下，可以自动完成付费操作，这个时候pos机就会从Chequing account里扣钱。用这种方式刷卡，最后需要在小票上签名。
@@ -91,9 +89,8 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 网上银行（online banking）
 --------------------------------------------------------
-一般在银行开户后都会有一个网上银行的账户，里面列举了你的所有产品，比如chequing，savings，credit，GIC，investment，贷款等等。
-
-online banking密码：online banking的密码也是在第一次去银行开户的时候设置，这个密码大家一定要选一个比较复杂但自己能记住的。online banking的用户名和密码设置好后都可以随意更改。
+| 一般在银行开户后都会有一个网上银行的账户，里面列举了你的所有产品，比如chequing，savings，credit，GIC，investment，贷款等等。
+| online banking密码：online banking的密码也是在第一次去银行开户的时候设置，这个密码大家一定要选一个比较复杂但自己能记住的。online banking的用户名和密码设置好后都可以随意更改。
 
 作用：
 
@@ -102,9 +99,8 @@ online banking密码：online banking的密码也是在第一次去银行开户�
 
 银行卡的办理
 ------------------------------------
-需要带的材料：护照、Study Permit。
-
-需要开通的账户：
+| 需要带的材料：护照、Study Permit。
+| 需要开通的账户：
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
 - 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利推荐选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多，而Reward却可以兑换日常用品、食品、电影票、租车、机票、旅馆等等，优惠幅度较大。

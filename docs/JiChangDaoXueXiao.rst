@@ -63,7 +63,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 
 方法三：Uber
 --------------------------------------
-https://www.uber.com/en-CA/
+https://www.uber.com/en/ca/
 
 注
 -------------------------

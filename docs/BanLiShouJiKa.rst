@@ -14,7 +14,7 @@ Canada手机业务相关知识
  | +1(XXX)XXX-XXXX
  | +country code (area code) central office code - station code
  | ①country code：Canada的country code是+1
- | ②area code：Hamilton地区的area code有三个：905、289、365。Toronto的area code是416
+ | ②area code：Hamilton地区的area code有三个：905、289、365。Toronto的area code有416、647、437
  | ③central office code和station code：这两段无所谓，大家在办理手机的时候，可以去运营商那里选择自己喜爱的号码。
  | 例如：McMaster University的总机为 (905)525-9140
  | 平时在打电话的时候如果拨打Canada本国的号码，则可以省去最前面的+1
