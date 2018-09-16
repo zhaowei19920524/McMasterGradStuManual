@@ -41,7 +41,7 @@
 
 1. T2202A表：全称是“Tuition, Education, and Textbook Amounts Certificate”。每年一二月份可以在mosaic上可以下载打印。
 
-- 国际学生每年学费中有15%的抵税额度。在你有收入之后，并缴纳了CIT后，第二年可以用学费抵税额度把缴纳的CIT退回来。所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费书费的20%，在以后有工作之后都会以退税的方式退回来。
+- 国际学生每年学费中有15%的抵税额度。在你有收入之后，并缴纳了CIT后，第二年可以用学费抵税额度把缴纳的CIT退回来。所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费的15%，在工作后会以退税的方式退回来。
 - https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html
 
 2. T3表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。

@@ -40,6 +40,7 @@
   - 类似于国内高校的小诊所。但不能处理眼睛和牙齿相关的事物。
   - https://wellness.mcmaster.ca/
   - 看病前需要去按网站上说的方法预约医生。
+  - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
 
   B. Campus dentist
 
@@ -52,10 +53,11 @@
   - 学校里的眼医诊所
   - http://campusoptical.ca/signup.php
 
-2. 校外Walk-in Clinic
+2. 校外Walk-in Clinic和Emergency（急诊）
 
 - 所有人都可以去看病的公共的诊所。但通常不能看牙齿。
 - 地址列表：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
+- 如果需要看急诊，可以点击上面网址里的“Emergency Departments”或查看 http://www.hamiltonhealthsciences.ca/body.cfm?id=2117 。遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车和急诊的费用的。比较推荐的急诊就诊地点是“Hamilton Health Sciences - Hamilton General Hospital - Emergency Rooms”。此外McMaster Children's Hospital只接待儿童的急诊病例。
 
 3. 校外的牙医、眼医诊所
 
