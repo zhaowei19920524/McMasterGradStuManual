@@ -2,18 +2,17 @@
 =================================
 主要地点
 ---------------------------------
-| 买新家具最主要的地方是IKEA，在国内叫宜家。
-| http://www.ikea.com/ca/en/
+买新家具最主要的地方是IKEA，在国内叫宜家。离Hamilton最近的IKEA在Hamilton北边的城市Burlington。
 
-| 离Hamilton最近的IKEA也在Hamilton北边的城市Burlington。
-| 地点是1065 Plains Rd E, Burlington, ON L7T 4K1
-| 如果大家没有车，可以使用IKEA的配送服务
-| http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html
-| 从最近的IKEA Burlington送到Hamilton，$79加元起价，可以在当天送到。由于开学前是配送高峰期，可能从下单到开始准备配送需要等好几天的时间。
-| 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 1路。上车地点在KING AT BAY，下车地点在PLAINS AT FRANCIS。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。
-| 查看车次，可以看Burlington `公交官网`_ （1 - PLAINS - Burlington GO），或Google地图。
+- 官网：http://www.ikea.com/ca/en/
+- 地点：1065 Plains Rd E, Burlington, ON L7T 4K1
+- 公共交通
 
-| 其它比如JYSK, Walmart，Home Depot也可以买各种家居用品，价格略低，不过东西没IKEA全。Walmart也可以配送。
+   - 如果大家没有车，并且要买很多家具，则可以在IKEA官网上买好后使用IKEA的配送服务（http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html）。从最近的IKEA Burlington送到Hamilton，$79加元起价，可以在当天送到。由于开学前是配送高峰期，可能从下单到开始准备配送需要等好几天的时间。
+   - 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 101路（也可以坐1路或1X路，只是中间停靠的站比101路多得太多）。上车地点在Jackson Square西南角的KING AT BAY，下车地点在PLAINS AT FRANCIS。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。查看车次可以看Burlington `公交官网`_ （101 - PLAINS EXPRESS - Burlington GO），或Transit手机App。
+   - 如果觉得买的家具使用IKEA配送太贵，坐公交车又拿不下，可以用Uber送回来（只能送到楼下）。但要注意，买的家具如果能在后背箱放下，则按正常价格计费。如果家具太多，后备箱放不下，需要放在车里，可能需要额外交罚金。
+
+Burlington的IKEA隔壁的商场JYSK、Home Depot同样卖各种家居用品，价格略低，不过东西没IKEA全。Hamilton山上的Walmart也可以买到桌子椅子等家具，并且可以配送。
 
 新入住的apt需要购买的家具
 ---------------------------------------------
@@ -42,8 +41,7 @@
 Canada床的标准
 -----------------------------------
 | https://en.wikipedia.org/wiki/Bed_size#Canada_and_United_States
-| 一般APT里没有家居，床和床垫都需要自己买。北美的床垫和国内的习惯不一样，这边不用棕榈床垫，而是统一用席梦思床垫。
-| 对于我们学生来说，主要有3种：
+| 一般APT里没有家居，床和床垫都需要自己买。北美的床垫和国内的习惯不一样，这边不用棕榈床垫，而是统一用席梦思床垫。对于我们学生来说，主要有3种：
 
 - Twin/Single：单人床
 - Queen/Double：双人床
@@ -64,11 +62,14 @@ Canada床的标准
 .. note::
 
    | 新生如果刚来住的是apt，里面没有家具，但有急着用的解决方法：
-   | 在上面的IKEA Canada或其它网站上买好家具（需要买的家具已经列举在上面了），寄送到群里你认识的学长学姐家暂时放一下（最好是同一个公寓），等你到了直接去取。
-   | 这些网站通常都是支持国际visa或master card的。
-   | 一般买的家具都是零散的组件，把它们安装起来需要各种工具，比如螺丝刀、扳手等。大家极少有这些工具，新来的同学如果借不到，还是没法使用。因此，为了稳妥起见，有此类需求的同学最好从国内带来。需要注意的是这些工具不一定让带上火车，安检的时候可能会被没收。大家可以在上飞机前购买。
+   | 在上面的IKEA Canada或其它网站上买好家具（需要买的家具已经列举在上面了），寄送到群里你认识的学长学姐家暂时放一下（最好是同一个公寓），等你到了直接去取。这些网站通常都是支持国际visa或master card的。
+   | 一般买的家具都是零散的组件，把它们安装起来需要各种工具，比如螺丝刀、锤子等。大家极少有这些工具，新来的同学如果借不到，还是没法使用。因此，如果大家在IKEA购买家具的话，请顺便购买17合1的工具箱（https://www.ikea.com/ca/en/catalog/products/00169254/）。也可以从国内带来。需要注意的是这些工具不一定让带上火车，安检的时候可能会被没收。大家可以在上飞机前购买。
    | ——17-CAS-赵伟
 
+.. admonition:: 本页作者
+
+   - 17-CAS-赵伟
+   - 14-MBA-Sharon Zhang
 
 
 .. _公交官网: https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay

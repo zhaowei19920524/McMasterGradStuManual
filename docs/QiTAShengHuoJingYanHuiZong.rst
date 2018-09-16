@@ -109,25 +109,6 @@
 | https://www.horizonutilities.com/myHome/ElectricityRates/Pages/TOU.aspx
 | 所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
 
-消费税
---------------------------------
-| 在Canada，消费税是不包括在食品价格里面的。这就需要再购买的时候单独交付。
-| 消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，一部分是联邦5%的税，和Ontario省8%的税。
-| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
-| 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。
-| 也有一些产品是不用交税的：
-| http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/stps/cllct-eng.html#type
-| 大体上跟我们相关的有：
-
- | 1. 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品。
- | 2. 儿童用品。
-
-| 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。
-| 不过也有个例外：https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064-harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
-| 加工过的食物，如果原始价格不超过$4，则不用交Ontario的8%的税，只需要交联邦5%的税即可。
-
-| 如果商品可以退货，那么交的税也会一起退回来。
-
 理发店
 --------------------------
 在Canada理发的时候洗头是需要额外付费的，所以理发店默认顾客理发前和理发后都不需要洗头。比较推荐的有以下理发店：

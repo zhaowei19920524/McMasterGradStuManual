@@ -218,7 +218,7 @@ Microsoft实用办公工具
 6. Microsoft Remote Desktop
 
 | 微软远程桌面手机版。
-| iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
+| iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
 | Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
 
 其它常用软件
@@ -226,19 +226,18 @@ Microsoft实用办公工具
 1) WinRAR：http://rarlab.com/
 #) Adobe Acrobat Reader：https://get.adobe.com/reader/
 #) MATLAB：https://bbs.feng.com/forum.php?mod=viewthread&tid=11683142&page=1&from=forumIndex
-#) LaTeX
+#) LaTeX：下面两个必须都安装
 
-| 下面两个必须都安装：
-| LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
-| TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
+- LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
+- TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
 
 附
 -------------------------
 1. 查看当前安装的office是不是office365
 
-| office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
-| 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
-| 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
+ | office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
+ | 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
+ | 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
    :align: center
@@ -268,7 +267,7 @@ Microsoft实用办公工具
 
   A. Computing and Software
 
-  - https://www.cas.mcmaster.ca/support/index.php/Main_Page
+  - 服务器列表：https://www.cas.mcmaster.ca/support/index.php/Main_Page
   - virtual desktop：私有云——Windows虚拟机（包含MATLAB、labview、Maple等软件）。https://www.cas.mcmaster.ca/support/index.php/Virtual_Desktop
   - 私有的代码版本控制服务：gitlab（https://gitlab.cas.mcmaster.ca/），websvn（https://websvn.cas.mcmaster.ca/）
   - 学院为该学院的学生提供的云盘：https://cloud.cas.mcmaster.ca/

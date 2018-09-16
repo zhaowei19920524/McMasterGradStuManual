@@ -9,4 +9,6 @@ schedule:
 - http://rjc.degroote.mcmaster.ca/transportation/#shuttle 
 - https://shuttle.degroote.mcmaster.ca/
 
-——感谢14-MBA-Sharon Zhang提供
+.. admonition:: 本页作者
+   
+   - 14-MBA-Sharon Zhang

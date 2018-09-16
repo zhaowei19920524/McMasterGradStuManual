@@ -280,16 +280,38 @@ Go Transit公司运营以多伦多为中心，连接安大略省南部各大城�
 - 官网：https://www.greyhound.ca/
 - 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）
 
-Hamilton出租车
+出租车
 ------------------------------------------
-Hamilton的出租车叫“Hamilton Cab”。和国内的出租车类似，只不过不能使用招手停的方法，必须用App预定。Hamilton Cab比Uber要便宜得多。大家也可以用这种方法去机场，在这里并不推荐下飞机后用这种方法来Hamilton，因为出租车等待时间也需要付费，大家无法知道飞机是否晚点，也无法算准需要多长时间出机场。
+Canada绝大多数出租车和国内的出租车类似，只不过不能使用招手停的方法，必须用App预定。在Hamilton常见的出租车公司有以下3个：
+
+1. Hamilton Cab：Hamilton的出租车叫“Hamilton Cab”。大家也可以乘坐它去Pearson机场，但不推荐下飞机后用这种方法来Hamilton，因为出租车等待时间也需要付费，大家无法知道飞机是否晚点，也无法算准需要多长时间出机场。
 
 - 官网：http://www.hamiltoncab.com/
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/hamilton-cab/id1209125752?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.limolabs.hamiltoncab
-- 费用：http://www.hamiltoncab.com/rates/ 。目前的费用（2017年）：起步的72.1米是$3.9。以后每72.1米是$0.13。注意，如果预定好了出租车，但没按时到达乘坐地点，出租车每等14秒也是$0.13。去Pearson机场整车费用大概$100。
+- 费用：http://www.hamiltoncab.com/rates/ 。目前的费用（2017年）：起步的72.1米是$3.9，以后每72.1米是$0.13。注意，如果预定好了出租车，但没按时到达乘坐地点，出租车每等14秒也是$0.13。去Pearson机场整车费用大概$100。
+
+2. Uber：原来在国内叫“优步”，是一家世界连锁的出租车公司。
+
+- 官网：https://www.uber.com/en/ca/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/app/uber/id368677368?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.ubercab
+- 费用估计：https://www.uber.com/en-CA/fare-estimate/
+
+3. Blue Line Taxi：Blue Line是一家Canada全国连锁的出租车公司。
+
+- 官网：http://525blue.com/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/blue-line-taxi-hamilton-on/id1048995392?mt=8
+  - Android：https://play.google.com/store/apps/developer?id=Blue+Line+Taxi+Hamilton
+- 费用估计：https://api.taxihail.com/BluelineHamilton/
+
+以上三家公司的出租车，Hamilton Cab是最便宜的，其次是Blue Line Taxi和Uber。大家可以在出发之前在3家公司的App里比较一下价格再决定乘坐哪一个。
 
 Hamilton共享单车——“SoBi”
 -----------------------------------------------------
@@ -311,13 +333,9 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 
 附
 ---------------------
-1. 处理自己单独办理的PRESTO card
+1. 处理自己单独办理的PRESTO card：如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。自己买的PRESTO卡不会退。
 
- | 如果要“免费”使用HSR公交服务，就不得使用学校下发的新卡。若之前的卡中有余额，可以在downtown的GO Centre将卡中的现金转移至新的PRESTO卡上（请同时携带学校发的PRESTO卡和自己买的PRESTO卡）。或打电话给presto客服，客服会把卡里的余额已支票的形式还给你。自己买的PRESTO卡不会退。
-
-2. PRESTO card挂失
-
- | 请及时通过PRESTO网上账户或者电话联系客服（1-877-278-6123）进行挂失。
+2. PRESTO card挂失：请及时通过PRESTO网上账户或者电话联系客服（1-877-278-6123）进行挂失。
  
 - 已经在PRESTO网上注册过的卡
 
@@ -348,15 +366,9 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
    :align: center
    :scale: 25%
 
-| 点击打算乘坐的公交车那一栏下面第一个按钮，就会出现实时交通图，包括公交车现在的位置（大概有一分钟的延迟），预计到达每一站的时间，以及去车站最近的步行线路。
+| 点击打算乘坐的公交车那一栏，就会出现实时交通图，包括公交车现在的位置（大概有一分钟的延迟），预计到达每一站的时间。点击“SEE FULL SCHEDULE”可以查看趟今天公交车在当前这一站的所有停靠时刻表。
 
 .. image:: /resource/bus/Transit_App_03.png
-   :align: center
-   :scale: 25%
-
-| 点击打算乘坐的公交车那一栏下面第四个按钮，就会出现班次列表。
-
-.. image:: /resource/bus/Transit_App_04.png
    :align: center
    :scale: 25%
 

@@ -118,7 +118,7 @@ G类驾照
 - 价格=基本价格+保险+young fee+其它+税
 
   - 基本价格：租车网站上显示的价格。
-  - 保险：给车买的车辆损坏保险。大概二三十刀。详情看下面的注1。
+  - 保险：给车买的车辆损坏保险。大概二三十刀。详情看下面介绍保险的内容。
   - young fee：对于25岁以下的人需要收额外的费用。
   - 其它：
   
@@ -168,3 +168,10 @@ G类驾照
   
   - https://www.51.ca/service/showitem.php?itemid=144943
   - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
+
+.. admonition:: 本页作者
+   
+   - 17-CAS-赵伟
+   - 16-CAS-Tyler Li（LiJun）
+   - 14-BME-Yushan Zhang
+   - 14-EP-张斌
