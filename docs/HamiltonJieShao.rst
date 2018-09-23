@@ -43,26 +43,34 @@ Hamilton的主干道
 
 Hamilton水电气公司
 --------------------------------------------
-| 住apt或house的同学可能需要自己办理水（Water），电（Hydro），气（Gas）的账户。下面介绍一下Hamilton的水电气公司。
+住apt或house的同学可能需要自己办理水（Water），电（Electricity），气（Gas）的账户。下面介绍一下Hamilton的水电气公司。
 
-| Hamilton水电公司是由Horizon Utilities（现在已经并入Alectra ​Utilities）运营的。
-| 网址：https://www.horizonutilities.com/
-| 如果需要开户则打官网主页上Hamilton地区的电话。
-| Hamilton: 905-522-9200 
-| 打电话的时候告诉他你要为某一个apt里的unit或house开户，然后回答问你的各种问题就可以了。
+1. 水电（Hydro）
 
-| Hamilton天然气公司是由Union Gas运营的。
-| 网址：https://www.uniongas.com/
+- Hamilton水电公司是由Horizon Utilities（现在已经并入Alectra ​Utilities）运营的。
+- 网址：https://www.horizonutilities.com/
+- 如果需要开户则打官网主页上Hamilton地区的电话。Hamilton: 905-522-9200。打电话的时候告诉他你要为某一个apt里的unit或house开户，然后回答问你的各种问题就可以了。
+- 注意事项：
+
+  - 水：正像美国电影里演的那样，Canada的自来水也是可以直接饮用的（https://www.hamilton.ca/home-property-and-development/water-sewer/water-quality）。而经过house或apt锅炉加热后则不可饮用，因为热水的蓄水池可能长期没消毒，频繁烧开同样的水容易产生有害物质，并且热水会有助于细菌病毒的生长。其实不管是冷的还是热的自来水都不建议饮用。因为你永远都不知道输水管道多长时间没有清理了。还是建议大家保持在国内的喝水习惯，买一个电热水壶（kettle），煮沸后再喝。
+  - 电：大家住的House或apartment可能电费要另付，这就需要考虑省电的问题了。Hamilton的电费是按时段收费的。Weekdays中午费率最高。晚上和周末节假日费率最低（https://www.horizonutilities.com/myHome/ElectricityRates/Pages/TOU.aspx）。所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
+
+.. image:: /resource/ElectronicRates.jpg
+   :align: center
+
+2. 天然气（Gas）
+
+- Hamilton天然气公司是由Union Gas运营的。
+- 网址：https://www.uniongas.com/
+- 如果需要开户则在网页上方的菜单里点击“Residential”，然后再选择“New Customer”，按照提示一步一步填表即可。
 
 垃圾分类与回收
 ---------------------------------------------
-| 在Canada家庭产生的垃圾必须要分类，Hamilton也不例外。
-| 在Hamilton，市政人员每周一（如果周一是节假日，则延后一天）上午会去各个house和公寓的门口收垃圾。这就需要大家在周末一定要把垃圾拿到门口（公寓就拿到指定的位置）。如果垃圾不分类，那市政人员是不会收走的。
-| 垃圾大体分为3类：
+在Canada家庭产生的垃圾必须要分类，Hamilton也不例外。在Hamilton，市政人员每周一（如果周一是节假日，则延后一天）上午会去各个house和公寓的门口收垃圾。这就需要大家在周末一定要把垃圾拿到门口（公寓就拿到指定的位置）。如果垃圾不分类，那市政人员是不会收走的。垃圾大体分为3类：
 
- | ①可降解的垃圾：比如剩饭剩菜果皮的厨余垃圾，house的枯枝落叶杂草等等，这类垃圾一般要倒在house或公寓的绿色的垃圾桶里。如果厨房用垃圾袋，则必须去超市买可降解的垃圾袋（也是绿色的）。否则市政人员不收。
- | ②可再利用的垃圾：就是瓶瓶罐罐，废纸盒，以及其它有recycle符号的包装袋。这类垃圾一定倒在house或公寓的蓝色的垃圾盒里。
- | ③不可降解不可回收的垃圾：这个则是要倒在黑色的垃圾桶里或倒在一个大的黑色的塑料袋里。垃圾袋没有数量和材质的要求。
+- 可降解的垃圾：比如剩饭剩菜果皮的厨余垃圾，house的枯枝落叶杂草等等，这类垃圾一般要倒在house或公寓的绿色的垃圾桶里。如果厨房用垃圾袋，则必须去超市买可降解的垃圾袋（也是绿色的）。否则市政人员不收。
+- 可再利用的垃圾：就是瓶瓶罐罐，废纸盒，以及其它有recycle符号的包装袋。这类垃圾一定倒在house或公寓的蓝色的垃圾盒里。
+- 不可降解不可回收的垃圾：这个则是要倒在黑色的垃圾桶里或倒在一个大的黑色的塑料袋里。垃圾袋没有数量和材质的要求。
 
 .. image:: /resource/GreenBin.jpg
    :height: 224px
@@ -70,5 +78,8 @@ Hamilton水电气公司
    :height: 224px
 .. image:: /resource/BlackBin.jpg
 
-| 每周回收的垃圾的量也有规定，各类垃圾都不能超过上图中的一桶或一盒。如果超量了，则超过的部分是不会收走的，这意味着你又要放一周。
-| 大家一定要养成垃圾分类和及时倾倒的好习惯。尤其是住公寓的同学，公寓里的bedbug几乎都是垃圾处理不当造成的。
+每周回收的垃圾的量也有规定，各类垃圾都不能超过上图中的一桶或一盒。如果超量了，则超过的部分是不会收走的，这意味着你又要放一周。大家一定要养成垃圾分类和及时倾倒的好习惯。尤其是住公寓的同学，公寓里的bedbug几乎都是垃圾处理不当造成的。
+
+.. admonition:: 本页作者
+
+   - 17-CAS-赵伟

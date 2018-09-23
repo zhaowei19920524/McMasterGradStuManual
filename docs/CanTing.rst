@@ -394,12 +394,12 @@ Hamilton 中餐馆
 
 - Beijing Hut（北京小屋）：点菜制
 
-  - https://plus.google.com/photos/photo/105671526178142822524/6536351373545148434
   - 1467 Main St W, Hamilton, ON L8S 1C9 
   - (905)521-8886 
 
 - Wei Xiang Yuan 北京面点：点菜制
 
+  - https://plus.google.com/photos/photo/105671526178142822524/6536351373545148434
   - 1088 Main St W, Hamilton, ON L8S 1B3
   - (905)297-4702 
 
@@ -418,7 +418,7 @@ Hamilton 中餐馆
   - 165 King St. East, Hamilton
   - (905)529-2226
 
-- Sunrise Restaurant（马队长兰州拉面）：点菜制
+- Sunrise Restaurant（马队长牛肉拉面）：点菜制
 
   - http://www.sunriseday.com/
   - 242 King St W, Hamilton, ON L8P 1A9
@@ -476,6 +476,10 @@ Hamilton 中餐馆
   - http://www.foodfun.ca/
   - 139 King St E, Hamilton, ON L8N 1B1
   - (289)389-8688
+  - 手机App：
+
+    - iOS：https://itunes.apple.com/app/id1222977577?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.foodfun.foodfun
 
 - Mark's Chinese Food & Tavern（中华酒家）：点菜制，外卖
 
@@ -484,13 +488,12 @@ Hamilton 中餐馆
 
 - Crystal Dynasty Chinese Restaurant（美味栈粤菜馆 ）：点菜制
 
-  - http://placeweb.site/crystal-dynasty-restaurant?opentab=1
   - 94 Cannon St W, Hamilton, ON L8R 2B6
   - (905)308-8208
 
 - Forbidden City Chinese Restaurant：外卖，点菜制
 
-  - http://www.forbiddencitydelivery.ca/
+  - https://www.forbidden-city-chinese.com/
   - 273 King St E, Hamilton, ON L8N 1B9
   - (905)528-5945
 
@@ -551,6 +554,7 @@ Hamilton 韩餐
 -------------------
 - ALIRANG（阿里郎）
 
+  - https://www.facebook.com/pages/Alirang/617187441640072
   - 354 Main St W, Hamilton, ON L8P 1K3
   - (905)777-1236
   - 可以使用现金、debit卡、信用卡。

@@ -44,6 +44,7 @@ Welcome to McMaster University!
    ZhuCe
    XueFei
    conditional_offer
+   JiangXueJin
    XuanKe
    DangAn
    LiuXueXingLiQingDan
@@ -133,8 +134,6 @@ Welcome to McMaster University!
 
 本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
 
-.. _hihamilton.com: http://hihamilton.com/
-.. _www.maccssa.org: http://www.maccssa.org/
 .. _租房: ZuFang.html
 .. _sgsrec@mcmaster.ca: mailto:sgsrec@mcmaster.ca
-.. _反馈: https://github.com/zhaowei19920524/McMasterGradStuManual/issues
+.. _反馈: mailto:zhaowei0524@outlook.com?Subject=McMaster研究生新生手册反馈
