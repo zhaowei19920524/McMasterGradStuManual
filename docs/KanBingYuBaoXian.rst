@@ -3,15 +3,15 @@
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872，Exchange Student（交换生）每个学期是$208。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- UHIP/OHIP大体上只能报销看病的门诊费。http://uhip.ca/your-coverage.aspx- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/register-now.aspx  - 第一步：注册账户：http://uhip.ca/_uploads/en_UHIP_Howtoregisterandgetacoveragecard.pdf  - 第二步：打印医保卡：http://uhip.ca/_uploads/en_UHIP_Howtoprintyourcoveragecard.pdf  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
-   :align: center- UHIP提供学生免费医疗，如去看家庭医生时的门诊费，去医院看急诊时的一切费用包括检查、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx#one 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
+   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872，Exchange Student（交换生）每个学期是$208。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/register-now.aspx  - 第一步：注册账户：http://uhip.ca/_uploads/en_UHIP_Howtoregisterandgetacoveragecard.pdf  - 第二步：打印医保卡：http://uhip.ca/_uploads/en_UHIP_Howtoprintyourcoveragecard.pdf  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife
 
 .. image:: /resource/Insurance/my_sunlife_app_2.png
    :align: center
-   :scale: 75%2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不cover的一些项目，如药费。虽然看医生的门诊费由UHIP cover，但医生开的处方药费UHIP并不cover，需要由GSA Health Plan cover。例如：处方药到shoppers drug mart，可报销80%，一般可再额外享受10%的折扣。
+   :scale: 75%2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。通常药费和UHIP不报销的疫苗用Health Insurance Plan可报销80%。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
 - 如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
 3. GSA Dental Insurance Plan（除MBA）- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。4. CUPE Dental Plan- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
@@ -57,7 +57,7 @@
 
 - 所有人都可以去看病的公共的诊所。但通常不能看牙齿。
 - 地址列表：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
-- 如果需要看急诊，可以点击上面网址里的“Emergency Departments”或查看 http://www.hamiltonhealthsciences.ca/body.cfm?id=2117 。遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车和急诊的费用的。比较推荐的急诊就诊地点是“Hamilton Health Sciences - Hamilton General Hospital - Emergency Rooms”。此外McMaster Children's Hospital只接待儿童的急诊病例。
+- 如果需要看急诊，可以点击上面网址里的“Emergency Departments”或查看 http://www.hamiltonhealthsciences.ca/body.cfm?id=2117 。遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
 
 3. 校外的牙医、眼医诊所
 
@@ -73,7 +73,7 @@
 
   - https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/dental-plan/dental-network
 
-  C. CUPE指定牙医诊所：
+  C. CUPE指定的牙医诊所：
   
   - 寻找、预约医生 https://www.opencare.com/ 。
   - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输入Equitable Life of Canada。
@@ -116,7 +116,7 @@
 -------------------------------------------------
 1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
 
- | 以上三种保险都是由Sunlife承保，报销方法为
+ | 以上三种保险都是由Sunlife承保，如果看病诊断费和药费都是自己垫付的，则都需要报销，诊断费由UHIP全包，药费报销80%。报销方法为
 
 - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html

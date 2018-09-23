@@ -4,6 +4,8 @@ Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要
 
 PRESTO卡
 -------------------------------
+PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Hamilton地区的公交系统上使用。此外Metrolinx还运营Go Transit的长途汽车和火车，还有多伦多-皮尔逊机场特快（Union Pearson Express）。
+
 1. PRESTO卡介绍
 
 - 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
@@ -78,6 +80,7 @@ PRESTO卡
 
 .. attention::
    - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
+   - 不管是刚刚入学的新生，还是往届在读的学长学姐们，每年8月份都要自己load一下voucher code。
 
 6. 使用PRESTO card
 

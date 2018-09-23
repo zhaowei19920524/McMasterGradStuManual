@@ -88,7 +88,7 @@
   - P系列
 
     - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-p/c/thinkpadp
-    - 定位是移动服务器。大家如果寻找顶配的笔记本电脑，可以看看这个系列。
+    - 定位是移动服务器。大家如果寻找顶配的商务笔记本电脑，可以看看这个系列。
 
 - IdeaPad系列
 

@@ -51,8 +51,7 @@ G类驾照
   - Part II：变道
   - Part III：three-point turn（三点调头）
   - Part IV：路边停车，包括：pull over（路边直接停下）和parallel parking（平行泊车）
-  - 考试各个Part的各项指标一共100分，70分算通过。但如果出现严重的错误，例如：闯红灯、变道没有看倒车镜和盲点、撞到路牙石或其它人和车等等，则直接fail。
-  - 若第一次考G2没过，则需要再交$52.50+tax重新考一次。
+  - 考试各个Part的各项指标一共100分，70分算通过。但如果出现严重的错误，例如：闯红灯、变道没有看倒车镜和盲点、撞到路牙石或其它人和车等等，则直接fail。若第一次考G2没过，则需要再交$52.50+tax重新考一次。
 
 3. G License
 
@@ -67,8 +66,8 @@ G类驾照
 1) 第一次报名大概要交$158.25+tax（2017年）的考试费，包括一次G1上机考试和一次G2路考的费用。需要带护照。
 #) G1和G2的驾照只有5年的有效期。过了有效期需要重新从G1开始考。除非已经获得G license。
 #) 国内驾照来Canada可以开3个月的车，但是要有相应的驾照翻译件（见附1）。3个月的时间是从第一次落地Canada算起。如果考了G1就不能再使用了，因此G1结束考G2的时候就不能自己驾车。https://www.ontario.ca/page/drive-ontario-visitors
-#) 国内驾龄满两年，并且携带国内车管所开具的无事故证明（或无违章记录证明）和驾照翻译件（见附1），则可直接考G（G1必须先考）。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
-#) 国内驾龄满两年，但是未携带国内车管所开具的无事故证明（或无违章记录证明），则从G2开始考起（G1必须先考）。
+#) 国内驾龄满两年，并且携带国内车管所开具的无事故证明（或无违章记录证明）和驾照翻译件（见附1），考完G1之后没有等待期可直接考G。但只有一次机会，若未通过，则从G2开始考起。https://drivetest.ca/licences/licence-exchanges/foreign-licence-experience-credits.html
+#) 国内驾龄满两年，但是未携带国内车管所开具的无事故证明（或无违章记录证明），考完G1之后不能直接考G，只能继续考G2。
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处在50 Dundurn St S, Hamilton, ON L8P 4W3。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
 #) 其它省份的驾照来到Ontario省的处理方法：https://www.ontario.ca/page/exchange-out-province-drivers-licence
 
@@ -77,7 +76,7 @@ G类驾照
 | 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学，大概$40/小时。https://drivetest.ca/tests/resources/beginner-driver-education.html
 | 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。当然如果不急着考G2，并且出于省钱考虑，也可以不参加驾校的理论课学习，不拿全科证书。https://drivetest.ca/licences/drivers-licences-cars.html
 | 大家在参加驾校的时候一定要在省政府官网上看看是不是被认可的驾校：http://www.mto.gov.on.ca/english/driver/driving-schools.shtml
-| 此外，大家也可以直接和驾校的华人教练联系来准备G2 Road Test和G Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。
+| 此外，大家也可以跳过驾校，直接和驾校的华人教练联系来准备G2 Road Test和G Road Test。如果大家还有比较推荐的教练可以和网站维护人员联系，我们会加到列表中。
 
 - 董教练：(289)237-9486
 - 林教练：(905)525-2288（Office），(905)923-0038（Cell）
@@ -159,15 +158,14 @@ G类驾照
 5. 接送
 
 - https://www.enterprise.ca/en/help/faqs/pick-up.html
-- 通常租车公司提供免费的接送的服务。机场除外。
-- 就是租车前开车把你从住处接到租车行，或者还车后开车把你从租车行送到住处。
+- 通常租车公司提供免费的接送的服务，机场除外。这项服务就是租车前开车把你从住处接到租车行，或者还车后开车把你从租车行送到住处。
 
 附
 ---------------------
 1. 驾照翻译：国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师。例如以下学长学姐曾经使用过得翻译机构：
   
-  - https://www.51.ca/service/showitem.php?itemid=144943
-  - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
+- https://www.51.ca/service/showitem.php?itemid=144943
+- http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
 
 .. admonition:: 本页作者
    
