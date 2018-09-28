@@ -80,7 +80,7 @@
 
 注：
 
-1) MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/about/make-an-appointment/#Eligibility
+1) MBA、Post doc、访问学生是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
 #) 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
 
 - 非MBA学生可以在GSA Insurance Plan的网页找到。

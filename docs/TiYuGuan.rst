@@ -24,17 +24,16 @@
 
 请务必用App查看开放时间再去。
 
-健身房
+健身房（Pulse）
 -----------------------------
-https://rec.mcmaster.ca/memberships
+| https://rec.mcmaster.ca/memberships
+| 健身房是体育馆里为数不多需要额外付费的设施。年费$260（2018年）。在体育馆南门进门右手边的办公室里缴费。
 
 .. image:: /resource/TiYuGuan/Pulse_01.jpg
    :align: center
 
 .. image:: /resource/TiYuGuan/Pulse_02.jpg
    :align: center
-
-健身房是体育馆里为数不多需要额外付费的设施。年费$260（2018年）。在体育馆南门进门右手边的办公室里缴费。
 
 健身房里有三部分设施：上面第一幅图为健身器材室。第二幅图为健身课（Fitness Classes），详细课表在 https://rec.mcmaster.ca/activities/fitness-classes-pulse 。除此之外还有攀岩：https://rec.mcmaster.ca/facilities/feather-family-climbing-wall 。
 
@@ -50,7 +49,7 @@ https://rec.mcmaster.ca/memberships
 - Lengths：用绳索把泳池隔成一条一条泳道
 - Leisure：没有绳索，就是一个大泳池，可以随便玩
 
-举例：Shallow End Lengths就是只开浅水区，并且有泳道。Deep End Leisure就是只开深水区，没有泳道，可以随便玩水。Long Course Lengths就是把泳池中间的隔离器移开，并且用绳索划分泳道，全长50米，可以从潜水区的一端游到深水区的另一端。
+举例：Shallow End Lengths就是只开浅水区，并且有泳道。Deep End Leisure就是只开深水区，没有泳道，可以随便玩水。Long Course Lengths就是把泳池中间的隔离墙移开，并且用绳索划分泳道，全长50米，可以从潜水区的一端游到深水区的另一端。
 
 壁球馆
 ----------------------------------

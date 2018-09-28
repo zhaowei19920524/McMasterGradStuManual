@@ -124,7 +124,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 1. 新生一定要在来之前就把短租找好，否则会出现到校后没有地方住的尴尬局面。由于最多只住几周，大家不要对短租的住处有太高的要求，即使是住地下室、客厅。
 2. 为了安全起见，也为了上学方便。大家最好住在Zone1，尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区（Zone 1）的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。没有车的同学如果住downtown，晚上最好在天黑前回家，以免遇到不愉快的事情，尤其是女生。
-3. Full-time MBA学生虽然上课地点在RJC校区，但依然建议住在Hamilton，除非自己有车。原因是RJC校区所在地Burlington公共交通不便，中国超市缺乏。学习和生活的便捷程度会大打折扣。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
+3. Full-time MBA学生上课地点在Burlington的RJC校区，所以MBA学生可以住在Hamilton也可以直接住在Burlington。由于MBA没有公交卡（U-Pass），所以坐车需要单独买票，Burlington的公交月卡比Hamilton要便宜。虽然Burlington没有特别好的中国超市，但可以坐Burlington 101路、1路、1X路到Hamilton Jackson Square里的Nations Fresh Food买菜再返回Burlington，具体可以查看本站里关于Burlington Transit的 `介绍`_ 。这里我们没有列举Burlington的公寓和house房源，新生们可以问问往届MBA是如何在Burlington租房的。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton或Burlington，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
 5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
 6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
@@ -228,6 +228,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
   - 191 Main St W： 很多同学都推荐这个downtown的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
   - 69 Sanders Blvd：这套公寓在学校西边不远处，一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
+  - 35 Dundurn St S：准确的地址是21-53 Dundurn St. S.，在Zone1和Dundurn的分界线附近，是一排房子的集合。它的管理和69 Sanders Blvd类似。
   - 46 James St N：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
 
 - West Village Suites（1686 Main St W）
@@ -251,7 +252,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 - 140 Main St W
 
-  - Hamilton最贵的condo，最贵的3室一厅竟然要$3000+/月。
+  - Hamilton最贵的condo，最贵的3室一厅竟然要$3000/月。
   - 有公共的健身房和空调。
 
 .. admonition:: 本页作者
@@ -259,3 +260,5 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
    - 陆定维老师
    - 17-CAS-赵伟
    - 14-EP-张斌
+
+.. _介绍: GongJiaoChe.html#id2

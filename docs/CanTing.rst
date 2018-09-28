@@ -323,11 +323,6 @@ McMaster周边的西餐
   - 虽然一杯咖啡只要$1~2，但依然有更为省钱的方法。Tim Hortons在Amazon上有网店，里面卖几乎所有的咖啡、热饮等等。如果大家经常喝，可以一次性买一大桶，回来自己冲泡。一大桶咖啡不会超过20刀，一大桶热饮不会超过10刀。足够冲泡几十杯，喝很长时间。
   - https://www.amazon.ca/s/field-keywords=tim+hortons
 
-- 打折（不一定一直都有）：
-
-  - 大家下载Tim Hortons的App后可以使用Groupon App对Tim Hortons的账户充值。
-  - Groupon里有Tim Hortons 5折优惠券。比如购买$5的优惠券后，可以给自己Tim Hortons增加$10的余额。付款的时候直接刷App就可以了。
-
 Hamilton其它地方的西餐
 ---------------------------------------------
 1. 市中心（downtown）
