@@ -124,7 +124,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 1. 新生一定要在来之前就把短租找好，否则会出现到校后没有地方住的尴尬局面。由于最多只住几周，大家不要对短租的住处有太高的要求，即使是住地下室、客厅。
 2. 为了安全起见，也为了上学方便。大家最好住在Zone1，尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区（Zone 1）的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。没有车的同学如果住downtown，晚上最好在天黑前回家，以免遇到不愉快的事情，尤其是女生。
-3. Full-time MBA学生上课地点在Burlington的RJC校区，所以MBA学生可以住在Hamilton也可以直接住在Burlington。由于MBA没有公交卡（U-Pass），所以坐车需要单独买票，Burlington的公交月卡比Hamilton要便宜。虽然Burlington没有特别好的中国超市，但可以坐Burlington 101路、1路、1X路到Hamilton Jackson Square里的Nations Fresh Food买菜再返回Burlington，具体可以查看本站里关于Burlington Transit的 `介绍`_ 。这里我们没有列举Burlington的公寓和house房源，新生们可以问问往届MBA是如何在Burlington租房的。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton或Burlington，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
+3. Full-time MBA学生上课地点在Burlington的RJC校区，所以MBA学生可以住在Hamilton也可以直接住在Burlington。由于MBA没有公交卡（U-Pass），所以坐车需要单独买票，Burlington的公交月卡比Hamilton要便宜。虽然Burlington没有特别好的中国超市，但可以坐Burlington 101路、1路、1X路到Hamilton Jackson Square里的Nations Fresh Food买菜再返回Burlington，具体可以查看本站里关于Burlington Transit的 `介绍`_ 。这里我们没有列举Burlington的公寓和house房源，新生们可以问问往届MBA是如何在Burlington租房的，或者在Google地图里先找到Burlington，再搜apartment。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton或Burlington，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
 5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
 6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
@@ -133,7 +133,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   A. 让房东多发些图片。 
   B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
   C. 接手马上要毕业学长学姐房子，这样最稳妥。
-  D. 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间。但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间，租客没有选择房间的权利。
+  D. 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间，但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间，租客没有选择房间的权利。
 
 租房流程
 -------------------

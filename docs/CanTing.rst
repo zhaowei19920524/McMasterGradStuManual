@@ -10,8 +10,8 @@ McMaster餐厅官网
 - 官网主页：http://hospitality.mcmaster.ca/
 - Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
 - Hour：http://hospitality.mcmaster.ca/hours.html
-- On-Campus Location：http://hospitality.mcmaster.ca/on-campus.html
-- Off-Campus Location：http://hospitality.mcmaster.ca/off-campus.html
+- On-Campus Location（校内的餐厅、咖啡店、小吃店）：http://hospitality.mcmaster.ca/on-campus.html
+- Off-Campus Location（和学校有合作的校外餐厅，可以使用带有Meal Plan的学生卡或工卡支付）：http://hospitality.mcmaster.ca/off-campus.html
 
 McMaster餐厅介绍
 --------------------------------------------
@@ -19,51 +19,63 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 1. CENTRO @ Commons
 
- | 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
- | http://hospitality.mcmaster.ca/locations/centro.html
+- 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
+- http://hospitality.mcmaster.ca/locations/centro.html
 
 2. EAST MEETS WEST BISTRO
 
- | 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
- | http://hospitality.mcmaster.ca/locations/emw-bistro.html
+- 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
+- http://hospitality.mcmaster.ca/locations/emw-bistro.html
 
 3. The Phoenix
 
- | 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。这个地方除了提供酒水饮料外，也提供较为全面的西餐。
- | https://www.phoenixmcmaster.com/
- | 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
- | 如果有GSA stickers（小秘会发邮件通知领取），可以在这个餐馆里吃饭享受9折优惠 https://gsamcmaster.org/student-specials/ 。
+- 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。这个地方除了提供酒水饮料外，也提供较为全面的西餐。如果有GSA stickers（小秘会发邮件通知领取），可以在这个餐馆里吃饭享受9折优惠 https://gsamcmaster.org/student-specials/ 。
+- https://www.phoenixmcmaster.com/
+- 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
 
 4. Student Center一楼
 
 Meal Plan
 -------------------------------------
-http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+| 官网介绍：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+| 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。办理Meal Plan可以获得相应的打折，方法是向Student Card（学生卡）或Working at McMaster卡（工卡）里充钱，在支付的时候直接刷学生卡或工卡就可以了。学生卡或工卡不但可以用于上面介绍的餐厅，也可以用在学校里任何一个On-Campus Location或Off-Campus Location的餐饮店。
 
-对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。办理Meal Plan可以获得相应的打折，方法是向Student Card里充钱，在支付的时候直接刷学生卡就可以了。学生卡不但可以用于餐厅，也可以用在学校里任何一个餐饮店。
+1. Off-Campus Meal Plan
 
-.. image:: resource/CanTing/MealPlan.jpg
+.. image:: resource/CanTing/OffCampusMealPlan.png
    :align: center
 
-有两种Meal Plan：
+Off-Campus Meal Plan对于所有住在校外的学生都可以申请，按计费方式又分为两种小的Meal Plan：
 
-1. Freedom Plan（建议）
+- Freedom Plan（建议）
 
- | 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。
- | 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
+  - 大家向Student Card里充钱之后，可以随便用，没有时间限制，并且可以便宜5%。最少一次充$100。支付的时候必须刷Student Card。
+  - 举例：买$10的食物，所需的费用是：10*(1+13%)*95%≈10.74
 
-2. Term Plan
+- Term Plan
 
- | 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。这种方法可以不用交13%的消费税。
- | 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
+  - 学校规定：至少一次充4周，每周最少$65。也就是说，必须在相应时间段内花完充的钱，过期作废。如果这种方法可以不用交13%的消费税。
+  - 举例：假如一次充4周，每周$65，则在4周内必须花完$260，过期作废，不退款。买$10的食物：所需的费用就是$10。
 
-申请Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须亲自去一趟MAC Express Office。
+申请Off-Campus Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须带上 **Student Card**，亲自去一趟MAC Express Office。
+
+2. Staff & Faculty Meal Plan
+
+.. image:: resource/CanTing/StaffFacultyMealPlan.png
+   :align: center
+
+Staff & Faculty Meal Plan只能给学校的Staff和Faculty。Staff通常指学校的教学科研助理、行政、后勤人员，如果大家有TA、RA，或者在学校找到了行政职位，或在麦马读Post Doc，则属于Staff。Faculty一般指科研人员，比如教授们。所以如果大家符合Staff的条件可以不申请上面的Off-Campus Meal Plan，而直接申请Staff & Faculty Meal Plan。Staff & Faculty Meal Plan优于Off-Campus Meal Plan里的Freedom Plan。因为Staff & Faculty Meal Plan在On-Campus Location或Off-Campus Location的餐饮店买东西时给10%的折扣。
+
+- 大家向Working at McMaster卡里充钱之后，可以随便用，没有时间限制，并且可以便宜10%。最少一次充$50。支付的时候必须刷Working at McMaster卡。
+- 举例：买$10的食物，所需的费用是：10*(1+13%)*90%≈10.17
+
+申请Staff & Faculty Meal Plan的方法：填好网页里的表格，交到MAC Express Office（Commons Building 128)；或者可以直接去办公室填表，立即生效。第一次申请Meal Plan和充值必须带上 **Working at McMaster卡**，亲自去一趟MAC Express Office。如果之前办理了Off-Campus Meal Plan，则可以通过这个申请表转成Staff & Faculty Meal Plan。之前在Student Card里充钱的余额也会自动转到Working at McMaster卡里。
 
 充值：
 
-- Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值起，就可以在网上操作了，在网上不但可以充值，也可以查看余额。
+- 以上两大类Meal Plan不仅可以支持线下充钱，也可以在网上充钱。从第二次充值起，就可以在网上操作了，在网上不但可以充值，也可以查看余额。
 - 登录账户网址：https://mealacct.mcmaster.ca/OneWeb/Account/LogOn
-- 第一次登录需要先重置密码，在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
+- 第一次登录需要先重置密码（http://mealcard.mcmaster.ca/acctnfo.htm）：在上面的网页里点击ACCOUNT SETTINGS -> RESET PIN，用户名是你的student ID。以后都用你的student ID和新密码登录。
 - 充值步骤：
 
  | 第一步：登录上面的网址。

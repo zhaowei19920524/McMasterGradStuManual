@@ -4,7 +4,7 @@ Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要
 
 PRESTO卡
 -------------------------------
-PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Hamilton地区的公交系统上使用。此外Metrolinx还运营Go Transit的长途汽车和火车，还有多伦多-皮尔逊机场特快（Union Pearson Express）。
+PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Hamilton地区的公交系统上使用。此外Metrolinx还运营Go Transit的长途汽车和火车，还有多伦多-皮尔逊机场特快列车（Union Pearson Express）。
 
 1. PRESTO卡介绍
 
@@ -198,7 +198,7 @@ Go Transit公交车、火车
    :align: center
    :width: 200 px
 
-Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略省南部各大城市的长途汽车和火车。其中汽车叫Go Bus，火车叫Go Train。他们的外表都有绿白条纹。其中Go Bus车头的LED屏幕里会显示自己是哪一路汽车和去往哪个终点站。由于Go Train比较少，并且也极少乘坐，以下不会详细介绍，大家有兴趣可以自行去Go Transit网站上查阅。
+Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略省南部各大城市的长途汽车和火车。其中汽车叫Go Bus，火车叫Go Train。他们的外表都有绿白条纹。其中Go Bus车头的LED屏幕里会显示自己是哪一路汽车和去往哪个终点站。由于Go Train比较少，以下不会详细介绍，大家有兴趣可以自行去Go Transit网站上查阅。
 
 .. image:: /resource/bus/Go_Bus.jpg
    :align: center
@@ -259,7 +259,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- Metrolinx下属的UP Express公司运营连接Toronto Union Station到Pearson Airport的快速火车。
+- Metrolinx下属的UP Express公司运营连接Toronto Union Station到Pearson Airport的特快列车。
 - 官网：https://www.upexpress.com/
 - Pearson机场：https://www.torontopearson.com/en/toandfrom/upexpress/
 - 费用：https://www.upexpress.com/Tickets/Tickets
