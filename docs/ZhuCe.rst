@@ -30,6 +30,10 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
  | 这个大家一定要尽快提交，这样才能保证学校能尽快制作学生卡，新生在8月底能拿到。否则拿学生卡会推迟，会影响到免费坐车。根据学校的规定，上传照片只有一次机会，不能更改。按照往年经验，学生卡上的照片是1:1比例，大家上传前可以先处理一下以防被截。https://registrar.mcmaster.ca/services/id-cards/
 
+.. image:: resource/StudentCard.png
+   :align: center
+   :scale: 50%
+
 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 
  | study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上，conditional offer的图标会变成final offer。

@@ -1,7 +1,5 @@
 ﻿资助与奖学金
 ==========================================
-政策
-----------------------------
 | 对于留学生（International Student或Visa Student）来说，我们能获得的奖学金种类非常少。大部分奖学金还是给permanent resident（PR，永久居民，枫叶卡）或Canada citizen（加拿大公民）的。如果大家有资助或奖学金，那么在offer都已经写明了。除了Teaching Assistant和Research Assistant可能可以开学再申请外，其它奖学金基本不会有任何变动。
 | 对于全奖的学生，大体上交了学费后还会剩余$20000~$25000/年。具体数额还要看导师所给的Research Scholarship的多少。
 | 按McMaster的规定，博士学生必须是全奖，如果导师funding不够，则无权招博士。所以博士们完全不需要跟导师提奖学金数额的事，offer上一定会有一个相对较高的数目。
