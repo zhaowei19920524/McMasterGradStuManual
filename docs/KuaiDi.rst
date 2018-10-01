@@ -22,7 +22,7 @@ Canada邮政公司：Canada Post
 
 华人快递公司
 ------------------------------------------------------
-1) 申通快递：http://stoexpress.ca/
+1) 申通快递：http://www.stoexpress.ca/
 
 - 营业点列表：http://www.stoexpress.ca/Home/NetSearch
 - Hamilton营业点地址：901 King St W, Hamilton, ON L8S 1K5。电话：(905)975-3578。微信：StoHamilton
@@ -31,4 +31,4 @@ Canada邮政公司：Canada Post
 2) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
 3) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
 4) 锦程快递：http://www.hr-ex.com/ch Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
-5) 丰泰国际快递：http://soonexpress.com/
+5) 丰泰国际快递：http://soonexpress.ca/
