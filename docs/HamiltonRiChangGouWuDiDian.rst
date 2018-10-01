@@ -158,11 +158,15 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
   - iOS：https://itunes.apple.com/ca/app/canadian-tire-retail/id403884878?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.simplygood.ct
 
-2. NoFrills & Price Chopper
+2. LCBO（Liquor Control Board of Ontario）
 
-- https://www.nofrills.ca/
-- https://www.pricechopper.com/
-- 比较便宜的食品店，购买的时候注意新鲜程度。
+- http://www.lcbo.com/
+- Ontario最大的酒类零售店。它是Ontario省政府开设的。
+- 大家去买酒一定要带上Government issued photo ID。例如驾照或护照以备检查年龄是否到政府规定的19岁的标准。http://www.lcbo.com/content/lcbo/en/responsibility/responsibility/legal-drinking-age.html
+- 手机App
+
+  - iOS：https://itunes.apple.com/ca/app/lcbo/id442813258?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.lcbo.lcbo
 
 3. Staples
 
@@ -173,26 +177,22 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
   - iOS：https://itunes.apple.com/ca/app/staples-home-office-shopping/id376393873?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.skava.hybridapp.staplescaen
 
-4. LCBO（Liquor Control Board of Ontario）
-
-- http://www.lcbo.com/
-- Ontario最大的酒类零售店。它是Ontario省政府开设的。
-- 大家去买酒一定要带上Government issued photo ID。例如驾照或护照以备检查年龄是否到政府规定的19岁的标准。http://www.lcbo.com/content/lcbo/en/responsibility/responsibility/legal-drinking-age.html
-- 手机App
-
-  - iOS：https://itunes.apple.com/ca/app/lcbo/id442813258?mt=8
-  - Android：https://play.google.com/store/apps/details?id=com.lcbo.lcbo
-
-5. FreshCo
-
-- http://freshco.com/
-- 所卖商品和metro或foodbasics类似，但蔬菜品种比前两者多。可以理解为西人版的Nations Fresh Foods。
-
-6. Hamilton Farmers' Market
+4. Hamilton Farmers' Market
 
 - https://hamiltonfarmersmarket.ca/
 - 1837开始就有的一个菜市场，后来几经变迁，现在设在Jackson Square东北角。
 - 里面的大多数商家所卖的东西都是Hamilton各个县里的农民在自家的农场里的收货。
+
+5. NoFrills & Price Chopper
+
+- https://www.nofrills.ca/
+- https://www.pricechopper.com/
+- 比较便宜的食品店，购买的时候注意新鲜程度。
+
+6. FreshCo
+
+- http://freshco.com/
+- 所卖商品和metro或foodbasics类似，但蔬菜品种比前两者多。可以理解为西人版的Nations Fresh Foods。
 
 学姐经验
 --------------------------------------------------------

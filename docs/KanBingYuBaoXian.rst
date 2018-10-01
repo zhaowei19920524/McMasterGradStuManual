@@ -56,7 +56,7 @@
 2. 校外Walk-in Clinic和Emergency（急诊）
 
 - 所有人都可以去看病的公共的诊所。但通常不能看牙齿。
-- 地址列表：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
+- 诊所列表（Hamilton+Burlington）：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
 - 如果需要看急诊，可以点击上面网址里的“Emergency Departments”或查看 http://www.hamiltonhealthsciences.ca/body.cfm?id=2117 。遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
 
 3. 校外的牙医、眼医诊所
@@ -108,7 +108,16 @@
 4. Rexall
 
 - 官网：https://www.rexall.ca/pharmacy
-- Rexall主要是一家药店，现在也零售一些生活用品，在Jackson Square。
+- Rexall主要是一家药店，现在也零售一些生活用品，在Jackson Square。https://www.rexall.ca/storelocator/store/1404
+- Rexall跟student care有合作，这家店支持Pay-Direct Card，如果出示Pay-Direct Card可以额外再享受10%的买药优惠。 http://studentcare.ca/rte/en/McMasterUniversity_Health_HealthCoverage_PharmacyNetwork
+
+5. 其它买药地点列表：
+
+- 官网：https://pharmasave.com/
+- 手机App“eCare@Pharmasave”：
+  
+  - iOS：https://itunes.apple.com/ca/app/pharmasave-drugs/id608514849?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.pharmasaves.android
 
 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）的药也是可以自由购买的。
 
@@ -120,7 +129,7 @@
 
 - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
-- 方法3：如果院方接受，也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+- 方法3：如果药店接受（比如Rexall），也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 
 2. 报销CUPE Dental Plan
 
@@ -153,7 +162,7 @@
    :align: center
    :scale: 50%
 
-- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，e.g.: Dundurn Medical Center）
+- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，例如：McMaster Student Wellness Centre和Dundurn Medical Center）
 - 第二步：自己拿着处方去药店买疫苗，McMaster University Centre Pharmasave、Fortinos、Shoppers等地方都可以买。疫苗无法在药房直接报销。这一步属于买药环节，需要用GSA或MSU的保险。（报销80%的费用）
 - 第三步：回到clinic打疫苗。
 

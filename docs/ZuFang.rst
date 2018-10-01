@@ -161,8 +161,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
 
-  A. 因为house门口的草坪不剪草（杂草超过20cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
-  B. 在冬天，如果没除雪导致行人在门口摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
+  A. 因为house门口的草坪不剪草（杂草超过21cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
+  B. 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
   C. 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
 7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。

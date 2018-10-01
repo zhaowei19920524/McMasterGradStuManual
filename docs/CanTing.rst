@@ -211,7 +211,7 @@ McMaster周边的西餐
 
   - https://pizzanova.com/
   - 1016 King St W, Hamilton, ON L8S 1L4
-  - +1(844)310-3300
+  - (844)310-3300
   - 手机App：
 
     - iOS：https://itunes.apple.com/ca/app/pizza-nova/id885029821?mt=8
@@ -326,8 +326,8 @@ McMaster周边的西餐
 - 地点：
 
   - McMaster Student Center一楼
-  - McMaster IAHS一楼
   - McMaster东边：951 King St W, Hamilton, ON L8S 1K9
+  - McMaster南边：1445 Main St W, Hamilton, ON L8S 1C8
   - McMaster西边：1554 Main St W, Hamilton, ON L8S 1E5
   - 历史上第一家成立的Tim Hortons：65 Ottawa St N, Hamilton, ON L8H 3Y9
 - DIY
@@ -378,6 +378,11 @@ Hamilton其它地方的西餐
 Hamilton 中餐馆
 ----------------------------------
 1. 学校周边（Zone 1）：
+
+- The Arch Noodle House（校门口）：点菜制
+
+  - 1309 Main St W, Hamilton, ON L8S 1C5
+  - 18年秋季，在学校南门对面新开了一家拉面馆。
 
 - Mr. Gao（高老庄）：点菜制，外卖
 
