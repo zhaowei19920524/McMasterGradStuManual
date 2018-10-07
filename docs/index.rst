@@ -87,7 +87,7 @@ Welcome to McMaster University!
    MaiJiaJu
    KanBingYuBaoXian
    BaoShui
-   kuaidi
+   KuaiDiGongSi
    YingShiZiYuan
    TanQinQianZheng_ZiNv
    MeiGuoLvYouQianZheng

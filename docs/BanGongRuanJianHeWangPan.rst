@@ -2,13 +2,11 @@
 ==============================
 Microsoft Office 365
 -----------------------------
-- 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。
+| 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。新生可能要等开学后半个月才能使用。http://www.mcmaster.ca/uts/office365/index.html
+| 学校购买的Office 365包括两部分服务：
 
-  - http://www.mcmaster.ca/uts/office365/index.html
-- 学校购买的Office 365包括两部分服务
-
-  - Office 365 A1 for students：主要包括在线版本的office和团队合作工具Teams。https://products.office.com/en-us/academic/compare-office-365-education-plans
-  - Office 365 ProPlus for students：主要包括完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
+- Office 365 A1 for students：主要包括在线版本的office和团队合作工具Teams。https://products.office.com/en-us/academic/compare-office-365-education-plans
+- Office 365 ProPlus for students：主要包括完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
 
 .. image:: /resource/office365/Software_List.png
    :align: center
@@ -17,26 +15,26 @@ Microsoft Office 365
 **Part I：电脑上的office的使用方法**
 
 .. attention::
-  1. 如果你的电脑里已经安装了office365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
-  2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先卸载。 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 。使用Option 2的方法。
+  1. 如果你的电脑里已经安装了office 365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
+  2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先用官网卸载工具彻底从电脑里清除。打开 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 ，使用Option 2的方法。
 
 第一步：登录微软的网站 https://portal.office.com/ 
 
-| 用户名：MacId@ads.mcmaster.ca
-| 密码：登录mosaic的密码
-| 为了以后登录方便，可以勾上Keep me signed in。
+ | 用户名：MacId@ads.mcmaster.ca
+ | 密码：登录mosaic的密码
+ | 为了以后登录方便，可以勾上Keep me signed in。
 
 .. image:: /resource/office365/office365_1.png
    :align: center
 
-第二步：office网站上貌似默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
+第二步：office网站上默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
 
-.. image:: /resource/office365/office365_2.jpg
+.. image:: /resource/office365/office365_2.png
    :align: center
 
 第三步：在version的地方选择64-bit，然后点击下方的Install。
 
-| 这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术）。它不会下载一个iso镜像，但macOS版会下载一个镜像，然后自己去安装。
+ | 这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术）。它不会下载一个iso镜像，但macOS版会下载一个镜像，然后自己去安装。
 
 .. image:: /resource/office365/office365_3.png
    :align: center
@@ -66,7 +64,7 @@ Microsoft Office 365
 2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
 3. MacId@ads.mcmaster.ca 仅仅是一个用户名，不是邮箱。
 
-Windows 10
+Windows 10 Education
 ----------------------------------------------
 McMaster已经为每一个学生购买了授权，每个学生都能得到一个正版的Windows 10 Education的序列号，Education版和Pro版的功能基本一致。大家如果有还是安装着Windows 10之前版本的老电脑，或Mac电脑装双系统，可以考虑用学校购买的授权。
 
@@ -82,24 +80,24 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 网盘
 -----------------------------
-1. Microsoft Onedrive
+1. Microsoft Onedrive：Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
 
-| Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
-| 存储空间：5GB（免费）
-| 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
-| 使用方法：用微软邮箱登录后就可以使用。
-| 在线登录方法：https://onedrive.com/
-| iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
+- 存储空间：5GB（免费）
+- 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
+- 官网：https://onedrive.com/
+- 登录方法：用微软邮箱登录后就可以使用。
+- 手机App：
 
-2. Microsoft Onedrive for Business
+  - iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
 
-| 学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
-| 存储空间：1TB
-| 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
-| 使用方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
-| 在线登录方法：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
-| 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+2. Microsoft Onedrive for Business：学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
+
+- 存储空间：1TB
+- 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
+- 官网：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
+- 登录方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
+- 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 .. image:: /resource/office365/onedrive_1.jpg
    :align: center
@@ -107,35 +105,36 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 .. image:: /resource/office365/onedrive_2.png
    :align: center
 
-3. Google Drive（Personal）
+3. Google Drive（Personal）：Google为每个注册Gmail的用户提供Google Drive网盘。
 
-| Google为每个注册Gmail的用户提供Google Drive网盘。
-| 存储空间：15GB（免费）
-| 下载地址：https://www.google.com/drive/download/client/
-| 使用方法：使用Gmail的邮箱账户登录即可。
-| 在线登录方法：https://drive.google.com/
-| iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
-| 注：在国内无法访问。
+- 存储空间：15GB（免费）
+- 下载地址：https://www.google.com/drive/download/client/
+- 官网：https://drive.google.com/
+- 登录方法：使用Gmail的邮箱账户登录即可。
+- 手机App：
 
-4. Google Drive（G Suite）
+  - iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
+- 注：在国内无法访问。
 
-| 大家用的MacID@mcmaster.ca的Google企业邮箱里自带了Google Drive网盘。
-| 存储空间：5TB
-| 下载地址： https://www.google.com/drive/download/client/
-| 使用方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
-| 在线登录方法：https://drive.google.com/
-| 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+4. Google Drive（G Suite）：大家用的MacID@mcmaster.ca的Google企业邮箱里自带了Google Drive网盘。
 
-5. Dropbox
+- 存储空间：Unlimited
+- 下载地址： https://www.google.com/drive/download/client/
+- 官网：https://drive.google.com/
+- 登录方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
+- 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
-| Dropbox也是比较流行的网盘。
-| 存储空间：2GB（免费）
-| 下载地址： https://www.dropbox.com/install
-| 使用方法：在Dropbox官网上自行注册登录。
-| 在线登录方法：https://www.dropbox.com/login
-| iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
-| Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
+5. Dropbox：它也是比较流行的网盘。
+
+- 存储空间：2GB（免费）
+- 下载地址： https://www.dropbox.com/install
+- 官网：https://www.dropbox.com/login
+- 登录方法：在Dropbox官网上自行注册登录。
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
+  - Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
 
 多人实时共同编辑一个文档
 ------------------------------------------------------
@@ -183,61 +182,67 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 Microsoft实用办公工具
 --------------------------------------------------
-1. Office Lens
+1. Office Lens（微软扫描仪）：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
 
-| 微软扫描仪：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
-| iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+- 手机App：
 
-2. Microsoft Forms
+  - iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 
-| https://forms.office.com
-| 微软推出的在线问卷和在线quiz系统。
-| 可以自己新建问卷和quiz。
+2. Microsoft Forms：微软推出的在线问卷和在线quiz系统。可以自己新建问卷和quiz。
 
-3. Microsoft To-Do
+- 官网：https://forms.office.com
 
-| https://todo.microsoft.com
-| 微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
-| iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
-| Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
+3. Microsoft To-Do：微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
 
-4. Microsoft Edge
+- 官网：https://todo.microsoft.com
+- 手机App：
 
-| 微软windows 10自带浏览器的手机版。
-| iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
+  - iOS：https://itunes.apple.com/app/microsoft-to-do/id1212616790
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
+  - Windows 10 App：https://www.microsoft.com/en-CA/store/p/project-cheshire/9nblggh5r558?rtc=1
 
-5. Microsoft Translator
+4. Microsoft Edge：微软windows 10自带浏览器的手机版。
 
-| 微软推出的手机翻译App
-| iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
+- 手机App：
 
-6. Microsoft Remote Desktop
+  - iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
 
-| 微软远程桌面手机版。
-| iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
-| Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
+5. Microsoft Translator：微软推出的手机翻译App
+
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
+
+6. Microsoft Remote Desktop：微软远程桌面手机版。
+
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/microsoft-remote-desktop/id714464092?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
 
 其它常用软件
 ----------------------------------
 1) WinRAR：http://rarlab.com/
 #) Adobe Acrobat Reader：https://get.adobe.com/reader/
-#) MATLAB：https://bbs.feng.com/forum.php?mod=viewthread&tid=11683142&page=1&from=forumIndex
+#) MATLAB：https://pan.luochenzhimu.com/disk/software/MATLAB/
 #) LaTeX：下面两个必须都安装
 
-- LaTex符号集、命令行编译器：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
-- TeXstudio（图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能）：https://www.texstudio.org
+- LaTex符号集、命令行编译器（先安装）：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
+- TeXstudio：https://www.texstudio.org 这是一个带有图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能的LaTeX集成环境，必须等上面的安装完毕之后再安装。
 
 附
 -------------------------
-1. 查看当前安装的office是不是office365
+1. Office 2019 和 Office 365
 
- | office365是Microsoft提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且如果有新版的office套件发布，可以免费升级到最新版。
- | 这不同于以往的office版本，以往的版本是通过光盘或iso光盘镜像安装，通过序列号激活授权。这种方式不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。
- | 以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接是office 2013或office2016，则是非office365版。
+- 区别
+
+  - Office 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且每个月会自动收到新的特性。Office 365已经弱化了具体版本的概念，不在指出现在属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
+  - Office 2019（或之前的Office 2016，Office 2013等等）：这些都是单机版，通过光盘或iso镜像安装，通过序列号激活授权。这种office版本不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。每个月会收到微软的安全更新或修复错误的更新，但不会收到特别明显的功能更新。如果需要使用新的功能，则需要安装下一版的office套件。所以，例如Office 2019和Office 2016的功能区别就是这两个版本发布的间隔期间所有的office 365月度更新的集合。
+
+- 查看当前安装的office是不是office 365：以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接版本号，例如office 2019等等，则是非office365版。
 
 .. image:: /resource/office365/check_if_office365.png
    :align: center
@@ -248,22 +253,18 @@ Microsoft实用办公工具
 - Outlook：指的是Microsoft推出的邮箱客户端，仅仅是个软件。可以同步几乎所有的邮箱，包括outlook.com、Gmail、163邮箱等等的邮件。
 - Exchange：Microsoft推出的企业邮箱，企业付费后可以自定义用户名和域名，比如McMaster的企业邮箱的用户名和域名就是 MacID@mcmaster.ca。
 
-3. Microsoft Imagine Premium（仅部分学院学生可用）
+3. Microsoft Imagine Premium：部分学院额外为本院每一个学生购买了Microsoft Imagine Premium的授权。这些学院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。请联系本学院technical staff获取账户。用户名通常是McMaster的邮箱，密码是mosaic的密码。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
 
-- 部分学院额外为本院每一个学生购买了Microsoft Imagine Premium的授权。这些学院的学生可以免费获得微软所有的正版软件（Microsoft Office除外）及序列号。这其中包括了Windows 10 Pro版。
 - ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
 - CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
 - Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
 - Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
 - Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
-- 请联系本学院technical staff获取账户。用户名通常是McMaster的邮箱，密码是mosaic的密码。账户在McMaster上学期间长期有效，毕业后自动失效，但已经生成的正版序列号和已经激活的软件不会失效，可以长期使用。
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
 
-4. 学院服务器
-
-  部分学院提供了高性能计算机或超级计算机供学生使用。
+4. 学院服务器：部分学院提供了高性能计算机或超级计算机供学生使用。
 
   A. Computing and Software
 

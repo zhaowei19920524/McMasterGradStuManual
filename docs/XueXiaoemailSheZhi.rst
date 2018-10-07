@@ -179,7 +179,7 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 3) 电脑Outlook客户端设置方法（本科生、研究生的邮箱）
 
-| 首先确保你的电脑上已经安装了Outlook客户端。如果没安装，请参考 `办公软件和网盘`_ 里安装office365的教程。
+ | 首先确保你的电脑上已经安装了Outlook客户端。如果没安装，请参考 `办公软件和网盘`_ 里安装office365的教程。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_icon.png
    :align: center
@@ -189,26 +189,31 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_01.png
    :align: center
+   :scale: 40%
 
-| 第二步：点击Google的图标。
+| 第二步：点击IMAP的图标。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_02.png
    :align: center
+   :scale: 40%
 
 | 第三步：输入McMaster邮箱的设置信息，这个在上面已经提到了。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_03.png
    :align: center
+   :scale: 40%
 
 | 第四步：输入mosaic的密码。
 
-.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.JPG
+.. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_04.png
    :align: center
+   :scale: 40%
 
-| 第五步：一个设置成功的页面，点击OK即可。
+| 第五步：一个设置成功的页面，点击Done即可。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_05.png
    :align: center
+   :scale: 40%
 
 对于Windows系统，可以设置把Outlook后台运行。在桌面右下角的系统托盘里右键点击Outlook的图标，然后选择“Hide When Minimized”，这样点最小化后，Outlook就会后台运行，来新邮件之后会有提醒。也可以设置为开机自动启动（参考Windows 8的教程）：https://support.office.com/en-us/article/automatically-start-an-office-program-when-you-turn-on-your-computer-4a42ed45-c064-47b6-b497-119c870f7bab
 
@@ -228,10 +233,11 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_02.png
    :align: center
 
-| 第三步：在弹出框里，把“Mail to keep offline”，设置成1 month。点next，后面Outlook会自动完成相应的设置。
+| 第三步：在弹出框里，把“Keep mail offline for”，设置成1 month。点next，后面Outlook会自动完成相应的设置。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_03.png
    :align: center
+   :scale: 40%
 
 Outlook桌面客户端需要额外设置同步Google Calendar，以下是步骤：
 
