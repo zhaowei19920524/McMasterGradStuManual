@@ -74,6 +74,7 @@
 
 - Tiffany Falls Conservation Area、Sherman Falls、Albion Falls：Hamilton的几个小瀑布，适合hiking。如果有条件也可以野外烧烤。
 - Bayfront Park、Pier 4 Park、Confederation Beach Park：这三个公园是大家比较经常去的公园，大家可以在这里散步、烧烤等等。
+- Sam Lawrence Park：255 Concession St, Hamilton, ON L9A 1B2。这个小公园推荐白天晚上各去一次。可以俯瞰Hamilton市区全景，非常美丽。
 - Hamilton其它自然保护区：http://conservationhamilton.ca/conservation-areas-2/ ，可以划船的地点：http://conservationhamilton.ca/boating/
 - Hamilton公园列表：https://www.hamilton.ca/parks-recreation/parks-trails-and-beaches/parks-listing
 
@@ -111,6 +112,18 @@
   - 14 Stalwart Industrial Dr, Gormley, ON L0H 1G0
 
 - Algonquin Park阿岗昆国家公园：Camping的好去处。想去这里只能开车。
+
+  - 官网：http://www.algonquinpark.on.ca/index.php
+  - 费用：http://www.algonquinpark.on.ca/visit/general_park_info/fees-algonquin-park.php
+  - Camping官方指导：http://www.algonquinpark.on.ca/visit/camping/
+  - 阿岗昆枫叶颜色实时报告：http://www.algonquinpark.on.ca/visit/general_park_info/fall-colour-report.php
+  - 安省公园官网的介绍（注意看Camping和Maps）：https://www.ontarioparks.com/park/algonquin
+
+- 安省公园官网：https://www.ontarioparks.com/en
+
+  - 预定：http://www.ontarioparks.com/reservations
+  - 所有公园及相关服务的位置：http://www.ontarioparks.com/park-locator
+  - 安省各大公园枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
 4. 其它省份
 

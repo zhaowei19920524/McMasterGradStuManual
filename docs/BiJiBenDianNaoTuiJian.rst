@@ -78,14 +78,12 @@
   - X系列
 
     - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/c/thinkpadx
-    - Thinkpad系列的巅峰之作。推荐X1 Carbon。
-    - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+    - Thinkpad系列的巅峰之作。推荐X1 Carbon。平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
   - T系列
 
     - https://www3.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt
-    - Thinkpad系列价格较为平民化的一款电脑。
-    - 平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
+    - Thinkpad系列价格较为平民化的一款电脑。平时购买过于昂贵，大家可以等打折季再买，或寻找内购渠道。
 
   - P系列
 
@@ -105,8 +103,7 @@
 - XPS
 
   - http://www.dell.com/en-ca/shop/dell-laptops-netbooks-and-tablets/sc/laptops/xps-laptops
-  - 戴尔推出的非常轻薄的笔记本
-  - 分为13寸和15寸两个版本，其中15寸的版本配置普遍比较高。
+  - 戴尔推出的非常轻薄的笔记本。分为13寸和15寸两个版本，其中15寸的版本配置普遍比较高。
 
 - 正在打折的电脑汇总：http://www.dell.com/en-ca/shop/deals/popular-laptop-deals
 

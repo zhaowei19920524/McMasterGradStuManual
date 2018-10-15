@@ -619,13 +619,6 @@ Hamilton 日料
   - 96 Main St E, Hamilton, ON L8N 1G3
   - (905)527-1668
 
-- HOTARU SUSHI：自助
-
-  - https://www.hotarusushi.ca/
-  - 1686 Main St W, Hamilton, ON L8S 0A2
-  - (905)527-5272
-  - 可以使用现金、debit卡、信用卡。
-
 - Tatemono Sushi Bar & Restaurant：自助
 
   - http://www.tatemono.ca/
