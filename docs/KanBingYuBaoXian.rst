@@ -3,8 +3,8 @@
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872，Exchange Student（交换生）每个学期是$208。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/register-now.aspx  - 第一步：注册账户：http://uhip.ca/_uploads/en_UHIP_Howtoregisterandgetacoveragecard.pdf  - 第二步：打印医保卡：http://uhip.ca/_uploads/en_UHIP_Howtoprintyourcoveragecard.pdf  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
-   :align: center- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/your-coverage.aspx 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
+   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872，Exchange Student（交换生）每个学期是$208。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife

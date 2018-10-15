@@ -90,6 +90,7 @@ McMaster常见学院专业及简称
     - Full-time MBA：MBA(Full Time)
     - Co-op MBA：MBA(Co-op)
     - Part-time MBA：MBA(Part Time)
+  - Graduate Diploma in Professional Accountancy：CPA
   - PhD in Business Administration：DBA
 
     - Finance：DFin或DBA(Finance)
@@ -99,8 +100,10 @@ McMaster常见学院专业及简称
     - Management of Organizational Behaviour and Human Resources：OB&HR或DBA(OB&HR)
     - Management Science：DBA(Management Science)
     - Marketing：DBA(Marketing)
-  - eHealth：eHealth
   - Executive MBA：EMBA
+  - eHealth：eHealth
+  - Health Management：healthmanagement
+  - Global Health：globalhealth
 - Science
 
   - Biochemistry & Biomedical Sciences：biochem

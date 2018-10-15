@@ -122,8 +122,11 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 --------------------------------------------
 1. RBC学生账户
 
-- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000~2000额度。不需要押金。
-- http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
+- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000~2000额度。不需要押金。http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
+- RBC Cash Back Mastercard 信用卡
+
+  - http://www.rbcroyalbank.com/credit-cards/cash-back-credit-cards/cash-back-mastercard/index.html
+  - 买日常用品有2%返现。无年费。
 
 2. CIBC
 
