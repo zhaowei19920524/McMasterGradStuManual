@@ -2,15 +2,28 @@
 =========================
 各大论坛网站
 --------------------------------------
-| 加国无忧：http://www.51.ca/ ， 手机App，微信小程序：http://app.51.ca/ ， 微信公共号：www51ca
-| 加拿大华人网（新闻）：http://www.sinoca.com/
+综合：
 
-| 约克论坛（多伦多地区）：http://www.yorkbbs.ca/
-| 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
+- 加国无忧：http://www.51.ca/
 
-| Hamilton 华人网：http://www.hamiltonchinese.ca/
-| McMaster - 中国学生论坛（麦克马斯特大学中国学生学者联谊会官网。注：此网站由本科生运营，发布的信息主要针对本科生，希望大家一定要注意甄别）：http://www.maccssa.org/
-| McMaster学生论坛：http://www.macinsiders.com/
+  - 手机App，微信小程序：http://app.51.ca/
+  - 微信公共号：www51ca
+  - 网址导航：https://123.51.ca/
+- 问吧：http://www.wenba.ca/ 
+
+  - 手机App：http://app.wenba.ca/
+- 加拿大省钱快报：https://www.dealmoon.ca/
+
+多伦多地区：
+
+- 约克论坛（多伦多地区）：http://www.yorkbbs.ca/
+- 家园·多伦多（多伦多新闻）：http://toronto.iask.ca/
+
+Hamilton：
+
+- Hamilton 华人网：http://www.hamiltonchinese.ca/
+- McMaster - 中国学生论坛（麦克马斯特大学中国学生学者联谊会官网。注：此网站由本科生运营，发布的信息主要针对本科生，希望大家一定要注意甄别）：http://www.maccssa.org/
+- McMaster学生论坛：http://www.macinsiders.com/
 
 签名
 ------------------

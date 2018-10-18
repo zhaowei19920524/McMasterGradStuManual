@@ -656,6 +656,8 @@ Toronto：
   - 3600 Victoria Park Ave, North York, ON M2H 3B2
   - (416)490-8893
 
+- 大多伦多地区中餐厅汇总：https://kb.51.ca/item/list
+
 Mississauga：
 
 - Little Sheep Mongolian Hot Pot（小肥羊）：自助火锅

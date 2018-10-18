@@ -19,7 +19,7 @@ Canada主要超市
 
 2. Nations Fresh Foods
 
-.. image:: /resource/GouWu/logo/NationsFreshFoods.jpg
+.. image:: /resource/GouWu/logo/NationsFreshFoods.png
    :align: center
    :width: 200 px
 
