@@ -130,10 +130,10 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
 7. 由于新生一般在国内，还未到Canada，很难详细了解house或apt。往年出现过出租广告和实际情况差异巨大的情况。可以通过以下方法解决： 
 
-  A. 让房东多发些图片。 
-  B. 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
-  C. 接手马上要毕业学长学姐房子，这样最稳妥。
-  D. 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间，但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间，租客没有选择房间的权利。
+  A) 让房东多发些图片。 
+  #) 询问群里的学长学姐，看他们是否了解。如果有学长学姐对某个house或apt表示强烈不满，则最好不要去租。
+  #) 接手马上要毕业学长学姐房子，这样最稳妥。
+  #) 让住在同一个地点或住在附近的学长学姐们帮忙去看一下房间。如果是公寓，则不一定是未来住的房间，可能仅仅是一个刚刚好空出来的房间，但房型相同。当同一类型的房型有多个空房间的时候，公寓管理员通常从低到高分配房间，租客没有选择房间的权利。
 
 租房流程
 -------------------
@@ -153,21 +153,26 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。极少情况下房东允许租客提前离开（http://www.sjto.gov.on.ca/documents/ltb/Brochures/How%20a%20Tenant%20Can%20End%20Their%20Tenancy%20(EN).html）。如果和房东商量终止，最好有终止的协议（Form N11）。 http://www.sjto.gov.on.ca/documents/ltb/Other%20Forms/N11.pdf
 4. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
 
- A. 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
- B. 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
+ A) 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
+ #) 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
  | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ），见证人（WITNESS）可以写其它几个租客或房东或学校offcampus的工作人员。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
 
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
 
- A. 因为house门口的草坪不剪草（杂草超过21cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
- B. 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
- C. 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
+  A) 因为house门口的草坪不剪草（杂草超过21cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
+  #) 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
+  #) 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
 7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
 8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。http://www2.hamilton.ca/NR/rdonlyres/D2F70089-A992-400E-B6AD-AF28085F9F84/0/04091.pdf 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
 9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。转租合同模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/sublet_agreement_pdf.pdf
+10. 大麻（cannabis）问题：从2018年10月17日起，Canada全境允许自由购买娱乐性大麻。根据安省法律规定（https://www.ontario.ca/page/cannabis-legalization），house或apt的自己家里是允许吸大麻的场所。只有公寓的公共区域（indoor common areas），比如楼道、走廊、进门大厅是不允许的。所以你 **无法限制其它租客吸大麻** 。
+
+- 这个对租house的同学影响非常大。因为house都是集中供暖或供冷，一般house的客厅等公共区域是空调或暖气的进气口，每个卧室有出风口。当空调或暖气打开时，需要关门关窗。这样house里的空气无法得到有效的更换，如果有人在房间里吸大麻，则整个house里的其它室友都要吸“二手”大麻。
+- 对于租apt的同学则影响较小。自己一个人住的公寓完全没问题。如果跟别人合租，也一般都是认识的同学。大家互相了解，这样可以很大程度上避免和吸大麻的人员一起住。
+- 根据Canada官网（https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/health-effects/effects.html）中列举大麻对健康的影响。短期会造成迟钝、失眠、损害记忆力和注意力、焦躁、恐慌。长期更会影响IQ、思考、决断，损害支气管、肺部等。
 
 租房纠纷调解
 -----------------------------------------------
