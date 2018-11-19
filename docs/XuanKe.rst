@@ -131,8 +131,12 @@ academically accredited course OR a placeholder course （专业课或占位课�
 .. note::
    
    | CAS： 
+   | 对于硕士：
    | 上学期请务必选702和6O03，极大概率后者内容是前者的子集。任课教师是Antoine，不选后悔。考虑到毕业要求两门700level，而下学期课程比较凶险，所以尽量在上学期选。优先级，706 > 703 = 708。706依旧要求大家有solid programming skills。下学期请选6DB3，771，781。第一门选的前提是老师是博士或者Franya。781任务量巨大，但老师讲课很系统，给分不错。771老师是哈工程新来的老师，人很nice。 
-   | ——14-CAS-郝鸣飞 
+   | ——14-CAS-郝鸣飞
+   | 对于博士：
+   | 请务必选701（Fall term）、702（Fall term）、705（Winter term），即使自己的导师没有建议选这些课。因为这三门课在Ph.D. comprehensive exam的Area1（Computing Fundamentals）里都是必考的。往年有较多的同学没有一次通过，所以博士们务必重视这三门课。根据要求，博士要需要上4门课，剩下一门可以选自己导师的课。如果自己导师的课跟这3门课有时间上的冲突，可以拖到博士第二年或者第三年上都可以。
+   | ——17-CAS-赵伟
 
 .. note::
    

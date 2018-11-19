@@ -430,6 +430,13 @@ Hamilton 中餐馆
   - 165 King St. East, Hamilton
   - (905)529-2226
 
+- Szechuan Noodle Bowl Restaurant（顺椿原）：点菜制
+
+  - https://www.shunchunyuan.com/
+  - 117 King St E, Hamilton, ON L8N 1A9
+  - (905)522-8886
+  - 微信公众号：顺椿原
+
 - Sunrise Restaurant（马队长牛肉拉面）：点菜制
 
   - http://www.sunriseday.com/
@@ -635,6 +642,8 @@ Hamilton 日料
 
 其它城市的特色餐厅
 ------------------------------------------------
+大多伦多地区中餐厅汇总：https://kb.51.ca/item/list ，或地图模式：https://kb.51.ca/item/map
+
 Toronto：
 
 - Little Sheep Mongolian Hot Pot（小肥羊）：自助火锅
@@ -655,8 +664,6 @@ Toronto：
   - http://www.crown-prince.ca/english/index.asp
   - 3600 Victoria Park Ave, North York, ON M2H 3B2
   - (416)490-8893
-
-- 大多伦多地区中餐厅汇总：https://kb.51.ca/item/list
 
 Mississauga：
 
