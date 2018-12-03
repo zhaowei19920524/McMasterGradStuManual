@@ -606,6 +606,12 @@ Hamilton 韩餐
 
 Hamilton 日料
 --------------------------
+- Yukiguni Izakaya：自助
+
+  - http://yukiguni-hamilton.com/
+  - Unit 6, 1686 Main St W #8, Hamilton, ON L8S 0A2
+  - (905)527-5272
+
 - August 8：自助
 
   - http://www.august8.ca/
@@ -658,6 +664,12 @@ Toronto：
   - http://cqdz.ca/zh/home-5/
   - 436 Dundas Street West, Toronto, ON, M5T 1G7
   - (647)352-7588
+
+- Dagu Rice Noodles Downtown（大鼓米线）
+
+  - http://daguricenoodle.ca/ （官网上有多伦多市中心周末的分店的地址）
+  - 115 Dundas St W, Toronto, ON M6K 1T7
+  - (416)901-9208
 
 - Crown Price Fine Dining and Banquet（紫京盛宴）：粤菜、早茶
 
