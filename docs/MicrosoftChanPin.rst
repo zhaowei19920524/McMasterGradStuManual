@@ -19,7 +19,7 @@ https://www.microsoft.com/en-ca/surface
 - 由于Surface Pro带有SD卡卡槽。如果觉得硬盘空间太小，可以自己购买Micro SD卡拓展存储空间。
 
 2. Surface Book：目前，最新的版本是Surface Book 2。Surface Book自带键盘底座。
-3. Surface Laptop：Microsoft推出的笔记本电脑，性价比不高，大家有兴趣可以关注一下。
+3. Surface Laptop：Microsoft推出的笔记本电脑，性价比不高，大家有兴趣可以在打折季关注一下，比如开学、黑五、圣诞节等等。
 4. Surface Studio：Microsoft推出的一体机。价格可谓是相当昂贵。但配置比较高，它的大屏幕也是一整块触摸屏。
 
 Xbox

@@ -12,7 +12,7 @@ Mac
 1) MacBook
 
 - MacBook Pro：带有retina屏幕的笔记本电脑，分为13寸和15寸两种。13寸高配版和15寸带有touch bar。15寸的版本带有独立显卡。但他们都没有全尺寸的USB接口。
-- MacBook Air：低配版的笔记本电脑。只有13寸一种配置。屏幕分辨率非常低，不到1080P。但非常轻，并带有全尺寸的USB接口。
+- MacBook Air：MacBook Pro的低配版。
 - MacBook：12寸的笔记本电脑。屏幕分辨率和处理器性能都不高，但非常轻。没有全尺寸的USB接口。
 
 2) iMac
@@ -48,4 +48,4 @@ Apple推出的平板电脑。分为iPad（9.7英寸）和iPad Pro（10.5和12.9�
 -----------------------------------
 1) Apple的学生优惠并不一定是9折。很多新发布的产品是没有学生优惠的或优惠幅度极小。
 #) Fusion Drive：Apple独有的复合硬盘技术，把SSD（固态硬盘）集成在HDD（机械硬盘）中。通常1TB Fusion Drive由32GB SSD和1TB HDD组成。大于1TB的Fusion Drive，都是由128GB的SSD和相应大小的HDD组成。
-#) 新的MacBook和MacBook Pro笔记本电脑只带有USB Type-C接口，但均没有全尺寸的USB接口。因而无法直接使用外接鼠标键盘U盘等等，大家如果购买这两款笔记本电脑，请自行购买转换器。
+#) 新的MacBook全系列笔记本电脑都只带有USB Type-C接口，但均没有全尺寸的USB接口。因而无法直接使用外接鼠标键盘U盘等等，大家如果购买这两款笔记本电脑，请自行购买转换器。或直接买带有USB Type-C接口的U盘和键鼠。
