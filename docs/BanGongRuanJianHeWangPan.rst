@@ -136,50 +136,6 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
   - iOS：https://itunes.apple.com/ca/app/dropbox/id327630330?mt=8
   - Android：https://play.google.com/store/apps/details?hl=en&id=com.dropbox.android
 
-多人实时共同编辑一个文档
-------------------------------------------------------
-如果使用Onedrive网盘，则可以实现多人实时共同编辑一个Word文档、Excel、PowerPoint的功能。以下是步骤：
-
-第一步：创建一个文档。
-
-.. image:: /resource/office365/multi_editor/multi_edit_01.jpg
-   :align: center
-
-第二步：保存在Onedrive网盘里。
-
-.. image:: /resource/office365/multi_editor/multi_edit_02.jpg
-   :align: center
-
-第三步：点击右上角的“Share”按钮，然后在弹出框里点击“Get a sharing link”。
-
-.. image:: /resource/office365/multi_editor/multi_edit_03.jpg
-   :align: center
-
-第四步：点击“Create an edit link”。
-
-.. image:: /resource/office365/multi_editor/multi_edit_04.jpg
-   :align: center
-
-第五步：点击“Copy”按钮。并发给所有一起合作编辑的同学。
-
-.. image:: /resource/office365/multi_editor/multi_edit_05.jpg
-   :align: center
-
-第六步：其他一起合作的同学接受到链接后，在浏览器里打开链接。
-
-.. image:: /resource/office365/multi_editor/multi_edit_06.jpg
-   :align: center
-
-第七步：点击浏览器里的“Edit in Browser”。这时候就可以在网页里一起编辑了，也可以看到别人在编辑文档的哪个位置。
-
-.. image:: /resource/office365/multi_editor/multi_edit_07.jpg
-   :align: center
-
-第八步（可选）：点击右上角的”Sign in“。登录后，点击网页里的”Edit Document“，然后在弹出框里选”Edit in Word“。这样其它合作编辑的同学就可以在桌面版的Word里编辑了。
-
-.. image:: /resource/office365/multi_editor/multi_edit_08.jpg
-   :align: center
-
 Microsoft实用办公工具
 --------------------------------------------------
 1. Office Lens（微软扫描仪）：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
@@ -257,9 +213,8 @@ Microsoft实用办公工具
 
 - ECE：http://dreamspark.ece.mcmaster.ca/ 。使用ECE的domain账户登录，不是mosaic账户。如果没有，可以找小秘或technical staff设置一下。在校外访问需要VPN。
 - CAS：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=925e5046-720e-e211-bd05-f04da23e67f6&vsro=8 
-- Business：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=489448a2-a18b-e011-969d-0030487d8897&vsro=8
-- Kinesiology：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=e017c860-ac9c-e711-80f6-000d3af41938&vsro=8
-- Social Sciences：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=dba75ecf-c5aa-e711-80f7-000d3af41938&vsro=8
+- Business：https://mcmastermba.onthehub.com/WebStore/Welcome.aspx?utm_medium=school-finder&utm_campaign=school-finder&utm_source=McMaster%20University%20DeGroote%20School%20of%20Business
+- Mechanical Engineering：https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=fca22d24-02cf-e711-80f9-000d3af41938&vsro=8
 
 .. image:: /resource/office365/Imagine_Premium.png
    :align: center
@@ -285,3 +240,47 @@ Microsoft实用办公工具
   - 学院提供超级计算机服务：https://ms.mcmaster.ca/mathcomputing/
   - https://rhpcs.mcmaster.ca/
   - 请联系导师或本院的technical staff。
+
+5. 多人实时共同编辑一个文档
+
+- 如果使用Onedrive网盘，则可以实现多人实时共同编辑一个Word文档、Excel、PowerPoint的功能。以下是步骤：
+
+第一步：创建一个文档。
+
+.. image:: /resource/office365/multi_editor/multi_edit_01.jpg
+   :align: center
+
+第二步：保存在Onedrive网盘里。
+
+.. image:: /resource/office365/multi_editor/multi_edit_02.jpg
+   :align: center
+
+第三步：点击右上角的“Share”按钮，然后在弹出框里点击“Get a sharing link”。
+
+.. image:: /resource/office365/multi_editor/multi_edit_03.jpg
+   :align: center
+
+第四步：点击“Create an edit link”。
+
+.. image:: /resource/office365/multi_editor/multi_edit_04.jpg
+   :align: center
+
+第五步：点击“Copy”按钮。并发给所有一起合作编辑的同学。
+
+.. image:: /resource/office365/multi_editor/multi_edit_05.jpg
+   :align: center
+
+第六步：其他一起合作的同学接受到链接后，在浏览器里打开链接。
+
+.. image:: /resource/office365/multi_editor/multi_edit_06.jpg
+   :align: center
+
+第七步：点击浏览器里的“Edit in Browser”。这时候就可以在网页里一起编辑了，也可以看到别人在编辑文档的哪个位置。
+
+.. image:: /resource/office365/multi_editor/multi_edit_07.jpg
+   :align: center
+
+第八步（可选）：点击右上角的”Sign in“。登录后，点击网页里的”Edit Document“，然后在弹出框里选”Edit in Word“。这样其它合作编辑的同学就可以在桌面版的Word里编辑了。
+
+.. image:: /resource/office365/multi_editor/multi_edit_08.jpg
+   :align: center

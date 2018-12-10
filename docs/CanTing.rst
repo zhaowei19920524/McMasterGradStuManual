@@ -667,7 +667,7 @@ Toronto：
 
 - Dagu Rice Noodles Downtown（大鼓米线）
 
-  - http://daguricenoodle.ca/ （官网上有多伦多市中心周末的分店的地址）
+  - http://daguricenoodle.ca/ （官网上有多伦多周边城市的分店的地址）
   - 115 Dundas St W, Toronto, ON M6K 1T7
   - (416)901-9208
 
