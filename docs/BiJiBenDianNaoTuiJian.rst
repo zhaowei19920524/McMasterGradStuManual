@@ -93,7 +93,7 @@
 - IdeaPad系列
 
   - https://www.lenovo.com/ca/en/laptops/ideapad/c/IdeaPad
-  - IdeaPad系列的电脑分5个等级，为了应付日常学习工作的需要，我们只建议大家买最高级的700系列。事实上IdeaPad 700系列和Yoga 700系列的电脑从外形上看没有太大的区别，都非常轻薄。只不过IdeaPad 700系列的电脑不是2合1，不带有触摸屏。
+  - IdeaPad系列的电脑分5个等级，为了应付日常学习工作的需要，我们只建议大家买最高级的700系列。事实上IdeaPad 700系列和Yoga 700系列的电脑从外形上看没有太大的区别，都非常轻薄。只不过IdeaPad 700系列的电脑不是2合1，可能不带有触摸屏。
 
 - 正在打折的电脑汇总：https://www3.lenovo.com/ca/en/promotions/consumer-deals/
 - 优惠码Coupon：https://www.offers.com/lenovo-canada/?path=zof-266581-gls-100h1a&adposition=1t2&creative=278722326685&device=c&network=g&source=s
@@ -121,7 +121,7 @@
 
 4. Microsoft Surface
 
-- Surface Pro 6 + Type Cover：https://www.microsoft.com/en-ca/surface
+- Surface Laptop：https://www.microsoft.com/en-ca/p/surface-laptop-2/8XQJKK3DD91B
 
 5. MSI
 

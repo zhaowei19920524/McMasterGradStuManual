@@ -317,7 +317,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- 贯穿Canada全境的火车。大家可以坐这个火车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
+- 贯穿Canada全境的火车。大家可以坐这个火车去其它省份的城市，比如渥太华、蒙特利尔、魁北克城等等，甚至可以乘坐它横穿加拿大到最西边的温哥华和最东边海洋三省。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
 - 官网：http://www.viarail.ca/en
 - 手机App：
 
@@ -331,7 +331,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份。在安大略省，大家可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学）。
+- 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份。在安大略省，大家同样可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学），也可以乘坐它去Blue Mountain滑雪场。
 - 官网：https://www.greyhound.ca/
 - 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）
 

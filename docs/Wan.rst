@@ -92,8 +92,25 @@
 - Blue Mountain蓝山
 
   - 官网：https://www.bluemountain.ca/
-  - 这个地方是冬季滑雪胜地，同时还有温泉（SPA）。推荐大家圣诞节至元旦那几天去（只能开车）。如果需要住宿，一定要提前至少2周定订的地方（越早越好），可以在Airbnb或Booking.com上定订住宿。
-  - 山脚下提供滑雪所有装备的租赁：https://www.bluemountain.ca/plan-your-trip/lessons-and-rentals/winter-rentals
+  - 这个地方是冬季滑雪胜地，同时还有温泉（SPA）。推荐大家秋季学期学业结束后至1月开学那几天去。
+  - 住宿：
+  
+    - Blue Mountain山脚下就有大片提供住宿的旅馆和house。住宿区叫Blue Mountain Resort, 108 Jozo Weider Blvd, The Blue Mountains, ON L9Y 3Z2。
+    - 如果需要住宿，一定要提前至少2周定订的地方（越早越好，提前1个月会比较便宜），可以在Airbnb或Booking.com上定订住宿。大家可以在Google地图上找到，也可以在Blue Mountain官网上找 https://www.bluemountain.ca/plan-your-trip/lodging 。
+    - 如果大家在Blue Mountain住2个晚上。第一天上午从出发，下午到住的地点，并熟悉一下周边设施、服务、环境。第二天滑雪和温泉。第三天上午返回。
+  - 交通
+
+    - 自驾：强烈建议每辆车能有2个同学轮换开。因为雪天路滑，整个行程可能要3个多小时，甚至更长。
+    - GreyHound长途汽车：官网：https://www.greyhound.ca/ 。起点：Toronto, ON（610 BAY ST, Toronto, ON M5G 1M5）。终点：Blue Mtn Ski Rst (e), ON。可以按上边住2个晚上的计划在官网上订票，往返票（Round trip）大概50多刀/人。此外，大家要先坐Go Bus 16路到多伦多。
+  - 滑雪费用：
+  
+    - 自带全套滑雪装备在初学者道上滑：免费。
+    - 滑雪装备租赁的地点和费用：https://www.bluemountain.ca/plan-your-trip/rentals/winter-rentals
+    - 坐缆车到山顶，然后从山顶上滑下来的费用：https://www.bluemountain.ca/plan-your-trip/day-tickets/winter-lift-tickets
+  - 温泉SPA：https://www.bluemountain.ca/things-to-do/spas
+
+.. image:: /resource/Wan/Wan_BlueMountain.jpg
+   :align: center
 
 - African Lion Safari
 
@@ -110,6 +127,7 @@
 
   - 官网：http://www.targetsportscanada.com/
   - 14 Stalwart Industrial Dr, Gormley, ON L0H 1G0
+  - 这是一个室内射击场。
 
 - Algonquin Park阿岗昆国家公园：Camping的好去处。想去这里只能开车。
 
@@ -123,7 +141,6 @@
 
   - 预定：http://www.ontarioparks.com/reservations
   - 所有公园及相关服务的位置：http://www.ontarioparks.com/park-locator
-  - 安省各大公园枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
 4. 其它省份
 
@@ -134,6 +151,18 @@
 
 .. image:: /resource/Wan/Wan_aurora.png
    :scale: 100%
+
+活动项目
+-----------------------------
+1. 看枫叶
+
+- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park
+- 安省各大公园枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
+
+2. 滑雪
+
+- 每年12月期末考完试到1月开学前都是滑雪的最佳时机。推荐2个滑雪的地方，一个是Blue Mountain，上面已经介绍过了；还有一个比较近一点的是Glen Eden，在Milton。
+- Glen Eden滑雪场：https://gleneden.on.ca/ 。目前还不太清楚如何坐公交车去。因此只能开车。
 
 旅行社
 ------------------------
