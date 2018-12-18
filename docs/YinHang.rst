@@ -114,7 +114,7 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。在这里，我们不推荐大家办过国内银行的GIC，比如中国银行或工商银行，虽然在国内办理比较省事，甚至省了手续费，但来Canada之后会非常不方便，因为离Hamilton最近的中国银行或工商银行也在密西沙加，如果坐Go Bus长途汽车去，一次往返需要$25，长期算下来可能不划算。
 - 非GIC签证的同学：
 
-  - 请联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户的业务。下面是他的名片。
+  - 请联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
 
 .. image:: /resource/bank/CIBC_Chenhe_Zhang_contact.png
    :align: center
