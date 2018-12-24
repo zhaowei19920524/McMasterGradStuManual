@@ -20,7 +20,7 @@ Microsoft Office 365
 
 第一步：登录微软的网站 https://portal.office.com/ 
 
- | 用户名：MacId@ads.mcmaster.ca
+ | 用户名：MacId@mcmaster.ca
  | 密码：登录mosaic的密码
  | 为了以后登录方便，可以勾上Keep me signed in。
 
@@ -62,7 +62,7 @@ Microsoft Office 365
 
 1. 学校提供的office授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
 2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
-3. MacId@ads.mcmaster.ca 仅仅是一个用户名，不是邮箱。
+3. MacId@mcmaster.ca 仅仅是一个用户名，不是邮箱。
 
 Windows 10 Education
 ----------------------------------------------
@@ -70,7 +70,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 | 获取地址：https://mcmaster.onthehub.com/WebStore/Welcome.aspx
 | 登录上面的网址，点击“Start Shopping”。
-| 用户名是MacId@ads.mcmaster.ca，密码是登录mosaic的密码。
+| 用户名是MacId@mcmaster.ca，密码是登录mosaic的密码。
 | 可能需要做一个简单的问卷，然后就可以看到了Windows 10的下载了。
 
 .. image:: /resource/office365/windows10education.png
@@ -96,7 +96,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 - 存储空间：1TB
 - 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
 - 官网：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
-- 登录方法：用户名：MacID@ads.mcmaster.ca。密码：登录mosaic的密码。
+- 登录方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
 - 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
 
 .. image:: /resource/office365/onedrive_1.jpg

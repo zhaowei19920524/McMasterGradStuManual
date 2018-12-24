@@ -6,6 +6,10 @@
 --------------------------------------
 - 主页：http://marauders.ca/
 - 体育馆所有设施：https://rec.mcmaster.ca/facilities
+- 体育馆所有设施与服务：https://rec.mcmaster.ca/programs
+
+  - 课程：https://rec.mcmaster.ca/programs/classes
+  - 体育俱乐部：https://rec.mcmaster.ca/programs/clubs
 - 开放时间：https://rec.mcmaster.ca/facilities/hours
 - 体育馆会员：https://rec.mcmaster.ca/memberships 。包括健身房、租用毛巾和锁。
 - 手机App
@@ -91,3 +95,9 @@ https://rec.mcmaster.ca/facilities/squash-courts
 | 更衣室里有标有daily locker的柜子，这些柜子是免费用的，但晚上关门前务必拿走里面的东西，否则会被收到失物招领处，自己上的锁也会被剪断。注：由于更衣室没有监控，大家买的密码锁被撬后极难破案。所以建议去体育馆不要带任何贵重物品（包括手机）。
 | 更衣室里还有免费的淋浴和桑拿，大家带上换洗的衣物、洗发水、拖鞋等等的物品，运动完之后可以洗个澡，蒸一下桑拿再出来。
 | 游泳结束后，可以使用更衣室里的高速甩干机，甩干泳裤。
+
+付费课程
+------------------------------------------
+| 体育馆提供了需要额外付费的健身课程，例如：芭蕾（Ballet）、拉丁舞（Latin Dance）、肚皮舞（Belly Dance）、击剑（Fencing）、空手道（Karate）、游泳课、瑜伽等等。
+| 课程介绍：https://rec.mcmaster.ca/programs/classes
+| 费用列表：https://macreconline.ca/Program/GetProducts 。点击左边的“Semester”里相应的学期就会出现所有的课程和价格，每学期$50~100左右（需要登录后才能显示正确的费用）。
