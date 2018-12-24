@@ -246,7 +246,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 - 18路（Lakeshore West）：这趟火车应该是大家最有可能乘坐的火车了。它往返于多伦多和Hamilton之间，路线和Go Bus 18路基本重合。但不是一天24小时都有。车票价格和Go Bus相同。乘坐地点只能去Toronto Union Station和Hamilton Go Center。
 
-  - 时刻表：https://www.gotransit.com/static_files/gotransit/assets/pdf/TripPlanning/FullSchedules/Table01.pdf
+  - 时刻表：可以在上面时刻表的链接里找到“18 Lakeshore West”
   - 工作日去多伦多只有早上05:48、06:18、06:48、07:18四趟；回Hamilton只有傍晚16:30、17:00、17:30、18:00四趟。周末没有Go Train往返这两个城市。虽然除了这8趟火车外，没有Toronto直达Hamilton的火车，但其它时间依然有火车从Toronto开往Burlington Go Station，下了火车后可以再坐Burlington Transit 101或1或1X路到Hamilton。
   - 多伦多和Hamilton之间的整个行程一共1小时15分钟。如果Go Bus 16路在403高速上不堵车，那么Go Train 18路还没有Go Bus 16路快。但工作日的下班点403高速会非常堵，坐Go Bus可能一个半小时都不一定能到，所以这个时间坐Go Train 18路返回Hamilton是一个非常不错的选择。
 
@@ -331,7 +331,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份。在安大略省，大家同样可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学），也可以乘坐它去Blue Mountain滑雪场。
+- 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份，甚至去美国。在安大略省，大家同样可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学），也可以乘坐它去Blue Mountain滑雪场。
 - 官网：https://www.greyhound.ca/
 - 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）
 
