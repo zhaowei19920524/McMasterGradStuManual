@@ -1,6 +1,6 @@
 ﻿公交车
 ============================
-Hamilton的公交系统是由HSR运营的。对绝大多数学生，Bus是主要交通工具，绝大多数研究生的杂费中包含了每年$250左右的公交车费，这样在市内坐车时就不需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
+Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交车是主要交通工具。绝大多数研究生的杂费中已经包含了每年$250左右的公交车费，这样在市内坐车时就不需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
 
 PRESTO卡
 -------------------------------
@@ -8,9 +8,8 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 1. PRESTO卡介绍
 
-- 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。
-- PRESTO是在大多伦多地区（包括Hamilton）通行的电子交通计费系统，它可以无障碍的在Toronto, Hamilton, Brampton, Berlington, Durham, Mississauga, Oakville, York等地区使用，也可以在Go Transit上使用。
-- 该卡仅在Hamilton地区不再额外扣费，在乘坐Go Transit或者多伦多其他地区的公共交通前还是需要提前充值的。
+- PRESTO是在大多伦多地区（包括Hamilton）通行的电子交通计费系统，它可以无障碍的在Toronto, Hamilton, Brampton, Berlington, Durham, Mississauga, Oakville, York等地区使用，也可以在Go Transit上使用。https://www.prestocard.ca/en/about/paying-for-transit
+- 从2017年开始，学校为新生办理PRESTO卡（芯片里带有U-pass）。麦马的学生能在没有给presto card充值的情况下“免费”在Hamilton地区乘坐公共车。该卡仅在Hamilton地区不再额外扣费，在乘坐Go Transit或者多伦多其他地区的公共交通前还是需要提前充值的。
 
 .. image:: /resource/bus/presto1.png
    :align: center
@@ -207,6 +206,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 - 官网：http://www.gotransit.com/
 - 各路公交车的时刻表：https://www.gotransit.com/en/trip-planning/seeschedules/full-schedules
+- 路线图：https://www.gotransit.com/en/trip-planning/system-and-route-map
 
 2. 费用
 
