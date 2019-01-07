@@ -6,7 +6,7 @@
 
 McMaster政策
 ------------------------------------
-https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-year-students/
+https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
 
@@ -110,7 +110,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
   #) Airbnb：https://www.airbnb.ca/s/Hamilton--ON/homes?map_toggle=true 价格相对较高，一般不少于$30/天，需要额外交消费税。
   #) hotel（不推荐）：价格过高，基本上一天要$100左右，需要额外交消费税。
   #) 直接在apt里长租：公寓不是一定要从9月份开始签合同，公寓管理员只关注租期至少是12个月，从哪个月开始无所谓。大家如果来的比较早，并且发现有空置的价钱地点条件比较满意的apt，可以在国内就和apt的公寓管理员联系，从8月或更早的月份直接签长租的合同。刚来的那个月可能住不满一整个月，但也要交一个月的房租。这种方法可能也适合house，并且省了9月初的搬家。需要大家注意的是公寓管理员会要求住户在入住之前办好租客保险、开好水电费账户等等，否则公寓管理员拒绝入住。
-  #) 学校也提供暑期短租的宿舍： https://housing.mcmaster.ca/conference-and-events-services/short-stay/ 。每年5.10-8.15左右都对外开放的，价格比酒店低，适合新生刚到短租，二人间每晚每人50左右单人70左右，条件不错。不过8月中旬以后必须要搬走，还需要再在校外找能住到8月底的短租。
+  #) 学校也提供暑期短租的宿舍： https://hotel.mcmaster.ca/student/ 。每年5.10-8.15左右都对外开放的，价格比酒店低，适合新生刚到短租，二人间每晚每人50左右单人70左右，条件不错。不过8月中旬以后必须要搬走，还需要再在校外找能住到8月底的短租。
 
 - 找9月开始的长租：7月初开始找长租的house或apt，不必太早。因为现有的租客需提前2个月告诉房东是否续租，房东才会在网上更新租房广告。因此7月份之后会出现一大批好的房源，大家要尽快联系，到8月下旬的时候大多数条件好的房源就被抢完了。
 
@@ -193,7 +193,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2018-07-12.xlsx>` 从Google地图里导出的数据，2018年7月12日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2019-01-05.xlsx>` 从Google地图里导出的数据，2019年1月5日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
@@ -232,9 +232,8 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 - 校外第三方机构旗下的学生公寓（这几个公寓都是第三方机构建造的公寓，它们只租给学生，并且管理上也类似于学校的公寓）
 
   - 191 Main St W： 很多同学都推荐这个downtown的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 69 Sanders Blvd：这套公寓在学校西边不远处，一共有25个卧室，部分卧室允许2人住一间。所有的卧室都带有床、桌子、衣橱等等的家具。有多个大的公共的客厅和一个大的公共的厨房。洗澡要去这个apt公共的洗澡间里洗澡。这个公寓不接受网上预订，必须本人亲自去申请。去之前请穿戴整齐，公寓管理员对租客的各方面要求非常高。
   - 35 Dundurn St S：准确的地址是21-53 Dundurn St. S.，在Zone1和Dundurn的分界线附近，是一排房子的集合。它的管理和69 Sanders Blvd类似。
-  - 46 James St N：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
+  - 20 Rebecca Street：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
 
 - West Village Suites（1686 Main St W）
 
@@ -257,7 +256,7 @@ https://housing.mcmaster.ca/residence-admissions/applying-to-residence-upper-yea
 
 - 140 Main St W
 
-  - Hamilton最贵的condo，最贵的3室一厅竟然要$3000/月。
+  - Hamilton最贵的condo，最贵的3室一厅竟然要将近$3000/月。
   - 有公共的健身房和空调。
 
 .. admonition:: 本页作者

@@ -159,10 +159,6 @@ McMaster周边的西餐
   - 1309 Main St W, Hamilton, ON L8S 1C5
   - (905)525-4444
   - 推荐walk-in special
-  - 手机App：
-
-    - iOS：https://itunes.apple.com/ca/app/ginos-pizza/id1132299725?mt=8
-    - Android：https://play.google.com/store/apps/details?id=com.menudrive.GinosPizza
 
 - Yogurty's：自助酸奶、冰淇淋店
 
@@ -190,8 +186,8 @@ McMaster周边的西餐
   - (905)529-7482
   - 手机App：
 
-    - iOS：https://itunes.apple.com/ca/app/pita-pit-canada-more/id932480392?mt=8
-    - Android：https://play.google.com/store/apps/details?id=com.spoonity.pitapit
+    - iOS：https://itunes.apple.com/ca/app/pita-pit-canada/id1266287166?mt=8
+    - Android：https://play.google.com/store/apps/details?id=com.pitapit.app
 
 - Subway：三明治
 
@@ -634,7 +630,7 @@ Hamilton 日料
 
 - Tatemono Sushi Bar & Restaurant：自助
 
-  - http://www.tatemono.ca/
+  - http://www.tatemono.ca/Tatemono/index_tatemono.html
   - 135 King St E., Hamilton, ON L8N 1B2
   - (905)521-2227
   - 可以使用现金、debit卡、信用卡。
