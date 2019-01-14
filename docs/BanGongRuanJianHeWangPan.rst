@@ -62,7 +62,6 @@ Microsoft Office 365
 
 1. 学校提供的office授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
 2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
-3. MacId@mcmaster.ca 仅仅是一个用户名，不是邮箱。
 
 Windows 10 Education
 ----------------------------------------------
@@ -186,7 +185,7 @@ Microsoft实用办公工具
 #) MATLAB：https://pan.luochenzhimu.com/disk/software/MATLAB/
 #) LaTeX：下面两个必须都安装
 
-- LaTex符号集、命令行编译器（先安装）：①Windows：https://miktex.org/download ②macOS：http://www.tug.org/mactex/mactex-download.html
+- LaTex符号集、命令行编译器（先安装）：https://miktex.org/download
 - TeXstudio：https://www.texstudio.org 这是一个带有图形界面集成开发环境，带有语法高亮、关键词提示及自动补全、自动安装缺失的package等功能的LaTeX集成环境，必须等上面的安装完毕之后再安装。
 
 附
@@ -195,7 +194,7 @@ Microsoft实用办公工具
 
 - 区别
 
-  - Office 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且每个月会自动收到新的特性。Office 365已经弱化了具体版本的概念，不在指出现在属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
+  - Office 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且每个月会自动收到新的特性。Office 365已经弱化了具体版本的概念，不在标识现在安装的office套件属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
   - Office 2019（或之前的Office 2016，Office 2013等等）：这些都是单机版，通过光盘或iso镜像安装，通过序列号激活授权。这种office版本不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。每个月会收到微软的安全更新或修复错误的更新，但不会收到特别明显的功能更新。如果需要使用新的功能，则需要安装下一版的office套件。所以，例如Office 2019和Office 2016的功能区别就是这两个版本发布的间隔期间所有的office 365月度更新的集合。
 
 - 查看当前安装的office是不是office 365：以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接版本号，例如office 2019等等，则是非office365版。

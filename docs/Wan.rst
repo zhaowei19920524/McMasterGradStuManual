@@ -116,7 +116,7 @@
   - 交通
 
     - 自驾：强烈建议每辆车能有2个同学轮换开。因为雪天路滑，整个行程可能要3个多小时，甚至更长。
-    - GreyHound长途汽车：官网：https://www.greyhound.ca/ 。起点：Toronto, ON（610 BAY ST, Toronto, ON M5G 1M5）。终点：Blue Mtn Ski Rst (e), ON。可以按上边住2个晚上的计划在官网上订票，往返票（Round trip）大概50多刀/人。此外，大家要先坐Go Bus 16路到多伦多。
+    - GreyHound长途汽车（不一定每天都有）：官网：https://www.greyhound.ca/ 。起点：Toronto, ON（610 BAY ST, Toronto, ON M5G 1M5）。终点：Blue Mtn Ski Rst (e), ON。可以按上边住2个晚上的计划在官网上订票，往返票（Round trip）大概50多刀/人。此外，大家要先坐Go Bus 16路到多伦多。
   - 滑雪费用：
   
     - 自带全套滑雪装备在初学者道上滑：免费。
