@@ -3,7 +3,7 @@
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872，Exchange Student（交换生）每个学期是$208。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。而Canada本国学生参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 费用：国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
@@ -11,9 +11,10 @@
 
 .. image:: /resource/Insurance/my_sunlife_app_2.png
    :align: center
-   :scale: 75%2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。通常药费和UHIP不报销的疫苗用Health Insurance Plan可报销80%。
+   :scale: 75%- 家属（dependents）：指的是学生的spouse和children，不包括父母。如果他们和学生一起来Canada陪读，则必须在到Canada30天内申请UHIP，超过这个时间再申请会罚$500。https://iss.mcmaster.ca/studentlife/healthcare/#dependents- 访问学生：购买的UHIP是UHIP Premium，费用来读学位的学生价格一样。https://iss.mcmaster.ca/studentlife/healthcare/#visiting2. GSA Health Insurance Plan（除MBA）- 学校研究生会Graduate Students Association提供Health Insurance Plan。- GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。通常药费和UHIP不报销的疫苗用Health Insurance Plan可报销80%。
 - GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
 - 如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
+- 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
 3. GSA Dental Insurance Plan（除MBA）- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。- 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538- GSA Dental Insurance Plan每自然年额度$750（不是学年）。4. CUPE Dental Plan- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
@@ -25,11 +26,17 @@
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
   - 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销和$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
+- 家属的牙医保险：在下面相应网页里搜索关键词“spouse”。
+
+  - Unit 1: https://cupe3906.org/tas-unit-1/dental-plan/
+  - Unit 2: https://cupe3906.org/sessionals-unit-2/unit-2-dental-coverage/
+  - Unit 3:https://cupe3906.org/postdocs-unit-3/dental-plan/
 
 5. MSU Health/Dental Plan Insurance（MBA学生）
 
 - MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。保险按学期交，每学期$258（2017年）。
 - https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance
+- MBA学生家属的保险：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/family-add-ons
 
 看病
 -------------------------------------------

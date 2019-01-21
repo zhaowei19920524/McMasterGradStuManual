@@ -50,6 +50,20 @@
   - 如果只想玩这两个景点，则可以在水族馆的官网上购买combo。成人$58/人
   - https://www.ripleyaquariums.com/canada/?package=876#Tickets
 
+其他景点：
+
+- Chinatown（唐人街）
+
+  - 网站：http://toronto-chinatown.info/
+  - 地点：由于是多伦多的一个区，所以没有具体地址，可以在Google里搜“Chinatown, Toronto, ON”，或 https://www.google.ca/maps/place/Chinatown,+Toronto,+ON/
+  - 唐人街有各种好吃的。还有一些手工艺品和made in China的各种工具、家居用品等等。
+
+- Toronto Island Park（多伦多湖心岛公园）
+
+  - 网站：https://www.toronto.ca/explore-enjoy/parks-gardens-beaches/toronto-island-park/
+  - 买票和港口在Jack Layton Ferry Terminal。9 Queens Quay W, Toronto, ON M5J 2H3
+  - 有三条坐船的线路，分别是东线Ward’s Island Ferry，中线Centre Island Ferry，和西线Hanlan’s Point Ferry。建议大家坐东线的船去湖心岛，然后从东边开始向西走。如果体力跟不上，可以坐中线的船回来。如果体力能支撑住，则走到湖心岛最西边。湖心岛最西边还有一个机场（Billy Bishop Toronto City Airport）。
+
 2. Hamilton
 
 - Dundas Peak + Tew's Falls
@@ -197,7 +211,7 @@
 
 - 天宝旅游：https://www.tianbaotravel.com/
 
-  - 天宝旅游也提供回国往返特价机票的预定，网址：https://www.tianbaotravel.com/interfaces/flight_search.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
+  - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/interfaces/flight_search.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
 
 - 泰安旅游：https://safewaytours.net/
 
