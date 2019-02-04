@@ -3,7 +3,7 @@
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
-   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。而Canada本国学生（Permanent residence和Canada Citizen）参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://mysunlife.ca- 费用（2018年）：国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
+   :align: center所有学生必须参加医疗保险, 具体有以下几种：1. UHIP/OHIP- 国际学生必须参加UHIP(University Health Insurance Plan)。而Canada本国学生（Permanent residence和Canada Citizen）参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请UHIP延长最多4个月。- 官网：http://uhip.ca/- 费用（2018年）：国际学生需要付费参加UHIP，近几年的年费是单人$624，2人家庭$1248，3人及以上$1872。- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。.. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
@@ -44,7 +44,7 @@
 
   A. Student Wellness Centre
 
-  - 类似于国内高校的小诊所。但不能处理眼睛和牙齿相关的事物。
+  - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。
   - https://wellness.mcmaster.ca/
   - 看病前需要去按网站上说的方法预约医生。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
@@ -57,7 +57,7 @@
   
   C. Campus Optical
 
-  - 学校里的眼医诊所
+  - 学校里的眼镜店
   - http://campusoptical.ca/signup.php
 
 2. 校外Walk-in Clinic和Emergency（急诊）
@@ -132,7 +132,7 @@
 -------------------------------------------------
 1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
 
- | 以上三种保险都是由Sunlife承保，如果看病诊断费和药费都是自己垫付的，则都需要报销，诊断费由UHIP全包，药费报销80%。报销方法为
+ | 以上三种保险都是由Sunlife（https://www.sunlife.ca/）承保，如果看病诊断费和药费都是自己垫付的，则都需要报销，诊断费由UHIP全包，药费报销80%。报销方法为
 
 - 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
