@@ -2,6 +2,9 @@
 ============================
 Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交车是主要交通工具。绝大多数研究生的杂费中已经包含了每年$250左右的公交车费，这样在市内坐车时就不需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
 
+.. image:: /resource/bus/HSR_fee.png
+   :align: center
+
 PRESTO卡
 -------------------------------
 PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Hamilton地区的公交系统上使用。此外Metrolinx还运营Go Transit的长途汽车和火车，还有多伦多-皮尔逊机场特快列车（Union Pearson Express）。
@@ -83,7 +86,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 6. 使用PRESTO card
 
-- 只需要在位于公车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
+- 只需要在位于公交车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
 - Presto卡一次只能给一个人刷。如果需要多人付费乘坐公交车，其它人可以先买车票或使用现金。
 
 .. image:: /resource/bus/presto2.png

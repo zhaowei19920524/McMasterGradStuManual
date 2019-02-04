@@ -21,16 +21,16 @@ CGSC的组织结构分为两个部分：
 1. 主席团（Executives）：主席团设主席（President）一人和3个主管不同事物的副主席（VP），详细职位如下：
 
 - President（主席）
-- VP Academic（学术副主席）
+- VP Events（活动副主席）
 - VP External（外务副主席）
-- VP Finance（财务副主席）
+- VP Internal（内务副主席）
 
 2. 部门（Department）
 
 - Department of Finance（财务部）
 - Department of Career Planning（职业规划部）
 - Secretariat（秘书处）
-- Department of Off-Campus Activity（校外活动部）
+- Department of Activity（活动部）
 - Department of Propaganda（宣传部）
 - Department of Academic（学术部）
 - Department of External Relationship（外联部）
@@ -43,6 +43,7 @@ CGSC的组织结构分为两个部分：
 - 主席团的职责主要是行政事务。具体包括：规划未来的社团发展方向；向GSA提交活动规划，申请经费，申请活动教室。填写各种申请表，年度汇报总结表等等。
 
 | 二、各部门：
+
 | 每个部设一个部长（Director of Department），以及至少1个副部长（Vice Director of Department）。如果一个部门人数太少，则没有副部长。
 | 各个部有极大的权力和发挥空间，包括规划未来一年的具体的活动，新人选拔，考核等等。
 | 部长负责领导整个部门的工作，最重要的是分工。各个部的部长及部员要参与到每一次活动的规划和实施中去。教室和经费可以向主席团申请，主席团再向GSA申请。
@@ -62,9 +63,9 @@ CGSC的组织结构分为两个部分：
 - 职能：①负责主席团会议和部长级会议的内容记录，并安排必要会议的时间地点。②负责档案等材料的整理。
 - 要求：细心、耐心、沟通能力强即可。
 
-4. 校外活动部
+4. 活动部
 
-- 职能：①负责组织不定期校外活动（娱乐性质），包括活动规划、人员协调等。
+- 职能：①负责组织不定期活动（娱乐性质），包括活动规划、人员协调等。
 - 要求：①精力充沛，有较强组织能力。②创意多，能提出新的想法。③责任心强。④对加拿大各项娱乐以及地点较为熟悉。
 
 5. 宣传部
@@ -74,10 +75,8 @@ CGSC的组织结构分为两个部分：
 
 6. 学术部
 
-- 职能：①负责举办Monthly Seminar。学术部成员都要先成为最初几次讲座的Lecturer。②负责举办Tutorial。大体包括Github和Python等等的指导。③负责收集各学院各门课的材料。
+- 职能：CGSC专门交流学习的部门。①负责举办Monthly Seminar。学术部成员都要先成为最初几次讲座的Lecturer。②负责举办Tutorial。大体包括Github和Python等等的指导。③负责收集各学院各门课的材料。
 - 要求：①有很强的上进心、科研毅力。愿意和别人分享讨论科研中需要的知识点。②有较强的展示意愿。③MASc、MSc、PhD优先。
-
-- 是CGSC专门交流学习
 
 7. 外联部
 
