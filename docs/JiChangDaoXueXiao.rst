@@ -20,7 +20,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 - 第三步：到Hamilton
 
   - 下车地点在McMaster University东边，可以坐Hamilton公交5路到学校（在下车地点路对面坐车）。费用$3.00，同样准备好现金，不找零，不能使用信用卡。凌晨2点到5点是没有Hamilton市内公交车的。
-  - 到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay 
+  - 到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：https://hsrnow.hamilton.ca/#/app/tripplanning
   - 如果下车后不熟悉路，不太清楚怎么坐Hamilton市内公交车，也可以找这边的学长学姐去Go bus下车的地方接一下（注：下车的地方没有WiFi，新生需要办理国内电讯公司的国际漫游服务或北美流量包）。当然，如果可能，也可以让学长学姐先坐Go Bus去机场，在航站楼取完行李的出口接到新生后，再一起坐Go Bus回来。
 
 .. image:: /resource/gobus40_1.jpg
@@ -63,9 +63,10 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 - 欢迎各位学长学姐提供新生接机服务。如有意向，请联系17-CAS-赵伟，我们会把你的信息加到上面的名单里。
 
 
-方法三：Uber
+方法三：网约车
 --------------------------------------
-https://www.uber.com/en/ca/
+Uber：https://www.uber.com/en/ca/
+Lyft：https://www.lyft.com/
 
 注
 -------------------------

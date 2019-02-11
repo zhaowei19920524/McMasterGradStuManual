@@ -102,6 +102,21 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 .. attention::
    - 如果使用方法2、3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
 
+8. Presto Card手机App
+
+- Presto手机App可以很方便地查询刷卡记录，付费明细，充值等等的操作。但目前还不能结合NFC技术直接替代Presto卡。
+- 官网：https://www.prestocard.ca/en/about/presto-app
+- iOS：https://itunes.apple.com/ca/app/presto/id1437927882?mt=8
+- Android：https://play.google.com/store/apps/details?id=com.metrolinx.presto.android.consumerapp
+
+
+9. Triplinx手机App
+
+- Triplinx只是Metrolinx推出的用于规划坐车路线和费用估计的App。只要能刷Presto卡的公交线路，都在它的考虑范围之内。大家也可以直接用Google Map来规划路线。
+- 官网：https://www.triplinx.ca/
+- iOS：https://itunes.apple.com/us/app/triplinx-2-0/id1226529747
+- Android：https://play.google.com/store/apps/details?id=ca.metrolinx.triplinx
+
 更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2018/08/hsr-bus-pass-faq-aug-2018.pdf 和 https://gsamcmaster.org/hsr/
 
 Hamilton公交车
@@ -119,7 +134,7 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 
 - 官网：https://www.hamilton.ca/hsr-bus-schedules-fares
 - HSR（Hamilton Street Railway）的交通图在这里 http://www2.hamilton.ca/NR/rdonlyres/492E4A3F-A8EB-4172-8A4F-FD5953EA8039/0/HSR_SystemMap_Layout.pdf 
-- HSR官方实时交通图： http://www.busweb.hamilton.ca:8008/hiwire?.a=iRealTimeDisplay
+- HSR官方实时交通图： https://hsrnow.hamilton.ca/#/app/tripplanning （可以点网页右边的Routes查看每一路车当前的实时位置，以及每一站即将到站的公交车的时间）
 - 查车APP：见本页最后的附里。
 
 2. 费用（2018年）
@@ -219,6 +234,10 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
   - 对于自己申请的presto card，计费类型（Fare Type）是Adult，通常比直接付现金便宜11.15%。详细政策可以看这个链接里Go Transit的介绍：https://www.prestocard.ca/en/about/paying-for-transit
   - 对于能免费在Hamilton乘车的学生，在8月份给自己presto卡加载优惠码（Voucher Code）的时候，Fare Type会自动变为PS1（Post Secondary）。这样就会比直接付现金便宜18%。https://www.gotransit.com/en/trip-planning/going-to-school
+- Transferring to/from local transit agencies，刷Presto卡在Go Transit长途车（包括汽车和火车）和市内公交系统之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit （看网页Go Transit那一栏的标题）
+
+  - 如果先坐市内公交车，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘市内公交车，则乘坐市内公交车的的费用会非常低。
+  - 举例：比如先乘Go Bus去密西沙加，然后再转密西沙加的市内公交车，则密西沙加市内公交车只要付$0.8就可以了。
 
 3. 车站
 
@@ -278,10 +297,25 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- 多伦多的公交系统，包括公交车和地铁。
+- 多伦多的公交系统，包括公交车、有轨电车和地铁。
 - 官网：http://www.ttc.ca/
-- 费用：http://www.ttc.ca/Fares_and_passes/Prices/Prices.jsp 。乘坐地铁和公交车每次的价格是一样的。付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3/次（2017年）。
+- 费用：
+
+  - http://www.ttc.ca/Fares_and_passes/Prices/Prices.jsp
+  - 付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3/次（2017年）。2小时内免费换乘。
+  - 乘坐地铁和公交车每次的价格是一样的
 - 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass：http://www.ttc.ca/Fares_and_passes/Passes/Day_Pass/index.jsp ，这样当日乘车的时候就不用再付费了。费用是：$12.50/天（2017年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
+- Transferring to/from GO Transit or UP Express，刷Presto卡在Go Transit长途车（包括汽车和火车）和TTC之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit
+
+  - 如果大家用含有U-Pass的Presto卡，先坐TTC，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
+  - 这种方式可能比买Day Pass便宜，大家可以提前计算好。
+- 举例：去多伦多Yorkdale Mall的路线规划及价格。
+
+  - 路线：首先从Hamilton坐Go Bus 16路到多伦多Union Station，然后再转乘TTC有轨电车510路到Chinatown的饭店吃午饭。吃完饭后继续坐510路向北到Spadina Station，转乘TTC地铁1号线到Yorkdale Mall购物。购物结束后，直接坐TTC地铁1号线到Union Station。最后坐Go Bus 16路回Hamilton。
+  - 费用估计（假设全程都刷带有U-Pass的Presto卡）
+
+    - ①Hamilton --> Go Bus 16路 --> Union Station：12.45*(1-18%)≈10.21。②Union Station --> TTC 510路 --> Chinatown：$0.55。由于Go Bus大概花1个小时就到多伦多了，没有超过3个小时换乘TTC。③Chinatown --> TTC 510路 --> Spadina Station --> TTC Subway 1路 --> Yorkdale Mall：Free。因为吃饭通常不会超过1个小时，而TTC市内公交车有2个小时的免费换乘时间。④Yorkdale Mall --> TTC Subway 1路 --> Union Station：$0.55。因为购物肯定要花很久，所以这一段公交车要付费。而到Union Station之后马上换乘Go bus，所以只要花55分就可以了。⑤Union Station --> Go Bus 16路 --> Hamilton：12.45*(1-18%)≈10.21。
+    - 总计约：$21.52。（即使四个人去多伦多玩，可能都比租车要便宜。因为租车还要在官网价格的基础上额外再付20多刀的保险、给车加油、付停车场的费用，这些额外的费用还要再付13%的消费税）
 
 2. Burlington Transit
 
@@ -303,6 +337,9 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
   - 单次：①现金：$3.50，不设找零，可以索要transfer。②Presto卡：$2.70。
   - 月卡：①Monthly Passes PRESTO Card（参考上面买HSR Month Pass的教程 ）：$97。②Post-Secondary Student U-Pass Add-on：$25。如果大家经常去Burlington，比如上课或实习，可以凭HSR U-Pass购买Burlington Transit U-Pass Add-on，这样可以把免费坐车的区间拓展到整个Burlington。
+- Transferring to/from GO Transit，刷Presto卡在Go Transit长途车（包括汽车和火车）和Burlington Transit之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit
+
+  - 如果大家用Presto卡，先坐Burlington Transit，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘Burlington Transit，则Burlington Transit的车费只要付$0.7就可以了。
 
 3. MegaBus
 

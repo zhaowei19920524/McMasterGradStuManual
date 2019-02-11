@@ -405,7 +405,7 @@ Hamilton 中餐馆
   - 1467 Main St W, Hamilton, ON L8S 1C9 
   - (905)521-8886 
 
-- Wei Xiang Yuan 北京面点：点菜制
+- Wei Xiang Yuan（北京面点）：点菜制
 
   - https://plus.google.com/photos/photo/105671526178142822524/6536351373545148434
   - 1088 Main St W, Hamilton, ON L8S 1B3
@@ -525,6 +525,12 @@ Hamilton 中餐馆
 
 Hamilton 中式甜点
 -----------------------------------------
+- OneZo Tapioca（丸作）
+
+  - https://www.onezotapioca.com/
+  - 1045 King St W Unit 1, Hamilton, ON L8S 1L6
+  - (289)246-9226
+
 - CoCo Fresh Tea & Juice（Coco奶茶）
 
   - https://www.facebook.com/CoCoFreshTeaHamilton
@@ -725,6 +731,15 @@ Mississauga：
   - 888 Dundas Street East A2, Mississauga, ON L4Y 4G6
   - (905)803-9333
 
+Uber Eats——加拿大版“饿了么”
+--------------------------------------------------------------
+除了饭店、快餐店官网上的送餐服务外， Uber Eats是比较通用的送餐服务，市内送餐服务费大概在$5左右。
+
+- 官网：https://www.ubereats.com/en-CA/
+- 手机App：
+
+  - iOS：https://itunes.apple.com/us/app/uber/id1058959277?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.ubercab.eats
 
 经验之谈
 -----------------------------------
