@@ -7,12 +7,16 @@
 - 加国无忧：http://www.51.ca/
 
   - 手机App，微信小程序：http://app.51.ca/
-  - 微信公共号：www51ca
+  - 微信公众号：www51ca
   - 网址导航：https://123.51.ca/
 - 问吧：http://www.wenba.ca/ 
 
   - 手机App：http://app.wenba.ca/
 - 加拿大省钱快报：https://www.dealmoon.ca/
+
+  - iOS：https://itunes.apple.com/us/app/jia-na-da-sheng-qian-kuai/id867845107?mt=8
+  - Android：https://play.google.com/store/apps/details?id=ca.com.dealmoon.android
+  - 微信公众号：dealmoonca
 
 多伦多地区：
 
