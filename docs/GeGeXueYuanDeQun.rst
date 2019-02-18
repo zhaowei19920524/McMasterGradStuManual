@@ -9,7 +9,7 @@
 - ITB（CAS+ECE）
 
   - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
-  - 19级 微信群：请联系19-ECE-马周健
+  - 19级 QQ群：549401754
 - Computational Science & Engineering
 
   - QQ群：225053068
