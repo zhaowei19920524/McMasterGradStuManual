@@ -52,13 +52,9 @@
   B. Campus dentist
 
   - 学校里的牙医诊所
-  - http://www.campusdentist.com/
+  - http://www.campusdentist.com/mcmaster.html
   - 预约：905-526-6020或 mcmaster@campusdentist.com
-  
-  C. Campus Optical
-
-  - 学校里的眼镜店
-  - http://campusoptical.ca/signup.php
+  - 虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
 
 2. 校外Walk-in Clinic和Emergency（急诊）
 
