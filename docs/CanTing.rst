@@ -542,6 +542,12 @@ Hamilton 中式甜点
   - 65 King St E, Hamilton, ON L8N 1A5
   - (905)527-9699
 
+- Tea Hut
+
+  - https://www.facebook.com/TeaHutHamilton
+  - 100 Main St E #100, Hamilton, ON L8N 3W4
+  - (905)521-6451
+
 Hamilton 越南米粉
 ------------------------------------
 - Saigon
