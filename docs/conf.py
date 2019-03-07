@@ -110,6 +110,8 @@ html_sidebars = {
    '**': ['localtoc.html', 'globaltoc.html', 'searchbox.html'],
 }
 
+html_show_sourcelink = False
+
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
