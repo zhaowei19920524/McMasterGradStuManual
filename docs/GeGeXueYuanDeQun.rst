@@ -167,7 +167,7 @@ McMaster常见学院专业及简称
   - Social Psychology：Social Psychology
   - Social Work：Social Work
   - Sociology：sociology
-- Arts & Science：Art
+- Arts & Science：artsci
 
 个别专业辨析
 ------------
