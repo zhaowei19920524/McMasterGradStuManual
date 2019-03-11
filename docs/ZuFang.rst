@@ -16,7 +16,6 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 - McMaster官方租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/?cat=0&s=
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
-- McMaster的中国学生论坛：http://www.maccssa.org/
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
 - Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。 
 
