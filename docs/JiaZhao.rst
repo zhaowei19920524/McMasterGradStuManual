@@ -73,15 +73,18 @@ G类驾照
 
 驾校
 ----------------------------------------------
-| 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学。Hamilton地区的市场参考价格是：G2驾照练习大概$40/小时，G驾照练习大概$50/小时。https://drivetest.ca/tests/resources/beginner-driver-education.html
-| 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。当然如果不急着考G2，并且出于省钱考虑，也可以不参加驾校的理论课学习，不拿全科证书。https://drivetest.ca/licences/drivers-licences-cars.html
-| 大家在参加驾校的时候一定要在省政府官网上看看是不是被认可的驾校：http://www.mto.gov.on.ca/english/driver/driving-schools.shtml
-| 此外，大家也可以跳过驾校，直接和驾校的华人教练联系来准备G2 Road Test和G Road Test。在此，我们推荐离学校比较近，并且以往报名人数最多的Westdale Driving School Inc. 。
+- 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学。Hamilton地区的市场参考价格是：G2驾照练习大概$40/小时，G驾照练习大概$50/小时。https://drivetest.ca/tests/resources/beginner-driver-education.html
+- 考完G1之后需要至少等12个月才能考G2。如果报驾校，并且拿到全科证书，等待时间可以缩短到8个月。当然如果不急着考G2，并且出于省钱考虑，也可以不参加驾校的理论课学习，不拿全科证书。https://drivetest.ca/licences/drivers-licences-cars.html
+- 大家在参加驾校的时候一定要在省政府官网上看看是不是被认可的驾校：http://www.mto.gov.on.ca/english/driver/driving-schools.shtml
+- 此外，大家也可以跳过驾校的理论课程，直接和驾校里的华人教练联系来准备G2 Road Test和G Road Test。在此，我们推荐离学校比较近，并且以往群里学生报名人数最多、评价最好的Westdale Driving School Inc. 。
+
+.. image:: /resource/westdaledriving.png
+   :align: center
 
 - 官网：http://westdaledriving.com/
 - 地址：1057 Main Street West L-03, Hamilton, ON L8S 1B7 
-- 驾校电话（英语）：(905)522-8381
-- 董教练（中文普通话）：(289)237-9486
+- 驾校官方联系电话（英语）：(905)522-8381
+- 董教练：(289)237-9486 （他是这个驾校的华人教练，大家可以直接用中文普通话和他交流）
 
 国际驾照
 --------------------------------------------------------------------------------------
