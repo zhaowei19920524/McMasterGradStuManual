@@ -190,8 +190,9 @@
 
 2. 滑雪
 
-- 每年12月期末考完试到1月开学前都是滑雪的最佳时机。推荐2个滑雪的地方，一个是Blue Mountain，上面已经介绍过了；还有一个比较近一点的是Glen Eden，在Milton。
+- 每年12月期末考完试到1月开学前都是滑雪的最佳时机。在Ontario，推荐这几个滑雪的地方：一个是Blue Mountain，上面已经介绍过了；还有一个比较近一点的是Glen Eden，在Milton；还有一个是Snow Valley，在Barrie。
 - Glen Eden滑雪场：https://gleneden.on.ca/ 。目前还不太清楚如何坐公交车去。因此只能开车。
+- Snow Valley滑雪场：https://www.skisnowvalley.com/ 。大家可以坐Go Train、Greyhound、Ontario Northland（北极快线）先到Barrie，然后再乘坐出租车到Snow Valley滑雪场。
 
 旅行社
 ------------------------
@@ -211,7 +212,7 @@
 
 - 天宝旅游：https://www.tianbaotravel.com/
 
-  - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/interfaces/flight_search.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
+  - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/flight/entry.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
 
 - 泰安旅游：https://safewaytours.net/
 
