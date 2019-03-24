@@ -2,13 +2,13 @@
 ==========================================
 加拿大五大银行
 -----------------------------
-- Royal Bank of Canada（RBC）：http://www.rbc.com/
+- Royal Bank of Canada（RBC）：https://www.rbc.com/
 - Canadian Imperial Bank of Commerce（CIBC）：https://www.cibc.com/
-- The Bank of Nova Scotia（Scotiabank）：http://www.scotiabank.com/
+- The Bank of Nova Scotia（Scotiabank）：https://www.scotiabank.com/
 - TD Canada Trust（TD）：https://www.td.com/
 - Bank of Montreal（BMO）：https://www.bmo.com/
 
-这些银行的地位和中国的四大行一样，因为加拿大地广人稀的特点，所以银行业主要由这五大垄断的。加拿大的银行产品和国内银行还是由比较大的区别的。下面会为大家详细介绍产品类型及使用注意事项。
+这些银行的地位和中国的四大行一样，因为加拿大地广人稀的特点，所以银行业主要由这五大银行垄断的。加拿大的银行产品和国内银行还是由比较大的区别的。下面会为大家详细介绍产品类型及使用注意事项。
 
 .. image:: /resource/bank/online_banking.jpg
    :align: center
@@ -23,7 +23,7 @@
 
 2. Savings account（储蓄账户）
 
-- 这里的储蓄账户类似于国内的活期存款账户。它能产生利息，利率根据银行和账户的类型略有不同。大体上年利率在0.9%左右。利息按天算，每个月发一次。
+- 这里的储蓄账户类似于国内的活期存款账户。它能产生利息，利率根据银行和账户的类型略有不同。大体上年利率在1%左右。利息按天算，每个月发一次。
 - 每个客户可以拥有不同的储蓄账户来存各种类型的钱，比如：“RBC High Interest eSavings”是一个利息略高的加元储蓄账户，“RBC U.S. High Interest eSavings”是一个利息略高的美元储蓄账户。
 
 常见关键词介绍：
@@ -71,7 +71,7 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 保证金 (Security Deposit) ：
 
 - 有一些银行会抵押一定金额作为保证金，保证金的金额以你的信用卡额度为主，比如说你想有一张1000刀的透支额度信用卡，就抵押1000刀给银行。保证金将会以定期存款(GIC)的形式来为用户保存押金，有很少的利息，在银行觉得客户信用良好会通知客户取回押金。
--  **现在CIBC，Scotiabank，RBC给学生开不用押金的信用卡，额度从500到1000不等**
+-  **强烈建议大家办理不需要保证金的信用卡**
 
 信用卡的优势 ：
 

@@ -347,7 +347,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- MegaBus是由Coach Canada公司运营的长途公交车。如果想坐车去Kitchener（Waterloo），则需要乘坐MegaBus。
+- MegaBus是由Coach Canada公司运营的长途公交车。如果想坐车去Kitchener（Waterloo），则需要乘坐MegaBus。（Google Map不能查到MegaBus的路线）
 - 官网：https://ca.megabus.com/
 - 乘坐MegaBus一定要在官网上预定，不能上车再买票，上车时给司机出示购票后的确认邮件。
 - MegaBus的起点在学校西边Mary Keyes Residence宿舍楼的西北角，车站是一个标有Coach Canada和MegaBus的站牌和座椅。大家第一次乘坐请提前去寻找位置。如果不确定自己是否上了正确的车，可以向司机确认是不是去Kitchener的MegaBus。
@@ -375,7 +375,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 - 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份，甚至去美国。在安大略省，大家同样可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学），也可以乘坐它去Blue Mountain滑雪场。
 - 官网：https://www.greyhound.ca/
-- 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）
+- 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）。Google Map不能查到Greyhound的路线。
 
 出租车
 ------------------------------------------
