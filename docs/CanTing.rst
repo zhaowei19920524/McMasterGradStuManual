@@ -319,6 +319,8 @@ McMaster周边的西餐
    :align: center
    :scale: 25%
 
+- 优惠：买7送1。就是购买7杯饮料，可以免费送一杯。https://www.timhortons.com/timsrewards/ 。大家下载App后。注册账户，然后店里付款前扫一下App里的二维码就可以了。
+
 - 地点：
 
   - McMaster Student Center一楼
@@ -329,7 +331,7 @@ McMaster周边的西餐
 - DIY
 
   - 虽然一杯咖啡只要$1~2，但依然有更为省钱的方法。Tim Hortons在Amazon上有网店，里面卖几乎所有的咖啡、热饮等等。如果大家经常喝，可以一次性买一大桶，回来自己冲泡。一大桶咖啡不会超过20刀，一大桶热饮不会超过10刀。足够冲泡几十杯，喝很长时间。
-  - https://www.amazon.ca/s/field-keywords=tim+hortons
+  - Amazon网店链接：https://www.amazon.ca/l/7979710011
 
 Hamilton其它地方的西餐
 ---------------------------------------------
