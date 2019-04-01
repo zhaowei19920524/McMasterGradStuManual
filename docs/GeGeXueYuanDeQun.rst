@@ -93,7 +93,7 @@ McMaster常见学院专业及简称
     - Full-time MBA：MBA(Full Time)
     - Co-op MBA：MBA(Co-op)
     - Part-time MBA：MBA(Part Time)
-  - Graduate Diploma in Professional Accountancy：CPA
+  - Graduate Diploma in Professional Accountancy：CPA或GDPA
   - PhD in Business Administration：DBA
 
     - Finance：DBA(Finance)

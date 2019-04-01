@@ -428,6 +428,11 @@ Hamilton 中餐馆
   - 165 King St. East, Hamilton
   - (905)529-2226
 
+- Jan Bingo（煎饼果子）
+
+  - https://goo.gl/maps/F9nQd3Yr9Ak
+  - 2 King St W, Hamilton, ON L8P 1A1 （在Jackson Square C-24号店铺）
+
 - Szechuan Noodle Bowl Restaurant（顺椿原）：点菜制
 
   - https://www.shunchunyuan.com/
