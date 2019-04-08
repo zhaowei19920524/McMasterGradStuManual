@@ -402,17 +402,6 @@ Hamilton 中餐馆
   - 1223 Main St W, Hamilton, ON L8S
   - (905)528-8474 
 
-- Beijing Hut（北京小屋）：点菜制
-
-  - 1467 Main St W, Hamilton, ON L8S 1C9 
-  - (905)521-8886 
-
-- Wei Xiang Yuan（北京面点）：点菜制
-
-  - https://plus.google.com/photos/photo/105671526178142822524/6536351373545148434
-  - 1088 Main St W, Hamilton, ON L8S 1B3
-  - (905)297-4702 
-
 2. 市中心（Downtown）：
 
 - LiuLiu Hot Pot（老乡四川）：自助火锅
@@ -469,23 +458,18 @@ Hamilton 中餐馆
   - 129 King St. E., Hamilton, ON
   - 只能使用现金。
 
+- Chicken Zone Chinese Cuisine（爱至味黄焖鸡米饭）
+
+  - https://chickenzonechinesecuisine.business.site/
+  - 25 Main St W unit 103, Hamilton, ON L8P 1H1
+  - (905)523-6666
+
 - Grand Leisure Gastro House（盛宴国际）：点菜制
 
   - https://www.grandleisure.ca/
   -	16 Jarvis St, Hamilton, ON L8R 1M2 
   - (905)522-9888
   - 这家店的饮食已经不是它主要业务了，仅仅算是小吃。它主要运营KTV。
-
-- Mr.Dumpling：点菜制，外卖
-
-  - 50 Dundurn St. South L8P 4W3
-  - (905)570-1388
-  - 这家店不仅仅卖水饺，还有其它快餐。
-
-- K w BBQ Kitchen（琪华）：点菜制
-
-  - 103 Queen St N, Hamilton, ON L8R 2V5
-  - (905)577-6888
 
 - 8090 TEAHOUSE：点菜制，外卖
 
@@ -502,16 +486,6 @@ Hamilton 中餐馆
 
     - iOS：https://itunes.apple.com/app/id1222977577?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.foodfun.foodfun
-
-- Mark's Chinese Food & Tavern（中华酒家）：点菜制，外卖
-
-  - 468 King St W, Hamilton, ON L8P 1B8
-  - (905)527-7621
-
-- Crystal Dynasty Chinese Restaurant（美味栈粤菜馆 ）：点菜制
-
-  - 94 Cannon St W, Hamilton, ON L8R 2B6
-  - (905)308-8208
 
 - Forbidden City Chinese Restaurant：外卖，点菜制
 
@@ -686,11 +660,12 @@ Toronto：
   - 115 Dundas St W, Toronto, ON M6K 1T7
   - (416)901-9208
 
-- Crown Price Fine Dining and Banquet（紫京盛宴）：粤菜、早茶
+- Crown Price Fine Dining and Banquet（紫京盛宴）
 
   - http://www.crown-prince.ca/english/index.asp
   - 3600 Victoria Park Ave, North York, ON M2H 3B2
   - (416)490-8893
+  - 粤菜、早茶
 
 Mississauga：
 
@@ -714,30 +689,33 @@ Mississauga：
   - (905)568-9988
   - 非常地道的川菜，很辣，但是很好吃。
 
-- Red Lotus Restaurant（满江红）：川菜
+- Red Lotus Restaurant（满江红）
 
   - 1177 Central Pkwy W, Mississauga, ON L5C 4P3
   - (905)896-8828
+  - 川菜
 
-- Foodie North（北食客）：鲁菜以及北方菜
+- Foodie North（北食客）
 
   - http://foodienorth.com/
   - 325 Central Pkwy W #2&4, Mississauga, ON L5B 3X9
   - (905)277-8989
   - 推荐鱼头泡饼，北京烤鸭
+  - 鲁菜以及北方菜
 
-- Silk Road Restaurant（丝绸之路）：西北菜
+- Silk Road Restaurant（丝绸之路）
 
   - http://www.thesilkroad.ca/
   - 1852 Dundas St E, Mississauga, ON L4X 1L9
   - (905)279-9444
-  - 推荐大盘鸡、烤羊肉串儿等。
+  - 西北菜。推荐大盘鸡、烤羊肉串儿等。
 
-- Emerald Chinese Restaurant（康翠酒楼）：广式早茶
+- Emerald Chinese Restaurant（康翠酒楼）
 
   - http://www.emeraldchineserestaurant.com/
   - 30 Eglinton Ave W, Mississauga, ON L5R 3E7
   - (905)890-9338
+  - 广式早茶
 
 - Long Zu BBQ（龙族烧烤）
 

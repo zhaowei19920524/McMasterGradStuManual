@@ -95,7 +95,7 @@ Canada主要超市
 - 地址：100 Legend Ct, Ancaster, ON L9K 1J3
 - Canada最大的批发商。它只卖批发的商品，比如厕纸，一次最少也得买30卷。他的策略是薄利多销。大家可以一段时间租车去一次，去那里购物一次买的东西，可以用很久。如果只买一两件小的商品，也可以坐5C公交车到“GOLF LINKS at MEADOWLANDS”。
 - 在Costco里购物结账的地方不支持Visa信用卡，付款只能用Debit卡、Master Card、现金。
-- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，这两种会员卡都可以免费开子卡给别人用（spouse或同一个住址的其它室友，可能需要带上租房合同，或驾照等其它证件）。https://www.costco.ca/join-costco.html?COSTID=Header_EN_Membership_TOP
+- 会员卡：在里面购物必须先办会员卡。年费有$60和$120两种。这两种积分增加速度不一样，这两种会员卡都可以免费开子卡给别人用（spouse或同一个住址的其它室友，可能需要带上租房合同，或驾照等其它证件）。https://www.costco.ca/join-costco-quick.html
 
   - 购物：在Costco里购物必须有会员卡。（注：由于会员卡上有持卡人的名字和照片，在Costco商场里结账的时候，会核对付款人的身份。如果借别人的卡去买东西，可能会被查出来）
   - 加油：https://www.costco.ca/gasoline.html 。Costco商场外的自助加油站比其它公司的加油站的价格要便宜得多。
@@ -167,7 +167,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 - 它非常像国内的淘宝和京东，虽然规模没法比。几乎卖任何常见的商品，大家如果平时有东西不知道在哪买，就可以去Amazon看看。
 - Prime Student会员：https://www.amazon.ca/gp/help/customer/display.html/?nodeId=201552870 。
 
-  - 对于标有prime的商品可以享受2-day free shipping，年费$39，可以先免费试用半年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）。
+  - 对于标有prime的商品可以享受2-day free shipping，年费$39，可以先免费试用半年。注意不要买成Amazon Prime了，那个不是学生版的，要79刀一年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）。
   - 部分标有prime的商品可以享受更高级的1-day free shipping。但注意一次性购买的商品必须不低于$25，否则依然会收运费。
 - Amazon的退货政策也比较好，买了之后如果不满意，通常可以原价退货。但频繁退货会收罚金。
 - 手机App

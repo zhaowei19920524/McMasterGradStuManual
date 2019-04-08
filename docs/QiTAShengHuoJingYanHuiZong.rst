@@ -26,8 +26,6 @@
 Hamilton：
 
 - Hamilton 华人网：http://www.hamiltonchinese.ca/
-- McMaster - 中国学生论坛（麦克马斯特大学中国学生学者联谊会官网。注：此网站由本科生运营，发布的信息主要针对本科生，希望大家一定要注意甄别）：http://www.maccssa.org/
-- McMaster学生论坛：http://www.macinsiders.com/
 
 签名
 ------------------
