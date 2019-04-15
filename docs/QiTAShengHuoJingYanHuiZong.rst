@@ -90,7 +90,7 @@ Hamilton：
 
 | 比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位（包括学生）依然会放假。这时候会出现一个大约10天的长假。
 | 对于学生来说，是没有暑假和寒假的。一个学年有3个term，每个term是4个月。所以不会有任何假期，包括本科生（本科生term3要去校外实习）。
-| 对于研究生来说，大部分研究生虽然课程比较少，term5甚至term3以后就没有任何课程了，但不代表就处于放假状态。准确的说，研究生也没有任何假期，即使没有课也要跟导师一起写论文，或做项目。不过大家也不用担心，如果想回国，可以圣诞节到元旦那几天回去。并且大多数导师都会在一年里批一个月的假。
+| 对于研究生来说，大部分研究生虽然课程比较少，term5甚至term3开始就没有任何课程了，但不代表就处于放假状态。准确的说，研究生也没有任何假期，即使没有课也要跟导师一起写论文，或做项目。不过大家也不用担心，如果想回国，可以圣诞节到元旦那几天回去。并且大多数导师都会在一年里批一个月的假。
 
 电压与插座
 -------------------------------------
@@ -107,21 +107,15 @@ Hamilton：
 
 1. First Choice
 
-  - 加拿大一家很大的美容美发连锁店。
-  - http://www.firstchoice.com/
-  - 成人单剪$19.75。
+- 加拿大一家很大的美容美发连锁店。离学校最近的分店在学校南门对面：1331 Main St W, Hamilton, ON L8S 1C6
+- https://www.signaturestyle.com/
+- 成人单剪$19.75。
 
-2. 华人开的理发店（费用基本和西人理发店差不多，可能会便宜几加元）
+2. 华人开的理发店（费用基本和西人理发店差不多，可能会便宜几加元。它们的位置都在Hamilton市中心）
 
-  - Olivia Hair Salon：93 James St N, Hamilton, ON L8R 2K6
-  - Amy's Hair & Nails（发艺轩）：76 James St N, Hamilton, ON L8R 2K5
-  - Family Hair Cut（斑马）：Unit 1, 222 King St E, Hamilton, ON L8N 1B5
-
-.. raw:: html
-
-    <div align="center">
-      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CdZTpkU3k56HCJTq2-Di8Ct3mrc" width="640" height="480"></iframe>
-    </div>
+- Olivia Hair Salon：93 James St N, Hamilton, ON L8R 2K6
+- Amy's Hair & Nails（发艺轩）：76 James St N, Hamilton, ON L8R 2K5
+- Family Hair Cut（斑马）：Unit 1, 222 King St E, Hamilton, ON L8N 1B5
 
 身份证件
 --------------------------------

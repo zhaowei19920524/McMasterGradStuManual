@@ -15,7 +15,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
 
 第二步：乘坐Go bus长途汽车
 
-- Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分（只有白天）和过35分，可以用机场WiFi，使用Google地图，查好上车时间。大家记得准备好现金上车买票（至少$20，实际花费大概在$12左右，大家最好不要给司机$100大面额现金），go bus不能刷信用卡。
+- Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。大家记得准备好现金上车买票（至少$20，实际花费大概在$12左右，大家最好不要给司机$100大面额现金），go bus不能刷信用卡。
 - 注：其中有34和40两种Go Bus，先到Platform Q4找40路并且是Hamilton Go Center方向。由于这一站不是起点站，所以方向不要坐反了，不然就去多伦多北边的一个城市了。Go bus车头上边有一个LED的屏幕，会显示去往的方向。如果不放心上车买票前可以询问司机。
 - 起点：Pearson Airport (Terminal 1)。下车：Main St. W. @ Paisley Ave. S., Hamilton（Hamilton境内第一站）或Hamilton Go Center（Hamilton终点站）
 

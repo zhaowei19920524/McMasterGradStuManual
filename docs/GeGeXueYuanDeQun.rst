@@ -105,8 +105,8 @@ McMaster常见学院专业及简称
     - Marketing：DBA(Marketing)
   - Executive MBA：EMBA
   - eHealth：eHealth
-  - Health Management：healthmanagement
-  - Global Health：globalhealth
+  - Health Management：Health Management
+  - Global Health：Global Health
 - Science
 
   - Biochemistry & Biomedical Sciences：biochem
@@ -140,8 +140,8 @@ McMaster常见学院专业及简称
   - Biomedical Engineering：BME
   - Chemical Biology：chembio
   - eHealth：eHealth
-  - Global Health：globalhealth
-  - Health Management：healthmanagement
+  - Global Health：Global Health
+  - Health Management：Health Management
   - Health Policy：HP
   - Neuroscience：MiNDS
 - Humanities：
@@ -152,13 +152,13 @@ McMaster常见学院专业及简称
   - French：French
   - History：History
   - Gender Studies and Feminist Research：GSFR
-  - Linguistics & Languages：linguistics
+  - Linguistics & Languages：Linguistics
   - Philosophy：Philosophy
 - Social Sciences：
 
-  - Anthropology：anthropology
-  - Economics：economics
-  - Geography & Environmental Studies：geography
+  - Anthropology：Anthropology
+  - Economics：Economics
+  - Geography & Environmental Studies：Geography
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
   - Indigenous Studies：Indigenous
   - Labour Studies：Labour
@@ -167,7 +167,7 @@ McMaster常见学院专业及简称
   - Religious Studies：Religious
   - Social Psychology：Social Psychology
   - Social Work：Social Work
-  - Sociology：sociology
+  - Sociology：Sociology
 - Arts & Science：artsci
 
 个别专业辨析
