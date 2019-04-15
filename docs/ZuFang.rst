@@ -231,7 +231,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - 校外第三方机构旗下的学生公寓（这几个公寓都是第三方机构建造的公寓，它们只租给学生，并且管理上也类似于学校的公寓）
 
   - 191 Main St W： 很多同学都推荐这个downtown的公寓，这个公寓是Hamilton市政府给McMaster和Mohawk两所大学的学生单独建造的，租客必须是这两所大学的在读学生。其实它就是一个bachelor的公寓。价格大概$500+/月。想一个人住在市区的同学可以优先考虑这个。
-  - 35 Dundurn St S：准确的地址是21-53 Dundurn St. S.，在Zone1和Dundurn的分界线附近，是一排房子的集合。它的管理和69 Sanders Blvd类似。
+  - 35 Dundurn St S：准确的地址是21-53 Dundurn St. S.，在Zone1和Dundurn的分界线附近，是一排房子的集合。
   - 20 Rebecca Street：它在downtown，是DMS旗下的学生公寓，2017年才完工，可以说是最新的公寓之一了。公寓里面提供了所有学生住宿需要的家具、写字台等等，此外，这个公寓还有空调。
 
 - West Village Suites（1686 Main St W）

@@ -297,7 +297,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
    :align: center
    :width: 200 px
 
-- 多伦多的公交系统，包括公交车、有轨电车和地铁。
+- 多伦多的公交系统，包括公交车、有轨电车（Streetcar）和地铁（Subway）。
 - 官网：http://www.ttc.ca/
 - 费用：
 
@@ -309,13 +309,18 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
   - 如果大家用含有U-Pass的Presto卡，先坐TTC，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
   - 这种方式可能比买Day Pass便宜，大家可以提前计算好。
-- 举例：去多伦多Yorkdale Mall的路线规划及价格。
 
+.. admonition:: 举例——去多伦多Yorkdale Mall购物商场的路线规划及价格
+  
   - 路线：首先从Hamilton坐Go Bus 16路到多伦多Union Station，然后再转乘TTC有轨电车510路到Chinatown的饭店吃午饭。吃完饭后继续坐510路向北到Spadina Station，转乘TTC地铁1号线到Yorkdale Mall购物。购物结束后，直接坐TTC地铁1号线到Union Station。最后坐Go Bus 16路回Hamilton。
-  - 费用估计（假设全程都刷带有U-Pass的Presto卡）
+  - 分段费用估计（假设全程都刷带有U-Pass的Presto卡）
 
-    - ①Hamilton --> Go Bus 16路 --> Union Station：12.45*(1-18%)≈10.21。②Union Station --> TTC 510路 --> Chinatown：$0.55。由于Go Bus大概花1个小时就到多伦多了，没有超过3个小时换乘TTC。③Chinatown --> TTC 510路 --> Spadina Station --> TTC Subway 1路 --> Yorkdale Mall：Free。因为吃饭通常不会超过1个小时，而TTC市内公交车有2个小时的免费换乘时间。④Yorkdale Mall --> TTC Subway 1路 --> Union Station：$0.55。因为购物肯定要花很久，所以这一段公交车要付费。而到Union Station之后马上换乘Go bus，所以只要花55分就可以了。⑤Union Station --> Go Bus 16路 --> Hamilton：12.45*(1-18%)≈10.21。
-    - 总计约：$21.52。（即使四个人去多伦多玩，可能这个价格都比平分租车的费用要便宜。因为租车还要在官网价格的基础上额外再付25刀左右的保险、给车加油、付停车场的费用，这些额外的费用还要再付13%的消费税）
+    - ①Hamilton --> Go Bus 16路 --> Union Station：12.45*(1-18%)≈10.16。Presto学生优惠
+    - ②Union Station --> TTC 510路 --> Chinatown：$0.55。由于Go Bus大概花1个小时就到多伦多了，没有超过3个小时换乘TTC
+    - ③Chinatown --> TTC 510路 --> Spadina Station --> TTC Subway 1路 --> Yorkdale Mall：Free。因为吃饭通常不会超过1个小时，而TTC市内公交车有2个小时的免费换乘时间
+    - ④Yorkdale Mall --> TTC Subway 1路 --> Union Station：$0.55。因为购物肯定要花很久，所以这一段公交车要付费。而到Union Station之后马上换乘Go bus，所以只要花55分就可以了
+    - ⑤Union Station --> Go Bus 16路 --> Hamilton：12.45*(1-18%)≈10.16。Presto学生优惠
+  - 总计：≈$21.42。（即使四个人去多伦多玩，每个人全程坐公交车的价格都比平分租车的费用要便宜。因为租车还要在官网价格的基础上额外再付25刀左右的保险、给车加油、付停车场的费用，这些额外的费用还要再付13%的消费税）
 
 2. Burlington Transit
 

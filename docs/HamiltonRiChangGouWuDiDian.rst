@@ -135,16 +135,6 @@ Jackson Square购物中心
 .. image:: /resource/GouWu/JacksonSquareDirectory-201707-page-003.jpg
    :align: center
 
-Google地图的位置
-------------------------------------------------------------
-（Google地图，国内的同学可能需要翻墙访问）
-
-.. raw:: html
-
-  <div align="center">
-      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1a6AjLLdzg55eOPqf5nBoteIO_pY" width="640" height="480"></iframe>
-  </div>
-
 “团购”APP：Groupon
 -----------------------------
 Groupon是Canada版团购、打折信息App，虽然规模远远没法和国内的类似产品相比。
