@@ -511,7 +511,6 @@ Hamilton 中式甜点
   - https://www.onezotapioca.com/
   - 1045 King St W Unit 1, Hamilton, ON L8S 1L6
   - (289)246-9226
-
 - CoCo Fresh Tea & Juice（Coco奶茶）
 
   - https://www.facebook.com/CoCoFreshTeaHamilton
@@ -522,7 +521,11 @@ Hamilton 中式甜点
   - http://www.sugarmarmalade.com/
   - 65 King St E, Hamilton, ON L8N 1A5
   - (905)527-9699
+- Hui Lau Shan Mango+ Drinkable Desserts（许留山）
 
+  - https://www.hkhls.com/en/
+  - 35 King St E, Hamilton, ON L8N 4A9
+  - (289)389-0597
 - Tea Hut
 
   - https://www.facebook.com/TeaHutHamilton
