@@ -243,6 +243,15 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 - http://freshco.com/
 - 所卖商品和metro或foodbasics类似，但蔬菜品种比前两者多。可以理解为西人版的Nations Fresh Foods。
 
+7. Bulk Barn
+
+.. image:: /resource/GouWu/logo/BulkBarn.png
+   :align: center
+   :width: 200 px
+
+- https://www.bulkbarn.ca/
+- 西人版的粮油店。
+
 学姐经验
 --------------------------------------------------------
 .. note::
