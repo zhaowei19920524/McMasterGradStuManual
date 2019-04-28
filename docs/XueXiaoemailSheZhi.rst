@@ -76,6 +76,27 @@ iOS和macOS自带的邮件客户端只能收邮件不能发邮件，请最好用
 
 如果有其它原因导致Email收发不成功，请联系学校UTS，http://www.mcmaster.ca/uts/
 
+邮件签名
+---------------------------------------
+一个好的邮箱签名会让收件人觉得专业且正式。比如McMaster International Student Services （ISS）的负责人Ana Pereira的邮件里会在签名中附上相关的信息，以及麦马Brighter World的logo。如下图所示：
+
+.. image:: /resource/XueXiaoemailSheZhi/SignatureSample.png
+   :align: center
+
+麦马官方Email的签名模板：https://documents.mcmaster.ca/www/brighterworld/signature/builder/ 。大家在网页里填写自己相关信息，点击Submit按钮，就会出现结果预览，然后点击“Copy to Clipboard”按钮进行复制。接着登陆自己的邮箱网页点击右上角的齿轮按钮，在点击“Settings”
+
+.. image:: /resource/XueXiaoemailSheZhi/SignatureSample2.png
+   :align: center
+   :scale: 50%
+
+接着找到“Signature”那一栏，复制进去。最后保存就可以了。
+
+.. image:: /resource/XueXiaoemailSheZhi/SignatureSample3.png
+   :align: center
+   :scale: 35%
+
+大家可以在麦马邮箱激活后，尽快设置一下签名。
+
 注
 --------------------------------------
 1) Android phones：May require that the encryption method be set SSL-accept all certificates instead of just SSL。
