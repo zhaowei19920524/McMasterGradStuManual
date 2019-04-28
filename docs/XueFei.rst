@@ -7,7 +7,7 @@
 -----------------------------------------------------------------
 - 各program的学费可以查这里
 
-  - http://student-accounts.mcmaster.ca/tuition-fees/undergraduate/graduate/
+  - http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate
   - 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样，大家的offer上依然写的是未降之前的费用，具体数额需要等八九月份通知。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
 - 对于2018 Fall入学的新生，付学费截止日期是9月1日。有奖学金的同学（包括scholarship、TA、RA等），截止日期是9月22日。如果学费没交齐，学校在9月30日会罚$75滞纳金并开始收利息。
 
