@@ -411,7 +411,7 @@ Hamilton 中餐馆
   - (905)581-0354
   - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV，在此用餐后KTV有优惠。
 
-- Sparkle Northern Chinese Cuisine美食美客：点菜制，外卖
+- Sparkle Northern Chinese Cuisine（美食美客）：点菜制，外卖
 
   - http://www.sparklenorthernchinese.com/
   - 165 King St. East, Hamilton
@@ -440,12 +440,6 @@ Hamilton 中餐馆
   - https://www.facebook.com/noodlemerestaurant
   - 1 Wilson St #7, Hamilton, ON L8R 1C4
   - (905)540-1166
-
-- Squares Hot Pot（九宫格）：自助火锅
-
-  - 80 James St. North
-  - (905)525-1488
-  - 价格：周一~周四：午餐$21.99，晚餐$23.99；周五~周日：午餐$26.99，晚餐$28.99。锅底另付：清汤：$7.99，鸳鸯：$8.99，九宫格：$9.99
 
 - Great Red Peppers（红海椒）：点菜制
 

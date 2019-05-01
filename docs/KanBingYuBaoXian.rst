@@ -80,7 +80,7 @@
 - 对于有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+CUPE Dental Plan
 - 对于MBA专业的学生：购买UHIP+MSU Health Plan Insurance+MSU Dental Plan Insurance
 - 对于联培的学生（Visiting Student）：购买UHIP Premium
-- 博士后（Post Doc）：UHIP+CUPE Dental Plan
+- 博士后（Post Doc）：UHIP（工作前3个月）+OHIP（工作三个月以后）+CUPE Dental Plan
 
 看病
 -------------------------------------------
