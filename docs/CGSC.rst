@@ -92,7 +92,7 @@ CGSC的组织结构分为两个部分：
 ---------------------------------------------------
 1. 最新成员名单及主席团和部长们的联系方式：
 
-- https://1drv.ms/x/s!AgcvihOVOptYgS4wEwmoS9DoEAvm （Onedrive网盘链接）
+- https://1drv.ms/x/s!AgcvihOVOptYgS4wEwmoS9DoEAvm （Onedrive网盘链接，国内同学需翻墙查看）
 
 2. 社团官方联系方式
 
