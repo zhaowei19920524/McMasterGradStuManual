@@ -32,6 +32,7 @@
   - 16级 QQ群：431729307，微信群：请联系16-MBA-曹星
   - 17级 微信群：请联系17-MBA-张然
   - 18级 微信群：请联系18-MBA-韩雪松
+  - 19级 微信群：请联系19-MBA-杨俊琦
 - PhD in Business Administration
 
   - 微信群：请联系17-DBA(Management Science)-仉帅
