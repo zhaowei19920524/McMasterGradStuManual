@@ -21,7 +21,7 @@ Welcome to McMaster University!
 ——McMaster研究生新生群的管理员们
 
 .. attention::
-  - 网站里插入了多幅Google地图， 在国内的同学请翻墙查看。
+  - 网站里插入了多幅Google地图和Wikipedia链接， 在国内的同学请翻墙查看。
   - 网站里如发现有任何失效的链接，请速与17-CAS-赵伟联系。
 
 以下关键词列举了常见问题，希望大家仔细阅读：
