@@ -42,7 +42,7 @@ Scholarship
 
 其它
 ---------------------------
-1. China Scholarship Council（CSC）：国家公派给的资助，通常一个学生一个月能拿到$1600。
+1. China Scholarship Council（CSC）：国家公派给的资助，通常一个学生一个月能拿到$2200。
 2. 企业的奖学金：如果申请到了企业的奖学金，则导师会少发相应数目的Research Scholarship。因而拿到手的总数是一样的，除非企业的奖学金比Research Scholarship还高。
 
 奖学金的发放

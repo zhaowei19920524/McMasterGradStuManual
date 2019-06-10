@@ -47,7 +47,7 @@ Welcome to McMaster University!
    JiangXueJin
    XuanKe
    DangAn
-   LiuXueXingLiQingDan
+   XingQianZhidao
    DepositDingJin
    transition_week
    XueXiaoemailSheZhi
@@ -64,7 +64,7 @@ Welcome to McMaster University!
    campusDiTu
    TiYuGuan
    TuShuGuan
-   CGSC
+   SheLianYuSheTuan
    McMasterZaiDuZhengMing
    McMasterChengJiDan
    ExtendStudyPermitVisa

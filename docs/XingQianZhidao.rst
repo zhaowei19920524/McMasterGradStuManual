@@ -1,5 +1,18 @@
-﻿留学行李清单
+﻿行前指导
 ==================
+麦马官方学前课程
+-------------------------------------
+1. 麦马官方学前课程第一节课 关于居住问题（housing） 2019/5/18 1:00AM 
+
+- 链接：https://pan.baidu.com/s/1c-nFvfFHT3Pc8T7qGWML8w 提取码：9srp（未压缩版 6.24G）
+- 链接：https://pan.baidu.com/s/19FC-2QVmBUT1rwEZc-y5iw 提取码：wjv5（压缩版 579M）
+
+2. 麦马官方学前课程第二节课 关于出发前问题（pre-departure） 2019/6/4 8:00PM
+
+- 链接：https://pan.baidu.com/s/1FXDEiXS8xgkAPM7ZQacG9A 提取码：aje0（压缩版 591M）
+
+留学行李清单
+------------------------------------------
 http://edu.yorkbbs.ca/news/2017-08/1782205.html
 
 如果打不开，可以查看群文件里已经导出的内容（最全最实用！加拿大留学必备物品清单来啦.pdf）

@@ -198,23 +198,11 @@
 ------------------------
 不管大家找哪家旅行社，如果去其他省份的城市游玩，都推荐选3日以上的行程。因为3日及3日以下的行程太紧张了，每个景点留得时间太少。
 
-1. 国内旅行社
+1. 天宝旅游：https://www.tianbaotravel.com/
 
-- 达美国际旅行社
+- 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/flight/entry.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
 
-  - 官网：https://dameiweb.com/
-  - 这个旅行社价格便宜，服务好，绝不会强制大家购物。推荐大家跟着这个旅行社去加东四日游、海洋三省、以及加西的各个城市。
-  - 它在官网的上的基本价格里只包含了车费、住宿费（宾馆条件非常好），但大巴司机的小费、各个景点的门票、自助餐的餐费都需要额外上车的时候再付。例如加东三日游每人额外需要再付300刀左右的费用。
-  - 如果跟着它的团去安省及安省以东的省份旅游（https://dameiweb.com/city/item-toronto.html），则需要自己去多伦多或密西沙加集合；如果去加西的省份，则需要自己坐飞机去温哥华集合。
-  - 这个旅游公司跟泰安旅游有合作，比如共用大巴车等等，大家不要觉得奇怪。
-
-2. Canada本地华人旅行社
-
-- 天宝旅游：https://www.tianbaotravel.com/
-
-  - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/flight/entry.shtml 或 https://www-amer.epower.amadeus.com/tianbao/#Page=Flight 。 记得勾选“搜索附近日期”和“(-/+ 3 天) ”，这样能显示更多的结果。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
-
-- 泰安旅游：https://safewaytours.net/
+2. 泰安旅游：https://safewaytours.net/
 
 .. admonition:: 本页作者
 
