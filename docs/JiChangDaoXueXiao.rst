@@ -51,6 +51,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
   - 18-MFin-李翘楚
   - 18-ME-杨雨航
   - 18-Stat-王晓昌
+  - 17-ChemE-刘黎君
   - 17-MedPhy-苗彬
   - 17-MSE-邰广青
   - 16-MECH-贾明钋Enzo

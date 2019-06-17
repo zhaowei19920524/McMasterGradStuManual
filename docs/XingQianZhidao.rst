@@ -30,3 +30,8 @@ http://edu.yorkbbs.ca/news/2017-08/1782205.html
 9. 拖鞋：大家最好在箱子里装一双能穿着洗澡的拖鞋。要是还有空间可以再装一双带有厚鞋底的棉拖鞋。
 
 违禁物品与注意事项：https://www.cbsa-asfc.gc.ca/travel-voyage/ivc-rnc-eng.html （这个虽然是写给旅游签证的人员，但携带物品的限制的部分是通用的）
+
+.. admonition:: 本页作者
+   
+   - 19-ECE-杨铭宸
+   - 17-CAS-赵伟

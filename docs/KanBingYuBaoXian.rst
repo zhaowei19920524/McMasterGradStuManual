@@ -21,7 +21,7 @@
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
 
-- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
+- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销一百万加元的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife
@@ -140,7 +140,7 @@
 1. McMaster University Centre Pharmasave
 
 - 官网：https://universitypharmacy.ca/mcmaster/
-- 这个是学校的药房，在Student Center Room 109B，如果在校医院看病需要买药，应当优先考虑去这里。
+- 这个是学校的药房，在Student Center Room 109B，如果在校医院看病需要买药，应当优先考虑去这里。因为在这里买很多药都不用出示pay direct card，就可以直接报销了。这样可以省去自己垫付，然后再向保险公司报销的流程。
 
 2. Shoppers Drug Mart
 

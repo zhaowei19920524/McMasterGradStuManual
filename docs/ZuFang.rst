@@ -164,8 +164,13 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
   #) 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
   #) 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
-7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为apt每年都会定期强制性全楼检查bedbug。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
-8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。http://www2.hamilton.ca/NR/rdonlyres/D2F70089-A992-400E-B6AD-AF28085F9F84/0/04091.pdf 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
+7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。
+
+- 租房前避免：大家在租house的时候可以不用考虑这个问题，因为house确实很少出现。如果租某个apt，只要近1年以来没有闹过都可以放心租住，因为任何apt的管理员都知道bedbug泛滥的严重性，他们每年都会定期强制性全楼检查bedbug，如果有任何bedbug的迹象都会立即清除，以免影响出租的生意。大家要是不放心可以问问群里的学长学姐们某个apt近期的情况。
+- 入住后避免：大家一定要养成好的卫生习惯，勤洗床上用品和衣物，遇到比较好的天气，要对床上用品和床垫暴晒杀菌消毒。老外们喜欢把书包等物品放在地上，也习惯席地而坐，在家不穿拖鞋赤脚走路，这并不是好的卫生习惯，因为这样很容易把地上的细菌病毒虫卵带到床上。而床上温暖舒适，是bedbug理想的繁殖场所。一旦bedbug在床上泛滥，唯一的解决办法就是把所有的床上用品、床垫、木质的床架子全部扔掉。普通的洗衣粉洗涤无法把大量虫卵完全杀死。
+- Hamilton市政府关于bedbug的介绍和指导：https://www.hamilton.ca/home-property-and-development/pest-control/bed-bugs
+
+8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。https://www.hamilton.ca/home-property-and-development/rental-properties/by-laws-rental-properties 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
 9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。转租合同模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/sublet_agreement_pdf.pdf
 10. 大麻（cannabis）问题：从2018年10月17日起，Canada全境允许自由购买娱乐性大麻。根据安省法律规定（https://www.ontario.ca/page/cannabis-legalization），house或apt的自己家里是允许吸大麻的场所。只有公寓的公共区域（indoor common areas），比如楼道、走廊、进门大厅是不允许的。所以你 **无法限制其它租客吸大麻** 。
 
