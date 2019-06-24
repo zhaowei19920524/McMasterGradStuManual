@@ -55,6 +55,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/maps/
   - 17-MedPhy-苗彬
   - 17-MSE-邰广青
   - 16-MECH-贾明钋Enzo
+  - 15-MedSci-Yan Gu
 
 - 接机的费用一般是$50~100，付费时请准备好现金。
 - 如果需要接机请主动积极和以上同学联系，商量时间和费用。货比三家。
