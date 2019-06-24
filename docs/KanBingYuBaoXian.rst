@@ -90,7 +90,7 @@
 
   - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。
   - https://wellness.mcmaster.ca/
-  - 看病前需要去按网站上说的方法预约医生。
+  - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
 
   B. Campus dentist
@@ -100,11 +100,21 @@
   - 预约：905-526-6020或 mcmaster@campusdentist.com
   - 虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
 
-2. 校外Walk-in Clinic和Emergency（急诊）
+2. 校外的Walk-in Clinic、Emergency Departments（急诊）、Urgent Care Centres（紧急护理中心）
 
-- 所有人都可以去看病的公共的诊所。但通常不能看牙齿。
-- 诊所列表（Hamilton+Burlington）：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072
-- 如果需要看急诊，可以点击上面网址里的“Emergency Departments”或查看 https://www.hamiltonhealthsciences.ca/areas-of-care/programs-and-clinics/emergency-department/ 。遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
+- 所有人都可以去看病的公共的诊所。但通常不能看牙齿。加拿大把公共的医院和诊所分为3大类：
+- Walk-in Clinic：就是不需要预约直接去看病的诊所。
+
+  - 诊所列表（Hamilton+Burlington）：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072 。
+  - 除了市中心几家比较大的医院外，大部分Walk-in Clinic的规模都和社区医院差不多，里面医生非常少。规模最小的Walk-in Clinic可能只有一个医生和若干护士。这类诊所看一下感冒、发烧、咳嗽、身体不舒服等等还是完全够用的。由于不需要预约，所以这类诊所通常都需要排队，高峰期等待1个多小时都是有可能的。https://medimap.ca/ 这个网站可以显示诊所的预计排队时间。
+- Emergency Departments：这个相当于国内的急诊。
+
+  - 诊所列表：点击上面网址里的“Emergency Departments”或查看 https://www.hamiltonhealthsciences.ca/areas-of-care/programs-and-clinics/emergency-department/ 。
+  - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
+- Urgent Care Centre：不用排队可以立即就诊的诊所
+
+  - 诊所列表：同样点击上面网址里的“Urgent Care Centres”。
+  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼镜受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，并且能接诊Urgent Care Centre的只有市中心的两家大的公立医院，距离McMaster还是比较遥远的。大家遇到紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
 
 3. 校外的牙医、眼医诊所
 
@@ -209,7 +219,7 @@
    :align: center
    :scale: 50%
 
-- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，例如：McMaster Student Wellness Centre和Dundurn Medical Center）
+- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，例如：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic）
 - 第二步：自己拿着处方去药店买疫苗，McMaster University Centre Pharmasave、Fortinos、Shoppers等地方都可以买。疫苗无法在药房直接报销。这一步属于买药环节，需要用GSA或MSU的保险。（报销80%的费用）
 - 第三步：回到clinic打疫苗。
 

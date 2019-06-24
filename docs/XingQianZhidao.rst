@@ -11,6 +11,10 @@
 
 - 链接：https://pan.baidu.com/s/1FXDEiXS8xgkAPM7ZQacG9A 提取码：aje0（压缩版 591M）
 
+3. 麦马官方学前课程第三节课 关于生活在汉密尔顿(life in hamilton)
+
+- 链接：https://pan.baidu.com/s/13CBCxRGqqEGvpG8xrhZ7WA 提取码：6ago (压缩版 479M)
+
 留学行李清单
 ------------------------------------------
 http://edu.yorkbbs.ca/news/2017-08/1782205.html
