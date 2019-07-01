@@ -1,9 +1,9 @@
 ﻿注册
 ============
 .. attention::
-   - **2018 Fall online注册：7月24日~8月28日**
-   - **2019 Winter online注册：11月29日~12月13日**
-   - **2019 Summer online注册：4月4日~4月18日**
+   - **2019 Fall online注册：7月23日~8月27日**
+   - **2020 Winter online注册：11月28日~12月12日**
+   - **2020 Summer online注册：4月2日~4月16日**
 
 | In order to receive your graduate support payments (scholarship, bursaries, TA pay) on the first pay date in mid-September, you *must* have completely enrolled by August 29, 2018. 
 | 有资助的学生必须在8月29日之前交材料。这样才能在9月收到资助，没有资助的学生不受这个影响，可以推迟到9月底。
