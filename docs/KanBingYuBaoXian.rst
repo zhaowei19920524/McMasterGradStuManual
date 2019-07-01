@@ -122,6 +122,7 @@
   
   - http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
   - 请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”或“Vision”。
+  - GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
 
    .. image:: /resource/Insurance/dental_location.png
       :align: center
@@ -166,7 +167,8 @@
 
 - 官网：https://www.rexall.ca/pharmacy
 - Rexall主要是一家药店，现在也零售一些生活用品，在Jackson Square。https://www.rexall.ca/storelocator/store/1404
-- Rexall跟student care有合作，这家店支持Pay-Direct Card，如果出示Pay-Direct Card可以额外再享受10%的买药优惠。 http://studentcare.ca/rte/en/McMasterUniversity_Health_HealthCoverage_PharmacyNetwork
+- Rexall跟studentcare有合作，这家店支持Pay-Direct Card，如果出示Pay-Direct Card可以额外再享受10%的买药优惠，这样在这家药店里买药就可以报销90%的费用。 http://studentcare.ca/rte/en/McMasterUniversity_Health_HealthCoverage_PharmacyNetwork
+- 如果在这家店里买Rexall品牌的生活用品，可以享受八折优惠。结账的时候要出示“Rexall Exclusive Savings Card”和学生证。
 
 5. 其它买药地点列表：
 
