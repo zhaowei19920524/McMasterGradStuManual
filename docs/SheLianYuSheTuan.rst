@@ -45,9 +45,9 @@ Graduate Students Association（GSA，研究生联合会）是麦克马斯特大
 5. The Phoenix Bar & Grill
 
 - https://www.phoenixmcmaster.com/
-- GSA下属的餐厅，是一个盈利性质的机构。餐厅工作人员是额外从社会上招聘的，由VP Administration管理。
+- GSA下属的餐厅，是一个盈利性质的机构。餐厅工作人员是额外从社会上招聘的，由VP Administration管理其财务。
 
-以上各个职位里，由学生担任的是3~5项。非常有价值的是Executive Committee的5个职位，因为这是一个非常好的锻炼自己的机会，写到简历里也是重要的加分项。此外这5个职位每个月还有几百加元的工资。希望大家积极申请，参与竞选。
+以上各个职位里，由学生担任的是2~4项。非常有价值的是Executive Committee的5个职位，因为这是一个非常好的锻炼自己的机会，写到简历里也是重要的加分项。此外这5个职位每个月还有几百加元的工资。希望大家积极申请，参与竞选。
 
 .. note::
   | 目前Executive Committee的5个职位里有3个由我们华人学生担任，他们分别是：

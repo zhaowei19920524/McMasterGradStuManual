@@ -5,3 +5,6 @@
 主校区各栋楼的楼层平面图：https://www.mcmaster.ca/uts/maps/
 
 停车场：http://parking.mcmaster.ca/
+
+.. image:: /resource/StudentParking.png
+   :align: center

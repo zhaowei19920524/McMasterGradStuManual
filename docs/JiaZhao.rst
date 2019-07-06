@@ -77,7 +77,7 @@ G类驾照
 
 注：
 
-1) G1和G2的驾照只有5年的有效期。过了有效期需要重新从G1开始考。除非已经获得G license。
+1) G1和G2的驾照属于（novice class ），只有5年的有效期，有效期从拿到G1驾照开始算，过了有效期需要重新从G1开始考。除非已经获得G license。https://www.ontario.ca/page/renew-expired-drivers-licence#section-3
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处在50 Dundurn St S, Hamilton, ON L8P 4W3。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
 #) 其它省份的驾照来到Ontario省的处理方法：https://www.ontario.ca/page/exchange-out-province-drivers-licence
 
