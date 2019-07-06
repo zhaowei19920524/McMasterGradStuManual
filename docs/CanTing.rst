@@ -19,12 +19,12 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 1. CENTRO @ Commons
 
-- 俗称“北餐厅”，在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
+- 地点在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
 - http://hospitality.mcmaster.ca/locations/centro.html
 
 2. EAST MEETS WEST BISTRO
 
-- 俗称“西餐厅”，在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
+- 地点在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
 - http://hospitality.mcmaster.ca/locations/emw-bistro.html
 
 3. The Phoenix
