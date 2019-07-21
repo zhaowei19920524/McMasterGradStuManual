@@ -103,7 +103,7 @@
   - 公共交通：
 
     - Go Bus 12路。需要先坐Hamilton市内公交车去Stoney Creek上车。全程大概2个半小时。
-    - Casino赌场的车：http://yourcasinovacations.com/daily-casino-tours/hamilton 。车费往返每人$15，并且还包括午餐自助。请用网站里的电话预定座位，并带上护照驾照等能证明年龄的证件。
+    - Casino赌场的车：https://yourcasinovacations.com/casino-schedule/ 。车费往返每人$15，并且还包括午餐自助。请用网站里的电话预定座位，并带上护照驾照等能证明年龄的证件。
   - 吃：
   
     - https://www.niagarafallstourism.com/eat/

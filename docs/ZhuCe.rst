@@ -5,9 +5,6 @@
    - **2020 Winter online注册：11月28日~12月12日**
    - **2020 Summer online注册：4月2日~4月16日**
 
-| In order to receive your graduate support payments (scholarship, bursaries, TA pay) on the first pay date in mid-September, you *must* have completely enrolled by August 29, 2018. 
-| 有资助的学生必须在8月29日之前交材料。这样才能在9月收到资助，没有资助的学生不受这个影响，可以推迟到9月底。
-
 The Enrolment Checklist must be completed in order to be enrolled: 
 
 1. Confirm that your record shows the correct citizenship and program of study. 

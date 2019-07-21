@@ -110,11 +110,11 @@
 - Emergency Departments：这个相当于国内的急诊。
 
   - 诊所列表：点击上面网址里的“Emergency Departments”或查看 https://www.hamiltonhealthsciences.ca/areas-of-care/programs-and-clinics/emergency-department/ 。
-  - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
+  - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病（life threaten）。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 
-  - 诊所列表：同样点击上面网址里的“Urgent Care Centres”。
-  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼镜受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，并且能接诊Urgent Care Centre的只有市中心的两家大的公立医院，距离McMaster还是比较遥远的。大家遇到紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
+  - 诊所列表：https://www.hnhbhealthline.ca/listServices.aspx?id=11234
+  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼镜受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，但不是很紧急的病症他们会拒绝接诊。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真正遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
 
 3. 校外的牙医、眼医诊所
 
