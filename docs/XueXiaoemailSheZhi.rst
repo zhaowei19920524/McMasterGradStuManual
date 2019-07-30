@@ -41,8 +41,13 @@
 
 在线登录方法
 -----------------------------------------------
-- 本科生、研究生：https://studentmail.mcmaster.ca
-- Post doc、访问学者、联培学生和学校教职工：https://macmail.mcmaster.ca/
+网址：
+
+- 本科生、研究生、联培学生：https://studentmail.mcmaster.ca
+- Post doc、访问学者和学校教职工：https://macmail.mcmaster.ca/
+
+| 用户名：MacID
+| 密码：登陆mosaic的密码
 
 邮箱客户端收发方法
 -------------------------------------------------

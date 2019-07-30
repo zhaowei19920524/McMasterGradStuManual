@@ -52,9 +52,9 @@
 - Health Science
 
   - 微信群：请联系17-HP-王琪或14-HRM-亚平
-- Mathematics & Statistics
+- Mathematics & Statistics & MFM
 
-  - 微信群：请联系16-STATS-曾进
+  - 微信群 & QQ群：请联系18-Stat-王晓昌
 - Chemistry & Biology
 
   - 微信群：请联系16-Chem-孟凡旺
