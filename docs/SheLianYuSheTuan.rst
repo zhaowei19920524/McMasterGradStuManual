@@ -14,7 +14,7 @@ Graduate Students Association
 .. image:: /resource/SheLianYuSheTuan/GSA_logo.jpg
    :align: center
 
-Graduate Students Association（GSA，研究生联合会）是麦克马斯特大学研究生成立的学生团体。可以理解为国内高校的社联，但权力和职责远远超过社联，大概相当于国内高校的社联、校学生会和一个餐厅的合体。
+Graduate Students Association（GSA，研究生协会）是麦克马斯特大学研究生成立的学生团体。可以理解为国内高校的社联，但权力和职责远远超过社联，大概相当于国内高校的社联、校学生会和一个餐厅的合体。
 
 一、组织结构：
 
@@ -69,7 +69,7 @@ International Graduate Student Association
 .. image:: /resource/SheLianYuSheTuan/IGSA_logo.jpg
    :align: center
 
-International Graduate Student Association（IGSA，国际研究生联合会）是麦克马斯特大学GSA下属的一个club（俱乐部），它和GSA其它俱乐部有着相等的地位。唯一的区别是它可以通过 igsa@mcmaster.ca 这个邮箱给全校的国际研究生留学生群发邮件。
+International Graduate Student Association（IGSA，国际研究生协会）是麦克马斯特大学GSA下属的一个club（俱乐部），它和GSA其它俱乐部有着相等的地位。唯一的区别是它可以通过 igsa@mcmaster.ca 这个邮箱给全校的国际研究生留学生群发邮件。
 
 一、组织结构：
 
@@ -92,6 +92,7 @@ International Graduate Student Association（IGSA，国际研究生联合会）�
   | 目前Executive Committee的职位里有2个由我们华人学生担任，他们分别是：
   | Secretary —— 17-MEDSCI-居啸天；
   | IT officer —— 17-CAS-赵伟。
+  | 此外，Faculty Representatives之一是16-bio-游鳗。
 
 二、主要活动
 

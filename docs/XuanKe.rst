@@ -35,7 +35,7 @@ academically accredited course OR a placeholder course （专业课或占位课�
    | Also if you are on a leave you will also need to register.
    | ——Cheryl（ECE小秘）
 
-| 这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/undergraduate/graduate/）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
+| 这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
 
 - SGS 700：按学期数目收费的研究生。例如：多数PhD、MASc、MSc、MEng学生。
 - SGS 711：按课程数目收费的研究生。
@@ -107,13 +107,12 @@ academically accredited course OR a placeholder course （专业课或占位课�
 5. 大家可以任意选其它学院的课。只要选了，考核通过了就算学分。如果没过也要计入挂科总数里的。Divinity College的课不能选。其它学院不能选finance的课，否则需要额外付费。
 6. enroll算选课。audit或sit in算旁听，旁听不算学分。 
 7. 选了导师指定的课程之后，想再选其它课自己决定。不用提前跟导师和任课老师说明。 
-8. 选课一次要选一整个学年的课程。对于9月入学的学生，如果term 2和term 3的课程尚未决定，可以先选SGS 700占位课。等决定好专业课之后，不需要把SGS700移除。对于1月入学的学生，需要选term2和term3的课。对于5月入学的学生，只需要选term3的课程。
+8. 选课一次要选一整个学年的课程。对于9月入学的学生，如果term 2和term 3的课程尚未决定，可以先选SGS 700占位课。等决定好专业课之后，就可以把SGS700移除了（不移除也没关系）。对于1月入学的学生，需要选term2和term3的课。对于5月入学的学生，只需要选term3的课程。
 
 注
 ------------------------
 1. 注册时，如果你想要选的课不在List上，和系里的秘书联系。课程选定后，仍可以修改。 
-2. 注册后，选了Payment Agreement，选了课，你仍会看到你的status是 incomplete，这是因为你的study permit还没有交到研究生院。9月开学到学校后，将你的study permit交到研究生院GH212，才fully registered. 
-3. 想选的课如果满了，可以联系系秘书试试。
+2. 想选的课如果满了，可以联系系秘书试试。
 
 附
 -----------------------------------------

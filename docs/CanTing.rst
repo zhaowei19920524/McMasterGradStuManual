@@ -331,7 +331,7 @@ McMaster周边的西餐
 - DIY
 
   - 虽然一杯咖啡只要$1~2，但依然有更为省钱的方法。Tim Hortons在Amazon上有网店，里面卖几乎所有的咖啡、热饮等等。如果大家经常喝，可以一次性买一大桶，回来自己冲泡。一大桶咖啡不会超过20刀，一大桶热饮不会超过10刀。足够冲泡几十杯，喝很长时间。
-  - Amazon网店链接：https://www.amazon.ca/l/7979710011
+  - Amazon网店链接：https://www.amazon.ca/s?k=Tim+Hortons
 
 Hamilton其它地方的西餐
 ---------------------------------------------
@@ -697,8 +697,7 @@ Mississauga：
   - http://foodienorth.com/
   - 325 Central Pkwy W #2&4, Mississauga, ON L5B 3X9
   - (905)277-8989
-  - 推荐鱼头泡饼，北京烤鸭
-  - 鲁菜以及北方菜
+  - 鲁菜以及北方菜。推荐鱼头泡饼，北京烤鸭
 
 - Silk Road Restaurant（丝绸之路）
 
