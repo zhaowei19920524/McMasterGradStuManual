@@ -66,7 +66,7 @@
 
 McMaster常见学院专业及简称
 ----------------------------------------------------
-以下列举了McMaster常见的学院及简称，希望大家把群ID的学院按照下列各式书写。部分学院暂无简称，请写你的学院的全称。另：联培学生或访问学者请把专业写为McMaster导师所在的学院或专业。Mitacs交换生请直接把专业写为“Mitacs”。
+以下列举了McMaster常见的学院、专业及简称，希望大家把群ID的学院、专业按照下列各式书写。部分专业暂无简称，请写你的专业的全称。另：联培学生或访问学者请把专业写为McMaster导师所在的学院或专业。Mitacs交换生请直接把专业写为“Mitacs”。
 
 - Engineering
 
@@ -83,7 +83,7 @@ McMaster常见学院专业及简称
   - Mechanical Engineering：ME
   - Biomedical Engineering：BME
   - Computational Science & Engineering：CSE
-  - W Booth School of Engineering Practice and Technology：WBooth
+  - W Booth School of Engineering Practice and Technology：SEPT
 
     - Engineering Design：MED
     - Engineering and Public Policy：MEPP
@@ -98,7 +98,6 @@ McMaster常见学院专业及简称
     - Full-time MBA：MBA(Full Time)
     - Co-op MBA：MBA(Co-op)
     - Part-time MBA：MBA(Part Time)
-  - Graduate Diploma in Professional Accountancy：CPA或GDPA
   - PhD in Business Administration：DBA
 
     - Finance：DBA(Finance)
@@ -108,6 +107,7 @@ McMaster常见学院专业及简称
     - Management of Organizational Behaviour and Human Resources：OB&HR或DBA(OB&HR)
     - Management Science：DBA(Management Science)
     - Marketing：DBA(Marketing)
+  - Graduate Diploma in Professional Accountancy：CPA或GDPA
   - Executive MBA：EMBA
   - eHealth：eHealth
   - Health Management：Health Management
