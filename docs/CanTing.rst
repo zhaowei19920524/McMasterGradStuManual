@@ -515,7 +515,7 @@ Hamilton 中式甜点
   - http://www.sugarmarmalade.com/
   - 65 King St E, Hamilton, ON L8N 1A5
   - (905)527-9699
-- Hui Lau Shan Mango+ Drinkable Desserts（许留山）
+- Hui Lau Shan Mango + Drinkable Desserts（许留山）
 
   - https://www.hkhls.com/en/
   - 35 King St E, Hamilton, ON L8N 4A9
@@ -525,6 +525,10 @@ Hamilton 中式甜点
   - https://www.facebook.com/TeaHutHamilton
   - 100 Main St E #100, Hamilton, ON L8N 3W4
   - (905)521-6451
+
+- Sakura Tea | 樱花茶
+
+  - 1064 Main St W, Hamilton, ON L8S 1B3
 
 Hamilton 越南米粉
 ------------------------------------

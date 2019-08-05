@@ -63,7 +63,7 @@ G类驾照
 - 考试：考试形式为路考。G Road test需要去Hamilton驾照考试中心参加考试，需要提前在网上预约。主要考察以下内容：
 
   - Part I：G2所有内容。
-  - Part II：在城市里道路边上的紧急停车。
+  - Part II：在城市里道路边上的Emergency Stop（紧急停车）。
   - Part III：高速路开车（包括高速上的变道）。
   - 考试各个Part的各项指标一共100分，70分算通过。但如果出现严重的错误，例如：闯红灯、闯Stop Sign、变道没有看倒车镜和盲点、撞到路牙石或其它人和车等等，则判为危险驾驶，直接fail。如果G Road test没过，则需要再交$89.25+tax重新考一次。
 
@@ -77,7 +77,7 @@ G类驾照
 
 注：
 
-1) G1和G2的驾照属于（novice class ），只有5年的有效期，有效期从拿到G1驾照开始算，过了有效期需要重新从G1开始考。除非已经获得G license。https://www.ontario.ca/page/renew-expired-drivers-licence#section-3
+1) G1和G2的驾照属于（novice class ），只有5年的有效期，有效期从拿到G1驾照开始算，过了有效期，如果没有拿到G License就需要重新从G1开始考。https://www.ontario.ca/page/renew-expired-drivers-licence#section-3
 #) 如果住址变了，则需要更改驾照上的地址。对于国际学生来说，驾照地址不能在Service Ontario网站上更改，因为它需要OHIP的医保卡号，而国际学生购买的保险是UHIP，这两个不能通用，比较好的办法是亲自去一趟Service Ontario办事处更改。离学校比较近的办事处在50 Dundurn St S, Hamilton, ON L8P 4W3。大家拿上老的驾照、新的租房合同去就可以了。修改完之后会寄给你一个新的驾照。整个过程都是免费的。
 #) 其它省份的驾照来到Ontario省的处理方法：https://www.ontario.ca/page/exchange-out-province-drivers-licence
 
@@ -178,7 +178,7 @@ G类驾照
 
 附
 ---------------------
-1. 驾照翻译：国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师。例如以下学长学姐曾经使用过得翻译机构：
+1. 驾照翻译：国内的驾照不能自己翻译或国内的翻译机构，必须联系Canada的认证翻译师（MTO-recognized translator） https://drivetest.ca/tests/translators-languages.html 。例如以下学长学姐曾经使用过得翻译机构：
   
 - https://www.51.ca/service/showitem.php?itemid=144943
 - http://www.docsbase.ca/special-offers/atio-certified-translations-in-toronto-and-across-canada.htm
