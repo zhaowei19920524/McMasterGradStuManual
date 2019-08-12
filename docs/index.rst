@@ -24,6 +24,10 @@ Welcome to McMaster University!
   - 网站里插入了多幅Google地图和Wikipedia链接， 在国内的同学请翻墙查看。
   - 网站里如发现有任何失效的链接，请速与17-CAS-赵伟联系。
 
+.. attention::
+  - **本网站所有文字内容全部原创，其版权受《中华人民共和国著作权法》、CanadianCopyright Act等保护，未经网站管理员允许，请勿转载或抄袭。一旦发现有任何个人或组织违规，必追究其责任。**
+  - **如需引用少数文字内容，请标明出处。请在引用文字的旁边加上本网站或网页的网址。谢谢。**
+
 以下关键词列举了常见问题，希望大家仔细阅读：
 
 .. toctree::
@@ -132,8 +136,6 @@ Welcome to McMaster University!
   | Type 1：内容贡献和审核。负责关注最近研究生群里和平时大家关注的问题，写相关介绍和教程。修改网站里的错误，以及很多过时的内容。
   | Type 2：网站更新。对内容进行整理，编写reStructedText文档。需要Git和GitHub的知识。
   | 有意向的同学，请和17-CAS-赵伟联系。
-
-本网站所有文字内容均原创，且在开源许可证 LGPL-3.0 保护下。引用请注明出处。谢谢。
 
 .. _租房: ZuFang.html
 .. _sgsrec@mcmaster.ca: mailto:sgsrec@mcmaster.ca

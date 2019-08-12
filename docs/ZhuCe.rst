@@ -33,7 +33,7 @@ The Enrolment Checklist must be completed in order to be enrolled:
 
 6. Visa students must present their Study Permits to the School of Graduate Studies. 
 
- | study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上，conditional offer的图标会变成final offer。
+ | study permit交到Gilmour Hall 212，学校会复印一份。提交材料大概需要过几天才会反映在mosaic上（Student Center中的"Holds"和"To Do List"的相关条目就会被清空）。
 
 Please find detailed enrolment instructions at: `gs.mcmaster.ca/academic-services/how-enroll`_ (site will be active from July 22, 2016 onwards). 
 
