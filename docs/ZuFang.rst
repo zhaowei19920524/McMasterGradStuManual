@@ -136,8 +136,8 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 租房流程
 -------------------
-1. 在上面的租房资源网站上寻找房源。一般来说，要选出20个左右的备选房源。这有助于了解现在租房的行情。
-2. 找到满意的house之后和房东联系，apt就和公寓管理员联系。可以发邮件，也可以打电话。 
+1. 在上面的租房资源网站上寻找房源。一般来说，要选出20个左右的备选房源，大家找房的时候应拿出申请Canada高校时广撒网的精神。这有助于了解现在租房的行情。
+2. 找到满意的house之后和房东联系，apt就和公寓管理员联系。可以发邮件询问，但学长学姐强烈推荐直接打电话。 
 3. 签租房合同（lease agreement），通过扫描和email的方式。
 
 - 从2018年4月30日起，Ontario省租房签的合同必须使用省政府提供的模板（standard lease）。详细说明：http://www.mah.gov.on.ca/Page18704.aspx 。模板地址：http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E
