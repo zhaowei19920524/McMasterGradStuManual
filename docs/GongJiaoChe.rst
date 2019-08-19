@@ -63,6 +63,9 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 5. 加载免费坐公交的优惠码（Voucher Code）：
 
+.. attention::
+  - 加载免费坐HSR公交车的优惠码仅针对往届学生。新生领取的Presto card默认已经load过了优惠码，但要等9月1日之后才能用。在8月23日~8月31日这段时间里，新生可以仅凭学生证免费乘坐HSR公交车。https://gsamcmaster.org/hsr/
+
 - 第一步：登录mosaic，点击“HSR Bus Pass”。复制voucher code。
 
 .. image:: /resource/bus/voucher01.png
