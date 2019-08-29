@@ -13,7 +13,6 @@ Mac
 
 - MacBook Pro：带有retina屏幕的笔记本电脑，分为13寸和15寸两种。13寸高配版和15寸带有touch bar。15寸的版本带有独立显卡。但他们都没有全尺寸的USB接口。
 - MacBook Air：MacBook Pro的低配版。
-- MacBook：12寸的笔记本电脑。屏幕分辨率和处理器性能都不高，但非常轻。没有全尺寸的USB接口。
 
 2) iMac
 
