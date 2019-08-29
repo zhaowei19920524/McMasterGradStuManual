@@ -441,6 +441,12 @@ Hamilton 中餐馆
   - 1 Wilson St #7, Hamilton, ON L8R 1C4
   - (905)540-1166
 
+- Saigon House Restaurant（西贡屋）：自助烧烤
+
+  - http://www.saigonhouse.ca/index.html
+  - 27 John St S, Hamilton, ON L8N 2B7
+  - (905)521-8880
+
 - Great Red Peppers（红海椒）：点菜制
 
   - 60 James St N, Hamilton, ON L8R 2K1
