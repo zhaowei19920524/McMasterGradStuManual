@@ -57,6 +57,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
   - 17-ChemE-刘黎君
   - 17-MedPhy-苗彬
   - 17-MSE-邰广青
+  - 16-ECE-畅雅梦
   - 16-MECH-贾明钋Enzo
   - 15-MedSci-Yan Gu
 
