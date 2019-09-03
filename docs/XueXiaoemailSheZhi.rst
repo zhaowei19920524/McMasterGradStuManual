@@ -11,7 +11,7 @@
 激活方法
 ---------------------------------------
 | 请查看学校的官方指导教程：http://www.mcmaster.ca/uts/macid/
-| 住：在激活的的时候显示的邮箱是@studentmail.os.mcmaster.ca，但实际在用的时候请把后缀写成@mcmaster.ca。https://www.mcmaster.ca/uts/selfservice/student_email.html
+| 注：在激活的的时候显示的邮箱是@studentmail.os.mcmaster.ca，但实际在用的时候请把后缀写成@mcmaster.ca。https://www.mcmaster.ca/uts/selfservice/student_email.html
 
 在线登录方法
 -----------------------------------------------
