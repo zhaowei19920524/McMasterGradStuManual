@@ -109,7 +109,7 @@
   - 除了市中心几家比较大的医院外，大部分Walk-in Clinic的规模都和社区医院差不多，里面医生非常少。规模最小的Walk-in Clinic可能只有一个医生和若干护士。这类诊所看一下感冒、发烧、咳嗽、身体不舒服等等还是完全够用的。由于不需要预约，所以这类诊所通常都需要排队，高峰期等待1个多小时都是有可能的。https://medimap.ca/ 这个网站可以显示诊所的预计排队时间。
 - Emergency Departments：这个相当于国内的急诊。
 
-  - 诊所列表：点击上面网址里的“Emergency Departments”或查看 https://www.hamiltonhealthsciences.ca/areas-of-care/programs-and-clinics/emergency-department/ 。
+  - 诊所列表： https://www.hnhbhealthline.ca/listServices.aspx?id=10077&region=Hamilton 。
   - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病（life threaten）。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 

@@ -10,26 +10,42 @@
   - 根据国家互联网群组管理和加拿大相关法律条文的规定，QQ、微信等群的群主、群创建者、群管理员要对群的运营和群成员负责，也就是说“谁建群谁负责”“谁管理谁负责”。对于部分群组管理者职责缺失，造成淫秽色情、暴力恐怖、谣言诈骗、传销赌博等违法违规信息通过群组传播扩散，一些不法分子还通过群组实施违法犯罪活动。群主、群创建者、群管理员将被追究相关责任。
   - 希望各个学院的群的群主、群创建者、群管理员可以像研究生新生群的相关人员一样，认真审查每一个群成员的相关信息，监督群的日常活动。尤其坚决避免非McMaster的人员加入。
 
-- ITB（CAS+ECE）
+1. Engineering
 
-  - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
-  - 19级 QQ群：549401754，微信群：加入QQ群后，联系群管理员
-- Computational Science & Engineering
+- ITB（CAS+ECE+CSE）
 
-  - QQ群：225053068
-- Mechanical Engineering
+  - ITB总群
+  
+    - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
+    - 19级 QQ群：549401754，微信群：加入QQ群后，联系群管理员
+  - Computational Science & Engineering
 
-  - QQ群：101378940
-- Civil Engineering
+    - QQ群：225053068
+- JHE（Civil+EngPhys+MSE+ME）
 
-  - QQ群：287385782
-- W Booth (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
+  - JHE总群
+  
+    - QQ群：805059771，微信群：加入QQ群后，联系群管理员
+  - Mechanical Engineering
+
+    - QQ群：786057552，微信群：加入QQ群后，联系群管理员
+  - Civil Engineering
+
+    - QQ群：287385782
+  - Engineering Physics
+
+    - QQ群：291817937
+
+- SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
 
   - 15级 QQ群：368774358
   - 16级 微信群：请联系16-MEEI-张宸赫
   - 17级 微信群：请联系17-MTEI-刘润杰
   - 18级 微信群：请联系18-MTEI-马铭遥
   - 19级 微信群：请联系19-MTEI-肖佳昕
+
+2. Business
+
 - MBA
 
   - 历届 QQ总群：371421802，微信总群：请联系17-MBA-董宇英翔
@@ -49,20 +65,28 @@
   - 17级 QQ群：606792601
   - 18级 微信群：请联系18-MFin-姜梦婕
   - 19级 微信群：请联系19-MFin-王敏桥
-- Health Science
 
-  - 微信群：请联系17-HP-王琪或14-HRM-亚平
+3. Health Science
+
+- Health Science总群
+
+  - QQ群：558301189，微信群：加入QQ群后，联系群管理员
+
+4. Science
+
 - Mathematics & Statistics & MFM
 
-  - 微信群 & QQ群：请联系18-Stat-王晓昌
-- Chemistry & Biology
+  - QQ群：887137976，微信群：请联系18-Stat-王晓昌
 
-  - 微信群：请联系16-Chem-孟凡旺
+5. 跨学院的群
 
-欢迎大家推荐其它有用的群：
+- McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业里含有这3个关键词的专业）
 
-- 麦马红枫（CSC公派群）QQ：54015237
-- McMaster PhD交流群QQ：438996754
+  - QQ群：245128862，微信群：加入QQ群后，联系群管理员
+
+- McMaster公派研究生群
+
+  - QQ群：453421061，微信群：加入QQ群后，联系群管理员
 
 McMaster常见学院专业及简称
 ----------------------------------------------------

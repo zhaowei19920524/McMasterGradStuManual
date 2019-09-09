@@ -57,8 +57,12 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 - 拿到Presto card之后需要在网上激活，首先在presto官网上建立“My Account”账户。在官网上激活（activate）并关联自己的Presto card。通过该网上账户，如果卡片丢失或被盗刷可以及时更换，并且可将之前的U-Pass和现金余额恢复。 
 - 网址：https://www.prestocard.ca/en/
+- 激活：https://www.prestocard.ca/en/activate-card
 
 .. image:: /resource/bus/presto3.png
+   :align: center
+
+.. image:: /resource/bus/presto4.png
    :align: center
 
 5. 加载免费坐公交的优惠码（Voucher Code）：
@@ -307,7 +311,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 - 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass：http://www.ttc.ca/Fares_and_passes/Passes/Day_Pass/index.jsp ，这样当日乘车的时候就不用再付费了。费用是：$12.50/天（2017年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
 - Transferring to/from GO Transit or UP Express，刷Presto卡在Go Transit长途车（包括汽车和火车）和TTC之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit
 
-  - 如果大家用含有U-Pass的Presto卡，先坐TTC，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
+  - 如果大家用含有U-Pass的Presto卡，先坐TTC并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
   - 这种方式可能比买Day Pass便宜，大家可以提前计算好。
 
 .. admonition:: 举例——去多伦多Yorkdale Mall购物商场的路线规划及价格
