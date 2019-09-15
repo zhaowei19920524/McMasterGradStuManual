@@ -44,13 +44,13 @@
 
 3. GSA Dental Insurance Plan（不包括MBA学生）
 
-- GSA Dental Insurance Plan提供牙医保险，年费$170（2017年）。包括洗牙、补牙等项目。
+- GSA Dental Insurance Plan提供牙医保险，年费$189.88（2019年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
 - GSA Dental Insurance Plan每自然年额度$750（不是学年）。
 
 4. CUPE Dental Plan
 
-- CUPE工会提供牙医保险，目前年费$115.56（2017年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
+- CUPE工会提供牙医保险，目前年费$125.00（2019年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
   - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
@@ -61,7 +61,7 @@
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
   - 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销和$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
-- 家属的牙医保险：在下面相应网页里搜索关键词“spouse”。
+- 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
   - Unit 1: https://cupe3906.org/tas-unit-1/dental-plan/
   - Unit 2: https://cupe3906.org/sessionals-unit-2/unit-2-dental-coverage/
@@ -88,7 +88,7 @@
 
   A. Student Wellness Centre
 
-  - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。
+  - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所有大家有小病小恙还是应该优先考虑去校医院看。
   - https://wellness.mcmaster.ca/
   - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。

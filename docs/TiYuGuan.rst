@@ -1,6 +1,6 @@
 ﻿体育馆
 ============================
-学校的体育馆大楼叫“David Braley Athletic Centre”。绝大多数学生的杂费里每年包括了大约$40的Sports Complex Building Fee（或其它名称）。这样体育馆的大部分设施都可以免费使用。希望大家在学习之余好好利用体育馆的资源，强身健体。
+学校的体育馆大楼叫“David Braley Athletic Centre”。绝大多数学生的杂费里每年包括了130多刀的体育馆和相关设施服务的费用。这样体育馆的大部分设施都不需要再额外付费使用。希望大家在学习之余好好利用体育馆的资源，强身健体。
 
 .. image:: /resource/TiYuGuan/TiYuGuan_fee.png
    :align: center

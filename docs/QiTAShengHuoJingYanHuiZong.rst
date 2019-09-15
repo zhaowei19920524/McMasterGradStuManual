@@ -128,6 +128,14 @@ Hamilton：
 
 大家最好把上面的其中一种随身携带。
 
+加拿大政府官方天气手机App —— WeatherCAN
+--------------------------------------------------------------------------------------------------
+- 官网：https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weathercan.html
+- 手机App：
+
+  - iOS：https://apps.apple.com/ca/app/id1334221563
+  - Android：https://play.google.com/store/apps/details?id=ca.gc.ec.weather_app_android.ops
+
 .. admonition:: 本页作者
 
    - 17-CAS-赵伟
