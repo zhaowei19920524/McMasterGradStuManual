@@ -12,15 +12,11 @@
 
 1. Engineering
 
-- ITB（CAS+ECE+CSE）
+- ITB（CAS+ECE）
 
-  - ITB总群
-  
-    - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
-    - 19级 QQ群：549401754，微信群：加入QQ群后，联系群管理员
-  - Computational Science & Engineering
+  - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
+  - 19级 QQ群：549401754，微信群：加入QQ群后，联系群管理员
 
-    - QQ群：225053068
 - JHE（Civil+EngPhys+MSE+ME）
 
   - JHE总群
@@ -74,9 +70,15 @@
 
 4. Science
 
+- Science总群
+
+  - QQ群：439805669，微信群：加入QQ群后，联系群管理员
 - Mathematics & Statistics & MFM
 
-  - QQ群：887137976，微信群：请联系18-Stat-王晓昌
+  - QQ群：887137976，微信群：加入QQ群后，联系群管理员
+- Computational Science & Engineering
+
+    - QQ群：225053068
 
 5. 跨学院的群
 
@@ -106,7 +108,6 @@ McMaster常见学院专业及简称
   - Materials Science & Engineering：MSE
   - Mechanical Engineering：ME
   - Biomedical Engineering：BME
-  - Computational Science & Engineering：CSE
   - W Booth School of Engineering Practice and Technology：SEPT
 
     - Engineering Design：MED
@@ -141,6 +142,7 @@ McMaster常见学院专业及简称
   - Biochemistry & Biomedical Sciences：biochem
   - Biology：Biology或bio
   - Chemistry & Chemical Biology：chem
+  - Computational Science & Engineering：CSE
   - Geography & Earth Sciences：Geo
   - Interdisciplinary Science：ISCI
   - Kinesiology：kin
