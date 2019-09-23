@@ -83,7 +83,7 @@ G类驾照
 
 驾校
 ----------------------------------------------
-- 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学。Hamilton地区的市场参考价格是：G2驾照练习大概$40/小时，G驾照练习大概$50/小时。https://drivetest.ca/tests/resources/beginner-driver-education.html
+- 大家可以参加驾校来准备驾照考试。驾校通常包括理论课和开车练习，练车方式都是一对一教学。https://drivetest.ca/tests/resources/beginner-driver-education.html
 - 大家在参加驾校的时候一定要在省政府官网上看看是不是被认可的驾校：http://www.mto.gov.on.ca/english/driver/driving-schools.shtml
 - 考完G1之后需要至少等12个月才能考G2。如果报驾校，上完所有的理论课程，就可以拿到全科证书，这样等待时间可以缩短到8个月。当然如果不急着考G2，并且出于省钱考虑，也可以不参加驾校的理论课学习，不拿全科证书。https://drivetest.ca/licences/drivers-licences-cars.html
 - 如果大家在国内已经有多年驾龄，并且一直遵守各种交通规则，经验丰富，按法律规定可以没有等待期，直接考G2或者G。这时，可以和驾校里的华人教练联系来准备G2 Road Test和G Road Test，尽快参加考试。但强烈不建议直接去考试，毕竟两个国家的交通规则还是差了很多。
