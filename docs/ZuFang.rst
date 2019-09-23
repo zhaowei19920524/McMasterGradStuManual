@@ -170,7 +170,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - 入住后避免：①大家一定要养成好的卫生习惯，勤洗床上用品和衣物，遇到比较好的天气，要对床上用品和床垫暴晒杀菌消毒。老外们喜欢把书包等物品放在地上，也习惯席地而坐，在家不穿拖鞋赤脚走路，这并不是好的卫生习惯，因为这样很容易把地上的细菌病毒虫卵带到床上。而床上温暖舒适，是bedbug理想的繁殖场所。一旦bedbug在床上泛滥，唯一的解决办法就是把所有的床上用品、床垫、木质的床架子全部扔掉。普通的洗衣粉洗涤无法把大量虫卵完全杀死。②部分同学有从大街上捡别人不要的家具的习惯。这个是万万不可的。千万不能省这点钱。因为别人的家具不要了，然而并不是卖出去的，这说明家具可能有内在的问题。其中一个原因就是可能感染了bedbug或者有蟑螂等等。
 - Hamilton市政府关于bedbug的介绍和指导：https://www.hamilton.ca/home-property-and-development/pest-control/bed-bugs
 
-8. 暖气：根据Hamilton法律规定，除了6月1日到8月31日这段时间外，出租房内温度必须不能少于20℃。https://www.hamilton.ca/home-property-and-development/rental-properties/by-laws-rental-properties 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
+8. 暖气：根据Hamilton法律规定，除了5月15日到9月15日这段时间外，出租房内温度必须不能少于20℃。https://www.hamilton.ca/home-property-and-development/rental-properties/by-laws-rental-properties 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
 9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。转租合同模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/sublet_agreement_pdf.pdf
 10. 大麻（cannabis）问题：从2018年10月17日起，Canada全境允许自由购买娱乐性大麻。根据安省法律规定（https://www.ontario.ca/page/cannabis-legalization），house或apt的自己家里是允许吸大麻的场所。只有公寓的公共区域（indoor common areas），比如楼道、走廊、进门大厅是不允许的。所以你 **无法限制其它租客吸大麻** 。
 
