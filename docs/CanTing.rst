@@ -8,10 +8,10 @@
 McMaster餐厅官网
 -----------------------------------------
 - 官网主页：http://hospitality.mcmaster.ca/
-- Meal Plan：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
-- Hour：http://hospitality.mcmaster.ca/hours.html
-- On-Campus Location（校内的餐厅、咖啡店、小吃店）：http://hospitality.mcmaster.ca/on-campus.html
-- Off-Campus Location（和学校有合作的校外餐厅，可以使用带有Meal Plan的学生卡或工卡支付）：http://hospitality.mcmaster.ca/off-campus.html
+- Meal Plan：https://hospitality.mcmaster.ca/meal-plans/
+- Hour：https://hospitality.mcmaster.ca/locations/hours-of-operation/
+- On-Campus Location（校内的餐厅、咖啡店、小吃店）：https://hospitality.mcmaster.ca/locations/locations/
+- Off-Campus Location（和学校有合作的校外餐厅，可以使用带有Meal Plan的学生卡或工卡支付）：https://hospitality.mcmaster.ca/locations/off-campus/
 
 McMaster餐厅介绍
 --------------------------------------------
@@ -20,12 +20,12 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 1. CENTRO @ Commons
 
 - 地点在Commons Building，这个餐厅是学校最大的餐厅，主要以西餐为主。
-- http://hospitality.mcmaster.ca/locations/centro.html
+- https://hospitality.mcmaster.ca/locations/locations/centro/
 
 2. EAST MEETS WEST BISTRO
 
 - 地点在Mary K.Eyes Building， 这个餐厅主要提供世界各地的菜肴，当然包括中餐。
-- http://hospitality.mcmaster.ca/locations/emw-bistro.html
+- https://hospitality.mcmaster.ca/locations/locations/east-meets-west/
 
 3. The Phoenix
 
@@ -37,7 +37,7 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 Meal Plan
 -------------------------------------
-| 官网介绍：http://hospitality.mcmaster.ca/meal_plans/meal-plans.html
+| 官网介绍：https://hospitality.mcmaster.ca/meal-plans/
 | 对刚刚到McMaster的新生来说，学校餐厅里的食物可以说量少且非常昂贵。办理Meal Plan可以获得相应的打折，方法是向Student Card（学生卡）或Working at McMaster卡（工卡）里充钱，在支付的时候直接刷学生卡或工卡就可以了。学生卡或工卡不但可以用于上面介绍的餐厅，也可以用在学校里任何一个On-Campus Location或Off-Campus Location的餐饮店。
 
 1. Off-Campus Meal Plan

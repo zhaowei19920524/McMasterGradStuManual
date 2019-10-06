@@ -89,7 +89,7 @@ Step8: 最后再确认一遍信息，点confirm。付完之后，mosaic不会立
 
 .. image:: /resource/XueFei/XueFei_payee_08.png
 
-Step9: 一个转账付学费成功的页面。
+Step9: 一个转账付学费成功的页面。由于存在系统延迟，付费成功后要过几天才能反映在mosaic上。
 
 .. image:: /resource/XueFei/XueFei_payee_09.png
 
