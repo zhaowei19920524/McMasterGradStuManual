@@ -67,6 +67,9 @@
 - Health Science总群
 
   - QQ群：558301189，微信群：加入QQ群后，联系群管理员
+- HRM
+
+  - 微信群：请联系19-HRM-王雨婷或14-Health Research Method-常亚平
 
 4. Science
 
@@ -85,10 +88,12 @@
 - McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业里含有这3个关键词的专业）
 
   - QQ群：245128862，微信群：加入QQ群后，联系群管理员
-
 - McMaster公派研究生群
 
   - QQ群：453421061，微信群：加入QQ群后，联系群管理员
+- McMaster Sports Team 运动健身群
+
+  -QQ群：546252958
 
 McMaster常见学院专业及简称
 ----------------------------------------------------
