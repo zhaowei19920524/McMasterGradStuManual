@@ -114,7 +114,7 @@
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 
   - 诊所列表：https://www.hnhbhealthline.ca/listServices.aspx?id=11234
-  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼镜受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，但不是很紧急的病症他们会拒绝接诊。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真正遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
+  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，但不是很紧急的病症他们会拒绝接诊。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真正遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
 
 3. 校外的牙医、眼医诊所
 
