@@ -9,7 +9,7 @@
 
 1. UHIP/OHIP
 
-- 国际学生参加的是UHIP(University Health Insurance Plan)，而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可申请延长最多4个月。
+- 国际学生参加的是UHIP(University Health Insurance Plan)，而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后可申请延长最多4个月。
 - 官网：http://uhip.ca/
 - 费用（2019年）：国际学生需要付费参加UHIP，近几年的年费是单人$636，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard
@@ -21,7 +21,7 @@
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
 
-- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销一百万加元的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
+- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife
@@ -35,11 +35,19 @@
 
 2. GSA Health Insurance Plan（不包括MBA学生）
 
-- 学校研究生会Graduate Students Association提供Health Insurance Plan。
-- GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。通常药费和UHIP不报销的疫苗用Health Insurance Plan可报销80%。
-- GSA的官方网站链接为：http://studentcare.ca/rte/en/McMasterUniversity_Home
-- 配眼镜福利：http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage_VisionNetwork
-- 如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
+- 学校研究生会Graduate Students Association提供Health Insurance Plan。GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。
+- 官方网站：http://studentcare.ca/rte/en/McMasterUniversity_Home
+- 费用：http://studentcare.ca/rte/en/McMasterUniversity_Cost_HowMuchDoesItCost
+- 具体福利为：
+
+  - 药费（Prescription Drugs & Vaccinations）：处方药最多可以报销80%，每年有$3000的报销额度。
+  - 意外伤害（Accidents & Emergencies）：救护车等。
+  - 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等等。
+  - 医用器材（Medical Equipment）：轮椅等等。
+  - 诊断服务（Diagnostic Services）：X光、超声等等。
+  - 配眼镜（Vision）：验光，眼镜，隐形眼镜，极光矫正视力。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage_VisionNetwork
+  - 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
+  - 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
 - 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
 
 3. GSA Dental Insurance Plan（不包括MBA学生）
