@@ -78,7 +78,7 @@ https://rec.mcmaster.ca/facilities/squash-courts
 
 跑道
 ------------------------------
-室内：https://rec.mcmaster.ca/facilities/indoor-track
+室内（维修中，暂时关闭）：https://rec.mcmaster.ca/facilities/indoor-track-closed
 
 .. image:: /resource/TiYuGuan/run_in_02.jpg
    :align: center
