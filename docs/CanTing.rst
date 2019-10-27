@@ -359,9 +359,9 @@ Hamilton其它地方的西餐
 
 - KFC（肯德基）
 
-  - http://www.kfc.ca/store/631-king-st-w-hamilton
-  - 631 King St W, Hamilton, ON L8P 1C4
-  - (905)528-8583
+  - https://www.kfc.ca/store/119-osler-dr-hamilton
+  - 119 Osler Dr, Dundas, ON L9H 6X4
+  - (289)919-2542
   - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
   - 优惠券：http://www.kfc.ca/coupons
 
@@ -409,7 +409,7 @@ Hamilton 中餐馆
   - https://www.facebook.com/liuliuhotpot
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
-  - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV，在此用餐后KTV有优惠。
+  - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV。
 
 - Sparkle Northern Chinese Cuisine（美食美客）：点菜制，外卖
 

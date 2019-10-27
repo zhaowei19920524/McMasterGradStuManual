@@ -42,10 +42,10 @@
 
   - 药费（Prescription Drugs & Vaccinations）：处方药最多可以报销80%，每年有$3000的报销额度。
   - 意外伤害（Accidents & Emergencies）：救护车等。
-  - 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等等。
-  - 医用器材（Medical Equipment）：轮椅等等。
-  - 诊断服务（Diagnostic Services）：X光、超声等等。
-  - 配眼镜（Vision）：验光，眼镜，隐形眼镜，极光矫正视力。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage_VisionNetwork
+  - 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
+  - 医用器材（Medical Equipment）：轮椅等。
+  - 诊断服务（Diagnostic Services）：X光、超等等。
+  - 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
   - 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
   - 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
 - 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
@@ -54,21 +54,21 @@
 
 - GSA Dental Insurance Plan提供牙医保险，年费$189.88（2019年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
-- GSA Dental Insurance Plan每自然年额度$750（不是学年）。
+- GSA Dental Insurance Plan每policy year（保险单年度）的额度$750。
 
 4. CUPE Dental Plan
 
-- CUPE工会提供牙医保险，目前年费$125.00（2019年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
+- CUPE工会提供牙医保险，目前每academic year（学年）的费用是$125.00（2019年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
   - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
   - Unit 3: Post-Doctoral Fellows
-- CUPE dental plan提供的保险项目优于GSA dental plan，主要福利：
+- CUPE dental plan虽然是按academic year（学年）缴费的，但报销福利是按calendar year（日历年）计算的。其提供的保险项目优于GSA dental plan，主要福利有：
 
   - 所有Unit 1的学生自动opt-out GSA dental plan，退回GSA Dental Insurance Plan的费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
-  - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2017年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
-  - CUPE Dental Plan每自然年额度$1000（不是学年）。但不享受GSA dental plan的学生折扣优惠。
-  - 每两年有$250的Health Care Spending Account（HCSA），可用于眼镜报销和$50验光报销。https://cupe3906.org/tas-unit-1/unit-1-benefits/
+  - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2019年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
+  - CUPE Dental Plan每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
+  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
   - Unit 1: https://cupe3906.org/tas-unit-1/dental-plan/
@@ -88,7 +88,7 @@
 - 对于有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+CUPE Dental Plan
 - 对于MBA专业的学生：购买UHIP+MSU Health Plan Insurance+MSU Dental Plan Insurance
 - 对于联培的学生（Visiting Student）：购买UHIP Premium
-- 博士后（Post Doc）：UHIP（工作前3个月）+OHIP（工作三个月以后）+CUPE Dental Plan
+- 博士后（Post Doc）：UHIP（开始工作的前3个月）+OHIP（工作三个月以后）+CUPE Dental Plan
 
 看病
 -------------------------------------------

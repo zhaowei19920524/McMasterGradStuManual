@@ -69,17 +69,41 @@
 - Dundas Peak + Tew's Falls
 
   - Harvest Rd, Dundas, ON L9H 5K7
-  - 坐HSR 52路就可以到。适合hiking，一年四季有4种不同的美丽景色。
+  - 坐HSR 52 Head Street路就可以到。适合hiking，一年四季有4种不同的美丽景色。注：一定要乘坐HSR 52 Head Street，千万不能乘坐52 Governors & Pirie，否则就是去另一个风景区了。
+  - 如果想到Tew's Falls瀑布下方，可以在Tew's Falls旁边坐Shuttle Bus（$5）到附近的Webster Falls，然后沿着Spencer Creek的小溪走到瀑布正下方。
 
-.. image:: /resource/Wan/Wan_DundasPeak.png
+.. image:: /resource/Wan/Wan_DundasPeak1.png
+   :height: 300
+
+.. image:: /resource/Wan/Wan_DundasPeak2.jpg
+   :height: 300
+
+- Wild Waterworks
+
+  - 官网：https://wild-waterworks.com/
+  - 680 Van Wagners Beach Rd, Hamilton, ON L8E 3L8
+  - (905)547-6141
+
+.. image:: /resource/Wan/Wan_Wild_Waterworks.jpg
    :align: center
-   :scale: 50%
+   :height: 300
 
-- Royal Botanical Gardens
+- Flying Squirrel Trampoline Park Hamilton
 
-  - 官网：https://www.rbg.ca/
-  - 680 Plains Rd W, Burlington, ON L7T 4H4
-  - 学生票$15/人。
+  - 官网：https://flyingsquirrelsports.ca/hamilton-ontario/
+  - 1550 Upper James St, Hamilton, ON L9B 2L6
+  - (289)309-5332
+
+.. image:: /resource/Wan/Wan_Flying_Squirrel_Trampoline_Park_Hamilton.jpg
+   :align: center
+   :height: 300
+
+- Escape Canada（密室逃脱）
+
+  - 官网：https://escape-canada.com/hamilton/
+  - 151 York Blvd, Beside Starbucks, Hamilton, ON L8R 3L4
+  - (289)667-0017
+  - Hamilton有很多家密室逃脱，除了这家外，大家可以在Google Map上搜索escape room。
 
 - Hamilton Indoor Go Karts
 
@@ -87,9 +111,54 @@
   - 193 Cavell Ave, Hamilton, ON L8L 8C9
   - 室内卡丁车。
 
+.. image:: /resource/Wan/Wan_Go_Karts.jpg
+   :align: center
+   :height: 300
+
+- HMCS Haida National Historic Site
+
+  - 官网：https://www.pc.gc.ca/en/lhn-nhs/on/haida
+  - Pier 9, 658 Catharine St N, Hamilton, ON L8L 8K4
+  - 战舰历史博物馆，可以登上军舰参观。
+
+.. image:: /resource/Wan/Wan_HMCS_Haida_Hamilton_Ontario_1.jpg
+   :align: center
+   :height: 300
+
+- Canadian Warplane Heritage Museum
+
+  - 官网：https://www.pc.gc.ca/en/lhn-nhs/on/haida
+  - 9280 Airport Rd, Mount Hope, ON L0R 1W0
+  - 二战战斗机历史博物馆。
+
+- Royal Botanical Gardens
+
+  - 官网：https://www.rbg.ca/
+  - 680 Plains Rd W, Burlington, ON L7T 4H4
+  - 学生票$15/人。
+
+.. image:: /resource/Wan/Wan_RBG.jpg
+   :align: center
+   :height: 300
+
 - Tiffany Falls Conservation Area、Sherman Falls、Albion Falls：Hamilton的几个小瀑布，适合hiking。如果有条件也可以野外烧烤。
+
+.. image:: /resource/Wan/Wan_Tiffany_Falls.jpg
+   :align: center
+   :height: 300
+
 - Bayfront Park、Pier 4 Park、Confederation Beach Park：这三个公园是大家比较经常去的公园，大家可以在这里散步、烧烤等等。
+
+.. image:: /resource/Wan/Wan_Bayfront_Park.jpg
+   :align: center
+   :height: 300
+
 - Sam Lawrence Park：255 Concession St, Hamilton, ON L9A 1B2。这个小公园推荐白天晚上各去一次。可以俯瞰Hamilton市区全景，非常美丽。
+
+.. image:: /resource/Wan/Wan_Sam_Lawrence_Park.jpg
+   :align: center
+   :height: 300
+
 - Hamilton其它自然保护区：http://conservationhamilton.ca/conservation-areas-2/ ，可以划船的地点：http://conservationhamilton.ca/boating/
 - Hamilton公园列表：https://www.hamilton.ca/parks-recreation/parks-trails-and-beaches/parks-listing
 
@@ -117,7 +186,7 @@
 
 .. image:: /resource/Wan/Wan_NiagaraFalls.png
    :align: center
-   :scale: 100%
+   :height: 300
 
 - Blue Mountain蓝山
 
@@ -141,23 +210,38 @@
 
 .. image:: /resource/Wan/Wan_BlueMountain.jpg
    :align: center
+   :height: 300
 
 - African Lion Safari
 
   - 官网：https://lionsafari.com/
   - 1386 Cooper Rd, Cambridge, ON N1R 5S2
+  - (519)623-2620
   - 必须要有车，因为是开车逛野生动物园区。
+
+.. image:: /resource/Wan/Wan_African_lion_safari_animals_car.jpg
+   :align: center
+   :height: 300
 
 - Canada's Wonderland嘉年华
 
   - 官网：https://www.canadaswonderland.com/
-  - 这是一个大型的游乐场。
+  - 1 Canada's Wonderland Drive, Vaughan, ON L6A 1S6
+  - (905)832-7000
+  - 这是一个大型的游乐场，主打特色是过山车。
+
+.. image:: /resource/Wan/Wan_Wonder_Mountain_at_Canadas_Wonderland.jpg
+   :align: center
+   :height: 300
 
 - Target Sports Canada
 
   - 官网：http://www.targetsportscanada.com/
   - 14 Stalwart Industrial Dr, Gormley, ON L0H 1G0
   - 这是一个室内射击场。
+
+.. image:: /resource/Wan/Wan_Target_Sports_Canada.png
+   :align: center
 
 - Algonquin Park阿岗昆国家公园：Camping的好去处。想去这里可以自行开车、乘坐shuttle bus或者找旅行社。
 
@@ -166,6 +250,10 @@
   - Camping官方指导：http://www.algonquinpark.on.ca/visit/camping/
   - 阿岗昆枫叶颜色实时报告：http://www.algonquinpark.on.ca/visit/general_park_info/fall-colour-report.php
   - 安省公园官网的介绍（注意看Camping和Maps）：https://www.ontarioparks.com/park/algonquin
+
+.. image:: /resource/Wan/Wan_Algonquin_Lookout_Trail.jpg
+   :align: center
+   :height: 300
 
 - 安省公园官网：https://www.ontarioparks.com/en
 
