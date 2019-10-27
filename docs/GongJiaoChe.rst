@@ -186,7 +186,7 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 
     - 5C：进入Zone1后，经过King St. -> Sterling St. -> 穿过校园 -> Emerson St。
     - 51：和5C路线类似。
-    - 52：进入Zone1后，直接拐到Main St.上，并且一直在Main St.上行驶，经过学校南门，然后向西进入Dundas。
+    - 52：进入Zone1后，直接拐到Main St.上，并且一直在Main St.上行驶，经过学校南门，然后向西进入Dundas。注：52路也分为2种：52 Head Street和52 Governors & Pirie。它们的路线大体相同，只是进入Dundas之后略有区别。52 Head Street朝Dundas西北方向开，最终会到Dundas Peak附近。而52 Governors & Pirie朝Dundas西南方向开，最终会到达Dundas Valley Conservation Area附近。
 
   - 向东
 
