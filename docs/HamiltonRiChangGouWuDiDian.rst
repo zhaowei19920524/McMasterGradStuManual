@@ -6,7 +6,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Shoppers.jpg
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www1.shoppersdrugmart.ca/en/home
 - Shoppers可能是大家以后最经常去的超市，有点像国内大学里的超市一样，规模适中。但日常用品齐全。大家可以买到各种洗漱用品，牛奶鸡蛋面包，零食，化妆品以及其它生活用品。此外Shoppers里还卖各种保健品和营养品（不需要处方），以及其它药物（OTC和非OTC都需要处方）。
@@ -21,7 +21,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/NationsFreshFoods.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - http://www.nationsfreshfoods.ca/
 - Hamilton最大的华人超市。里面有各种来自中国的蔬菜，水果，零食，鱼肉。可谓非常齐全，中国化。几乎所有国内常见，甚至冷门的商品都能买到。大家也可以在这里买锅碗瓢盆，油盐酱醋。希望大家来之后认认真真把这个超市每个货架都逛一遍。也在此建议大家每周末去一次nations，买下一周所需的饭菜。同时，超市里卖做好的熟食，熟食在每天3点以后有大幅度的打折。
@@ -36,7 +36,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Fortinos.jpg
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.fortinos.ca/
 - 一家很大的西人超市，肉类可能是最有名的商品了。不但新鲜，而且可以按照你的要求处理好。它也卖各种生活用品、少量衣物等等。
@@ -51,7 +51,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Foodbasic.jpg
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.foodbasics.ca/index.en.html
 - 原先是Metro，后来被Foodbasics收购走了部分商场，和Fortinos类似，但只卖吃的。
@@ -65,7 +65,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Dollarama.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - http://www.dollarama.com/
 - 就是1元店的意思。现在大多数商品已经超过1元了。大家可以在这里买到各种小物品，比如瓶子罐子盒子，各种纪念品，小的家居用品。
@@ -74,7 +74,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Walmart.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.walmart.ca/en
 - 地址：675 Upper James St, Hamilton, ON L9C 2Z5
@@ -89,7 +89,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/Costco.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.costco.ca/
 - 地址：100 Legend Ct, Ancaster, ON L9K 1J3
@@ -110,7 +110,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/logo/LimeRidgeMall.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.cfshops.com/lime-ridge.html
 - 地址：999 Upper Wentworth St, Hamilton, ON L9A 4X5
@@ -151,7 +151,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/Amazon.jpg
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.amazon.ca/ （注意域名一定是.ca结尾，不要去amazon.com，不然买东西的价格是美元，且运到Canada还要额外交关税）
 - 它非常像国内的淘宝和京东，虽然规模没法比。几乎卖任何常见的商品，大家如果平时有东西不知道在哪买，就可以去Amazon看看。
@@ -179,7 +179,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/CanadianTire.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - http://www.canadiantire.ca/
 - 加拿大五金建材店和加油站。
@@ -192,7 +192,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/LCBO.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - http://www.lcbo.com/
 - Ontario最大的酒类零售店。它是Ontario省政府开设的。
@@ -206,7 +206,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/Staples.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.staples.ca/
 - 文具、办公家具、少量电子产品。
@@ -219,7 +219,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/HamiltonFarmersMarket.jpg
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://hamiltonfarmersmarket.ca/
 - 1837开始就有的一个菜市场，后来几经变迁，现在设在Jackson Square东北角。
@@ -229,7 +229,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/NoFrills.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.nofrills.ca/
 - 比较便宜的食品店，购买的时候注意新鲜程度。
@@ -238,7 +238,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/FreshCo.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - http://freshco.com/
 - 所卖商品和metro或foodbasics类似，但蔬菜品种比前两者多。可以理解为西人版的Nations Fresh Foods。
@@ -247,7 +247,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/logo/BulkBarn.png
    :align: center
-   :width: 200 px
+   :height: 75
 
 - https://www.bulkbarn.ca/
 - 西人版的粮油店。
