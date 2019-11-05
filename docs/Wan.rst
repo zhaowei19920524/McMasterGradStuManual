@@ -281,7 +281,7 @@ Parkbus是由Ontario省政府联合其它一些机构成立的国家公园景点
 -----------------------------
 1. 看枫叶
 
-- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park
+- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是10月中旬中下旬到月底。
 - 安省各大公园秋季枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
 2. 滑雪

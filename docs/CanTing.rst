@@ -281,6 +281,22 @@ McMaster周边的西餐
   - 1685 Main St W, Hamilton, ON L8S 1G5
   - (905)528-4300
 
+- Little Caesars Pizza
+
+  - https://littlecaesars.ca/en-ca/
+  - 1685 Main St W Unit 180, Hamilton, ON L8S 1G5
+  - (905)527-4884
+  - 手机App：
+
+    - iOS：https://apps.apple.com/ca/app/little-caesars/id1436068134
+    - Android：https://play.google.com/store/apps/details?id=com.littlecaesars
+
+- Sana Grill
+
+  - http://www.sanagrill.com/
+  - 1686 Main St W, Hamilton, ON L8S 0A2
+  - (905)777-0222
+
 4. Tim Hortons
 
  | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
@@ -365,6 +381,20 @@ Hamilton其它地方的西餐
   - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
   - 优惠券：http://www.kfc.ca/coupons
 
+- Wimpy's Diner
+
+  - http://wimpysdiner.ca/
+  - 405 Main St W, Hamilton, ON L8P 1K5
+  - (905)527-5151
+  - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
+  - 优惠券：http://www.kfc.ca/coupons
+
+- Smoke’s Poutinerie
+
+  - http://smokespoutinerie.com/
+  - 112 George St, Hamilton, ON L8P 1E2
+  - (289)246-9117
+
 2. 山上
 
 - The Keg Steakhouse + Bar（烤牛排）：点菜制
@@ -372,6 +402,20 @@ Hamilton其它地方的西餐
   - https://www.kegsteakhouse.com/locations/hamilton-keg/
   - 1170 Upper James St, Hamilton, ON L9C 3B1
   - (905)574-7880
+
+- Swiss Chalet
+
+  - https://www.swisschalet.com/
+  - 1000 Golf Links Rd RR#1, Ancaster, ON L9G 3K9
+  - (905)304-1885
+  - 烤鸡、烤排骨
+
+- The Burger's Priest
+
+  - https://theburgerspriest.com/
+  - 1591 Upper James St Unit 1, Hamilton, ON L9B 0H7
+  - (905)387-9797
+  - 汉堡店
 
 Hamilton 中餐馆
 ----------------------------------

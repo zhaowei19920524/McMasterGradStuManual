@@ -40,12 +40,12 @@
 - 费用：http://studentcare.ca/rte/en/McMasterUniversity_Cost_HowMuchDoesItCost
 - 具体福利为：
 
-  - 药费（Prescription Drugs & Vaccinations）：处方药最多可以报销80%，每年有$3000的报销额度。
+  - 药费（Prescription Drugs & Vaccinations）：处方药和疫苗最多可以报销80%，每policy year（保险单年度）有$3000的报销额度。
   - 意外伤害（Accidents & Emergencies）：救护车等。
   - 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
   - 医用器材（Medical Equipment）：轮椅等。
-  - 诊断服务（Diagnostic Services）：X光、超等等。
-  - 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
+  - 诊断服务（Diagnostic Services）：X光、超声等。
+  - 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
   - 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
   - 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
 - 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
@@ -176,7 +176,7 @@
 - 官网：https://www.rexall.ca/pharmacy
 - Rexall主要是一家药店，现在也零售一些生活用品，在Jackson Square。https://www.rexall.ca/storelocator/store/1404
 - Rexall跟studentcare有合作，这家店支持Pay-Direct Card，如果出示Pay-Direct Card可以额外再享受10%的买药优惠，这样在这家药店里买药就可以报销90%的费用。 http://studentcare.ca/rte/en/McMasterUniversity_Health_HealthCoverage_PharmacyNetwork
-- 如果在这家店里买Rexall品牌的生活用品，可以享受八折优惠。结账的时候要出示“Rexall Exclusive Savings Card”和学生证。
+- 如果在这家店里买Rexall品牌的生活用品，可以享受八折优惠。结账的时候要出示“Rexall Exclusive Savings Card”和学生证。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_RexallExclusiveSavingsCard
 
 5. 其它买药地点列表：
 
