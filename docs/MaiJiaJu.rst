@@ -6,6 +6,7 @@
 
 - 官网：http://www.ikea.com/ca/en/
 - 地点：1065 Plains Rd E, Burlington, ON L7T 4K1
+- 手机APP：https://www.ikea.com/ca/en/customer-service/mobile-apps/
 
 公共交通：
 
@@ -41,7 +42,7 @@ Burlington的IKEA隔壁的商场JYSK、Home Depot同样卖各种家居用品，�
 
 Canada床的标准
 -----------------------------------
-| https://en.wikipedia.org/wiki/Bed_size#Canada_and_United_States
+| https://en.wikipedia.org/wiki/Bed_size#North_America
 | 一般APT里没有家居，床和床垫都需要自己买。北美的床垫和国内的习惯不一样，这边不用棕榈床垫，而是统一用席梦思床垫。对于我们学生来说，主要有3种：
 
 - Twin/Single：单人床

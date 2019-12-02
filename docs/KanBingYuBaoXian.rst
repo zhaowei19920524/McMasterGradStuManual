@@ -85,10 +85,10 @@
 总结：
 
 - 对于没有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+GSA Dental Insurance Plan
-- 对于有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+CUPE Dental Plan
+- 对于有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+CUPE Unit 1 Dental Plan
 - 对于MBA专业的学生：购买UHIP+MSU Health Plan Insurance+MSU Dental Plan Insurance
 - 对于联培的学生（Visiting Student）：购买UHIP Premium
-- 博士后（Post Doc）：UHIP（开始工作的前3个月）+OHIP（工作三个月以后）+CUPE Dental Plan
+- 博士后（Post Doc）：UHIP（开始工作3个月以内，导师付钱）+OHIP（工作三个月以后，免费）+CUPE Unit 3 Dental Plan（可选，自己付钱）+Extended Health（药费等，学校付钱）+Group Life（生命安全保险，学校付钱）
 
 看病
 -------------------------------------------
