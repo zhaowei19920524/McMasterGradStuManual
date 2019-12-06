@@ -99,24 +99,30 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 银行卡的办理
 ------------------------------------
-| 需要带的材料：护照、Study Permit。
-| 需要开通的账户：
+1. 需要带的材料：护照、Study Permit。
+2. 需要开通的账户：
 
 - 学生银行账户类型的Chequing Account和至少一个加元的Savings Account。（最基本的学生账户都没有年费）
 - 一张没有年费或通过学生账户免去年费类型的信用卡。信用卡的福利推荐选Rewards或更为通用的Cash Back，但Cash Back返现不会特别多，而Reward却可以兑换日常用品、食品、电影票、租车、机票、旅馆等等，优惠幅度较大。
 
-需要额外询问的问题：
+3. 需要额外询问的问题：
 
 - 如何接收国际电汇、国际电汇需要的信息等等。RBC可以参考：http://www.rbcroyalbank.com/commercial/cashmanagement/_assets-custom/pdf/WP-FS-EN.pdf
 
-选择银行：
+4. 选择银行：
 
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：
 
-  - 请联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
+(a) 联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
 
 .. image:: /resource/bank/CIBC_Chenhe_Zhang_contact.png
+   :align: center
+   :scale: 50%
+
+(b) 联系群里的18-MTEI-李婧怡。李婧怡学姐在Hamilton市中心的TD任Customer Experience Associate。可以做申请信用卡、overdraft protection等业务。如果是开户、理财和投资也可以告诉她，她可以提前帮你联系银行里面的advisor。此外，如果想申请TD的车险的同学也可以联系她。
+
+.. image:: /resource/bank/TD_Jingyi_Li_contact.jpg
    :align: center
    :scale: 50%
 
@@ -129,21 +135,13 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 --------------------------------------------
 1. RBC学生账户
 
-- 无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000~2000额度。不需要押金。http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
+- 学生账户：无限次免费Interac etransfer（就是银行间email转账），信用卡可以直接开$1000~2000额度。不需要押金。http://www.rbcroyalbank.com/student-solution/index.html?ref=rb-hp
 - RBC Cash Back Mastercard 信用卡
 
   - http://www.rbcroyalbank.com/credit-cards/cash-back-credit-cards/cash-back-mastercard/index.html
   - 买日常用品有2%返现。无年费。
 
-2. CIBC
-
-- 学生账户：无transaction 限制，无月费
-- Tim Hortons 信用卡
-
-  - 刷卡可以换Tim Hortons咖啡甜点店的积分。每周都有优惠活动
-  - https://www.cibc.com/en/personal-banking/credit-cards/retail-rewards-cards/tim-hortons-rewards-card.html
-
-3. ScotiaBank
+2. ScotiaBank
 
 - 学生账户：无transaction 限制，无月费。
 - Scene 信用卡

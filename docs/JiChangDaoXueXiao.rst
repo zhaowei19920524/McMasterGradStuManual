@@ -48,18 +48,12 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 .. note::
 
-  - 18-MFin-张钰
+  - 19-ECE-陶绎文
   - 18-MSE-赵钦福
   - 18-Chem-崔梦阳
   - 18-MFin-李翘楚
   - 18-ME-杨雨航
-  - 18-Stat-王晓昌
-  - 17-ChemE-刘黎君
   - 17-MedPhy-苗彬
-  - 17-MSE-邰广青
-  - 16-ECE-畅雅梦
-  - 16-MECH-贾明钋Enzo
-  - 15-MedSci-Yan Gu
 
 - 接机的费用一般是$50~100，付费时请准备好现金。
 - 如果需要接机请主动积极和以上同学联系，商量时间和费用。货比三家。
