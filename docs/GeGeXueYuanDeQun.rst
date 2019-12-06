@@ -15,7 +15,7 @@
 - ITB（CAS+ECE）
 
   - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群管理员
-  - 19级 QQ群：549401754，微信群：加入QQ群后，联系群管理员
+  - 19级及其以后 QQ群：549401754，微信群：加入QQ群后，联系群管理员
 
 - JHE（Civil+EngPhys+MSE+ME）
 
@@ -111,7 +111,7 @@ McMaster常见学院专业及简称
   - Engineering Physics：EngPhys或EP
 
     - Nano- and Micro- Device Engineering：NanoEng
-    - Nuclear Engineering：NE
+    - Nuclear Engineering：NE或NuclearEng
     - Photonics：Photonics
   - Materials Science & Engineering：MSE
   - Mechanical Engineering：ME

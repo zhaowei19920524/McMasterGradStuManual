@@ -16,18 +16,10 @@
 
 优秀学长学姐介绍
 ---------------------------------------
-| ☆13-MFin-Daisy Ding：McMaster第一届MFin学生，现已毕业，在Hamilton的Scotiabank任Senior Financial Advisor。
-| ☆14-MED-高雯淼：W booth学院Master。曾经是本群有名话唠。善于解决出国省钱的相关问题。现已毕业。
-| ☆14-MBA-Sharon Zhang：曾经是本群有名话唠。烧钱小能手，化妆品专家。现已毕业。
-| ★14-Health Research Method-常亚平：Health Science Ph.D.。本群为数不多的医学院博士，大家有小病小样可以联系她寻求帮助。若对基督教会感兴趣，也可以联系此人。
+| ★14-Health Research Method-常亚平：Health Science Ph.D.。本群为数不多的医学院博士，大家有小病小样可以联系她寻求帮助。若对基督教会感兴趣，也可以联系此人。先已毕业在麦马Health Science学院任Assistant Professor。
 | ★15-ECE-Huawei Zhu：ECE PhD。北大毕业来McMaster读博士的才女。虽然在ECE学院，但对经济学颇有了解。
 | ☆15-MED-周光宇：W booth学院Master。周光宇学长在Canada生活多年，对有关车辆的问题了如指掌，例如：驾照、租车、买车、相关政策等等。大家如果有问题，可以写在群里，然后at他。
-| ☆16-MBA-Molly(Yimo Yuan)：美签经验分享。现已毕业。
-| ☆16-MBA-姚丰：安省full G驾照经验分享。现已毕业。
-| ☆16-CAS-曲植：CAS Master。爆照达人，经常在群里发龚哲和二叔的照片。“麦马三杰（瘸）”之一。现已毕业。
 | ★16-MEEI-张宸赫：W booth学院Master。他有1年半的两次创业经验，进行产品研发，财务预测，市场投放。任何有想创业想法的同学，不管是灵光一动还是很成熟的想法，都十分非常欢迎去找他共同交流讨论。他目前在Hamilton市中心的CIBC任Financial Services Representative。大家可以去找他开户。
-| ★16-Chem-孟凡旺：Chem Ph.D.。非常热心、乐于助人。并且对国家公派学生的政策了如指掌。孟博士正在自学机器学习，感兴趣的同学可以找他讨论。
-| ★17-MBA-林小艺：MBA学院优秀学姐。她同时对MBA专业的医疗保险颇为了解。
 | ★19-CAS-郝鸣飞：2014年在麦马开始硕士的学习，毕业后在多伦多一家软件公司任Lead Software Architecturer（首席软件架构师），对计算机行业各种最新的技术深有了解。2019年初回麦马继续上PhD（part-time）。欢迎大家和他交流与计算机相关的任何问题。
 
 注

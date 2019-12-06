@@ -49,7 +49,7 @@ Scholarship
 -----------------------------------------------------
 1. TA与RA
 
-- 在有TA的学期里，每两周发一次。具体时间安排：http://www.workingatmcmaster.ca/hris/cutoffs/
+- 在有TA的学期里，每两周发一次。具体时间安排：https://hr.mcmaster.ca/employees/payroll/
 - 不论是正常的学期还是延期的学期，都会按offer上的要求分配TA。
 
 2. 各种Bursary和Scholarship
