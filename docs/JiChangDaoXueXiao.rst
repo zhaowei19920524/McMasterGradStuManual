@@ -15,20 +15,22 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 第二步：乘坐Go bus长途汽车
 
-- https://www.torontopearson.com/en/transportation/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。大家记得准备好现金上车买票（至少$20，实际花费大概在$12左右，大家最好不要给司机$100大面额现金），go bus不能刷信用卡。
-- 注：其中有34和40两种Go Bus，先到Platform Q4找40路并且是Hamilton Go Center方向。由于这一站不是起点站，所以方向不要坐反了，不然就去多伦多北边的一个城市了。Go bus车头上边有一个LED的屏幕，会显示去往的方向。如果不放心上车买票前可以询问司机。
-- 起点：Pearson Airport (Terminal 1)。下车：Main St. W. @ Paisley Ave. S., Hamilton（Hamilton境内第一站）或Hamilton Go Center（Hamilton终点站）
+- https://www.torontopearson.com/en/transportation/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。大家记得准备好现金上车买票（至少$20，实际花费大概在$12左右，大家最好不要给司机$100大面额现金），Go Bus不能刷信用卡，老生可以使用Presto Card。
+- 起点：Pearson Airport (Terminal 1)。下车：Main St. W. @ Paisley Ave. S., Hamilton（Hamilton境内第一站也是离学校最近的一站）或 Hamilton Go Center（Hamilton终点站）
+
+.. attention::
+  有34和40两种Go Bus，先到Platform Q4找40路并且是Hamilton Go Center方向。由于这一站不是起点站，所以方向不要坐反了，不然就去多伦多北边的一个城市了。Go bus车头上边有一个LED的屏幕，会显示去往的方向。如果不放心上车买票前可以询问司机。
 
 第三步：到Hamilton
 
-- 如果在Main St. W. @ Paisley Ave. S., Hamilton下车，则下车地点在McMaster University东边不远处。（注：下车的地方没有WiFi，如果需要查找路线，新生需要办理国内电讯公司的国际漫游服务或北美流量包）。
-- 如果在终点站Hamilton Go Center下车，则下车地点在Hamilton的市中心。可以用车站的WiFi查找路线或联系接站的同学。如果连不上WiFi，可以用投币的电话打电话联系（请准备好零钱，可以在Go Bus上车付现金买票找零的时候，让司机多找几个硬币）。
+- 选择一：（建议新生）在终点站Hamilton Go Center下车，则下车地点在Hamilton的市中心。可以用车站的WiFi查找路线或联系接站的同学。如果连不上WiFi，可以用投币的电话打电话联系（请准备好零钱，可以在Go Bus上车付现金买票找零的时候，让司机多找几个硬币）。
+- 选择二：（建议老生）在Main St. W. @ Paisley Ave. S., Hamilton下车，则下车地点在McMaster University东边不远处。（注：下车的地方没有WiFi，如果需要查找路线，新生需要办理国内电讯公司的国际漫游服务或北美流量包）。
 
 第四步：去Hamilton其它地方
 
-- 如果去学校，可以坐Hamilton公交5路到学校。费用$3.00，同样准备好现金，不找零，不能使用信用卡。Hamilton凌晨2点到5点是没有市内公交车的。
-- 如果到住处或者其它地方，请查看Google地图，或者Hamilton公交官网：https://hsrnow.hamilton.ca/#/app/tripplanning
-- 如果下车后不熟悉路，不太清楚怎么坐Hamilton市内公交车，也可以找这边的学长学姐去Go bus下车的地方接一下。当然，如果可能，也可以让学长学姐先坐Go Bus去机场，在航站楼取完行李的出口接到新生后，再一起坐Go Bus回来。
+- 选择一：（建议新生）乘坐出租车，例如：Hamilton Cab等等。详情见：`出租车`_ 。出租车APP里都可以绑定信用卡。
+- 选择二：（建议老生）乘坐HSR公交车。请准备好现金或Presto Card，公交车不找零、不能使用信用卡。Hamilton凌晨2点到5点是没有市内公交车的。详情见：`Hamilton公交车`_ 。
+- 选择三：（建议新生）如果下车后不熟悉路，不太清楚怎么在Hamilton坐车，也可以找这边的学长学姐去Go bus下车的地方接一下。当然如果可能，也可以让学长学姐先坐Go Bus去机场，在航站楼取完行李的出口接到新生后，再一起坐Go Bus回来。
 
 .. image:: /resource/gobus40_1.jpg
    :align: center
@@ -63,9 +65,12 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 方法三：网约车
 --------------------------------------
-| Uber：https://www.uber.com/en/ca/
-| Lyft：https://www.lyft.com/
+- Uber：https://www.uber.com/en/ca/
+- Lyft：https://www.lyft.com/
 
 注
 -------------------------
 新生第一次来Canada下飞机到出机场需要至少一个半小时的时间。希望大家安排好时间。
+
+.. _出租车: GongJiaoChe.html#id3
+.. _Hamilton公交车: GongJiaoChe.html#hamilton
