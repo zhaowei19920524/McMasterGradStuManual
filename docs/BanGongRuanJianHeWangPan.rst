@@ -182,7 +182,7 @@ Microsoft实用办公工具
 ----------------------------------
 1) WinRAR：http://rarlab.com/
 #) Adobe Acrobat Reader：https://get.adobe.com/reader/
-#) MATLAB：https://pan.luochenzhimu.com/disk/software/MATLAB/
+#) MATLAB：https://pan.luochenzhimu.com/disk/software/MATLAB
 #) LaTeX：下面两个必须都安装
 
 - LaTex符号集、命令行编译器（先安装）：https://miktex.org/download
