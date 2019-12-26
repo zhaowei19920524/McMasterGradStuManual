@@ -52,6 +52,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
   - 19-ECE-陶绎文
   - 19-MFIN-鲍泓霏
+  - 19-MBA-Lexue Wang
   - 18-MSE-赵钦福
   - 18-Chem-崔梦阳
   - 18-MFin-李翘楚

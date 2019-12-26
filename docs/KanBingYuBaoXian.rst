@@ -1,22 +1,32 @@
 ﻿看病与保险
 ===========================
+保险关系介绍
+------------------------------------------------
+.. image:: /resource/Insurance/ProvidersRelationships.png
+   :align: center
+   :scale: 50%
+
+| 加拿大的医疗奉行“免费”医疗的政策。作为我们国际学生，依然可以享受不花钱或者花很少一部分钱去看病、治疗、买药的福利，但不代表没有人去支付相应的费用。通常，我们交的杂费里已经包含了各种保险的费用，则我们就医的各种费用就是由保险公司来承担。
+| 作为学生，我们不需要直接跟保险公司直接打交道，因为我们不熟悉有哪些保险公司，每家公司都有哪些保险产品，用于报销哪些花费，以及价格是否合理。而是相应的组织或团体已经提前谈好了相应的保险服务，我们直接按照杂费里列举的费用付费即可。
+| 根据上图所示，通常一个保险涉及3部分机构，分别是Providers、Brokers、Student groups。他们主要负责：
+
+- Providers：保险公司。众多保险公司提供了各式各样的保险服务。跟我们相关的保险公司主要有Sun Life（https://www.sunlife.ca/）、Blue Cross（http://www.bluecross.ca/en/index.html）、Equitable Life of Canada（https://www.equitable.ca/）、ClaimSecure（https://www.claimsecure.com/）。
+- Brokers：经纪人。经纪人起到一个桥梁的作用，这有点像是房地产经纪人，各个卖家有房源但不知道客户在哪、应该面向哪些人打什么类型的广告，各个买家想买房但不知道有哪些房源、价格怎么样。保险经纪人也一样，他们把各个保险公司的相应保险服务组合在一起，然后推荐给不同的客户群体。客户们没有必要知道报销的时候应该去找哪些保险公司，只要统一发给经纪人，他们会把账单转交给相应的保险公司即可。跟我们相关的经纪人有Studentcare（https://www.studentcare.ca/）和We Speak Student/ACL Student Benefits（https://wespeakstudent.com/）。
+- Student groups：学生团体。如果只有几个人去买保险，那保险费用一定会非常高，只有很多人一起买，这样每个人的价格才会便宜。所以，我们购买的保险都是作为一个团体统一买的。例如：国际学生、研究生、TA和RA和博士后、MBA学生等。
+
 医疗保险
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
    :align: center
 
-所有学生必须参加医疗保险，具体有以下几种：
+跟我们国际学生相关的保险如下：
 
-1. UHIP/OHIP
+一、UHIP/OHIP
 
-- 国际学生参加的是UHIP(University Health Insurance Plan)，而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP(Ontario Health Insurance Plan) 。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后可申请延长最多4个月。
+- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后可申请延长最多4个月。
 - 官网：http://uhip.ca/
 - 费用（2019年）：国际学生需要付费参加UHIP，近几年的年费是单人$636，学生家属的费用和学生一样。
-- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard
-
-  - 第一步：注册账户：http://uhip.ca/Help/Video/ui6CP8QwmOg
-  - 第二步：打印医保卡：http://uhip.ca/Help/Video/fyQwUrd1dA8
-  - 建议：把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
+- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
@@ -33,30 +43,37 @@
 - 家属（dependents）：指的是学生的spouse和children，不包括父母。如果他们和学生一起来Canada陪读，则必须在到Canada30天内申请UHIP，超过这个时间再申请会罚$500。https://iss.mcmaster.ca/studentlife/healthcare/#dependents
 - 访问学生：购买的UHIP是UHIP Premium，费用与来读学位的学生价格一样。https://iss.mcmaster.ca/studentlife/healthcare/#visiting
 
-2. GSA Health Insurance Plan（不包括MBA学生）
+二、GSA Health Insurance Plan
 
-- 学校研究生会Graduate Students Association提供Health Insurance Plan。GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由Health Insurance Plan报销。
+- 麦马研究协会Graduate Students Association（GSA）提供Health Insurance Plan。GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由GSA Health Insurance Plan报销。
 - 官方网站：http://studentcare.ca/rte/en/McMasterUniversity_Home
 - 费用：http://studentcare.ca/rte/en/McMasterUniversity_Cost_HowMuchDoesItCost
-- 具体福利为：
-
-  - 药费（Prescription Drugs & Vaccinations）：处方药和疫苗最多可以报销80%，每policy year（保险单年度）有$3000的报销额度。
-  - 意外伤害（Accidents & Emergencies）：救护车等。
-  - 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
-  - 医用器材（Medical Equipment）：轮椅等。
-  - 诊断服务（Diagnostic Services）：X光、超声等。
-  - 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
-  - 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada，保险依然部分有效，见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
-  - 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
 - 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
 
-3. GSA Dental Insurance Plan（不包括MBA学生）
+具体福利为：（http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_YourPlanataGlance）
+
+1. 药费（Prescription Drugs & Vaccinations）：处方药和疫苗最多可以报销80%，每policy year（保险单年度）有$3000的报销额度。
+2. 意外伤害（Accidents & Emergencies）：救护车等。
+3. 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
+4. 医用器材（Medical Equipment）：轮椅等。
+5. 诊断服务（Diagnostic Services）：X光、超声等。
+6. 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
+7. 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada（但不能是自己的国籍所在的国家），在国外的医院里就诊，保险依然部分有效。它可以提供120天、$5,000,000的保险额度。这个对于那些在研究生阶段发表论文去其它国家参加国际会议的同学十分有利。详情见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
+
+  - 如果因为医疗事故，导致旅游中断，可以赔付$5000。http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_TripInterruption
+  - 如果因为医疗事故，导致旅游取消，可以赔付$1500。http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_TripCancellation
+  - 去国外交流或实习：http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_ExchangeInternshipStudents
+  - 出发前请务必随身携带Travel Health Passport（http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_TravelHealthPassport）。这样一旦遇到紧急的情况需要看病，上面会列举你的保险信息。在就诊之前务必要打上面的电话去指定的医院。
+
+8. 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
+
+三、GSA Dental Insurance Plan
 
 - GSA Dental Insurance Plan提供牙医保险，年费$189.88（2019年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
 - GSA Dental Insurance Plan每policy year（保险单年度）的额度$750。
 
-4. CUPE Dental Plan
+四、CUPE Dental Plan
 
 - CUPE工会提供牙医保险，目前每academic year（学年）的费用是$125.00（2019年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
@@ -65,30 +82,59 @@
   - Unit 3: Post-Doctoral Fellows
 - CUPE dental plan虽然是按academic year（学年）缴费的，但报销福利是按calendar year（日历年）计算的。其提供的保险项目优于GSA dental plan，主要福利有：
 
-  - 所有Unit 1的学生自动opt-out GSA dental plan，退回GSA Dental Insurance Plan的费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
+  - 所有Unit 1的学生自动GSA Dental Insurance Plan，退回相应费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2019年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
-  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。
+  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。注意：这$250只能用一次，例如只报销了$10，那剩下的$240就作废了。所以大家应一次尽可能报销大量费用，比如配眼镜。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
   - Unit 1: https://cupe3906.org/tas-unit-1/dental-plan/
   - Unit 2: https://cupe3906.org/sessionals-unit-2/unit-2-dental-coverage/
   - Unit 3:https://cupe3906.org/postdocs-unit-3/dental-plan/
 
-5. MSU Health/Dental Plan Insurance（MBA学生）
+五、MSU Health/Dental Plan Insurance
 
 - MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。保险按学期交，每学期$258（2017年）。
 - 网址：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance
 - 配眼镜福利：每2年有$100报销镜片和镜框的额度。
 - MBA学生家属的保险：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/family-add-ons
 
-总结：
+保险的购买与退出
+--------------------------------------------------------------------------
+1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，具体需要购买的保险如下：
 
-- 对于没有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+GSA Dental Insurance Plan
-- 对于有TA或RA，且非MBA专业的研究生：购买UHIP+GSA Health Insurance Plan+CUPE Unit 1 Dental Plan
-- 对于MBA专业的学生：购买UHIP+MSU Health Plan Insurance+MSU Dental Plan Insurance
-- 对于联培的学生（Visiting Student）：购买UHIP Premium
-- 博士后（Post Doc）：UHIP（开始工作3个月以内，导师付钱）+OHIP（工作三个月以后，免费）+CUPE Unit 3 Dental Plan（可选，自己付钱）+Extended Health（药费等，学校付钱）+Group Life（生命安全保险，学校付钱）
+- 没有TA或RA，且非MBA专业的研究生
+
+  - UHIP
+  - GSA Health Insurance Plan
+  - GSA Dental Insurance Plan
+- 有TA或RA，且非MBA专业的研究生
+
+  - UHIP
+  - GSA Health Insurance Plan
+  - CUPE Unit 1 Dental Plan
+- MBA
+
+  - UHIP
+  - MSU Health Plan Insurance
+  - MSU Dental Plan Insurance
+- 联培的学生（Visiting Student）
+
+  - UHIP Premium
+- 博士后（Post Doc）：具体看 https://hr.mcmaster.ca/resources/benefit-booklets/ 。在搜索框里填写“post doc”。
+
+  - UHIP（开始工作3个月以内，导师付钱）
+  - OHIP（工作三个月以后，免费）
+  - CUPE Unit 3 Dental Plan（可选，自己付钱）
+  - Extended Health（药费等，学校付钱）
+  - Group Life（生命安全保险，学校付钱）
+
+2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险。常见情形仅有如下：
+
+- 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$200的保费。
+- 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
+- 已经毕业的研究生。例如：读一个学位是16个月，第二年term 1学期结束后就毕业回国了，那可以申请退回部分UHIP的费用。详情看：https://iss.mcmaster.ca/studentlife/healthcare/#refunds 和 https://iss.mcmaster.ca/studentlife/healthcare/#exemptions
+- MBA学生：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/opt-out
 
 看病
 -------------------------------------------
@@ -190,15 +236,18 @@
 
 报销
 -------------------------------------------------
-1. 报销UHIP、GSA Health Insurance Plan、GSA Dental Insurance Plan
+1. UHIP：由Sun Life承保
 
- | 以上三种保险都是由Sunlife（https://www.sunlife.ca/）承保，如果看病诊断费和药费都是自己垫付的，则都需要报销，诊断费由UHIP全包，药费报销80%。报销方法为
+- 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic。
+- 方法2：填表并邮寄相关材料。https://uhip.ca/Claim/Index
 
-- 方法1：填表并邮寄给Sunlife。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
+2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
+
+- 方法1：如果药店接受pay direct card（比如McMaster University Centre Pharmasave、Rexall等），则可以在付费的时候只要支付不能报销那部分比例的费用即可，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
-- 方法3：如果药店接受（比如Rexall），也可以出示pay direct card，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+- 方法3：填表并邮寄相关材料。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 
-2. 报销CUPE Dental Plan
+3. CUPE Dental Plan：由Equitable Life of Canada承保
 
 - 方法1：抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），去之前请发邮件再次确认是否接受CUPE保险。
 
@@ -209,7 +258,7 @@
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
 
-3. 报销MSU Health/Dental Plan Insurance
+4. MSU Health/Dental Plan Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
 
 - 方法1：打开MSU Health/Dental Plan Insurance的主页（https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/health-plan/health-claims）。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
 - 方法2：在ClaimSecure官网（https://www.claimsecure.com）注册eProfile, 进行Online claim。（无法报销HPV）
@@ -229,7 +278,7 @@
    :align: center
    :scale: 50%
 
-- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。有的walk-in-clinic是要先垫付钱，然后自己去报销（参考前面UHIP报销），有的walk-in-clinic可以直接免除费用（推荐这种，比较方便，例如：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic）
+- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。推荐直接去支持direct billing的walk-in-clinic，因为比较方便。
 - 第二步：自己拿着处方去药店买疫苗，McMaster University Centre Pharmasave、Fortinos、Shoppers等地方都可以买。疫苗无法在药房直接报销。这一步属于买药环节，需要用GSA或MSU的保险。（报销80%的费用）
 - 第三步：回到clinic打疫苗。
 
