@@ -12,9 +12,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 各类租房资源
 -----------------------
-1. 各类房源：
-
-- McMaster官方租房资源网站（主要是house出租）： https://macoffcampus.mcmaster.ca/classifieds/?cat=0&s=
+- McMaster官方租房资源网站： https://offcampus.mcmaster.ca/available-properties/
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
 - Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。 
@@ -22,16 +20,10 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
   - 已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
   - 租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。为了大家的生命财产安全着想，请 **不要在租房群里找陌生人的接机、Carpool（拼车或顺风车）等服务** 。
 
-2. 各类租房经验：
-
-- **McMaster官方租房知识科普**：http://macoffcampus.mcmaster.ca/ocrc_static/studentresource.htm
-- 陆定维老师的QQ空间里也有相应的介绍。 
-
 房源类型介绍
 ------------------------------------
 1. house（独立屋）介绍：
 
-- house的布局，以及租房的时候需要检查的地方：http://macoffcampus.mcmaster.ca/ocrc_static/interactive_house.html
 - house的房间有两种：
 
   - 地上的房间（ground）。通常一个house地上部分最多不会超过3层。
@@ -50,7 +42,6 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 2. Apartment（公寓，简称apt）介绍：
 
-- 普通apt的布局：http://macoffcampus.mcmaster.ca/ocrc_static/floor_plans.htm
 - apt都是整栋楼集中供暖、供热水。
 - 除少数高档的apt外，普通的apt里一般没有空调，也不会集中供应冷气。合租的同学如果觉得热，可以商量一下，自行购买窗式空调（注意电费）。
 - 厨房：apt的厨房里通常至少会有stove、冰箱。有些陈旧的apt可能没有抽油烟机。
@@ -65,7 +56,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 - apt里没有洗衣机和烘干机，一般是去公寓某一层公共的洗衣房去洗衣服，需要额外付费（一次洗+烘干的费用大概是$4）。如果不想用公共的设备也可以自己购买小型的洗衣机。
 - 不论apt里有多少卧室，都只有一个厨房和公共的卫生间。≥3个卧室的apt，主卧会有单独的卫生间。
-- 还有一种比较特殊的公寓叫condo：普通的apt一般只出租，不会售卖，因此只有一个房东；而condo则既出租又售卖，大家在租apt的时候若发现可以购买，则是condo，例如140 Main St W、150 Main St W（已卖完）、135 James St S。大家可以把它理解为国内的最为常见的住宅楼的房间。通常，condo的条件普遍比较好，甚至在某一层会有健身房和游泳池，但租金非常高，毕竟以后还要售卖。注意，如果租的condo是已经被购买下来了，则是跟房东签lease，房东可能按自己的意愿对apt进行了更改，大家租之前要仔细查看。
+- 还有一种比较特殊的公寓叫condo：普通的apt一般只出租，不会售卖，因此只有一个房东；而condo则既出租又售卖，大家在租apt的时候若发现可以购买，则是condo，例如140 Main St W、135 James St S。大家可以把它理解为国内的最为常见的住宅楼的房间。通常，condo的条件普遍比较好，甚至在某一层会有健身房和游泳池，但租金非常高，毕竟以后还要售卖。注意，如果租的condo是已经被购买下来了，则是跟房东签lease，房东可能按自己的意愿对apt进行了更改，大家租之前要仔细查看。
 
 3. 其它
 
@@ -97,7 +88,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 5. 长租价格（CAD/月，房租不用额外交消费税）： 
 
 - house：①basement：$400以下。②ground：$400~550之间。utility（水电气(heat)网4项）花费已经包含在房租里的项目越多，离学校越近，房租越高。
-- apt：按apt里bedroom的数量：①1 bedroom：$900+ ②2 bedroom：$1100+ ③3 bedroom：$1300+ ④bachelor：$800+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
+- apt：按apt里bedroom的数量：①1 bedroom：$900+ ②2 bedroom：$1100+ ③3 bedroom：$1300+ ④bachelor：$800+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，140/150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
 
 6. 何时开始寻找房源（对于9月入学的新生）
 
@@ -155,7 +146,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
  A) 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
  #) 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
- | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容（模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/housemate_agreement_revised.pdf ），见证人（WITNESS）可以写其它几个租客或房东或学校offcampus的工作人员。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
+ | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
 
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
@@ -171,7 +162,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - Hamilton市政府关于bedbug的介绍和指导：https://www.hamilton.ca/home-property-and-development/pest-control/bed-bugs
 
 8. 暖气：根据Hamilton法律规定，除了5月15日到9月15日这段时间外，出租房内温度必须不能少于20℃。https://www.hamilton.ca/home-property-and-development/rental-properties/by-laws-rental-properties 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
-9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。转租合同模板：http://macoffcampus.mcmaster.ca/ocrc_static/downloads/sublet_agreement_pdf.pdf
+9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。
 10. 大麻（cannabis）问题：从2018年10月17日起，Canada全境允许自由购买娱乐性大麻。根据安省法律规定（https://www.ontario.ca/page/cannabis-legalization），house或apt的自己家里是允许吸大麻的场所。只有公寓的公共区域（indoor common areas），比如楼道、走廊、进门大厅是不允许的。所以你 **无法限制其它租客吸大麻** 。
 
 - 这个对租house的同学影响非常大。因为house都是集中供暖或供冷，一般house的客厅等公共区域是空调或暖气的进气口，每个卧室有出风口。当空调或暖气打开时，需要关门关窗。这样house里的空气无法得到有效的更换，如果有人在房间里吸大麻，则整个house里的其它室友都要吸“二手”大麻。
@@ -184,11 +175,8 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 1. 相关部门
 
-- McMaster：https://macoffcampus.mcmaster.ca/ocrc_static/services_and_programs.html
-- Public：
-
-  - https://www.hamiltonjustice.ca/tenant-rights
-  - http://www.sjto.gov.on.ca/ltb/
+- https://www.hamiltonjustice.ca/tenant-rights
+- http://www.sjto.gov.on.ca/ltb/
 
 2. 建议
 
@@ -197,7 +185,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2019-01-05.xlsx>` 从Google地图里导出的数据，2019年1月5日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-01-01.xlsx>` 从Google地图里导出的数据，2020年1月1日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
@@ -209,7 +197,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
   - 正在售卖的condo或已经卖出的condo再转租
   - 马路边商店二楼的房间出租（太吵）
   - student apartments in a house。
-- 若有失效的链接请及时与17-CAS-赵伟联系。如果失效的链接是macoffcampus网站的链接，则说明该公寓已满，公寓管理员暂时撤去出租广告。
+- 若有失效的链接请及时与17-CAS-赵伟联系。如果失效的链接是Mac Off-Campus Housing网站的链接，则说明该公寓已满，公寓管理员暂时撤去出租广告。
 
 .. raw:: html
 
@@ -230,7 +218,6 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - 644 Main St W
 
   - 俗称“三角楼”，因公寓楼的形状呈三个角而得名。全楼共14层，近300个apartment，住着相当多的麦大学生。该公寓位于麦大和市区中间的地段，在地理位置上更为平衡。故而通往麦大或者市区的公交车均会在其旁边的站点停靠（除10路外）。交通很方便，附近超市，餐馆等生活设施非常齐全。
-  - 目前新租的三室一厅价格（2018年）为$1500/月，两室一厅为$1250/月，且房租不含电费。三角楼的租金是在15年涨价幅度较大，若是能接到旧的lease的话，性价比还是非常高的。
   - 三角楼的楼管都是中国人，感兴趣的同学可以直接用中文电话联系。但需要注意的是，目前三角楼基本是要本人亲自去签lease，还要递交money order，所以对在国内的新生可能比较困难。比较可行的方法是，请已经在Canada的熟悉的亲友先行预定，而后再把自己名字加到lease里去。对那些来加拿大再找房子的同学问题不大，不过一般就只会有一室一厅或者bachelor会有空余，运气好可能还会有两室一厅。（注：一切信息以公寓楼管答复为准）
 
 - 校外第三方机构旗下的学生公寓（这几个公寓都是第三方机构建造的公寓，它们只租给学生，并且管理上也类似于学校的公寓）
@@ -258,9 +245,9 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
   - penthouse部分的房型是跃层结构（就是一户占两层），penthouse以下的所有楼层的房型都是错层的结构。
   - 有公共的健身房和空调。
 
-- 140 Main St W
+- 140/150 Main St W
 
-  - Hamilton最贵的condo，最贵的3室一厅竟然要将近$3000/月。
+  - Hamilton最贵的condo，最贵的3室一厅竟然要将近$3500/月。
   - 有公共的健身房和空调。
 
 .. admonition:: 本页作者

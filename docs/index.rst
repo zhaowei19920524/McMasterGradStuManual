@@ -68,7 +68,6 @@ Welcome to McMaster University!
    campusDiTu
    TiYuGuan
    TuShuGuan
-   SheLianYuSheTuan
    McMasterZaiDuZhengMing
    McMasterChengJiDan
    ExtendStudyPermitVisa
@@ -96,6 +95,7 @@ Welcome to McMaster University!
    YingShiZiYuan
    TanQinQianZheng_ZiNv
    MeiGuoLvYouQianZheng
+   RiBenLvYouQianZheng
    QiTAShengHuoJingYanHuiZong
 
 .. toctree::
