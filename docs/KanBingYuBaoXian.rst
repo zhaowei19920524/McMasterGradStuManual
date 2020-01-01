@@ -24,7 +24,7 @@
 一、UHIP/OHIP
 
 - 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后可申请延长最多4个月。
-- 官网：http://uhip.ca/
+- 官网：https://uhip.ca/
 - 费用（2019年）：国际学生需要付费参加UHIP，近几年的年费是单人$636，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
