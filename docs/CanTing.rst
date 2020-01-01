@@ -100,6 +100,16 @@ Staff & Faculty Meal Plan只能给学校的Staff和Faculty。Staff通常指学�
 
 - 查看余额：登录后点击FINANCIAL->BALANCES。
 
+Hamilton主要餐馆位置
+-----------------------------------------
+Hamilton市区中的Zone1和downtown的主要餐馆的位置。包括中餐馆、西餐馆、中式甜点、越南米粉、韩餐、日料。其中中餐馆、西餐馆、中式甜点在下几段文字中有详细介绍。（Google地图，国内的同学可能需要翻墙访问）点击地图里你感兴趣的apt的气球，在弹出框里的中上部有餐馆的信息。
+
+.. raw:: html
+
+    <div align="center">
+      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CQZMOPE5tx-XQyh5NXjLm3VuZWdknPlM" width="640" height="480"></iframe>
+    </div>
+
 McMaster周边的西餐
 -----------------------------------------
 1. 学校南门对面：
@@ -188,13 +198,6 @@ McMaster周边的西餐
 
     - iOS：https://itunes.apple.com/ca/app/pita-pit-canada/id1266287166?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.pitapit.app
-
-- Subway：三明治
-
-  - http://www.subway.com/en-ca
-  - 1018 King St W, Hamilton, ON L8S 1L4
-  - (905)308-9378
-  - 每天都会对其中一种三明治打折。
 
 - Lava Pizza & Wings
 
@@ -291,12 +294,6 @@ McMaster周边的西餐
     - iOS：https://apps.apple.com/ca/app/little-caesars/id1436068134
     - Android：https://play.google.com/store/apps/details?id=com.littlecaesars
 
-- Sana Grill
-
-  - http://www.sanagrill.com/
-  - 1686 Main St W, Hamilton, ON L8S 0A2
-  - (905)777-0222
-
 4. Tim Hortons
 
  | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
@@ -351,8 +348,6 @@ McMaster周边的西餐
 
 Hamilton其它地方的西餐
 ---------------------------------------------
-1. 市中心（downtown）
-
 - McDonald's（麦当劳）
 
   - https://www.mcdonalds.com/ca/en-ca.html
@@ -381,45 +376,9 @@ Hamilton其它地方的西餐
   - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
   - 优惠券：http://www.kfc.ca/coupons
 
-- Wimpy's Diner
-
-  - http://wimpysdiner.ca/
-  - 405 Main St W, Hamilton, ON L8P 1K5
-  - (905)527-5151
-  - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
-  - 优惠券：http://www.kfc.ca/coupons
-
-- Smoke’s Poutinerie
-
-  - http://smokespoutinerie.com/
-  - 112 George St, Hamilton, ON L8P 1E2
-  - (289)246-9117
-
-2. 山上
-
-- The Keg Steakhouse + Bar（烤牛排）：点菜制
-
-  - https://www.kegsteakhouse.com/locations/hamilton-keg/
-  - 1170 Upper James St, Hamilton, ON L9C 3B1
-  - (905)574-7880
-
-- Swiss Chalet
-
-  - https://www.swisschalet.com/
-  - 1000 Golf Links Rd RR#1, Ancaster, ON L9G 3K9
-  - (905)304-1885
-  - 烤鸡、烤排骨
-
-- The Burger's Priest
-
-  - https://theburgerspriest.com/
-  - 1591 Upper James St Unit 1, Hamilton, ON L9B 0H7
-  - (905)387-9797
-  - 汉堡店
-
 Hamilton 中餐馆
 ----------------------------------
-1. 学校周边（Zone 1）：
+1. 学校周边：
 
 - The Arch Noodle House（校门口）：点菜制
 
@@ -454,6 +413,11 @@ Hamilton 中餐馆
   - 11 Walnut St S, Hamilton, ON L8N 2K8
   - (905)581-0354
   - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV。
+
+- Spicy Palace（马路边边）
+
+  - https://www.facebook.com/malubianbianmalatang/
+  - 212 King St E, Hamilton, ON L8N 1B5
 
 - Sparkle Northern Chinese Cuisine（美食美客）：点菜制，外卖
 
@@ -550,16 +514,24 @@ Hamilton 中餐馆
 
 Hamilton 中式甜点
 -----------------------------------------
+1. 学校周边
+
+- CoCo Fresh Tea & Juice（Coco奶茶）
+
+  - https://cocofreshtea.ca/
+  - 1548 Main St W, Hamilton, ON L8S 1E5
+  - (289)396-0888
 - OneZo Tapioca（丸作）
 
   - https://www.onezotapioca.com/
   - 1045 King St W Unit 1, Hamilton, ON L8S 1L6
   - (289)246-9226
-- CoCo Fresh Tea & Juice（Coco奶茶）
+- Sakura Tea | 樱花茶
 
-  - https://www.facebook.com/CoCoFreshTeaHamilton
-  - 96 Main St E, Hamilton, ON L8N 1G3
-  - (905)521-6888
+  - 1064 Main St W, Hamilton, ON L8S 1B3
+
+2. Hamilton市中心
+
 - Sugar Marmalade（糖记）
 
   - http://www.sugarmarmalade.com/
@@ -575,116 +547,6 @@ Hamilton 中式甜点
   - https://www.facebook.com/TeaHutHamilton
   - 100 Main St E #100, Hamilton, ON L8N 3W4
   - (905)521-6451
-
-- Sakura Tea | 樱花茶
-
-  - 1064 Main St W, Hamilton, ON L8S 1B3
-
-Hamilton 越南米粉
-------------------------------------
-- Saigon
-
-  - http://www.saigonasianrestaurant.com/
-  - 1024 KING ST W
-  - (905)528-1096
-  - 可以使用现金或debit卡（多付几十分）。
-
-- NATIONS（进入超市一直走到最东边，可以询问服务员具体位置）
-
-  - http://nationsfreshfoods.ca/pho.html
-  - 2 King St W #445, Hamilton
-  - 可以使用现金或debit卡。
-
-- PHO RONG WONG
-
-  - http://phorongvang.com/
-  - 1120 MAIN ST W
-  - (289)389-8989
-  - 可以使用现金或debit卡（多付几十分）。
-
-- Ben Thanh Viet Thai Restaurant（边城）
-
-  - http://www.benthanh.ca/
-  - 113 JAMES ST N
-  - (905)528-6888
-  - 可以使用现金、debit卡、信用卡。
-
-Hamilton 韩餐
--------------------
-- ALIRANG（阿里郎）
-
-  - https://www.facebook.com/pages/Alirang/617187441640072
-  - 354 Main St W, Hamilton, ON L8P 1K3
-  - (905)777-1236
-  - 可以使用现金、debit卡、信用卡。
-
-- Manna Korean Takeout：外卖
-
-  - 1050 King St W, Hamilton, ON L8S 1L5
-  - (905)523-0777
-
-- OWL（猫头鹰）
-
-  - http://www.owlfamily.ca/
-  - 309 Main St E, Hamilton, ON L8N 1H8
-  - (905)528-7275
-- Korean house
-
-  - 281 Cannon St E, Hamilton, ON L8L 2B4
-  - (905)526-1492
-- Ajio Restaurant
-
-  - http://www.ajiosushikorea.com/
-  - 161 King St E, Hamilton, ON L8N 1B1
-  - (905)526-8888
-- Spring grill house：韩式自助烧烤
-
-  - http://springgrillhouse.com/
-  - 1441 UPPER JAMES ST
-  - (905)383-6868
-  - 可以使用现金、debit卡、信用卡。
-
-Hamilton 日料
---------------------------
-- Yukiguni Izakaya：自助
-
-  - http://yukiguni-hamilton.com/
-  - Unit 6, 1686 Main St W #8, Hamilton, ON L8S 0A2
-  - (905)527-5272
-
-- August 8：自助
-
-  - http://www.august8.ca/
-  - 1 Wilson St #12, Hamilton, ON L8R 1C4
-  - (905)524-3838
-  - 可以使用现金、debit卡、信用卡。
-
-- Joya Sushi：点菜制
-
-  - http://joyasushi.ca/
-  - 1630 Main St W, Hamilton, ON L8S 1G3
-  - (905)525-1114
-  - 可以使用现金、debit卡、信用卡。
-
-- Sapporo Restaurant（札幌）：自助
-
-  - http://sapporo-hamilton.com/
-  - 96 Main St E, Hamilton, ON L8N 1G3
-  - (905)527-1668
-
-- Tatemono Sushi Bar & Restaurant：自助
-
-  - http://www.tatemono.ca/Tatemono/index_tatemono.html
-  - 135 King St E., Hamilton, ON L8N 1B2
-  - (905)521-2227
-  - 可以使用现金、debit卡、信用卡。
-
-- Kenzo Ramen：点菜制
-	
-  - http://www.kenzoramen.ca/g5/
-  - 21 King St W, Hamilton, ON L8P 1B5
-  - (905)577-6666
-  - 这是一家日式拉面馆。
 
 其它城市的特色餐厅
 ------------------------------------------------
@@ -779,15 +641,25 @@ Mississauga：
 | 价格：https://www.makegoodfood.ca/en/pricing
 | 这个网站每天会列举一些西餐的餐单，如果购买了它的服务，它会把所有的食材全部准备好，并且附上完整的制作教程，然后送到你家。大家多试几次基本就会啦。
 
-Uber Eats——加拿大版“饿了么”
+外卖送餐服务
 --------------------------------------------------------------
-除了饭店、快餐店官网上的送餐服务外， Uber Eats是比较通用的送餐服务，市内送餐服务费大概在$5左右。
+加拿大也有像国内“美团”、“饿了吗”类似的外卖送餐服务。除了饭店、快餐店官网上的送餐服务外， 第三方的外卖送餐服务在市内的费用大概在$5左右。
+
+1. Uber Eats
 
 - 官网：https://www.ubereats.com/en-CA/
 - 手机App：
 
-  - iOS：https://itunes.apple.com/us/app/uber/id1058959277?mt=8
+  - iOS：https://apps.apple.com/us/app/uber/id1058959277
   - Android：https://play.google.com/store/apps/details?id=com.ubercab.eats
+
+2. DoorDash
+
+- 官网：https://www.doordash.com/
+- 手机App：
+
+  - iOS：https://apps.apple.com/app/id719972451?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en_CA
 
 经验之谈
 -----------------------------------

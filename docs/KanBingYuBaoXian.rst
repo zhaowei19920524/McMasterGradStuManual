@@ -94,7 +94,7 @@
 
 五、MSU Health/Dental Plan Insurance
 
-- MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。保险按学期交，每学期$258（2017年）。
+- MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。年费$262.5（2019年）。
 - 网址：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance
 - 配眼镜福利：每2年有$100报销镜片和镜框的额度。
 - MBA学生家属的保险：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/family-add-ons

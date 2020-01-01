@@ -47,7 +47,7 @@
 
 2. Valid passport with enough blank visa pages：大家的护照只要还有3个月以上的有效期，并且还有空白页就可以了。
 3. Valid immigration documents showing your legal status in Canada：复印一张自己的study permit，但要带上原件。
-4. One recent passport photograph(taken in last 6 months) with white background：需要大家提供一张白底的证件照。尺寸在第一项的申请表上已经标出来了。大家可以不用提前贴上。证件照可以在Shoppers、Costco、Jackson Square的Pro Photo（https://prophotoprinthamilton.com/）拍摄。
+4. One recent passport photograph(taken in last 6 months) with white background：需要大家提供一张白底的证件照。尺寸在第一项的申请表上已经标出来了。大家可以不用提前贴上。拍摄证件照请看 `拍照和冲洗照片`_ 。
 5. Letter from school or Employment letter, depending on your legal status in Canada：作为学生，我们只需要提交Enrolment Letter（在读证明）就可以了。这个可以在mosaic上开具。不需要精确到月份。
 6. Proof of sufficient funds to defray all the expenses while in Japan：登录自己在加拿大银行的网银，下载近3个月的eStatement（银行流水）并打印出来即可。
 7. Flight itinerary issued by travel agency or airline company：这一项需要提交航班行程。这里并不需要大家提交已经买好的机票。可以上加航官网，选好相应的往返航班，在缴费前的最后一个步骤，把往返航班的信息保存并打印出来即可。
@@ -69,3 +69,5 @@
 .. admonition:: 本页作者
    
    - 17-CAS-赵伟
+
+.. _拍照和冲洗照片: QiTAShengHuoJingYanHuiZong.html#id3
