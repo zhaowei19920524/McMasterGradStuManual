@@ -21,10 +21,6 @@ Welcome to McMaster University!
 ——McMaster研究生新生群的管理员们
 
 .. attention::
-  - 网站里插入了多幅Google地图和Wikipedia链接， 在国内的同学请翻墙查看。
-  - 网站里如发现有任何失效的链接，请速与17-CAS-赵伟联系。
-
-.. attention::
   - **本网站所有文字内容全部原创，其版权受《中华人民共和国著作权法》、CanadianCopyright Act等保护，未经网站管理员允许，请勿转载或抄袭。一旦发现有任何个人或组织违规，必追究其责任。**
   - **如需引用少数文字内容，请标明出处。请在引用文字的旁边加上本网站或网页的网址。谢谢。**
 
@@ -114,20 +110,33 @@ Welcome to McMaster University!
    BenZhanJieShao
    ZuiJinGengXin
 
+本站使用说明
+--------------------------------------------------
+1) 网站里插入了多幅Google地图和Wikipedia链接， 在国内的同学请翻墙查看。
+#) 网站里如发现有任何失效的链接，请速与17-CAS-赵伟联系。
+#) 在手机上浏览本网站请尽可能使用菜单，因为有些网页内容较长。
+
+- 第一步：在网页左上角点击三条横线的汉堡图标。
+
+.. image:: resource/Shouji1.png
+   :align: center
+   :scale: 25%
+
+- 第二步：在弹出的菜单里选择相应的主题。
+
+.. image:: resource/Shouji2.png
+   :align: center
+   :scale: 25%
+
+- 第三步：在菜单里可以直接选择某个标题，这样网页可以自动定位到相应的内容。
+
+.. image:: resource/Shouji3.png
+   :align: center
+   :scale: 25%
+
 贡献与反馈：
 -----------------------------
 - 如有好的意见和建议，欢迎您的 `反馈`_ 。
-- 目前辛勤的贡献者有：
-
-  - 17-CAS-赵伟
-  - 16-Chem-孟凡旺
-  - 15-ECE-Huawei Zhu
-  - 13-MFin-Daisy Ding
-  - 17-ECE-牛晨骁
-  - 17-ECE-刘欢
-  - 14-EP-张斌
-  - 14-BME-Yushan Zhang
-
 - 想贡献自己的内容？请联系17-CAS-赵伟。
 
 .. note::

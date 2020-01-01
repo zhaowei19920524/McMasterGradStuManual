@@ -10,17 +10,26 @@
 1) 官网：https://security.mcmaster.ca/
 2) 失物招领：https://security.mcmaster.ca/lost_found.html
 
-实效口语
------------------------
-1) McMaster Effective English Courses (MEEC)
+节假日
+---------------------------------
+在Canada， 是没有国内那种过年和国庆七天假期的，唯一的放假安排是一个周末再加一天，一共三天。即使Canada的国庆节（Canada Day）。此外除了一些公共的节日外，每个省还有自己的节日，仅仅是本省境内放假，其它省依然继续上课上班。在Ontario的法定节假日（Statutory Holidays）有以下几天：
 
-- https://gs.mcmaster.ca/about-meec-non-credit-modules
-- 这是McMaster研究生院提供给国际学生的免费课程。如果开放注册，学校会发邮件通知。
-- 据往届参加过这个课程的学长学姐反应效果还是非常好的。尤其是口语相关的课程，一定是一对一辅导，一个音一个音纠正。不过一般都只限制20人。发邮件通知后，一分钟之内就抢完了。
-- 此外，如果报名则必须每节课都去，可以请假，但不能请假次数太多。
+- New Year's Day：January 1
+- Family Day：Third Monday in February
+- Good Friday：first Sunday after the first full moon in spring(after March 21st)
+- Victoria Day：Monday before May 25
+- Canada Day：July 1
+- Labour Day：First Monday in September
+- Thanksgiving Day：Second Monday in October
+- Christmas Day：December 25
+- Boxing Day：December 26
 
-2) 教会ESL活动
+- 比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位（包括学生）依然会放假。这时候会出现一个大约10天的长假。
+- 对于学生来说，是没有暑假和寒假的。一个学年有3个term，每个term是4个月。所以不会有任何假期，包括本科生（本科生term3要去校外实习）。
+- 对于研究生来说，大部分研究生虽然课程比较少，term5甚至term3开始就没有任何课程了，但不代表就处于放假状态。准确的说，研究生也没有任何假期，即使没有课也要跟导师一起写论文，或做项目。不过大家也不用担心，如果想回国，可以圣诞节到元旦那几天回去。并且大多数导师都会在一年里批一个月的假。
+- 此外，由于本科生在term 1和term2有recess week（也叫reading week）https://registrar.mcmaster.ca/dates-and-deadlines/ ，这两周不上课，所以有些教授这两周可能也会休息，这样研究生就可以蹭本科生的福利也休息一下。但绝不能保证一定是放假。“There is no official fall break or reading week for graduate students (except MBA). Students should check with their program and their course instructor(s) as to whether classes will be held during these periods.”
 
-- http://stgeorgehamilton.ca/whats-happening/
-- 这个是学校南边的St George's Reformed Episcopal教会举办的。地点在134 Emerson St, Hamilton, ON L8S 2X8。时间是每周二下午6点到7点半。不用注册直接去即可。这个活动同样是免费的。
-- 大家对这个活动感兴趣可以写在群里，然后@14-HRM-亚平。
+作息
+------------------
+| 加拿大人的作息习惯估计很多刚来的学生都受不了。因为在Canada是没有午休的。并且上课时间也随意安排，并不像在国内上午下午各四节课，晚上还有选修课。
+| 中午12点开始可能要连续上3个小时的课，这都是很正常的事。business学院曾经出现过晚上10点半去Burlinton校区上课的情况，等下课已经半夜12点了。有选课自由的学生应尽量避免这种情况。

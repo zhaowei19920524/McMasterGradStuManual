@@ -51,7 +51,7 @@
   - 19级 微信群：请联系19-MBA-杨俊琦
 - PhD in Business Administration
 
-  - 微信群：请联系17-DBA(Management Science)-仉帅
+  - 微信群：请联系16-DBA(Finance)-Rongzhao Ou或17-DBA(Management Science)-仉帅
 - MFin
 
   - 13级 QQ群：57925102

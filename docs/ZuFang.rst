@@ -15,10 +15,12 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - McMaster官方租房资源网站： https://offcampus.mcmaster.ca/available-properties/
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
-- Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。 
+- Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
 
-  - 已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
-  - 租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。为了大家的生命财产安全着想，请 **不要在租房群里找陌生人的接机、Carpool（拼车或顺风车）等服务** 。
+.. attention::
+  租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。为了大家的生命财产安全着想，请 **不要在租房群里找陌生人的接机、Carpool（拼车或顺风车）等服务** 。
+
+- McMaster官方校外租房经验：https://housing.mcmaster.ca/off-campus/
 
 房源类型介绍
 ------------------------------------
@@ -146,7 +148,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
  A) 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
  #) 如果转租给的那个人提前离开，那签lease的人必须一个人承担完剩下所有月份的房租。 
 
- | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。
+ | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。学校提供的租房合同模板：https://housing.mcmaster.ca/off-campus/house-hunting/#tab-content-cohabiting-cohesively 网页里的“Helpful Documents”。
 
 5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
@@ -162,7 +164,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - Hamilton市政府关于bedbug的介绍和指导：https://www.hamilton.ca/home-property-and-development/pest-control/bed-bugs
 
 8. 暖气：根据Hamilton法律规定，除了5月15日到9月15日这段时间外，出租房内温度必须不能少于20℃。https://www.hamilton.ca/home-property-and-development/rental-properties/by-laws-rental-properties 。如果大家觉得冷，并且用温度计测量后低于这个温度，则可以找房东交涉。
-9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。
+9. 转租（sublease或sublet）也需要签合同。比较常见的情形有：刚刚来Canada时的短租或暑期（term3）出去玩转租给其它人住。学校提供的租房合同模板：https://housing.mcmaster.ca/off-campus/rental-housing-law/#tab-content-subletting 网页里的“Helpful Documents”。
 10. 大麻（cannabis）问题：从2018年10月17日起，Canada全境允许自由购买娱乐性大麻。根据安省法律规定（https://www.ontario.ca/page/cannabis-legalization），house或apt的自己家里是允许吸大麻的场所。只有公寓的公共区域（indoor common areas），比如楼道、走廊、进门大厅是不允许的。所以你 **无法限制其它租客吸大麻** 。
 
 - 这个对租house的同学影响非常大。因为house都是集中供暖或供冷，一般house的客厅等公共区域是空调或暖气的进气口，每个卧室有出风口。当空调或暖气打开时，需要关门关窗。这样house里的空气无法得到有效的更换，如果有人在房间里吸大麻，则整个house里的其它室友都要吸“二手”大麻。

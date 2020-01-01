@@ -335,11 +335,10 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 - Hamilton北边的城市Burlington的公交车系统。
 - 官网：http://www.burlingtontransit.ca/
 - 公交车时刻表：https://www.burlingtontransit.ca/en/schedules-and-maps/Schedules.aspx
-- 实时交通图：https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay
 - 常见Burlington公交车：
 
-  - 101路（PLAINS EXPRESS）：这个公交车行驶在Plains Road上。虽然是Burlington的公交车，但这路公交车南北的两个终点站分别在Hamilton的Jackson Square和Burlington Go Station。这趟车只有Weekday的白天有。https://www.burlingtontransit.ca/en/schedules-and-maps/resources/Route_Maps/2018-09-02/Route-101-Updated.pdf
-  - 1路或1X路：和101路的路线重合，只不过比101路中间停靠的站多得多，因而开得很慢。但一周7天白天和夜间都有车。https://www.burlingtontransit.ca/en/schedules-and-maps/resources/Route_Maps/2018-09-02/Route-1-edited.pdf
+  - 101路（PLAINS EXPRESS）：这个公交车行驶在Plains Road上。虽然是Burlington的公交车，但这路公交车南北的两个终点站分别在Hamilton的Jackson Square和Burlington Go Station。这趟车只有Weekday的白天有。
+  - 1路或1X路：和101路的路线重合，只不过比101路中间停靠的站多得多，因而开得很慢。但一周7天白天和夜间都有车。
   - 注：Burlington Transit的公交车时刻依然可以用Transit App来查，大家可以在Transit App或Google地图里查好路线和时间。以上两路公交车途中都会经过Burlington的IKEA，如果大家准备坐公交车从Hamilton去Burlington的IKEA买小件家具，可以坐这路汽车。对于住在Burlington的MBA学生来说，也可以坐这趟公交车来Hamilton的Nations Fresh Food买菜。
 
 - 费用（2018年）：https://www.burlingtontransit.ca/en/fares/Fares.aspx
