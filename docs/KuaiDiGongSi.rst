@@ -6,7 +6,7 @@ Canada邮政公司：Canada Post
 
 - 这个是Canada最便宜的寄送物品的方式了。不但可以收发Canada本地也可以收发国际件。在国内用中国邮政寄到Canada的物品，入境Canada后，都是由Canada Post继续配送的。
 - 普通物品一般不提供tracking number。tracking number需要额外付费或使用加急服务。
-- Canada Post的邮箱一般设在各大Shoppers drug mart的门口，在比较大的Shoppers商场里面会有寄送柜台。由于大家没有Canada的邮票，也不太清楚大概要花多少钱，最好去Shoppers的寄送柜台收发各类信件包裹。学校周边的网店在Westdale的那家Shoppers里，地址：991 King St W, Hamilton, ON L8S 1K9
+- Canada Post的邮箱一般设在各大Shoppers drug mart的门口，在比较大的Shoppers商场里面会有寄送柜台。由于大家没有Canada的邮票，也不太清楚大概要花多少钱，最好去Shoppers的寄送柜台收发各类信件包裹。学校周边的网点在Westdale的那家Shoppers里，地址：991 King St W, Hamilton, ON L8S 1K9
 
 国际快递
 ----------------------------------------------------------
@@ -15,9 +15,7 @@ Canada邮政公司：Canada Post
 #) Fedex：https://www.fedex.com/en-ca/home.html
 #) Purolator：https://www.purolator.com/en/home.page
 
-| 上面几家国际快递公司只有Purolator是Canada土生土长的公司。但规模较小，近几年才逐渐流行起来。
-| 其中比较建议大家用UPS，只有它在Zone1里有收发点，其它公司的收发点离学校太远，如果遇到必须签收的包裹但又没及时接受，就需要自己去收发点取，路途会比较远。
-| UPS在Zone1里的地址是：1063 King St W, Hamilton, ON L8S 4S3
+上面几家国际快递公司只有Purolator是Canada土生土长的公司。但规模较小，近几年才逐渐流行起来。其中比较建议大家用UPS，只有它在学校周边有网点，其它公司的收发点离学校太远，如果遇到必须签收的包裹但又没及时接受，就需要自己去收发点取，路途会比较远。UPS在学校周边的网点的地址是：1063 King St W, Hamilton, ON L8S 4S3
 
 华人快递公司
 ------------------------------------------------------

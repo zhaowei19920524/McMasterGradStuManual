@@ -57,7 +57,7 @@
 
 - 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。
 - 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
-- https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit/gst-hst-credit-application-eligibility.html
+- https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html
 
 其它报税指南：https://mp.weixin.qq.com/s/6SCbQk8LEn4i0Ek-7GWqag
 
