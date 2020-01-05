@@ -7,9 +7,11 @@
 .. image:: /resource/term_number.jpg
    :align: center
  
-SGS 101 201 德育课程
+选课介绍
 ------------------------------------------------------
-SGS 101 和 SGS 201 是2门所有研究生都要学习的online课程，如果不在这个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成，网址如下：http://avenue.mcmaster.ca/。 
+一、SGS 101 201 德育课程
+
+SGS 101和SGS 201是2门所有研究生新生都要学习的online课程，如果不在第一个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成，网址如下：http://avenue.mcmaster.ca/。 
 
 - SGS 101# Academic Research Integrity and Ethics：德育课程，如考试不能作弊，科研不能剽窃等。这门课要计分，在线学习完之后会有一个online的测验。测验一共20道选择题，正确率70%及格（至少对14题），考试有10次机会。
 - SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同样，在学习完之后有一个online测试，必须保证所有题目全部正确，可以进行无限次尝试。 
@@ -27,23 +29,53 @@ SGS 101 和 SGS 201 是2门所有研究生都要学习的online课程，如果�
 
 看到两门课程最后都有绿色的钩后即为通过。如果这两门课如果最终考试没通过，不但要计入挂科总数里，也会影响term 2的选课。
 
-academically accredited course OR a placeholder course （专业课或占位课）
---------------------------------------------------------------------------------------------------------
-.. note::
-   
-   | Remember, all 3 terms need either a course or placeholder even if you will graduate before the terms are finished.  Otherwise, your tuition and all information will not be correct on the system.
-   | Also if you are on a leave you will also need to register.
-   | ——Cheryl（ECE小秘）
+二、专业课或占位课
 
-| 这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
+.. note::
+  | Remember, all 3 terms need either a course or placeholder even if you will graduate before the terms are finished. Otherwise, your tuition and all information will not be correct on the system. Also if you are on a leave you will also need to register.
+  | ——Cheryl（ECE小秘）
+
+academically accredited course OR a placeholder course （专业课或占位课）：这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
 
 - SGS 700：按学期数目收费的研究生。例如：多数PhD、MASc、MSc、MEng学生。
 - SGS 711：按课程数目收费的研究生。
 - SGS 302：Visiting Student访问或联培的研究生。
 
+浏览所有课程
+---------------------------------------------------------------
+第一步：登录mosaic，进入student center。在“Academics”下面点击“Search”。
 
-| 选课的图文教程如下：
-| 第一步：登录mosaic，进入student center。在“Academics”下面点击“Enroll”。
+.. image:: /resource/XuanKe/browse01.png
+   :align: center
+   :scale: 35%
+
+第二步：Browse Course Catalog
+
+.. image:: /resource/XuanKe/browse02.png
+   :align: center
+   :scale: 35%
+
+第三步：在“Academic Career”选“Graduate”，然后在“Term”里选择你想查询的学期，比如“2020 Winter”。点“Search”。
+
+.. image:: /resource/XuanKe/browse03.png
+   :align: center
+   :scale: 35%
+
+第四步：先在网页下方选择专业首字母，比如“CAS”的首字母就是“C”，然后点击下方的“CAS - Computing and Software”，这样就可以看到所有的课程了。
+
+.. image:: /resource/XuanKe/browse04.png
+   :align: center
+   :scale: 35%
+
+第五步（Optional）：如果想看一门的详细介绍，比如课时安排等等，我们可以点击某一门课，比如"705	Computability and Complexity"。在打开的页面里，我们就可以看到这门课具体的上课时间、地点，以及任课老师是谁。
+
+.. image:: /resource/XuanKe/browse05.png
+   :align: center
+   :scale: 35%
+
+选课图文教程
+--------------------------------------------------------------
+第一步：登录mosaic，进入student center。在“Academics”下面点击“Enroll”。
 
 .. image:: /resource/XuanKe/Search01.png
    :align: center

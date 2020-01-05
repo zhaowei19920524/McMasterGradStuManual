@@ -101,7 +101,7 @@
 
 保险的购买与退出
 --------------------------------------------------------------------------
-1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，具体需要购买的保险如下：
+1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，学校在收杂费的时候回自动扣去相关的费用。具体需要购买的保险如下：
 
 - 没有TA或RA，且非MBA专业的研究生
 
@@ -128,6 +128,8 @@
   - CUPE Unit 3 Dental Plan（可选，自己付钱）
   - Extended Health（药费等，学校付钱）
   - Group Life（生命安全保险，学校付钱）
+
+注：五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险。常见情形仅有如下：
 
