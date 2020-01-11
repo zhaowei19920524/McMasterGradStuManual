@@ -108,6 +108,7 @@ Rogers推出三种信用卡：Fido™ Mastercard®，Rogers™ Platinum Masterca
 2. 国内的手机在这边是否可以使用？
 
  | Canada运营商频段：https://www.frequencycheck.com/countries/canada
+ | 检查一下自己的手机是否支持：https://willmyphonework.net/
  | 国内unlock的手机基本都是支持的。合约机请仔细查看你的手机和上面某个运营商的频段是否有重复，如果没有重复来这边是无法使用的。
 
 

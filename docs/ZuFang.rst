@@ -90,7 +90,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 5. 长租价格（CAD/月，房租不用额外交消费税）： 
 
 - house：①basement：$400以下。②ground：$400~550之间。utility（水电气(heat)网4项）花费已经包含在房租里的项目越多，离学校越近，房租越高。
-- apt：按apt里bedroom的数量：①1 bedroom：$900+ ②2 bedroom：$1100+ ③3 bedroom：$1300+ ④bachelor：$800+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，140/150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
+- apt：按apt里bedroom的数量：①1 bedroom：$1100~1200 ②2 bedroom：$1200~1300 ③3 bedroom：$1400+ ④bachelor：$900+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，140/150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
 
 6. 何时开始寻找房源（对于9月入学的新生）
 
