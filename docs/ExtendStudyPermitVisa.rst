@@ -19,6 +19,7 @@ Student Visa（Temporary Resident Visa或TRV）：学生签证，也叫“小签
 - 移民局官网：http://www.cic.gc.ca/english/index.asp
 - 在线账户登录：http://www.cic.gc.ca/english/e-services/account.asp
 - 查看处理申请预计的时间，和当前整体处理的进度：http://www.cic.gc.ca/english/information/times/index.asp
+- 学校的指导：https://iss.mcmaster.ca/immigration/study-permits/ ，https://iss.mcmaster.ca/immigration/visas/
 
 何时开始准备续学生签证和学习许可
 --------------------------------------------------------------------------------------------

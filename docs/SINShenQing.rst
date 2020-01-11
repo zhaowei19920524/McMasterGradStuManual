@@ -6,13 +6,12 @@ SIN是Social Insurance Number的简称，用于报税、找工。找到工作时
 
 办理方法： 
 
-1. 下飞机入关时办理，办理完Study Permit询问工作人员在哪办理SIN。通常上班周一到周五，最晚8:00~8:30就下班了。
-2. 也可以入境后办理，带着你的护照（或驾照）和study permit，去Service Canada就可申请SIN。交通比较方便的office有
+1. 在学校办理：几乎每个学期Service Canada都会来麦马帮学生办理SIN，详情请见：https://iss.mcmaster.ca/immigration/social-insurance-number/
+2. 下飞机入关时办理：办理完Study Permit询问工作人员在哪办理SIN。通常上班周一到周五，最晚8:00~8:30就下班了。
+3. 入境后办理：带着你的护照（或驾照）和study permit，去Service Canada就可申请SIN。交通比较方便的office有
 
-  - 市中心：Hamilton City Hall, Floor 1, 71 Main Street West, Hamilton, Ontario。这里只有周五上班。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=ON-SFN&lang=eng 。
-  - 山上：1550 Upper James Street, Floor 1, Hamilton, Ontario。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=3343&lang=eng
-
-3. 学校里不定期办理SIN的服务，如果有，International Student Services会群发邮件通知。
+- 市中心：Hamilton City Hall, Floor 1, 71 Main Street West, Hamilton, Ontario。这里只有周五上班。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=ON-SFN&lang=eng 。
+- 山上：1550 Upper James Street, Floor 1, Hamilton, Ontario。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=3343&lang=eng
 
 注：study permit上必须有“may accept employment”或“may work” in Canada等类似语句，否则不可以办理SIN。
 
