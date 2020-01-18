@@ -29,7 +29,7 @@
 1) 比较特殊的是Boxing Day和New Year's Day中间只有几天，所以大多数非服务业的职位（包括学生）依然会放假。这时候会出现一个大约10天的长假。
 #) 对于学生来说，是没有暑假和寒假的。一个学年有3个term，每个term是4个月。所以不会有任何假期，包括本科生（本科生term3要去校外实习）。
 #) 对于研究生来说，大部分研究生虽然课程比较少，term5甚至term3开始就没有任何课程了，但不代表就处于放假状态。准确的说，研究生也没有任何假期，即使没有课也要跟导师一起写论文，或做项目。不过大家也不用担心，如果想回国，可以圣诞节到元旦那几天回去。并且大多数导师都会在一年里批一个月的假。
-#) 此外，由于本科生在term 1和term2有recess week（也叫reading week）https://registrar.mcmaster.ca/dates-and-deadlines/ ，这两周不上课，所以有些教授这两周可能也会休息，这样研究生就可以蹭本科生的福利也休息一下。但绝不能保证一定是放假。“There is no official fall break or reading week for graduate students (except MBA). Students should check with their program and their course instructor(s) as to whether classes will be held during these periods.”
+#) 此外，由于本科生在term 1和term2有recess week（也叫reading week） https://registrar.mcmaster.ca/dates-and-deadlines/ ，这两周不上课，所以有些教授这两周可能也会休息，这样研究生就可以蹭本科生的福利也休息一下。但绝不能保证一定是放假。“There is no official fall break or reading week for graduate students (except MBA). Students should check with their program and their course instructor(s) as to whether classes will be held during these periods.”
 
 作息
 ------------------

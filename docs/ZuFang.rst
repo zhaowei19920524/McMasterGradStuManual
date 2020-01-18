@@ -134,7 +134,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 3. 签租房合同（lease agreement），通过扫描和email的方式。
 
 - 从2018年4月30日起，Ontario省租房签的合同必须使用省政府提供的模板（standard lease）。详细说明：http://www.mah.gov.on.ca/Page18704.aspx 。模板地址：http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E
-- 双方必须都要拿到双方签好字的合同才算签合同完毕。公寓在申请的时候会提供一堆个人材料，比如护照、收入证明、SIN、前任房东的联系方式等等。并且会强制额外购买财产保险（大概每年一二百加元）。
+- 双方必须都要拿到双方签好字的合同才算签合同完毕。公寓在申请的时候会提供一堆个人材料，比如护照、收入证明、SIN、前任房东的联系方式等等。并且会强制额外购买财产保险（大概每年一二百加元）。购买租客保险可以联系群里的19-MBA-王乐雪，详见 `房屋保险`_ 。
 
 4. 交定金（deposit）：交完定金可以让房东写一个收据（receipt）。定金可以通过western union或已经在Hamilton的学长学姐们帮忙交一下。如果大家想找学长学姐交定金，可以先把加元转给他们，然后让他们去交。如果学长学姐同意用人民币抵偿加元，请按加元的现汇卖出价或现钞卖出价来计算所需人民币的数目。http://www.boc.cn/sourcedb/whpj/
 
@@ -259,3 +259,4 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
    - 14-EP-张斌
 
 .. _介绍: GongJiaoChe.html#id2
+.. _房屋保险: FangWuBaoXian.html

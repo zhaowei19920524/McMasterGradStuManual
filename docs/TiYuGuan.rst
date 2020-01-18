@@ -34,7 +34,7 @@
 
 研究生依然分2种情况：
 
-- 所有的在McMaster读学位的研究生，不管是Full-time还是Part-time，都已经在杂费里交了Sports Complex Building和Athletics & Rec Activity的费用，这样不需要再额外付费就可以使用除体育馆健身房以外的任何设施。
+- 所有在McMaster读学位的研究生，不管是Full-time还是Part-time，都已经在杂费里交了Sports Complex Building和Athletics & Rec Activity的费用，这样不需要再额外付费就可以使用除体育馆健身房以外的任何设施。
 - 对于访问学者（Visiting Scholar）、以及其他任何杂费里没有交Sports Complex Building和Athletics & Rec Activity的费用的研究生，则无法使用体育馆里任何设施，甚至无法用学生卡刷卡进入。
 
 使用
@@ -57,7 +57,8 @@
 
 游泳池
 -----------------------------
-| https://rec.mcmaster.ca/programs/drop-ins/recreational-swimming
+游泳馆开放时间安排：https://rec.mcmaster.ca/programs/drop-ins/recreational-swimming 或者使用手机App查看。
+
 | 学校的室内游泳池条件可以说非常好，全长50米，25米是浅水（1.3米深），25米是深水（4.9米深）。平常有一堵可移动的墙隔开。水池是温水，大概在25度左右。所以一年四季游泳都非常舒服。需要注意的是水池里的水虽然经常更换，但还是加了很多游泳池专用盐，因此务必佩戴游泳眼镜，否则在游泳的时候无法睁开眼睛，看清方向。
 | 日程安排的名词解释：
 
