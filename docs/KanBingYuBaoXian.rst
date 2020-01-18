@@ -23,7 +23,7 @@
 
 一、UHIP/OHIP
 
-- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后可申请延长最多4个月。
+- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
 - 费用（2019年）：国际学生需要付费参加UHIP，近几年的年费是单人$636，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
@@ -118,7 +118,7 @@
   - UHIP
   - MSU Health Plan Insurance
   - MSU Dental Plan Insurance
-- 联培的学生（Visiting Student）
+- 联培学生（Visiting Student）
 
   - UHIP Premium
 - 博士后（Post Doc）：具体看 https://hr.mcmaster.ca/resources/benefit-booklets/ 。在搜索框里填写“post doc”。
@@ -129,13 +129,19 @@
   - Extended Health（药费等，学校付钱）
   - Group Life（生命安全保险，学校付钱）
 
-注：五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
+注：
 
-2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险。常见情形仅有如下：
+- 五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
+- 联培学生（Visiting Student）需自己购买UHIP，因为学校并不清楚学生何时来Canada。https://iss.mcmaster.ca/studentlife/healthcare/#visiting
+
+2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
 - 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$200的保费。
 - 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
-- 已经毕业的研究生。例如：读一个学位是16个月，第二年term 1学期结束后就毕业回国了，那可以申请退回部分UHIP的费用。详情看：https://iss.mcmaster.ca/studentlife/healthcare/#refunds 和 https://iss.mcmaster.ca/studentlife/healthcare/#exemptions
+- 12月毕业的研究生：https://iss.mcmaster.ca/studentlife/healthcare/#refunds
+
+  - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
+  - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退会之后月份的费用。
 - MBA学生：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/opt-out
 
 看病
