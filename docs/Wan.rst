@@ -306,5 +306,5 @@ Parkbus是由Ontario省政府联合其它一些机构成立的国家公园景点
 
 .. admonition:: 本页作者
 
-   - 16-CAS-Tyler Li（LiJun）
+   - 16-CAS-李军
    - 17-CAS-赵伟

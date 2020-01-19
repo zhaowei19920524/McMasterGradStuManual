@@ -8,4 +8,4 @@
 
 .. admonition:: 本页作者
    
-   - 16-CAS-Tyler Li（LiJun）
+   - 16-CAS-李军
