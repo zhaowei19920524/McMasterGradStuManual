@@ -391,6 +391,6 @@
    
    - 陆定维老师
    - 14-ECE-Huihui Wu
-   - 16-CAS-Tyler Li（LiJun）
+   - 16-CAS-李军
    - 17-CAS-赵伟
    - 17-MBA-林小艺

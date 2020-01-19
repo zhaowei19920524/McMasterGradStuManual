@@ -193,6 +193,6 @@ G类驾照
 .. admonition:: 本页作者
    
    - 17-CAS-赵伟
-   - 16-CAS-Tyler Li（LiJun）
+   - 16-CAS-李军
    - 14-BME-Yushan Zhang
    - 14-EP-张斌
