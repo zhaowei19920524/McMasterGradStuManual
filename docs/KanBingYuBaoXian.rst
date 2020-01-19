@@ -141,7 +141,7 @@
 - 12月毕业的研究生：https://iss.mcmaster.ca/studentlife/healthcare/#refunds
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
-  - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退会之后月份的费用。
+  - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退回之后月份的费用。
 - MBA学生：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/opt-out
 
 看病
@@ -162,9 +162,8 @@
   - 预约：905-526-6020或 mcmaster@campusdentist.com
   - 虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
 
-2. 校外的Walk-in Clinic、Emergency Departments（急诊）、Urgent Care Centres（紧急护理中心）
+2. 校外的Walk-in Clinic、Emergency Departments（急诊）、Urgent Care Centres（紧急护理中心）：所有人都可以去看病的公共的诊所。但通常不能看牙齿。加拿大把公共的医院和诊所分为3大类：
 
-- 所有人都可以去看病的公共的诊所。但通常不能看牙齿。加拿大把公共的医院和诊所分为3大类：
 - Walk-in Clinic：就是不需要预约直接去看病的诊所。
 
   - 诊所列表（Hamilton+Burlington）：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072 。
