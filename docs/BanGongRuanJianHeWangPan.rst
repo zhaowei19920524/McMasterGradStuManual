@@ -87,7 +87,7 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian02.png
    :align: center
 
-第三步：先点击左边的“Software”，然后点击想要下载的软件，比如“Windows 10 (consumer editions), version 1909”。这时候在右边的弹出框中点“View Key”，这是系统就会给你一个正版的序列号，最后点“Download”按钮下载软件。
+第三步：先点击左边的“Software”，然后点击想要下载的软件，比如“Windows 10 (consumer editions), version 1909”。这时候在右边的弹出框中点“View Key”，这时系统就会给你一个正版的序列号，最后点“Download”按钮下载软件。
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian03.png
    :align: center

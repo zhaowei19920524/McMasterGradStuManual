@@ -49,6 +49,7 @@
   - 17级 微信群：请联系17-MBA-张然
   - 18级 微信群：请联系18-MBA-韩雪松
   - 19级 微信群：请联系19-MBA-杨俊琦
+  - 20级 微信群：请联系20-MBA-饶歆林
 - PhD in Business Administration
 
   - 微信群：请联系16-DBA(Finance)-Rongzhao Ou或17-DBA(Management Science)-仉帅
