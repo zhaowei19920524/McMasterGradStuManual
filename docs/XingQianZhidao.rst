@@ -19,7 +19,7 @@
 
 4. 麦马官方学前课程第五节课 国际学生小组讨论(international student panal Q&A)
 
-- 链接：https://pan.baidu.com/s/1HYhCRmzpUmxtajouC5q6Ug 提取码：dsen (压缩版470M)
+- 链接：https://pan.baidu.com/s/1HYhCRmzpUmxtajouC5q6Ug 提取码：dsen (压缩版470M)
 
 留学行李清单
 ------------------------------------------
