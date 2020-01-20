@@ -5,7 +5,7 @@
 .. image:: /resource/XueFei/XueFeiList.png
    :align: center
 
-| 我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为Essential Supplementary和Non-Essential Supplementary。Essential Supplementary是强制交的杂费，比如健康保险，公交车年卡等等。而Non-Essential Supplementary可以根据自己的喜好，可交可不交，但不交的话无法参加相应的活动。杂费也可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。
+我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为Essential Supplementary和Non-Essential Supplementary。Essential Supplementary是强制交的杂费，比如健康保险，公交车年卡等等。而Non-Essential Supplementary可以根据自己的喜好，可交可不交，但不交的话无法参加相应的活动。杂费也可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。
 
 各program的费用明细：
 
