@@ -32,7 +32,7 @@
 
     - QQ群：291817937
 
-- SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering)
+- SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering+MEST)
 
   - 15级 QQ群：368774358
   - 16级 微信群：请联系16-MEEI-张宸赫
@@ -62,6 +62,7 @@
   - 17级 QQ群：606792601
   - 18级 微信群：请联系18-MFin-姜梦婕
   - 19级 微信群：请联系19-MFin-王敏桥
+  - 20级 QQ群：955168884，微信群：请联系20-MFin-纪策
 
 3. Health Science
 
@@ -124,6 +125,7 @@ McMaster常见学院专业及简称
     - Engineering Entrepreneurship and Innovation：MEEI
     - Technology Entrepreneurship and Innovation：MTEI
     - Manufacturing Engineering：Manufacturing或MEME
+    - Systems & Technology：MEST
 - DeGroote School of Business
 
   - Master of Finance：MFin
