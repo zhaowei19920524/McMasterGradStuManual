@@ -34,11 +34,7 @@
 
 - SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering+MEST)
 
-  - 15级 QQ群：368774358
-  - 16级 微信群：请联系16-MEEI-张宸赫
-  - 17级 微信群：请联系17-MTEI-刘润杰
-  - 18级 微信群：请联系18-MTEI-马铭遥
-  - 19级 微信群：请联系19-MTEI-肖佳昕
+  - QQ群：850137878，微信群：加入QQ群后，联系群管理员
 
 2. Business
 
@@ -49,7 +45,7 @@
   - 17级 微信群：请联系17-MBA-张然
   - 18级 微信群：请联系18-MBA-韩雪松
   - 19级 微信群：请联系19-MBA-杨俊琦
-  - 20级 QQ群：431729307，微信群：请联系20-MBA-饶歆林
+  - 20级 QQ群：431729307，微信群：加入QQ群后，联系群管理员
 - PhD in Business Administration
 
   - 微信群：请联系16-DBA(Finance)-Rongzhao Ou或17-DBA(Management Science)-仉帅
@@ -62,7 +58,7 @@
   - 17级 QQ群：606792601
   - 18级 微信群：请联系18-MFin-姜梦婕
   - 19级 微信群：请联系19-MFin-王敏桥
-  - 20级 QQ群：955168884，微信群：请联系20-MFin-纪策
+  - 20级 QQ群：955168884，微信群：加入QQ群后，联系群管理员
 
 3. Health Science
 
