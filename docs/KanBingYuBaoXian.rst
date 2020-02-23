@@ -138,6 +138,7 @@
 
 - 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$200的保费。
 - 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
+- 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。https://iss.mcmaster.ca/about-us/contact/
 - 12月毕业的研究生：https://iss.mcmaster.ca/studentlife/healthcare/#refunds
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
@@ -175,7 +176,7 @@
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 
   - 诊所列表：https://www.hnhbhealthline.ca/listServices.aspx?id=11234
-  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，但不是很紧急的病症他们会拒绝接诊。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真正遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
+  - 紧急护理中心解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，但不是很紧急的病症他们会拒绝接诊。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真正遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。如果打算自己去医院的话，也要先查看一下各个医院Emergency或Urgent的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
 
 3. 校外的牙医、眼医诊所
 
@@ -246,7 +247,7 @@
 1. UHIP：由Sun Life承保
 
 - 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic。
-- 方法2：填表并邮寄相关材料。https://uhip.ca/Claim/Index
+- 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并邮寄相关材料来报销的相应的费用。https://uhip.ca/Claim/Index
 
 2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
 
