@@ -11,7 +11,7 @@
 公共交通：
 
 - 如果大家没有车，并且要买很多家具，则可以在IKEA官网上买好后使用IKEA的配送服务（http://www.ikea.com/ms/en_CA/customer_service/ikea_services/IKEA_delivery.html）。从最近的IKEA Burlington送到Hamilton，费用在$29~$59之间，小件商品可能只要$9。通常可以在当天送到。由于开学前是配送高峰期，可能从下单到开始准备配送需要等好几天的时间。希望大家提前规划好配送时间。
-- 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 101路（也可以坐1路或1X路，只是中间停靠的站比101路多得太多）。上车地点在Jackson Square西南角的KING AT BAY，下车地点在PLAINS AT FRANCIS。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。查看车次可以看Burlington `公交官网`_ （101 - PLAINS EXPRESS - Burlington GO），或Transit手机App。
+- 当然如果只买小件商品也可以坐车过去。大家可以坐Burlington 101路（也可以坐1路或1X路，只是中间停靠的站比101路多得太多）。上车地点在Jackson Square西南角的KING AT BAY，下车地点在PLAINS AT FRANCIS。由于乘坐的是Burlington的公交系统，所以就不能使用学生优惠了，大家可以在presto card里充钱，上车刷卡就可以了。查看车次可以使用Google地图或Transit手机App。
 - 如果觉得买的家具使用IKEA配送太贵，坐公交车又拿不下，可以用Uber送回来（只能送到楼下）。但要注意，买的家具如果能在后背箱放下，则按正常价格计费。如果家具太多，后备箱放不下，需要放在车里，可能需要额外交罚金。
 
 Burlington的IKEA隔壁的商场JYSK、Home Depot同样卖各种家居用品，价格略低，不过东西没IKEA全。Hamilton山上的Walmart也可以买到桌子椅子等家具，并且可以配送。
@@ -72,6 +72,3 @@ Canada床的标准
 
    - 17-CAS-赵伟
    - 14-MBA-Sharon Zhang
-
-
-.. _公交官网: https://tripplanner.burlington.ca/hiwire?.a=iRealTimeDisplay

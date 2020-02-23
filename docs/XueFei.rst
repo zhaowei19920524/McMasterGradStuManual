@@ -9,30 +9,30 @@
 
 各program的费用明细：
 
-- 学费（Tuition）：http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate
+- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-3
 - 杂费（Supplementary）：
   
-  - https://student-accounts.mcmaster.ca/tuition-fees/supplementary-fees-2/#tab-content-graduate
-  - Non-Essential Supplementary各项介绍以及如何opt out相应的费用：https://gsamcmaster.org/2019/06/25/student-choice-initiative-2/
+  - https://registrar.mcmaster.ca/supplementary-fees/#tab-3
+  - Non-Essential Supplementary各项介绍以及如何opt out相应的费用：https://gsamcmaster.org/2019/06/25/student-choice-initiative-2/ ， https://registrar.mcmaster.ca/supplementary-fees/#tab-5
 
-截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。http://student-accounts.mcmaster.ca/payments/important-dates-deadlines/
+截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。https://registrar.mcmaster.ca/dates-and-deadlines/#tab-5
 
 付学费的方法
 -------------------------------------------
 .. attention::
    **无论使用哪种方法，付费时注意注明你自己的学号和姓名，不然很可能替别人付学费**
 
-付学费的方法见学校Financial Service网站：http://student-accounts.mcmaster.ca/payments/payment-methods/
+付学费的方法见学校Financial Service网站：https://registrar.mcmaster.ca/payment-methods/
 
-1. 加拿大银行间转账
+1. 加拿大银行间转账（Canadian payment methods）
 
-- 方法一：网银转账（ **优先考虑** ）。这个方法最简单方便而且免费。如果你已经开通了加拿大银行的账户，可以自己在网上银行通过转账的方式交学费。 在网上银行的Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
-- 方法二：信用卡。用信用卡付学费，要加1.9%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，因为手续费太高，并且大家的信用卡额度也没这么高。
+- 方法一：Online banking（网银转账， **优先考虑** ）。这个方法最简单方便而且免费。如果你已经开通了加拿大银行的账户，可以自己在网上银行通过转账的方式交学费。 在网上银行的Payee中加 McMaster University，在账号中输入你的学号，这时如果你pay bill到这个新建的payee，钱会从你的银行账户转到McMaster你的学号下付你的学费。 （本页结尾有图文教程）
+- 方法二：VISA/Mastercard（信用卡）。用信用卡付学费，要加1.9%的手续费，因为信用卡公司向学校收这费。这种方式不推荐，因为手续费太高，并且大家的信用卡额度也没这么高。
 
-2. 国际转账（以下两种方法又分别提供了众多电汇方式的选择，大家可以选手续费较少的）
+2. 国际转账（INTERNATIONAL PAYMENT METHODS，以下两种方法又分别提供了众多电汇方式的选择，大家可以选手续费较少的）
 
-- 方法一：如果大家实在来不及办这边的银行卡再转账交学费，可以通过Western Union直接从国内的银行电汇到McMaster。
-- 方法二：由于麦马的官方账户是开在CIBC的，所以可以使用CIBC国际学生支付服务。
+- 方法一：Western Union。如果大家实在来不及办这边的银行卡再转账交学费，可以通过Western Union直接从国内的银行电汇到McMaster。
+- 方法二：Canadian Imperial Bank of Commerce CIBC International Student Pay。由于麦马的官方账户是开在CIBC的，所以可以使用CIBC国际学生支付服务。
 
 当前需要付的学费
 ------------------------------------
@@ -57,7 +57,7 @@
 #) 从2016学年开始，学校规定交学费不得使用现金和任何形式的支票。
 #) 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
 #) Visiting学生只需要交杂费，不需要交学费。
-#) 如果学费交多了，则balance会显示一个负值。可以向学校申请退回多交的学费：http://student-accounts.mcmaster.ca/payments/refunds/
+#) 如果学费交多了，则balance会显示一个负值。可以向学校申请退回多交的学费。
 
 附：银行间转账付学费图文教程 
 ----------------------------------------------------------------------
@@ -107,5 +107,3 @@ Step9: 一个转账付学费成功的页面。由于存在系统延迟，付费�
    
    - 17-CAS-赵伟
    - 陆定维老师
-
-.. _这里: http://www.mcmaster.ca/bms/student/pdf/Student%20CIBC%20direct%20deposit%20mar15.pdf
