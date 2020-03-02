@@ -57,7 +57,7 @@
 #) 从2016学年开始，学校规定交学费不得使用现金和任何形式的支票。
 #) 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
 #) Visiting学生只需要交杂费，不需要交学费。
-#) 如果学费交多了，则balance会显示一个负值。可以向学校申请退回多交的学费。
+#) 如果学费交多了，则balance会显示一个负值。可以向学校申请退回多交的学费。https://registrar.mcmaster.ca/direct-deposit/
 
 附：银行间转账付学费图文教程 
 ----------------------------------------------------------------------

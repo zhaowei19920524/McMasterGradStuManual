@@ -25,8 +25,7 @@
 
 2. Goods and services tax/Harmonized sales tax (GST/HST)（消费税）
 
-- 在Canada，消费税是不包括在食品价格里面的。这就需要再购买的时候单独交付。
-- 消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，一部分是联邦5%的税，和Ontario省8%的税。http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
+- 在Canada，消费税是不包括在食品价格里面的，这就需要在购买的时候单独交付。消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，分别是联邦5%的税和Ontario省8%的税。http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
 - 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。也有一些产品是不用交税的：http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/stps/cllct-eng.html#type 。大体上跟我们相关的有：
 
   - 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品
@@ -39,10 +38,9 @@
 ---------------------------
 报税其实很简单，上一年交的多数税收会通过税表（Tax Form）反映出来。而雇主（Employer）一定会在3月之前把税表交给雇员（Employee）。雇员只需要把这些税表再通过在线或纸质的方法提供给税务局即可（Canada Revenue Agency，CRA）。和学生有关的税务申报税表主要有以下几种： 
 
-1. T2202A表：全称是“Tuition, Education, and Textbook Amounts Certificate”。每年一二月份可以在mosaic上可以下载打印。
+1. T2202（原来叫T2202A）表：全称是“Tuition, Education, and Textbook Amounts Certificate”。每年一二月份可以在mosaic上可以下载打印。
 
-- 国际学生每年学费中有15%的抵税额度。在你有收入之后，并缴纳了CIT后，第二年可以用学费抵税额度把缴纳的CIT退回来。所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费的15%，在工作后会以退税的方式退回来。
-- https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html
+- 国际学生每年学费中有15%的抵税额度。在你有收入之后，并缴纳了CIT后，第二年可以用学费抵税额度把缴纳的CIT退回来。所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费的15%，在工作后会以退税的方式退回来。https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html
 
 2. T3表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。
 3. T4表：
@@ -61,17 +59,53 @@
 
 其它报税指南：https://mp.weixin.qq.com/s/6SCbQk8LEn4i0Ek-7GWqag
 
-如果自己不会报税，可以寻求免费报税的服务：
+由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们报税提供的报税服务，每人每年的费用高达50~100刀。如果刚刚来不会报税，可以寻求免费报税的服务，通常有以下2种。
 
-- McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/
-- Public：https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html
+1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后，以后的年份就可以自己报了。 注册方法如下：
+
+第一步：使用自己的MacID和mosaic的密码登录Oscarplus的官网：https://www.oscarplusmcmaster.ca/ 。
+
+.. image:: /resource/BaoShui/McMasterMianFeiBaoShui01.jpg
+   :align: center
+
+第二步：在左边的菜单里，先选择“Student Success Center”，然后点“Appointments”，然后点“Mac's Money Centre”。
+
+.. image:: /resource/BaoShui/McMasterMianFeiBaoShui02.jpg
+   :align: center
+
+第三步：点击“Book by Appointment Type”按钮。
+
+.. image:: /resource/BaoShui/McMasterMianFeiBaoShui03.jpg
+   :align: center
+
+第四步：点击“Income Tax Returns”下方的“Book”按钮，这时候在右边就会出现可以参加报税活动的时间，大家填上自己的信息注册好久可以了。如果没有显示说明当前放出来的所有活动时间都已经注册满了，大家可以等待下一波活动时间放出来。通常这个活动都会一直持续到4月底。
+
+.. image:: /resource/BaoShui/McMasterMianFeiBaoShui04.jpg
+   :align: center
+
+2. Public：https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html 或 https://money.mcmaster.ca/taxes/tax-clinics/ 的“Tax Clinics (Community)”标题下列举的地址。加拿大各个主要城市的社区都有一些帮别人免费报税的志愿者，但通常对报税人都有最高收入的限制，如果家庭年收入超过一定的数目，则他们会拒绝服务。如果大家没有抢到McMaster免费注册的活动，可以去社区举办的免费报税活动。但通常这种public的活动排队等待时间较长。
+
+第一步：打开上面的加拿大政府的官网地址，选择“Find a tax clinic in your area”。
+
+.. image:: /resource/BaoShui/PublicMianFeiBaoShui01.jpg
+   :align: center
+
+第二步：选择省份和城市。如果只对去年的收入报税就在“Returns prepared”的标题下选择“Current year only”。然后点“Search”按钮。
+
+.. image:: /resource/BaoShui/PublicMianFeiBaoShui02.jpg
+   :align: center
+
+第三步：这时候网页里就会出现很多免费报税的地点，大家可以按上面说的地址和要求，带上材料去就可以了。
+
+.. image:: /resource/BaoShui/PublicMianFeiBaoShui03.jpg
+   :align: center
 
 退税
 ------------------------------------
 如果大家在3~4月报税，则报税成功后2~3周就可以收到退税。退税大体包括：
 
 1. CIT退税：先使用学费抵税额度。如果抵税额度用完，则不再退CIT。
-2. 房租退税
+2. 房租退税。
 3. Ontario Trillium Benefit (OTB)：安省给低收入人群的补助。退税额度只跟收入多少有关。收入越高，退税越少。
 4. GST/HST Credit：退税额度只跟收入多少有关。收入越高，退税越多。
 
