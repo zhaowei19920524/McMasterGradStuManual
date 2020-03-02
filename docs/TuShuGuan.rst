@@ -44,6 +44,11 @@
 - 如果要和国内的打印复印相比，价格还是挺贵的。经常打印的同学还是最好买个打印机。
 - 除了这个地方可以打印，在student center的basement还有一个叫“Underground Media + Design”的MSU的service提供打印服务：https://www.msumcmaster.ca/services-directory/22-underground-media-design 。这个地方的价格比图书馆略贵一些。但他们的侧重点不一样，图书馆的打印服务主要还是打印文件等常见尺寸大小的材料，而“Underground Media + Design”主要是打印海报、传单等大型或批量的宣传用品。
 
+4. 借各种器材
+
+- https://library.mcmaster.ca/equipment
+- 学校的图书馆还可以借到各种工具、仪器、办公用品、甚至是桌游。他们借出去的时间也都不一样，有的最多能借一个小时，有的可以借好几天。
+
 .. admonition:: 本页作者
    
    - 16-Chem-孟凡旺
