@@ -114,19 +114,13 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：
 
-(a) 联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
+(a) 离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了（https://maps.rbcroyalbank.com/locator/searchResults.php?t=3652），大家可以去那里开户或询问其它问题，通常这个网点里一定有一个华人工作人员。银行地点请查看附1中的Google地图。
+
+(b) 联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
 
 .. image:: /resource/bank/CIBC_Chenhe_Zhang_contact.png
    :align: center
    :scale: 50%
-
-(b) 联系群里的18-MTEI-李婧怡。李婧怡学姐在Hamilton市中心的TD任Customer Experience Associate。可以做申请信用卡、overdraft protection等业务。如果是开户、理财和投资也可以告诉她，她可以提前帮你联系银行里面的advisor。此外，如果想申请TD的车险的同学也可以联系她。
-
-.. image:: /resource/bank/TD_Jingyi_Li_contact.jpg
-   :align: center
-   :scale: 50%
-
-此外，离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了，大家可以去那里开户或询问其它问题。银行地点请查看附1中的Google地图。
 
 .. note::
   在这里，我们不推荐大家办国内银行的GIC，比如中国银行或工商银行，虽然在国内办理比较省事，甚至省了手续费，但来Canada之后会非常不方便，因为离Hamilton最近的中国银行或工商银行也在密西沙加，如果坐Go Bus长途汽车去，一次往返需要$25，长期算下来可能不划算。
