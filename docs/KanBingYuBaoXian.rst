@@ -196,7 +196,8 @@
   C. CUPE指定的牙医诊所：
   
   - 寻找、预约医生 https://www.opencare.com/ 。
-  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输入Equitable Life of Canada。
+  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输找“Equitable Life of Canada”。
+  - 此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周末有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
 
 注：
 
