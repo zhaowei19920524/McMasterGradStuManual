@@ -29,6 +29,10 @@ McMaster的可以吃饭的地方有很多，大型的餐厅主要有4个：
 
 3. The Phoenix
 
+.. image:: /resource/CanTing/CanTingLogos/Phoenix.png
+   :align: center
+   :height: 75
+
 - 1969年在学校里成立的酒吧，同时也是GSA的俱乐部所在地。这个地方除了提供酒水饮料外，也提供较为全面的西餐。如果有GSA stickers（小秘会发邮件通知领取），可以在这个餐馆里吃饭享受9折优惠 https://gsamcmaster.org/student-specials/ 。
 - https://www.phoenixmcmaster.com/
 - 地点：自Hamilton Hall沿着Scholars Rd向西走经过的北边第二个房子。
@@ -126,6 +130,10 @@ McMaster周边的西餐
     - Android：https://play.google.com/store/apps/details?id=com.subway.mobile.subwayapp03
   - 大家第一次去如果不知道怎么点餐，可以先在手机App上选好三明治、配方和取的时间，这样到时间去店里直接取就可以了。此外，如果去店里直接买，在付款前可以先扫一下手机App里的二维码获取积分，积分未来可以变成代金券或优惠券。
 
+.. image:: /resource/CanTing/CanTingLogos/Subway.png
+   :align: center
+   :height: 75
+
 - Pinks：汉堡薯条
 
   - http://pinksburgers.com/
@@ -145,12 +153,20 @@ McMaster周边的西餐
 
     - iOS：https://itunes.apple.com/ca/app/quik-chik/id1175711315?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.pogocorporation.mobidines.quikchik
+
+.. image:: /resource/CanTing/CanTingLogos/QuikChik.png
+   :align: center
+   :height: 75
   
 - Taco：墨西哥餐
 
   - https://tacodelmar.com/
   - 1331-1335 Main St W #5, Hamilton, ON L8S 1C6
   - (289)389-0900
+
+.. image:: /resource/CanTing/CanTingLogos/Taco.jpg
+   :align: center
+   :height: 75
 
 - Williams Fresh Café：西式咖啡店
 
@@ -163,6 +179,10 @@ McMaster周边的西餐
     - iOS：https://itunes.apple.com/ca/app/williams-fresh-cafe/id935711342?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.d1mobile.williams
 
+.. image:: /resource/CanTing/CanTingLogos/Williams.png
+   :align: center
+   :height: 75
+
 - Gino's Pizza：披萨店
 
   - http://www.ginospizza.ca/
@@ -170,15 +190,23 @@ McMaster周边的西餐
   - (905)525-4444
   - 推荐walk-in special
 
+.. image:: /resource/CanTing/CanTingLogos/Gino's.png
+   :align: center
+   :height: 75
+
 - Yogurty's：自助酸奶、冰淇淋店
 
-  - http://www.yogurtys.com/storelocator/store/4657/Main%20%20Cootes/1309%20Main%20Street%20West/Hamilton/Ontario/Canada
+  - http://www.yogurtys.com/
   - 1309 Main St W #7, Hamilton, ON L8S 1C5
   - (905)525-2523
   - 手机App：
 
     - iOS：https://itunes.apple.com/ca/app/yogurtys/id828647980?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.d1mobile.yogurtys
+
+.. image:: /resource/CanTing/CanTingLogos/Yogurty.png
+   :align: center
+   :height: 75
 
 2. 学校东边
 
@@ -188,6 +216,10 @@ McMaster周边的西餐
   - 1144 Main St W, Hamilton, ON L8S 1C1
   - (905)521-6965
   - 每天都会对其中一种三明治打折。
+
+.. image:: /resource/CanTing/CanTingLogos/MR.SUB.png
+   :align: center
+   :height: 75
 
 - Pita Pit：鸡肉卷
 
@@ -199,12 +231,20 @@ McMaster周边的西餐
     - iOS：https://itunes.apple.com/ca/app/pita-pit-canada/id1266287166?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.pitapit.app
 
+.. image:: /resource/CanTing/CanTingLogos/Pita.png
+   :align: center
+   :height: 75
+
 - Lava Pizza & Wings
 
   - https://westdale.lavapizza.ca/
   - 876 King St W, Hamilton, ON L8S 4S6
   - (905)525-6606
   - 这家店的pizza可以在网上DIY预订，顾客可以自由选择尺寸、配方、加入的蔬菜肉类等等，等做好后直接去取。
+
+.. image:: /resource/CanTing/CanTingLogos/Lava.png
+   :align: center
+   :height: 75
 
 - Pizza Nova：披萨
 
@@ -215,6 +255,10 @@ McMaster周边的西餐
 
     - iOS：https://itunes.apple.com/ca/app/pizza-nova/id885029821?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.pizzanova.ui
+
+.. image:: /resource/CanTing/CanTingLogos/PizzaNova.png
+   :align: center
+   :height: 75
 
 - Second Cup Westdale：茶水店
 
@@ -227,6 +271,10 @@ McMaster周边的西餐
     - iOS：https://itunes.apple.com/ca/app/second-cup-coffee-co/id985820057?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.secondcup.mobile
 
+.. image:: /resource/CanTing/CanTingLogos/SecondCup.webp
+   :align: center
+   :height: 75
+
 - TCBY：特色冰淇淋店
 
   - http://tcbycanada.com/
@@ -236,6 +284,10 @@ McMaster周边的西餐
 
     - iOS：https://itunes.apple.com/us/app/tcby/id1222063860?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.tcby.tcby.android.app
+
+.. image:: /resource/CanTing/CanTingLogos/TCBY.webp
+   :align: center
+   :height: 75
 
 3. 学校西边
 
@@ -261,6 +313,10 @@ McMaster周边的西餐
     - iOS：https://itunes.apple.com/ca/app/boston-pizza/id904724935?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.bostonpizza.bostonpizza
 
+.. image:: /resource/CanTing/CanTingLogos/Boston.png
+   :align: center
+   :height: 75
+
 - Wendy's：汉堡薯条
 
   - https://www.wendys.com/
@@ -271,6 +327,10 @@ McMaster周边的西餐
     - iOS：https://itunes.apple.com/us/app/wendys/id540518599?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.wendys.nutritiontool
 
+.. image:: /resource/CanTing/CanTingLogos/Wendy.jpg
+   :align: center
+   :height: 75
+
 - Popeyes Louisiana Kitchen：炸鸡、薯条
 
   - http://popeyeschicken.ca/
@@ -278,11 +338,19 @@ McMaster周边的西餐
   - 1711 Main St W, Hamilton, ON L8S 1G5
   - (905)528-2222
 
+.. image:: /resource/CanTing/CanTingLogos/Popeyes.png
+   :align: center
+   :height: 75
+
 - Baskin Robbins & Kernels Popcorn：特色冰淇淋店
 
   - http://www.baskinrobbins.ca/
   - 1685 Main St W, Hamilton, ON L8S 1G5
   - (905)528-4300
+
+.. image:: /resource/CanTing/CanTingLogos/Baskin.jpg
+   :align: center
+   :height: 75
 
 - Little Caesars Pizza
 
@@ -294,10 +362,18 @@ McMaster周边的西餐
     - iOS：https://apps.apple.com/ca/app/little-caesars/id1436068134
     - Android：https://play.google.com/store/apps/details?id=com.littlecaesars
 
+.. image:: /resource/CanTing/CanTingLogos/LittleCaesars.jpg
+   :align: center
+   :height: 75
+
 4. Tim Hortons
 
- | Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
- | http://www.timhortons.com/ca/en/index.php
+.. image:: /resource/CanTing/CanTingLogos/TimHortons.jpg
+   :align: center
+   :height: 75
+
+| Canada本土的咖啡甜点店。第一家Tim Hortons就成立于Hamilton。它主要供应：咖啡、茶、甜点、早餐等食物。
+| http://www.timhortons.com/ca/en/index.php
 
 - 咖啡
 
@@ -368,6 +444,10 @@ Hamilton其它地方的西餐
     - Kiosk：在自助点餐亭点餐。这个最推荐的。麦当劳店里的自助点餐亭里有所有食物菜单及其图片。大家可以慢慢得看，一个一个选。付款后，打印的发票上有号码，如果所点食物准备完毕，服务员会叫号。
     - Mobile Ordering：用麦当劳的手机App点餐，可以选好哪个麦当劳的营业点，在线支付。到营业点里取。（这个就相当于在手机上点餐付款，但必须本人到店里和前台服务员确认后，店员才会开始准备食物）
 
+.. image:: /resource/CanTing/CanTingLogos/McDonald.png
+   :align: center
+   :height: 75
+
 - KFC（肯德基）
 
   - https://www.kfc.ca/store/119-osler-dr-hamilton
@@ -375,6 +455,10 @@ Hamilton其它地方的西餐
   - (289)919-2542
   - 肯德基不是24小时营业，一般上午11点才开门，晚上九十点就关了，大家在Google地图上查好营业时间。
   - 优惠券：http://www.kfc.ca/coupons
+
+.. image:: /resource/CanTing/CanTingLogos/KFC.png
+   :align: center
+   :height: 75
 
 Hamilton 中餐馆
 ----------------------------------
@@ -392,6 +476,10 @@ Hamilton 中餐馆
   - (289)309-1363
   - 可以使用现金或debit卡（多付几十分）。
 
+.. image:: /resource/CanTing/CanTingLogos/Gao.png
+   :align: center
+   :height: 75
+
 - Dragon Court Restaurant（龙庭）：点菜制，外卖
 
   - http://www.westdaledragoncourt.com
@@ -399,11 +487,15 @@ Hamilton 中餐馆
   - (905)522-1999
   - 可以使用现金、debit卡、信用卡。
 
+.. image:: /resource/CanTing/CanTingLogos/Dragon.jpg
+   :align: center
+   :height: 75
+
 - South China（华南）：外卖
 
   - http://southchina.chinesemenu.com/
   - 1223 Main St W, Hamilton, ON L8S
-  - (905)528-8474 
+  - (905)528-8474
 
 2. 市中心（Downtown）：
 
@@ -414,10 +506,18 @@ Hamilton 中餐馆
   - (905)581-0354
   - 周一周二不营业。可以使用现金或debit卡。这个火锅店附带KTV。
 
+.. image:: /resource/CanTing/CanTingLogos/LiuLiu.png
+   :align: center
+   :height: 75
+
 - Spicy Palace（马路边边）
 
   - https://www.facebook.com/malubianbianmalatang/
   - 212 King St E, Hamilton, ON L8N 1B5
+
+.. image:: /resource/CanTing/CanTingLogos/SpicyPalace.jpg
+   :align: center
+   :height: 75
 
 - Sparkle Northern Chinese Cuisine（美食美客）：点菜制，外卖
 
@@ -449,6 +549,10 @@ Hamilton 中餐馆
   - 1 Wilson St #7, Hamilton, ON L8R 1C4
   - (905)540-1166
 
+.. image:: /resource/CanTing/CanTingLogos/NoodleMe.jpg
+   :align: center
+   :height: 75
+
 - Saigon House Restaurant（西贡屋）：自助烧烤
 
   - http://www.saigonhouse.ca/index.html
@@ -479,13 +583,17 @@ Hamilton 中餐馆
   - (905)522-9888
   - 这家店的饮食已经不是它主要业务了，仅仅算是小吃。它主要运营KTV。
 
+.. image:: /resource/CanTing/CanTingLogos/GrandLeisure.png
+   :align: center
+   :height: 75
+
 - 8090 TEAHOUSE：点菜制，外卖
 
   - http://www.teahouse8090.com/
   - 149 King St E, Hamilton, ON L8N 1B1
   - (905)525-8788
 
-- TeaFun：外卖
+- FoodFun：外卖
 
   - http://www.foodfun.ca/
   - 139 King St E, Hamilton, ON L8N 1B1
@@ -494,6 +602,10 @@ Hamilton 中餐馆
 
     - iOS：https://itunes.apple.com/app/id1222977577?mt=8
     - Android：https://play.google.com/store/apps/details?id=com.foodfun.foodfun
+
+.. image:: /resource/CanTing/CanTingLogos/FoodFun.webp
+   :align: center
+   :height: 75
 
 - Forbidden City Chinese Restaurant：外卖，点菜制
 
@@ -510,6 +622,10 @@ Hamilton 中餐馆
   - (905)383-6000
   - 可以使用现金、debit卡、信用卡。
 
+.. image:: /resource/CanTing/CanTingLogos/Mandarin.png
+   :align: center
+   :height: 75
+
 4. 其它：https://cn.tripadvisor.com/Restaurants-g154990-Hamilton_Ontario.html
 
 Hamilton 中式甜点
@@ -521,11 +637,21 @@ Hamilton 中式甜点
   - https://cocofreshtea.ca/
   - 1548 Main St W, Hamilton, ON L8S 1E5
   - (289)396-0888
+
+.. image:: /resource/CanTing/CanTingLogos/CoCo.jpg
+   :align: center
+   :height: 75
+
 - OneZo Tapioca（丸作）
 
   - https://www.onezotapioca.com/
   - 1045 King St W Unit 1, Hamilton, ON L8S 1L6
   - (289)246-9226
+
+.. image:: /resource/CanTing/CanTingLogos/OneZo.webp
+   :align: center
+   :height: 75
+
 - Sakura Tea | 樱花茶
 
   - 1064 Main St W, Hamilton, ON L8S 1B3
@@ -537,16 +663,30 @@ Hamilton 中式甜点
   - http://www.sugarmarmalade.com/
   - 65 King St E, Hamilton, ON L8N 1A5
   - (905)527-9699
+
+.. image:: /resource/CanTing/CanTingLogos/SugarMarmalade.jpg
+   :align: center
+   :height: 75
+
 - Hui Lau Shan Mango + Drinkable Desserts（许留山）
 
   - https://www.hkhls.com/en/
   - 35 King St E, Hamilton, ON L8N 4A9
   - (289)389-0597
+
+.. image:: /resource/CanTing/CanTingLogos/HuiLauShan.jpg
+   :align: center
+   :height: 75
+
 - Tea Hut
 
   - https://www.facebook.com/TeaHutHamilton
   - 100 Main St E #100, Hamilton, ON L8N 3W4
   - (905)521-6451
+
+.. image:: /resource/CanTing/CanTingLogos/TeaHut.jpg
+   :align: center
+   :height: 75
 
 其它城市的特色餐厅
 ------------------------------------------------
@@ -643,9 +783,13 @@ Mississauga：
 
 外卖送餐服务
 --------------------------------------------------------------
-加拿大也有像国内“美团”、“饿了吗”类似的外卖送餐服务。除了饭店、快餐店官网上的送餐服务外， 第三方的外卖送餐服务在市内的费用大概在$5左右。
+加拿大也有像国内“美团”、“饿了吗”类似的外卖送餐服务。除了饭店、快餐店官网上的送餐服务外， 第三方的外卖送餐服务在市内的费用大概在$5以内。
 
 1. Uber Eats
+
+.. image:: /resource/CanTing/CanTingLogos/UberEats.svg
+   :align: center
+   :height: 75
 
 - 官网：https://www.ubereats.com/en-CA/
 - 手机App：
@@ -655,11 +799,51 @@ Mississauga：
 
 2. DoorDash
 
+.. image:: /resource/CanTing/CanTingLogos/DoorDash.png
+   :align: center
+   :height: 75
+
 - 官网：https://www.doordash.com/
 - 手机App：
 
   - iOS：https://apps.apple.com/app/id719972451?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en_CA
+
+3. Food Hwy（小红车外卖）
+
+.. image:: /resource/CanTing/CanTingLogos/FoodHwy.png
+   :align: center
+   :height: 75
+
+- 官网：https://www.foodhwy.com/
+- 手机App：
+
+  - iOS：https://apps.apple.com/ca/app/foodhwy-%E9%A3%9F%E9%80%9F%E5%A4%96%E5%8D%96/id1063806270
+  - Android：https://play.google.com/store/apps/details?id=com.foodhwy.foodhwy
+
+3. CMEOW（馋猫）
+
+.. image:: /resource/CanTing/CanTingLogos/CMEOW.png
+   :align: center
+   :height: 75
+
+- 官网：https://cmeow.com/
+- 手机App：
+
+  - iOS：https://apps.apple.com/us/app/%E9%A6%8B%E7%8C%AB%E7%94%9F%E6%B4%BB/id888553991
+  - Android：https://play.google.com/store/apps/details?id=ca.chanmao.app
+
+3. Fantuan（饭团）
+
+.. image:: /resource/CanTing/CanTingLogos/Fantuan.png
+   :align: center
+   :height: 75
+
+- 官网：https://www.fantuan.ca/zh/
+- 手机App：
+
+  - iOS：https://apps.apple.com/app/apple-store/id1218697769?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.ca.fantuan.customer
 
 经验之谈
 -----------------------------------
