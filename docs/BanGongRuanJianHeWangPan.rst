@@ -77,17 +77,12 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原来叫Imagine Premium）的授权，这样学生可以下载到所有微软还在支持的正版软件。例如：Windows 10 Pro、Visual Studio、SQL Server、Windows Server等等。
 
 | 获取步骤：
-| 第一步：登录UTS的网站（https://www.mcmaster.ca/uts/licensing/msstudents.html），点击“Azure Dev Tools for Teaching”下面的网页链接。
-
-.. image:: /resource/office365/MicrosoftZhengBanRuanJian01.png
-   :align: center
-
-第二步：在打开的网页里点击Sign in。用户名是麦马的邮箱，密码是mosaic的密码。
+| 第一步：登录 https://azureforeducation.microsoft.com/devtools ，在打开的网页里点击Sign in。用户名是麦马的邮箱，密码是mosaic的密码。
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian02.png
    :align: center
 
-第三步：先点击左边的“Software”，然后点击想要下载的软件，比如“Windows 10 (consumer editions), version 1909”。这时候在右边的弹出框中点“View Key”，这时系统就会给你一个正版的序列号，最后点“Download”按钮下载软件。
+第二步：先点击左边的“Software”，然后点击想要下载的软件，比如“Windows 10 (consumer editions), version 1909”。这时候在右边的弹出框中点“View Key”，这时系统就会给你一个正版的序列号，最后点“Download”按钮下载软件。
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian03.png
    :align: center
