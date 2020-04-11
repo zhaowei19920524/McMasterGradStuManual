@@ -55,11 +55,9 @@
 
 - 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。
 - 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
-- https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html
+- https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit.html
 
-其它报税指南：https://mp.weixin.qq.com/s/6SCbQk8LEn4i0Ek-7GWqag
-
-由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达50~100刀。如果刚刚来不会报税，可以寻求免费报税的服务，通常有以下2种：
+由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达50~100刀。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
 
 1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后，以后的年份就可以自己报了。 注册方法如下：
 
@@ -117,7 +115,218 @@
 #) 上面提到的T2~T5不一定每个人都有，但如果有一定要提交给税务局。
 #) Research scholarship、entrance scholarship等各种scholarship、tuition bursary等各种bursary都不属于employment收入，要申报，但不缴税，即不存在退税的问题。
 
+附：报税教程
+--------------------------------------------------------
+.. attention::
+   **以下步骤适合未婚没有孩子、独自一人来Canada上学的情形**
+
+McMaster提供的报税服务会教大家用SimpleTax在线报税。SimpleTax是官方在线报税服务NETFILE认证的报税软件（https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/netfile-overview/certified-software-netfile-program.html）。下面我们一步一步介绍一下。
+
+第一步：打开SimpleTax官网：https://simpletax.ca/ 。在右上角选择需要报税的年份。
+
+.. image:: /resource/BaoShui/SimpleTax01.png
+   :align: center
+
+第二步：在新的网页里可能要先注册一个账户，然后就能看到正式填写信息的页面了。
+
+- Name：对我们华人留学生来说通常只要填First name和Last name就可以了。
+- Social insurance number：从Service Canada获得的9开头的9位数字。如果还没有获得，可以查看 `SIN申请`_ 的页面。
+- Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。由于没有打星号，所有不用选。
+- Preferred languag：选English。
+
+.. image:: /resource/BaoShui/SimpleTax02.png
+   :align: center
+
+第三步：Mailing Address一栏里填上自己现在的住址还有电话。Home telephone number一栏里前一个文本框填电话前三位，不用加国家代号，后面一个对话框里填电话后7位。About Your Residence这一栏里填写自己的居民信息：
+
+- In which province or territory did you live on December 31, 2019：这一项是问你上一年最后一天住在哪。即使你上一年最后一天出去旅游了，也必须填“Ontario”。
+- If your province or territory of residence changed in 2019, enter the date of your move：如果从别的省份搬过来则需要填写这一项，如果没有就不用填。
+- Is your home address the same as your mailing address：选“Yes”。
+- In which province or territory do you currently live：选“Ontario”。
+- Did you become a resident of Canada (immigrate) for tax purposes in 2019：这项比较特殊。如果大家上一年才刚刚来Canada则需要选“Yes”；如果不是选“No”。下面2副图显示了两种不同的情形。如果选的“Yes”，则还需要填入境时间，在两个Income框里都填0。
+
+.. image:: /resource/BaoShui/SimpleTax03.png
+   :align: center
+
+.. image:: /resource/BaoShui/SimpleTax04.png
+   :align: center
+
+第四步：在You and Your Family一栏中填写家人信息：
+
+- Marital status on December 31, 2019：填Single。
+- Did your marital status change in 2019：选“No”。
+- Do you have any dependant：选“No”。
+
+Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有一个要注意一下：
+
+- Are you filing an income tax return with the CRA for the first time：如果是第一次报税就要选“Yes”，
+
+.. image:: /resource/BaoShui/SimpleTax05.png
+   :align: center
+
+第五步：这里是填写一些公共的补助，所有人遇到的情形都是一样的。
+
+- Climate Action Incentive一栏是选要不要申请“碳排放”补贴，选“Yes”。
+- Ontario Trillium Benefit是安省给低收入人群的补助，即使没有任何收入，申请之后都会受到补助，所以一定要选“Yes”。
+- CRA My Account是填写有没有申请CRA官网的账户。在这里，SimpleTax是不会帮你建立一个账户的，后面会说到如果注册CRA官网账户，这里如果没有注册，选“No”就可以了。Online mail要选“Yes, sign me up”，并且把自己的电子邮箱填上，这样一旦退税有结果就会有邮件通知。
+
+.. image:: /resource/BaoShui/SimpleTax06.png
+   :align: center
+
+第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会自动从CRA的网站上把相应税表里的信息download到相应的栏目里，大家只要再和自己税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就要在搜索框里把相应的税表模板搜出来自己填写。
+
+.. image:: /resource/BaoShui/SimpleTax06-2.png
+   :align: center
+
+第七步：在Climate Action Incentive一栏中填写详细信息：
+
+- Please confirm this is correct before filing your return：选“Yes, this is correct”。
+- Do you live in a small or rural community：由于Hamilton不属于小城镇，所以选“No”。
+
+.. image:: /resource/BaoShui/SimpleTax07.png
+   :align: center
+
+第八步：在Ontario Trillium Benefit: Property and Energy Tax Grants and Credits一栏中填写申请低收入人群补助的相关信息：
+
+- Ontario energy and property tax credit：选“Yes”。
+- Northern Ontario energy credit：由于Hamilton不属于北安大略省，所以选“No”。
+- Total rent paid for your principal residence：填写你去年所有交的房租的数额。
+- Total property tax paid for your principal residence：通常我们学生是不会买房等。所有这项不用填。
+- Home energy costs paid for your principal residence on a reserve：不用填。
+- Amount paid for accommodation in a public or not-for-profit long-term care home：不用填。
+- Did you reside in a student residence：我们研究生通常在校外居住，不住学生宿舍，所以选“No”。
+- Would you like to receive your benefit in June 2021 instead of receiving it monthly starting in July 2020：这项是问大家想在明年一次性收到所有的补助，还是每个月收一次。推荐大家选“No”，就是按月收。
+- Declaration of principal residence(s)：这个表格是让大家填写上一年度所有交房租的住址的详细信息。包括：地址、邮编、时长、房租总额、房东。Long-term care home不用选。
+
+.. image:: /resource/BaoShui/SimpleTax08.png
+   :align: center
+
+第九步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。
+
+- Were you a post-secondary student in 2019：选“Yes”。
+- Box 13、24、25、26必须要填写到网页里。
+- Do you have a disability or impairment that prevents you from enrolling on a full-time basis：选“No”。
+- Were you a post-secondary student in an earlier year：这一项是关于之前年份交的学费产生的抵税额度。如果是Auto-fill的话，那已经填好了。如果是第一次报税，选“No”就可以了。
+
+.. image:: /resource/BaoShui/SimpleTax09.png
+   :align: center
+
+.. image:: /resource/BaoShui/SimpleTax09-2.png
+   :align: center
+
+第十步：这一项是让大家填写自己的需要缴税类型的的收入的税表，就是TA、RA、Coop、Intern、Part-time工作的雇主发给你的T4表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4表上的信息填写在上面。
+
+- Employer's name：填“MCMASTER UNIVERSITY”就可以了。
+- 所有有数值的Box都要填在网页里。例如Box 10、14、16、18、22、24、26、44可能会出现数值。
+
+.. image:: /resource/BaoShui/SimpleTax10.png
+   :align: center
+
+.. image:: /resource/BaoShui/SimpleTax10-2.png
+   :align: center
+
+第十一步：这一项是让大家填写自己的不需要缴税类型的收入的税表，通常是奖学金（scholarship、bursary等等）相关的T4A表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4A表上的信息填写在上面。
+
+- Payer's name：填“MCMASTER UNIVERSITY”就可以了。
+- Box 14和105只要有数值都要填在网页里。
+- What type of award (box 105) did you receive：选“Scholarships etc. (full-time)”。
+
+.. image:: /resource/BaoShui/SimpleTax11.png
+   :align: center
+
+.. image:: /resource/BaoShui/SimpleTax11-2.png
+   :align: center
+
+第十二步：部分同学上一年在银行里的存款和投资产生了大于$50的利息。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T5表上的信息填写在上面。
+
+- 如果是银行利息，只要把银行的名字填在“Pay's name”里，然后Box 13可能也有数值。填在网页里即可。
+
+.. image:: /resource/BaoShui/SimpleTax12.png
+   :align: center
+
+第十三步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前的填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
+
+.. image:: /resource/BaoShui/SimpleTax13.png
+   :align: center
+
+第十四步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
+
+- Suggestions：通常是一些还可以申请的福利，如果有下面图片里说的这条，对于我们学生来说是不能申请的。可以忽略。
+- Warnings：如果出现下图中的Warning也可以直接忽略，对于我们学生来说处理和不处理结果都是一样的，例如RRSP、TFSA、RESP等等。我们学生作为低收入群体，所交的税都是全额退税。后面我们会简要概括一下。
+- Errors：所有Error必须全部更正，如果大家出现了不太会纠正的错误，可以点击那一条附近的问号或者链接查询。
+
+.. image:: /resource/BaoShui/SimpleTax14.png
+   :align: center
+
+第十五步：这一项是填完之后的Summary。
+
+- Amounts：列举了所有你能收到的退款总额。Refund通常是T4的退税。GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次。Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次。Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次。
+- Documents：是SimpleTax通过你填写的信息提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
+
+.. image:: /resource/BaoShui/SimpleTax15.png
+   :align: center
+
+第十六步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点Submit。如果有不明白的地方可以问一下周围的同学。
+
+- Save a PDF copy of your return for your records：一定要下载保存，留个案底。
+
+.. image:: /resource/BaoShui/SimpleTax16.png
+   :align: center
+
+第十七步：如果提交成功，就会受到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
+
+.. image:: /resource/BaoShui/SimpleTax17.png
+   :align: center
+
+.. attention::
+  对于第一次报税的同学还需要进行以下步骤
+
+第十八步：第一次申请退回消费税，必须自己填表申请，以后所有年费都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
+
+- Step 1 – Your information里填写你自己的个人信息、住址、联系方式、婚姻状况。
+- Step 2 – Information about your spouse or common-law partner：如果是未婚，不用填
+- Step 3 – Your residency status：通常第一次报税的同学，上一年刚刚来Canada，填上去年入境的日期。
+
+.. image:: /resource/BaoShui/SimpleTax18-1.png
+   :align: center
+
+- Step 4 – Your income：填上上一年以及再往前推两年的年份。收入全部填0。
+- Step 5 – Signature：打印出来签名和日期。
+
+.. image:: /resource/BaoShui/SimpleTax18-2.png
+   :align: center
+
+第十九步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
+
+- 注册链接：https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html
+- 官网介绍：https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/cra-user-password-help-faqs/registration-process-access-cra-login-services.html
+- 注意：注册时需要退税信件中Line XXXX那一行的数值作为验证码，所以必须等到收到信件之后才可以注册。此外，还需要输入“CRA security code”才能访问所有的信息，“CRA security code”通常会通过另外一封信件寄给你。
+
+.. image:: /resource/BaoShui/SimpleTax19.png
+   :align: center
+
+第二十步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
+
+.. image:: /resource/BaoShui/SimpleTax20.png
+   :align: center
+
+附：其它有关税务的信息
+--------------------------------------------------------------------------------
+1. RRSP（Registered Retirement Savings Plan）
+
+- 官网链接：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html 。
+- 解释：这一项可以相当于在国内就职时单位交的公积金和住房公积金。在Canada不管你收入有多高，RRSP都是可以不用交的。但RRSP可以在未来买房时取出来用，包括Home Buyers Plan (HBP) and Lifelong Learning Plan (LLP)。
+- 目的：RRSP是为了在收入比较高的时候，把一部分收入放在RRSP里，这样这一年度的收入就会减少。由于Canada是根据收入分层收税，收入越高，被征收的比例越大。所以放一部分在RRSP里可以认为是合理避税。对于我们学生来说，学生是低收入群体，所有交的税通常都会全额退回，所以购买RRSP意义不大，等毕业工作后可以考虑。
+
+2. TFSA（Tax-Free Savings Account）
+
+- 官网链接：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html
+- 解释：如果在银行里的存款数额较高，银行利息也会征税。TFSA是政府给大家的的免税储蓄账户。每年CRA都会给一定的数额，数额可以逐年累加。
+- 目的：如果大家想合理避开存款利息的税收，可以考虑TFSA。对于我们学生来说，学生是低收入群体，所有交的税通常都会全额退回，所以把钱存入TFSA的意义不大，等毕业工作后可以考虑。如果想开户可以联系自己存款所在的银行。
+
 .. admonition:: 本页作者
    
    - 陆定维老师
    - 17-CAS-赵伟
+
+.. _SIN申请: SINShenQing.html
