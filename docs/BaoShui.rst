@@ -26,7 +26,7 @@
 2. Goods and services tax/Harmonized sales tax (GST/HST)（消费税）
 
 - 在Canada，消费税是不包括在食品价格里面的，这就需要在购买的时候单独交付。消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，分别是联邦5%的税和Ontario省8%的税。http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
-- 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。也有一些产品是不用交税的：http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/gnrl/stps/cllct-eng.html#type 。大体上跟我们相关的有：
+- 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。也有一些产品是不用交税的：https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-special-cases.html 。大体上跟我们相关的有：
 
   - 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品
   - 儿童用品
@@ -132,7 +132,7 @@ McMaster提供的报税服务会教大家用SimpleTax在线报税。SimpleTax是
 - Name：对我们华人留学生来说通常只要填First name和Last name就可以了。
 - Social insurance number：从Service Canada获得的9开头的9位数字。如果还没有获得，可以查看 `SIN申请`_ 的页面。
 - Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。由于没有打星号，所有不用选。
-- Preferred languag：选English。
+- Preferred language：选English。
 
 .. image:: /resource/BaoShui/SimpleTax02.png
    :align: center
@@ -166,19 +166,19 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
 第五步：这里是填写一些公共的补助，所有人遇到的情形都是一样的。
 
-- Climate Action Incentive一栏是选要不要申请“碳排放”补贴，选“Yes”。
+- Climate Action Incentive一栏是选要不要申请“碳排放”补贴，选“Yes”。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45110-climate-action-incentive.html 。如果你去年刚刚来，也就是说第三步中“Did you become a resident of Canada (immigrate) for tax purposes in 2019”选的是“Yes”，则按官网介绍是不可以申请的，也就没有这个选项了。
 - Ontario Trillium Benefit是安省给低收入人群的补助，即使没有任何收入，申请之后都会受到补助，所以一定要选“Yes”。
-- CRA My Account是填写有没有申请CRA官网的账户。在这里，SimpleTax是不会帮你建立一个账户的，后面会说到如果注册CRA官网账户，这里如果没有注册，选“No”就可以了。Online mail要选“Yes, sign me up”，并且把自己的电子邮箱填上，这样一旦退税有结果就会有邮件通知。
+- CRA My Account是填写有没有申请CRA官网的账户。在这里，SimpleTax是不会帮你建立一个账户的，后面会说到如何注册CRA官网账户，这里如果没有注册，选“No”就可以了。Online mail要选“Yes, sign me up”，并且把自己的电子邮箱填上，这样一旦退税有结果就会有邮件通知。
 
 .. image:: /resource/BaoShui/SimpleTax06.png
    :align: center
 
-第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会自动从CRA的网站上把相应税表里的信息download到相应的栏目里，大家只要再和自己税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就要在搜索框里把相应的税表模板搜出来自己填写。
+第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家只要把他们全部导入再和自己拿到的税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
 
 .. image:: /resource/BaoShui/SimpleTax06-2.png
    :align: center
 
-第七步：在Climate Action Incentive一栏中填写详细信息：
+第七步：如果第五步中“Climate Action Incentive”可以选“Yes”，则在Climate Action Incentive一栏中填写详细信息。如果没有则略过此步。
 
 - Please confirm this is correct before filing your return：选“Yes, this is correct”。
 - Do you live in a small or rural community：由于Hamilton不属于小城镇，所以选“No”。
@@ -244,7 +244,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax12.png
    :align: center
 
-第十三步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前的填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
+第十三步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
@@ -260,20 +260,20 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
 第十五步：这一项是填完之后的Summary。
 
-- Amounts：列举了所有你能收到的退款总额。Refund通常是T4的退税。GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次。Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次。Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次。
+- Amounts：列举了所有你能收到的退款总额。Refund通常是T4的退税，一次性发完，通常2周内能收到。GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次。Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次。Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次。
 - Documents：是SimpleTax通过你填写的信息提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
 
 .. image:: /resource/BaoShui/SimpleTax15.png
    :align: center
 
-第十六步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点Submit。如果有不明白的地方可以问一下周围的同学。
+第十六步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“Submit tax return”。如果还有不明白的地方可以问一下周围的同学。
 
 - Save a PDF copy of your return for your records：一定要下载保存，留个案底。
 
 .. image:: /resource/BaoShui/SimpleTax16.png
    :align: center
 
-第十七步：如果提交成功，就会受到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
+第十七步：如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
 
 .. image:: /resource/BaoShui/SimpleTax17.png
    :align: center
@@ -281,7 +281,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. attention::
   对于第一次报税的同学还需要进行以下步骤
 
-第十八步：第一次申请退回消费税，必须自己填表申请，以后所有年费都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
+第十八步：第一次申请退回消费税，必须自己填表申请，以后所有年份都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
 
 - Step 1 – Your information里填写你自己的个人信息、住址、联系方式、婚姻状况。
 - Step 2 – Information about your spouse or common-law partner：如果是未婚，不用填

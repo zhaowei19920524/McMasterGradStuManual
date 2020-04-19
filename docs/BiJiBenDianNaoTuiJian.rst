@@ -152,7 +152,7 @@ https://www.intel.com/content/www/us/en/processors/processor-numbers.html
 -----------------------------
 如果大家打算买打印机，在此推荐惠普彩色打印机，型号为：“HP OfficeJet Pro 8XXX”系列或“HP OfficeJet Pro 6XXX”，这两个型号的喷墨打印机以往9月开学季都有大幅度打折。在功能上属于All-In-One，就是同时具有打印、扫描、复印、传真等功能。大家可以在Bestbuy、Canada Computers等网站上都搜一下，看看哪一家的价格最低。
 
-HP官网链接：https://store.hp.com/CanadaStore/Merch/Product.aspx?id=T0F29A&opt=A2L&sel=PRN&lang=en-CA
+HP官网链接：https://store.hp.com/CanadaStore/Merch/List.aspx?sel=PRN&ctrl=f&fc_ptyp_inkp=1
 
 打印机墨盒：惠普打印机购买时自带墨盒，但如果经常打印则很快就用完了，经常更换墨盒是一笔很大的开销。推荐大家用惠普的墨盒订购服务：https://instantink.hpconnected.com/ca/en 。这样每月只用交几加元，打印机墨盒用完时就可以自动申请新的墨盒，并且不用再额外付钱。但打印页数有限制。一般$5.99/月的订购服务，每月最多打印100页，用不完可以累计到下个月（累计总页数不能超过每月订阅页数）。大家可以用这个链接来注册，这样可以多获取一个月的免费试用：http://try.hpinstantink.com/hVs6Q
 
