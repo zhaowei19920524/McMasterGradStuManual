@@ -261,7 +261,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
   - “Medical expense description”通常是保险的类型和药品、器材、服务等等的名字。相关名字可以从receipt上找到。
   - “Type of expense”通常是regular。
-  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Plan，UHIP的数额要比原始的费用少$200。等等。
+  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Insurance Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说填写GSA Dental Insurance Plan、UHIP的数额要比原始的费用少$200。等等。
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
