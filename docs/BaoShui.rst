@@ -50,14 +50,23 @@
 
 4. T5表：全称是“Statement of Investment Income (slip)”。GIC利息和银行存款利息退税。如果一年产生的利息小于等于$50，则不退税。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-121-interest-other-investment-income.html
 5. 房租： 在安省租房，对低收入人群有部分退税。大家需要向房东索要房租收据作为报税凭证。
-
 6. GST/HST 退税：全称是“GST/HST Credit Application for Individuals Who Become Residents of Canada”。
 
 - 在安省购物，大多要付13%的销售税。政府对低收入人群有GST/HST退税。这个退税额和你的购物额无关，只和你的收入有关，所以并不需要以往的购物凭证。
 - 对于刚来Canada的国际学生，虽然政府会根据你的收入自动计算出能退多少，但第一次报税的时候也必须主动去申请GST/HST Credit。所以，第一次报税请务必提交“Form RC151”这个表格，否则会出现无法统计该年度收入的错误，进而退税失败。
 - https://www.canada.ca/en/revenue-agency/services/child-family-benefits/goods-services-tax-harmonized-sales-tax-gst-hst-credit.html
 
-由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达50~100刀。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
+7. 医疗花费（Medical Expense）。对于上一年收入达到一定数额的同学来说，医疗花费申报之后也是可以退一部分的。
+
+- 官网介绍：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html
+- 符合条件的医疗花费的清单：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return/details-medical-expenses.html
+- 所有同学都可以申报医疗花费， 但只有收入达到政府规定的数额，才可以退回一部分，通常最多可以退净收入的3%的花费。条件：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45200-refundable-medical-expense-supplement.html
+- 对于我们学生来说，可以申报的项目大概有以下两项
+
+  - 保险花费（Premiums paid to private health services plans）：例如UHIP、GSA Health/Dental Insurance Plan、MSU Health/Dental Plan Insurance、CUPE 3906 Dental Plan等等只要是自己付费买的保险都是可以申报的。但像Post Doc等人员的部分保险是学校出钱买的，就不可以申报了。
+  - 保险不能报销的医疗花费（Medical services by medical practitioners、Dental services等等）：例如，大家看病之后如果需要买药，则GSA的保险只能报销80%，而剩下20%就要自己付钱，这部分花费是可以申报的。此外，部分同学去看牙医的时候，花费超过了dental plan的报销额度，则自己付的超额的部分也可以申报。不管是哪种情形，都必须留好receipt。
+
+由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达几十加元。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
 
 1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后，以后的年份就可以自己报了。 注册方法如下：
 
@@ -131,7 +140,7 @@ McMaster提供的报税服务会教大家用SimpleTax在线报税。SimpleTax是
 
 - Name：对我们华人留学生来说通常只要填First name和Last name就可以了。
 - Social insurance number：从Service Canada获得的9开头的9位数字。如果还没有获得，可以查看 `SIN申请`_ 的页面。
-- Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。由于没有打星号，所有不用选。
+- Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。像这类没有打星号的条目都可以略过。
 - Preferred language：选English。
 
 .. image:: /resource/BaoShui/SimpleTax02.png
@@ -173,7 +182,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax06.png
    :align: center
 
-第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家只要把他们全部导入再和自己拿到的税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
+第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会弹出登录CRA的页面，大家登录后把所有的条目都勾选上。SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家把它们和自己拿到的税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
 
 .. image:: /resource/BaoShui/SimpleTax06-2.png
    :align: center
@@ -244,70 +253,83 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax12.png
    :align: center
 
-第十三步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
+第十三步：申报医疗花费（Medical Expenses）。不管是否已经“Auto-fill my return”，这项都必须自己从上面的搜索框中搜出来。
+
+- Whose medical expenses are these：填上自己的名字（汉语拼音）。
+- Who is this：选“Me and my partner”。
+- Expense表格里每一行填一项医疗花费。
+
+  - “Medical expense description”通常是保险的类型和药品、器材、服务等等的名字。相关名字可以从receipt上找到。
+  - “Type of expense”通常是regular。
+  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Plan，UHIP的数额要比原始的费用少$200。等等。
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
 
-第十四步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
+第十四步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
+
+.. image:: /resource/BaoShui/SimpleTax14.png
+   :align: center
+
+第十五步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
 
 - Suggestions：通常是一些还可以申请的福利，如果有下面图片里说的这条，对于我们学生来说是不能申请的。可以忽略。
 - Warnings：如果出现下图中的Warning也可以直接忽略，对于我们学生来说处理和不处理结果都是一样的，例如RRSP、TFSA、RESP等等。我们学生作为低收入群体，所交的税都是全额退税。后面我们会简要概括一下。
 - Errors：所有Error必须全部更正，如果大家出现了不太会纠正的错误，可以点击那一条附近的问号或者链接查询。
 
-.. image:: /resource/BaoShui/SimpleTax14.png
+.. image:: /resource/BaoShui/SimpleTax15.png
    :align: center
 
-第十五步：这一项是填完之后的Summary。
+第十六步：这一项是填完之后的Summary。
 
 - Amounts：列举了所有你能收到的退款总额。Refund通常是T4的退税，一次性发完，通常2周内能收到。GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次。Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次。Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次。
 - Documents：是SimpleTax通过你填写的信息提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
 
-.. image:: /resource/BaoShui/SimpleTax15.png
-   :align: center
-
-第十六步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“Submit tax return”。如果还有不明白的地方可以问一下周围的同学。
-
-- Save a PDF copy of your return for your records：一定要下载保存，留个案底。
-
 .. image:: /resource/BaoShui/SimpleTax16.png
    :align: center
 
-第十七步：如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
+第十七步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“Submit tax return”。如果还有不明白的地方可以问一下周围的同学。
+
+- Save a PDF copy of your return for your records：一定要下载保存，留个案底。
 
 .. image:: /resource/BaoShui/SimpleTax17.png
+   :align: center
+
+第十八步：如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
+
+.. image:: /resource/BaoShui/SimpleTax18.png
    :align: center
 
 .. attention::
   对于第一次报税的同学还需要进行以下步骤
 
-第十八步：第一次申请退回消费税，必须自己填表申请，以后所有年份都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
+第十九步：第一次申请退回消费税，必须自己填表申请，以后所有年份都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
 
 - Step 1 – Your information里填写你自己的个人信息、住址、联系方式、婚姻状况。
 - Step 2 – Information about your spouse or common-law partner：如果是未婚，不用填
 - Step 3 – Your residency status：通常第一次报税的同学，上一年刚刚来Canada，填上去年入境的日期。
 
-.. image:: /resource/BaoShui/SimpleTax18-1.png
+.. image:: /resource/BaoShui/SimpleTax19-1.png
    :align: center
 
 - Step 4 – Your income：填上上一年以及再往前推两年的年份。收入全部填0。
 - Step 5 – Signature：打印出来签名和日期。
 
-.. image:: /resource/BaoShui/SimpleTax18-2.png
+.. image:: /resource/BaoShui/SimpleTax19-2.png
    :align: center
 
-第十九步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
+第二十步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
 
 - 注册链接：https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html
 - 官网介绍：https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/cra-user-password-help-faqs/registration-process-access-cra-login-services.html
 - 注意：注册时需要退税信件中Line XXXX那一行的数值作为验证码，所以必须等到收到信件之后才可以注册。此外，还需要输入“CRA security code”才能访问所有的信息，“CRA security code”通常会通过另外一封信件寄给你。
 
-.. image:: /resource/BaoShui/SimpleTax19.png
+.. image:: /resource/BaoShui/SimpleTax20.png
    :align: center
 
-第二十步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
+第二十一步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
 
-.. image:: /resource/BaoShui/SimpleTax20.png
+.. image:: /resource/BaoShui/SimpleTax21.png
    :align: center
 
 附：其它有关税务的信息
@@ -328,5 +350,6 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
    
    - 陆定维老师
    - 17-CAS-赵伟
+   - 14-EP-张斌
 
 .. _SIN申请: SINShenQing.html
