@@ -13,7 +13,7 @@
 - 杂费（Supplementary）：
   
   - https://registrar.mcmaster.ca/supplementary-fees/#tab-3
-  - Non-Essential Supplementary各项介绍以及如何opt out相应的费用：https://gsamcmaster.org/2019/06/25/student-choice-initiative-2/ ， https://registrar.mcmaster.ca/supplementary-fees/#tab-5
+  - Non-Essential Supplementary各项介绍以及如何opt out相应的费用：https://gsamcmaster.org/2019/06/25/student-choice-initiative-2/
 
 截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。https://registrar.mcmaster.ca/dates-and-deadlines/#tab-5
 
@@ -55,7 +55,6 @@
 #) 交学费必须用加元。
 #) 学校不再自动从资助和奖学金中扣学费了，也就是说每个人都要自己交学费，不管有没有奖学金。奖学金等资助都发给学生，然后学生自己交学费。
 #) 从2016学年开始，学校规定交学费不得使用现金和任何形式的支票。
-#) 从2018年9月开始，国际学生中的博士学生的学费降至和Canada本地学生一样。https://gs.mcmaster.ca/academic-services/international-phd-tuition-fees
 #) Visiting学生只需要交杂费，不需要交学费。
 #) 如果学费交多了，则balance会显示一个负值。可以向学校申请退回多交的学费。https://registrar.mcmaster.ca/direct-deposit/
 
