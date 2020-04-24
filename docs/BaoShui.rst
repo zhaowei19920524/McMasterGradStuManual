@@ -182,7 +182,11 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax06.png
    :align: center
 
-第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表提前传给CRA，对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会弹出登录CRA的页面，大家登录后把所有的条目都勾选上。SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家把它们和自己拿到的税表核对一下就可以了。但是对于第一次报税或者没有CRA账户的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
+第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表都提前传给CRA。
+
+- 对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会弹出登录CRA的页面，大家登录后把所有的条目都勾选上。SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家把它们和自己拿到的税表核对一下就可以了。
+- 对于第一次报税的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
+- 对于不是第一次报税但没有注册了CRA官网账户的同学来说，请先看第二十步，等注册完CRA账户后再进行后面的步骤。因为有些数值是逐年累加的。
 
 .. image:: /resource/BaoShui/SimpleTax06-2.png
    :align: center
@@ -261,7 +265,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
   - “Medical expense description”通常是保险的类型和药品、器材、服务等等的名字。相关名字可以从receipt上找到。
   - “Type of expense”通常是regular。
-  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Insurance Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说填写GSA Dental Insurance Plan、UHIP的数额要比原始的费用少$200。等等。
+  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Insurance Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Insurance Plan、UHIP的数额要比原始的费用少$200。药费等其它花费同理，只能填写保险不能报销自己额外支付的费用。
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
