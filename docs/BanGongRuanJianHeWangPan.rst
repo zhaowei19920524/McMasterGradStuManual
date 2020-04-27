@@ -74,10 +74,9 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 微软所有正版软件
 ----------------------------------------------------
-McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原来叫Imagine Premium）的授权，这样学生可以下载到所有微软还在支持的正版软件。例如：Windows 10 Pro、Visual Studio、SQL Server、Windows Server等等。
+McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原来叫Imagine Premium）的授权，这样学生可以下载到所有微软还在支持的正版软件。例如：Windows 10 Pro、Visual Studio、SQL Server、Windows Server等等。获取步骤：
 
-| 获取步骤：
-| 第一步：登录 https://azureforeducation.microsoft.com/devtools ，在打开的网页里点击Sign in。用户名是麦马的邮箱，密码是mosaic的密码。
+第一步：登录 https://azureforeducation.microsoft.com/devtools ，在打开的网页里点击Sign in。用户名是麦马的邮箱，密码是mosaic的密码。
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian02.png
    :align: center
@@ -96,6 +95,10 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 - 官网：登录 https://portal.office.com/ 。点击“Open Onedrive”即可。
 - 登录方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
 - 注：毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
 
 .. image:: /resource/office365/onedrive_1.jpg
    :align: center
@@ -110,6 +113,10 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 - 官网：https://drive.google.com/
 - 登录方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
 - 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
+- 手机App：
+
+  - iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
+  - Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
 
 3. Macdrive：McMaster自建的网盘服务。用来存储不方便传播到校外的文件。
 
@@ -149,7 +156,6 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 ----------------------------------
 1) WinRAR：http://rarlab.com/
 #) Adobe Acrobat Reader：https://get.adobe.com/reader/
-#) MATLAB：https://pan.luochenzhimu.com/disk/software/MATLAB/
 #) LaTeX：下面两个必须都安装
 
 - LaTex符号集、命令行编译器（先安装）：https://miktex.org/download
