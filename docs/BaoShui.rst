@@ -41,6 +41,7 @@
 1. T2202（原来叫T2202A）表：全称是“Tuition, Education, and Textbook Amounts Certificate”。每年一二月份可以在mosaic上可以下载打印。
 
 - 国际学生每年学费中有15%的抵税额度。在你有收入之后，并缴纳了CIT后，第二年可以用学费抵税额度把缴纳的CIT退回来。所以现在向税务局提供的这个税表是为你将来在加拿大工作后报税准备的，没有缴税之前无税可退。因此大家交的学费的15%，在工作后会以退税的方式退回来。https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-2-students/income-tax-folio-s1-f2-c2-tuition-tax-credit.html
+- T2202表上的学费必须要大于$100才可以申报。https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4654/guide-for-designated-educational-institutions-filing-the-t2202-tuition-and-enrolment-certificate-and-summary.html#T2202
 
 2. T3表：全称是“Statement of Trust Income Allocations and Designations (slip)”。一般指股票，债卷，利息等收益。
 3. T4表：
@@ -89,6 +90,10 @@
 
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui04.jpg
    :align: center
+
+| 无法去现场的同学，可以看一下录制的视频：
+| PART 1: FILING TAXES AND COVID-19 UPDATES：链接：https://pan.baidu.com/s/19qa_jWCwZebRz6VPD1_lSg 提取码：t3ch
+| PART 2: DO-IT-YOURSELF TAX WEBINAR WITH SIMPLE TAX：链接：https://pan.baidu.com/s/1QwP91hrKuHh6ShpwJ6dCuA 提取码：fgey
 
 2. Public：https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html 或 https://money.mcmaster.ca/taxes/tax-clinics/ 的“Tax Clinics (Community)”标题下列举的地址。加拿大各个主要城市的社区都有一些帮别人免费报税的志愿者，但通常对报税人都有最高收入的限制，如果家庭年收入超过一定的数目，则他们会拒绝服务。如果大家没有抢到McMaster免费注册的活动，可以去社区举办的免费报税活动。但通常这种public的活动排队等待时间较长。
 
@@ -355,5 +360,6 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
    - 陆定维老师
    - 17-CAS-赵伟
    - 14-EP-张斌
+   - 19-ECE-杨铭宸
 
 .. _SIN申请: SINShenQing.html
