@@ -15,7 +15,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 - McMaster官方租房资源网站： https://offcampus.mcmaster.ca/available-properties/
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
-- Hamilton租房微信群：请让学长学姐或群里比较活跃的同学邀请一下。已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
+- Hamilton租房微信群：微信群里大多都是转租的广告，请让学长学姐或群里比较活跃的同学邀请一下。已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
 
 .. attention::
   租房微信群不是我们研究生群里的学生创建的，群里有大量社会人员，请大家注意保护好自己的个人的财物。希望大家与陌生人交流时保持谨慎，除租房外不要过多地透露自己的信息。为了大家的生命财产安全着想，请 **不要在租房群里找陌生人的接机、Carpool（拼车或顺风车）等服务** 。
@@ -89,7 +89,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 5. 长租价格（CAD/月，房租不用额外交消费税）： 
 
-- house：①basement：$400以下。②ground：$400~550之间。utility（水电气(heat)网4项）花费已经包含在房租里的项目越多，离学校越近，房租越高。
+- house：①basement：$450以下。②ground：$450~550之间。utility（水电气(heat)网4项）花费已经包含在房租里的项目越多，离学校越近，房租越高。
 - apt：按apt里bedroom的数量：①1 bedroom：$1100~1200 ②2 bedroom：$1200~1300 ③3 bedroom：$1400+ ④bachelor：$900+。此外公寓还会强制住户买liability（财产险），每年大概一两百加元。事实上，bedroom越多，分到每个租客的租金越少。一些比较陈旧的公寓（981 & 1001 main）价格会相对便宜。而新建的高档的公寓（west village，44 Glen，Bay 200，140/150 Main）价格非常昂贵，基本600+/卧室，甚至有1K+/卧室的价格。
 
 6. 何时开始寻找房源（对于9月入学的新生）
@@ -187,7 +187,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-01-01.xlsx>` 从Google地图里导出的数据，2020年1月1日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-04-29.xlsx>` 从Google地图里导出的数据，2020年1月1日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 

@@ -219,7 +219,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax08.png
    :align: center
 
-第九步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。
+第九步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。如果有多张T2202表，就点击“Add another T2202”。
 
 - Were you a post-secondary student in 2019：选“Yes”。
 - Box 13、24、25、26必须要填写到网页里。
@@ -232,7 +232,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax09-2.png
    :align: center
 
-第十步：这一项是让大家填写自己的需要缴税类型的的收入的税表，就是TA、RA、Coop、Intern、Part-time工作的雇主发给你的T4表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4表上的信息填写在上面。
+第十步：这一项是让大家填写自己的需要缴税类型的的收入的税表，就是TA、RA、Coop、Intern、Part-time工作的雇主发给你的T4表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4表上的信息填写在上面。如果有多张T4表，就点击“Add another T4”。
 
 - Employer's name：填“MCMASTER UNIVERSITY”就可以了。
 - 所有有数值的Box都要填在网页里。例如Box 10、14、16、18、22、24、26、44可能会出现数值。
@@ -243,7 +243,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax10-2.png
    :align: center
 
-第十一步：这一项是让大家填写自己的不需要缴税类型的收入的税表，通常是奖学金（scholarship、bursary等等）相关的T4A表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4A表上的信息填写在上面。
+第十一步：这一项是让大家填写自己的不需要缴税类型的收入的税表，通常是奖学金（scholarship、bursary等等）相关的T4A表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4A表上的信息填写在上面。如果有多张T4A表，就点击“Add another T4A”。
 
 - Payer's name：填“MCMASTER UNIVERSITY”就可以了。
 - Box 14和105只要有数值都要填在网页里。
@@ -255,7 +255,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax11-2.png
    :align: center
 
-第十二步：部分同学上一年在银行里的存款和投资产生了大于$50的利息。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T5表上的信息填写在上面。
+第十二步：部分同学上一年在银行里的存款和投资产生了大于$50的利息。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T5表上的信息填写在上面。如果有多张T5表，就点击“Add another T5”。
 
 - 如果是银行利息，只要把银行的名字填在“Pay's name”里，然后Box 13可能也有数值。填在网页里即可。
 
@@ -270,7 +270,10 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
   - “Medical expense description”通常是保险的类型和药品、器材、服务等等的名字。相关名字可以从receipt上找到。
   - “Type of expense”通常是regular。
-  - “Amount of expense”是花费。有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退回了GSA Dental Insurance Plan，并且已经从UHIP里rebate了$200，则这些花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Insurance Plan、UHIP的数额要比原始的费用少$200。药费等其它花费同理，只能填写保险不能报销自己额外支付的费用。
+  - “Amount of expense”是医疗相关花费
+  
+    - 保险的保费：有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退出了GSA Dental Insurance Plan并且可以直接退回$200的UHIP保费，则这些保险的花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Insurance Plan，UHIP的数额要比原始的费用少$200。
+    - 药费、治疗费用等其它花费：同理，只能填写保险不能报销自己额外支付的费用。例如：XXXX药品一共$10，用GSA Health Insurance Plan只能报销$8（80%），剩下$2要自己支付。则在上面的花费里就可以填“XXXX，regular，$2”。
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
@@ -291,8 +294,13 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
 第十六步：这一项是填完之后的Summary。
 
-- Amounts：列举了所有你能收到的退款总额。Refund通常是T4的退税，一次性发完，通常2周内能收到。GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次。Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次。Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次。
-- Documents：是SimpleTax通过你填写的信息提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
+- Amounts：列举了所有你能收到的退款总额。Refund在2周内能收到。后面三项都是从7月份开始发。
+
+  - Refund通常是T4的退税，一次性发完。
+  - GST/HST quarterly amount是联邦政府消费税退税，每3个月发一次，一共发4次。
+  - Ontario Trillium Benefit (sales tax credit) monthly amount是安省消费税退税，每个月发一次，一共发12次。
+  - Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次，一共发12次。
+- Documents：是SimpleTax通过你填写的信息生成的最终提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
 
 .. image:: /resource/BaoShui/SimpleTax16.png
    :align: center
@@ -331,7 +339,7 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 
 - 注册链接：https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html
 - 官网介绍：https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/cra-user-password-help-faqs/registration-process-access-cra-login-services.html
-- 注意：注册时需要退税信件中Line XXXX那一行的数值作为验证码，所以必须等到收到信件之后才可以注册。此外，还需要输入“CRA security code”才能访问所有的信息，“CRA security code”通常会通过另外一封信件寄给你。
+- 注意：注册时需要退税信件中Line XXXX那一行的数值作为验证码，所以必须等到收到信件之后才可以注册。此外，还需要输入“CRA security code”才能访问所有的信息，“CRA security code”通常还会通过另外一封信件寄给你。
 
 .. image:: /resource/BaoShui/SimpleTax20.png
    :align: center

@@ -81,7 +81,13 @@
 
   - QQ群：225053068
 
-5. 跨学院的群
+5. Social Sciences
+
+- Social Sciences总群
+
+  - QQ群：656473488，微信群：加入QQ群后，联系群主或群管理员
+
+6. 跨学院的群
 
 - McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业里含有这3个关键词的专业）
 
@@ -96,7 +102,7 @@
 
   - QQ群：563899877
 
-6. 老乡群
+7. 老乡群
 
 - 江苏 QQ群：1055985045
 
@@ -200,13 +206,12 @@ McMaster常见学院专业及简称
 
   - Anthropology：Anthropology
   - Economics：Economics
-  - Geography & Environmental Studies：Geography
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
   - Indigenous Studies：Indigenous
   - Labour Studies：Labour
   - Political Science：Political Science
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
-  - Religious Studies：Religious
+  - Society, Culture & Religion ：Religious
   - Social Psychology：Social Psychology
   - Social Work：Social Work
   - Sociology：Sociology

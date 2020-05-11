@@ -2,7 +2,7 @@
 ==============================
 Microsoft Office 365
 -----------------------------
-| 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。新生可能要等开学后半个月才能使用。https://www.mcmaster.ca/uts/licensing/msstudents.html
+| 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。新生可能要等开学后半个月才能使用。https://office365.mcmaster.ca/
 | 学校购买的Office 365订阅服务是：Microsoft 365 A3 for students use benefit（https://www.microsoft.com/en-ca/microsoft-365/academic/compare-office-365-education-plans）。它主要包括在线版本的office和团队合作工具Teams，以及Office 365 ProPlus for students。后者就是完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
 
 .. image:: /resource/office365/Software_List.png
