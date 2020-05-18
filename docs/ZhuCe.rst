@@ -1,9 +1,6 @@
 ﻿注册
 ============
-.. attention::
-   - **2019 Fall online注册：7月23日~8月27日**
-   - **2020 Winter online注册：11月28日~12月12日**
-   - **2020 Summer online注册：4月2日~4月16日**
+online注册时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
 
 The Enrolment Checklist must be completed in order to be enrolled: 
 

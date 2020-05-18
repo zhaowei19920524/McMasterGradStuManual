@@ -17,7 +17,7 @@
   - 11~18级 QQ群：237168063（备注导师入群），微信群：加入QQ群后，联系群主或群管理员
   - 19级及其以后 QQ群：549401754，微信群：加入QQ群后，联系群主或群管理员
 
-- JHE（Civil+EngPhys+MSE+ME）
+- JHE（Civil+EngPhys+MSE+ME+ChemEng）
 
   - JHE总群
   
@@ -89,7 +89,7 @@
 
 6. 跨学院的群
 
-- McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业里含有这3个关键词的专业）
+- McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业名称里含有这3个关键词的专业）
 
   - QQ群：245128862，微信群：加入QQ群后，联系群主或群管理员
 - McMaster公派研究生群
