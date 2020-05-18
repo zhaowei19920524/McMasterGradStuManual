@@ -2,7 +2,7 @@
 ==========================
 解释
 -------------------------
-- McMaster研究生院官方解释：https://gs.mcmaster.ca/academic-services/conditions-admission
+- McMaster研究生院官方解释：https://gs.mcmaster.ca/ive-accepted-my-offer/understanding-your-offer/ 和 https://gs.mcmaster.ca/ive-accepted-my-offer/understanding-your-offer/conditions-admission/
 - 全称是Condition based on an official transcript received。要求在指定的日期之前提供中英文对照的成绩单和毕业证和学位证（或者是毕业证明和学位证明）等。具体要提交的材料每个人都不一样，大家收到的offer上的第一段文字里都会写明。
 
 要求
