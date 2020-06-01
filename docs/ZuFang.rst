@@ -187,7 +187,7 @@ https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-04-29.xlsx>` 从Google地图里导出的数据，2020年1月1日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-05-30.xlsx>` 从Google地图里导出的数据，2020年5月30日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 

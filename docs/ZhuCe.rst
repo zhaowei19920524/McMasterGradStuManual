@@ -1,6 +1,7 @@
 ﻿注册
 ============
-online注册时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
+- online注册时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
+- online注册指导：https://gs.mcmaster.ca/ive-accepted-my-offer/how-to-enroll/
 
 The Enrolment Checklist must be completed in order to be enrolled: 
 
