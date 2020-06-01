@@ -1,13 +1,9 @@
 ﻿开学
 ===========================
-.. attention::
-   - **2019 Fall Classes begin：9月3日**
-   - **2020 Winter Classes begin：1月2日**
-   - **2020 Summer Classes begin：未定**
-
-2019 Fall - 2020 Summer学年的校历
+校历
 ---------------------------------------------------------------------------------------
-https://academiccalendars.romcmaster.ca/content.php?catoid=39&navoid=8161
+开学时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
+校历：https://academiccalendars.romcmaster.ca/content.php?catoid=39&navoid=8161
 
 开学日期
 --------------------------------

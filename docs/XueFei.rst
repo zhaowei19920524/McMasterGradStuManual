@@ -9,7 +9,7 @@
 
 各program的费用明细：
 
-- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-3
+- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-2
 - 杂费（Supplementary）：
   
   - https://registrar.mcmaster.ca/supplementary-fees/#tab-3

@@ -652,6 +652,12 @@ Hamilton 中式甜点
    :align: center
    :height: 75
 
+- The Alley
+
+  - https://www.the-alley.ca/
+  - 1050 King St W Unit 5, Hamilton, ON L8S 1L5
+  - (905)522-5300
+
 - Sakura Tea | 樱花茶
 
   - 1064 Main St W, Hamilton, ON L8S 1B3

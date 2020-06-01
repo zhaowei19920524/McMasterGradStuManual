@@ -32,7 +32,7 @@
 
     - QQ群：291817937
 
-- SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering+MEST)
+- WBooth SEPT (MEEI+MEPP+MED+MTEI+Manufacture Engineering+MEST)
 
   - QQ群：850137878，微信群：加入QQ群后，联系群主或群管理员
 
@@ -89,7 +89,7 @@
 
 6. 跨学院的群
 
-- McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys等等所有专业名称里含有这3个关键词的专业）
+- McMaster Chem & Bio & Med Graduate Students（ChemEng、BME、biochem、Biology、chem、medsci、chembio、medphys、BDC等等所有专业名称里含有这3个关键词的专业）
 
   - QQ群：245128862，微信群：加入QQ群后，联系群主或群管理员
 - McMaster公派研究生群
