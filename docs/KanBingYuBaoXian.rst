@@ -45,7 +45,7 @@
 
 二、GSA Health Insurance Plan
 
-- 麦马研究协会Graduate Students Association（GSA）提供Health Insurance Plan。GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由GSA Health Insurance Plan报销。
+- 麦马研究生协会Graduate Students Association（GSA）提供Health Insurance Plan。GSA的Health Plan提供UHIP不能报销的一些项目，如药费。虽然UHIP能报销看病的门诊费，但不能报销医生开的处方药的药费。因此，需要由GSA Health Insurance Plan报销。
 - 官方网站：http://studentcare.ca/rte/en/McMasterUniversity_Home
 - 费用：http://studentcare.ca/rte/en/McMasterUniversity_Cost_HowMuchDoesItCost
 - 家属的保险：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_CoupleFamilyEnrolments
@@ -101,7 +101,7 @@
 
 保险的购买与退出
 --------------------------------------------------------------------------
-1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，学校在收杂费的时候回自动扣去相关的费用。具体需要购买的保险如下：
+1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，学校在收杂费的时候会自动扣去相关的费用。具体需要购买的保险如下：
 
 - 没有TA或RA，且非MBA专业的研究生
 
@@ -151,7 +151,7 @@
 
   A. Student Wellness Centre
 
-  - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所有大家有小病小恙还是应该优先考虑去校医院看。
+  - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所以大家有小病小恙还是应该优先考虑去校医院看。
   - https://wellness.mcmaster.ca/
   - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
@@ -196,15 +196,15 @@
   C. CUPE指定的牙医诊所：
   
   - 寻找、预约医生 https://www.opencare.com/ 。
-  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后输找“Equitable Life of Canada”。
-  - 此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周末有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
+  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后找“Equitable Life of Canada”。
+  - 此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周边有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
 
 注：
 
 1) MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
 #) 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
 
-- 非MBA学生可以在GSA Insurance Plan的网页找到。
+- 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
 - MBA学生在MSU  Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
 
 买药
@@ -214,7 +214,7 @@
 1. McMaster University Centre Pharmasave
 
 - 官网：https://universitypharmacy.ca/mcmaster/
-- 这个是学校的药房，在Student Center Room 109B，如果在校医院看病需要买药，应当优先考虑去这里。因为在这里买很多药都不用出示pay direct card，就可以直接报销了。这样可以省去自己垫付，然后再向保险公司报销的流程。
+- 这个是学校的药房，在Student Center Room 109B，如果在校医院看病需要买药，应当优先考虑去这里。因为在这里买很多药都不用出示pay direct card（http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard），就可以直接报销了。这样可以省去自己垫付，然后再向保险公司报销的流程。
 
 2. Shoppers Drug Mart
 
@@ -252,7 +252,7 @@
 
 2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
 
-- 方法1：如果药店接受pay direct card（比如McMaster University Centre Pharmasave、Rexall等），则可以在付费的时候只要支付不能报销那部分比例的费用即可，免去报销流程。http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+- 方法1：如果药店接受pay direct card（比如McMaster University Centre Pharmasave、Rexall等），则可以在付费的时候只要支付不能报销那部分比例的费用即可，免去报销流程。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
 - 方法3：填表并邮寄相关材料。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 

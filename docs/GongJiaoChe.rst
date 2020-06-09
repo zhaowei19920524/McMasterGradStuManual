@@ -33,7 +33,6 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 - 无法获得学校统一购买的PRESTO card的学生
 
   - Undergrad students with 17 units or less (across both terms)
-  - Engineering Co-op Students
   - Part-Time Graduate Studies
   - MBA (all)
   - Divinity (all)

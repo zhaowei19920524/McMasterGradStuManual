@@ -43,7 +43,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 以下是常见的提供宽带服务的公司：
 
 - Bell：http://www.bell.ca/Bell_Internet/Internet_access 网络最稳定，价格也相对较高。Bell每年开学有个对学生优惠的活动（50Mb下载、10Mb上传）。
-- Rogers：https://residential.rogers.com/ontario/internet 网络同样非常稳定，价格也相对较高。且已经完全为家庭用户提供了ipv6的支持。
+- Rogers：https://www.rogers.com/web/consumer/internet 网络同样非常稳定，价格也相对较高。且已经完全为家庭用户提供了ipv6的支持。
 - Carry：http://www.carrytel.ca/internet-plans.aspx 这虽然是一家小公司，但确实是价格最便宜的，并且网络也基本稳定。建议大家先考虑这家公司。
 
   - 办理Fiber 25/50可以用以下promotion code：ZH11194（由17-CAS-赵伟提供），这样购买modem可以便宜$10，并且没有安装费。
