@@ -2,8 +2,8 @@
 ===========================
 校历
 ---------------------------------------------------------------------------------------
-开学时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
-校历：https://academiccalendars.romcmaster.ca/content.php?catoid=39&navoid=8161
+- 开学时间：https://gs.mcmaster.ca/current-students/dates-and-deadlines/
+- 校历：https://academiccalendars.romcmaster.ca/content.php?catoid=39&navoid=8161
 
 开学日期
 --------------------------------

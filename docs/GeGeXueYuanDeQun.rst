@@ -206,8 +206,10 @@ McMaster常见学院专业及简称
 
   - Anthropology：Anthropology
   - Economics：Economics
+  - Geography & Earth Sciences：Geo
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
   - Indigenous Studies：Indigenous
+  - Institute on Globalization & the Human Condition：Globalization
   - Labour Studies：Labour
   - Political Science：Political Science
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
