@@ -108,7 +108,7 @@ G类驾照
 - 常见问题及解答，所需材料清单：https://www.caa.ca/international-driving-permit/
 - 国际驾照可以使用的国家清单：https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&Temp=mtdsg5&clang=_en
 
-离学校最近的CAA网点在1717 Main St W, Hamilton, ON L8S 1G5。https://www.caasco.com/About-Us/Contact-Us/Store-Locations/Hamilton/CAA-Hamilton-West.aspx
+离学校最近的CAA网点在1717 Main St W, Hamilton, ON L8S 1G5。https://www.caasco.com/store-locator/Hamilton/CAA-Hamilton-West
 
 加拿大驾照换中国驾照
 -----------------------------------------------------------------------------

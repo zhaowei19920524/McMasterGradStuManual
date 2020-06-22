@@ -10,7 +10,7 @@ McMaster餐厅官网
 - 官网主页：http://hospitality.mcmaster.ca/
 - Meal Plan：https://hospitality.mcmaster.ca/meal-plans/
 - Hour：https://hospitality.mcmaster.ca/locations/hours-of-operation/
-- On-Campus Location（校内的餐厅、咖啡店、小吃店）：https://hospitality.mcmaster.ca/locations/locations/
+- On-Campus Location（校内的餐厅、咖啡店、小吃店）：https://hospitality.mcmaster.ca/locations/on-campus/
 - Off-Campus Location（和学校有合作的校外餐厅，可以使用带有Meal Plan的学生卡或工卡支付）：https://hospitality.mcmaster.ca/locations/off-campus/
 
 McMaster餐厅介绍
