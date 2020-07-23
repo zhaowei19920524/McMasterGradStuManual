@@ -40,8 +40,8 @@
    :align: center
    :scale: 75%
 
-- 家属（dependents）：指的是学生的spouse和children，不包括父母。如果他们和学生一起来Canada陪读，则必须在到Canada30天内申请UHIP，超过这个时间再申请会罚$500。https://iss.mcmaster.ca/studentlife/healthcare/#dependents
-- 访问学生：购买的UHIP是UHIP Premium，费用与来读学位的学生价格一样。https://iss.mcmaster.ca/studentlife/healthcare/#visiting
+- 家属（dependents）：指的是学生的spouse和children，不包括父母。如果他们和学生一起来Canada陪读，则必须在到Canada30天内申请UHIP，超过这个时间再申请会罚$500。https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Adding dependents”标题
+- 访问学生：购买的UHIP是UHIP Premium，费用与来读学位的学生价格一样。
 
 二、GSA Health Insurance Plan
 
@@ -132,14 +132,14 @@
 注：
 
 - 五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
-- 联培学生（Visiting Student）需自己购买UHIP，因为学校并不清楚学生何时来Canada。https://iss.mcmaster.ca/studentlife/healthcare/#visiting
+- 联培学生（Visiting Student）需自己购买UHIP，因为学校并不清楚学生何时来Canada。联系方式：iss@mcmaster.ca
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
 - 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$200的保费。
 - 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
-- 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。https://iss.mcmaster.ca/about-us/contact/
-- 12月毕业的研究生：https://iss.mcmaster.ca/studentlife/healthcare/#refunds
+- 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。联系方式：iss@mcmaster.ca
+- 12月毕业的研究生：https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Costs and premiums”标题。
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
   - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退回之后月份的费用。
@@ -153,15 +153,14 @@
 
   - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所以大家有小病小恙还是应该优先考虑去校医院看。
   - https://wellness.mcmaster.ca/
-  - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定打电话取消，否则会收$50~100的罚款。
+  - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定要打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
 
   B. Campus dentist
 
-  - 学校里的牙医诊所
+  - 学校里的牙医诊所。虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
   - http://www.campusdentist.com/mcmaster.html
   - 预约：905-526-6020或 mcmaster@campusdentist.com
-  - 虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
 
 2. 校外的Walk-in Clinic、Emergency Departments（急诊）、Urgent Care Centres（紧急护理中心）：所有人都可以去看病的公共的诊所。但通常不能看牙齿。加拿大把公共的医院和诊所分为3大类：
 

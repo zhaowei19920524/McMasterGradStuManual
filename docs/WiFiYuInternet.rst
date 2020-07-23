@@ -4,7 +4,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 
 一、 学校的WiFi和Internet
 -------------------------------------------------
-1. WiFi热点：Mac-WiFi（只有5GHz频段）和MacSecure
+1. WiFi热点：Mac-WiFi
 
  | 这个是主要的Internet接入方式。不限流量。速度是50Mb/s下载，10Mb/s上传。在McMaster所有的校区都能访问。
  | 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。

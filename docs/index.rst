@@ -109,7 +109,6 @@ Welcome to McMaster University!
    :caption: 关于本站
 
    BenZhanJieShao
-   ZuiJinGengXin
 
 本站使用说明
 --------------------------------------------------
