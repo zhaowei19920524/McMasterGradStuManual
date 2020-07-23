@@ -19,12 +19,18 @@ Canada邮政公司：Canada Post
 
 华人快递公司
 ------------------------------------------------------
-1) 申通快递：
+1) 顺丰快递
+
+- 官网：https://www.sf-express.com/us/sc/
+- 大多地区营业点：235 Hood Road Unit2, Markham ON L3R 4N3。https://www.sf-express.com/us/sc/dynamic_function/store/SF_Service_points/
+
+2) 申通快递：
 
 - Facebook：https://www.facebook.com/STO-Express-Hamilton-144304912890150/
 - Hamilton营业点地址：901 King St W, Hamilton, ON L8S 1K5。电话：(905)975-3578。微信：StoHamilton
 
-2) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
-3) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
-4) 锦程快递：http://www.hr-ex.com/ch Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
-5) 丰泰国际快递：http://soonexpress.ca/
+3) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
+4) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
+5) 锦程快递：https://www.hr-ex.com/zh-CN/ Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
+6) 丰泰国际快递：http://soonexpress.ca/
+7) 艾森：https://www.voui.com/

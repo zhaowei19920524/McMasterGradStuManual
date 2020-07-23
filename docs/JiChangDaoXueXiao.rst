@@ -55,7 +55,6 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
   - 18-Chem-崔梦阳
   - 18-MFin-李翘楚
   - 18-ME-杨雨航
-  - 18-medphy-苗彬
 
 欢迎各位学长学姐提供新生接机服务。如有意向，请联系17-CAS-赵伟，我们会把你的信息加到上面的名单里。
 

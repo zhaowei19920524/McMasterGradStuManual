@@ -6,7 +6,7 @@ SIN是Social Insurance Number的简称，用于报税、找工。找到工作时
 
 办理方法： 
 
-1. 在学校办理：几乎每个学期Service Canada都会来麦马帮学生办理SIN，详情请见：https://iss.mcmaster.ca/immigration/social-insurance-number/
+1. 在学校办理：几乎每个学期Service Canada都会来麦马帮学生办理SIN，开学之后可以注意学校的邮件通知。
 2. 下飞机入关时办理：办理完Study Permit询问工作人员在哪办理SIN。通常上班周一到周五，最晚8:00~8:30就下班了。
 3. 入境后办理：带着你的护照（或驾照）和study permit，去Service Canada就可申请SIN。交通比较方便的office有
 
