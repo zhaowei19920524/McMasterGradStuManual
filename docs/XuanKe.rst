@@ -35,7 +35,7 @@ SGS 101和SGS 201是2门所有研究生新生都要学习的online课程，如�
   | Remember, all 3 terms need either a course or placeholder even if you will graduate before the terms are finished. Otherwise, your tuition and all information will not be correct on the system. Also if you are on a leave you will also need to register.
   | ——Cheryl（ECE小秘）
 
-academically accredited course OR a placeholder course （专业课或占位课）：这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（http://student-accounts.mcmaster.ca/tuition-fees/#tab-content-graduate）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
+academically accredited course OR a placeholder course （专业课或占位课）：这个是enroll比较重要的一项，就是按导师或专业的要求选专业课。如果某一学期没有专业课，但依然需要留在学校里搞科研、做项目，则要选一门课作为占位符，表示你还在你的program里，且能正确的显示学费（https://gs.mcmaster.ca/ive-accepted-my-offer/how-to-enroll/）。占位课没有学分，不需要上课，也不会有成绩。常见的占位课有：
 
 - SGS 700：按学期数目收费的研究生。例如：多数PhD、MASc、MSc、MEng学生。
 - SGS 711：按课程数目收费的研究生。
