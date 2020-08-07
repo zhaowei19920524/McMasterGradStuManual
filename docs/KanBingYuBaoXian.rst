@@ -83,7 +83,7 @@
 - CUPE dental plan虽然是按academic year（学年）缴费的，但报销福利是按calendar year（日历年）计算的。其提供的保险项目优于GSA dental plan，主要福利有：
 
   - 所有Unit 1的学生自动opt-out（退出） GSA Dental Insurance Plan，退回相应费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
-  - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$200（2019年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
+  - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$250（2020年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
   - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。注意：这$250只能用一次，例如只报销了$10，那剩下的$240就作废了。所以大家应一次尽可能报销大量费用，比如配眼镜。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
