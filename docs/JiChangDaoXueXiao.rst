@@ -49,6 +49,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 .. note::
 
+  - 18-Civil-姚澜
   - 19-ECE-陶绎文
   - 19-MBA-王乐雪
   - 18-MSE-赵钦福
