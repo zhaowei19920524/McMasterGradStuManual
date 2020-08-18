@@ -13,7 +13,7 @@ MATLAB电脑版
 第一步：
 
 - 第一次登陆，必须用McMaster专门的portal，使用麦马的MacID和Mosaic的密码：https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html 。
-- 从第二次登陆开始，就可以直接用通用的Mathworks通用的portal了：https://www.mathworks.com/login 。
+- 从第二次登陆开始，就可以直接用Mathworks通用的portal登陆了：https://www.mathworks.com/login 。
 
 .. image:: /resource/MATLAB/MATLAB01.png
    :align: center
