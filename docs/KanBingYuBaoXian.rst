@@ -136,7 +136,7 @@
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
-- 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$200的保费。
+- 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$250（2020年）的保费。
 - 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
 - 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。联系方式：iss@mcmaster.ca
 - 12月毕业的研究生：https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Costs and premiums”标题。
