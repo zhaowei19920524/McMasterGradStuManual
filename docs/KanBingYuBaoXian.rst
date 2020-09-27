@@ -25,7 +25,7 @@
 
 - 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
-- 费用（2019年）：国际学生需要付费参加UHIP，近几年的年费是单人$636，学生家属的费用和学生一样。
+- 费用（2020年）：国际学生需要付费参加UHIP，近几年的年费是单人$720，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
@@ -261,7 +261,7 @@
 
  | Insurance Provider: Equitable Life of Canada
  | Policy #: 97528
- | Division #: Division #1(Postdoctoral Fellow members are part of Division 2.)
+ | Division #: Division #001 (Postdoctoral Fellow members are part of Division #002)
  | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
