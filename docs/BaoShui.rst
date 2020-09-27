@@ -34,9 +34,9 @@
 - 但这些产品一旦被加工过，比如是某品牌食品，或饭店里卖的菜肴等等就要交税了。不过也有个例外，就是加工过的食物，如果原始价格不超过$4，则不用交Ontario的8%的税，只需要交联邦5%的税即可。例如：Tim Hortons的咖啡，麦当劳的小汉堡。https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-064-harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages/harmonized-sales-tax-ontario-point-sale-rebate-on-prepared-food-beverages.html
 - 如果商品可以退货，那么交的税也会一起退回来。
 
-报税
+准备材料
 ---------------------------
-报税其实很简单，上一年交的多数税收会通过税表（Tax Form）反映出来。而雇主（Employer）一定会在3月之前把税表交给雇员（Employee）。雇员只需要把这些税表再通过在线或纸质的方法提供给税务局即可（Canada Revenue Agency，CRA）。和学生有关的税务申报税表主要有以下几种： 
+准备材料其实很简单，上一年交的多数税收会通过税表（Tax Form）反映出来。而雇主（Employer）一定会在3月之前把税表交给雇员（Employee）。雇员只需要把这些税表再通过在线或纸质的方法提供给税务局即可（Canada Revenue Agency，CRA）。和学生有关的税务申报税表主要有以下几种： 
 
 1. T2202（原来叫T2202A）表：全称是“Tuition, Education, and Textbook Amounts Certificate”。每年一二月份可以在mosaic上可以下载打印。
 
@@ -67,6 +67,8 @@
   - 保险花费（Premiums paid to private health services plans）：例如UHIP、GSA Health/Dental Insurance Plan、MSU Health/Dental Plan Insurance、CUPE 3906 Dental Plan等等只要是自己付费买的保险都是可以申报的。但像Post Doc等人员的部分保险是学校出钱买的，就不可以申报了。
   - 保险不能报销的医疗花费（Medical services by medical practitioners、Dental services等等）：例如，大家看病之后如果需要买药，则GSA的保险只能报销80%，而剩下20%就要自己付钱，这部分花费是可以申报的。此外，部分同学去看牙医的时候，花费超过了dental plan的报销额度，则自己付的超额的部分也可以申报。不管是哪种情形，都必须留好receipt。
 
+报税
+---------------------------
 由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达几十加元。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
 
 1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后，以后的年份就可以自己报了。 注册方法如下：

@@ -249,6 +249,7 @@
   - 费用：http://www.algonquinpark.on.ca/visit/general_park_info/fees-algonquin-park.php
   - Camping官方指导：http://www.algonquinpark.on.ca/visit/camping/
   - 阿岗昆枫叶颜色实时报告：http://www.algonquinpark.on.ca/visit/general_park_info/fall-colour-report.php
+  - 阿岗昆枫叶实时影像：http://www.algonquinpark.on.ca/virtual/webcam/index.php
   - 安省公园官网的介绍（注意看Camping和Maps）：https://www.ontarioparks.com/park/algonquin
 
 .. image:: /resource/Wan/Wan_Algonquin_Lookout_Trail.jpg
