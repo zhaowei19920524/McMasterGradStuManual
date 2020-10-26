@@ -52,6 +52,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
   - 19-ECE-陶绎文
   - 19-MBA-王乐雪
   - 19-ECE-郭砚辉
+  - 19-MFin-王逸婷
   - 18-MSE-刘新倩
   - 18-MSE-赵钦福
   - 18-Chem-崔梦阳
