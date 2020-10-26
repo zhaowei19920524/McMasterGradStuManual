@@ -6,8 +6,6 @@
 
 McMaster政策
 ------------------------------------
-https://housing.mcmaster.ca/future-residents/how-to-apply/#tab-content-returning
-
 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
 
 各类租房资源

@@ -28,6 +28,10 @@ Canada主要超市
 - Nations里买菜结账的地方可以付现金或刷debit卡，此外在超市西边出口结账的地方也可以使用微信支付和支付宝（需要额外付手续费）。超市内部的餐厅可能接受credit卡。
 - Nations每周都会对一些商品打折，大家可以去官网上的Weekly Special查看。
 - 停车：Nations自带地下停车场，如果在nations里买菜或在其中的餐馆消费大于等于$30，并且停车时间不超过1小时，则停车免费（凭停车小票和购物小票在nations门口的那个保安处盖章）。入口在nations西边的Bay Street上，如下图方框内的箭头。
+- 手机App：
+
+  - iOS：https://apps.apple.com/app/oceans-nations-fresh-foods/id1507781934
+  - Android：https://play.google.com/store/apps/details?id=com.oceansandnations.market
 
 .. image:: /resource/GouWu/nations_parking.jpg
    :align: center
