@@ -71,11 +71,11 @@
 
 - GSA Dental Insurance Plan提供牙医保险，每policy year（保险单年度）的年费$189.88（2019年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
-- GSA Dental Insurance Plan每policy year（保险单年度）的额度$750。
+- GSA Dental Insurance Plan至少可以报销70%的就诊费用。每policy year（保险单年度）的额度$750。
 
 四、CUPE Dental Plan
 
-- CUPE工会提供牙医保险，目前每academic year（学年）的费用是$125.00（2019年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
+- CUPE工会提供牙医保险，目前每academic year（学年）的费用是$125.00（2020年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
   - Unit 1: Teaching Assistants (TAs) and Research Assistants in lieu (RAs in lieu)
   - Unit 2: Sessional Faculty, MELD Sessional Faculty, and Hourly Rated Sessional Music Faculty
@@ -84,20 +84,21 @@
 
   - 所有Unit 1的学生自动opt-out（退出） GSA Dental Insurance Plan，退回相应费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$250（2020年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
-  - CUPE Dental Plan每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
+  - CUPE Dental Plan可以报销100%的就诊费用。每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
   - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。注意：这$250只能用一次，例如只报销了$10，那剩下的$240就作废了。所以大家应一次尽可能报销大量费用，比如配眼镜。
+- 具体可以覆盖的牙医服务可以查看 https://cupe3906.org/tas-unit-1/dental-plan/ 网页的“Coverage Booklet”标题。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
   - Unit 1: https://cupe3906.org/tas-unit-1/dental-plan/
   - Unit 2: https://cupe3906.org/sessionals-unit-2/unit-2-dental-coverage/
-  - Unit 3:https://cupe3906.org/postdocs-unit-3/dental-plan/
+  - Unit 3: https://cupe3906.org/postdocs-unit-3/dental-plan/
 
-五、MSU Health/Dental Plan Insurance
+五、MSU Health/Dental Insurance
 
 - MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。年费$262.5（2019年）。
-- 网址：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance
+- 网址：https://msumcmaster.ca/info/health-dental-insurance/
 - 配眼镜福利：每2年有$100报销镜片和镜框的额度。
-- MBA学生家属的保险：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/family-add-ons
+- MBA学生家属的保险：https://msumcmaster.ca/info/health-dental-insurance/family-add-ons/
 
 保险的购买与退出
 --------------------------------------------------------------------------
@@ -116,8 +117,8 @@
 - MBA
 
   - UHIP
-  - MSU Health Plan Insurance
-  - MSU Dental Plan Insurance
+  - MSU Health Plan
+  - MSU Dental Plan
 - 联培学生（Visiting Student）
 
   - UHIP Premium
@@ -143,7 +144,7 @@
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
   - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退回之后月份的费用。
-- MBA学生：https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/opt-out
+- MBA学生：https://msumcmaster.ca/info/health-dental-insurance/opt-out/
 
 看病
 -------------------------------------------
@@ -195,8 +196,8 @@
   C. CUPE指定的牙医诊所：
   
   - 寻找、预约医生 https://www.opencare.com/ 。
-  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后找“Equitable Life of Canada”。
-  - 此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周边有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
+  - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后找“Equitable Life of Canada”。此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周边有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
+  - 按CUPE官网的介绍，所有的诊所都可以用CUPE的保险报销100%。但部分服务，如洗牙，每年有次数限制；总的报销额度也不能超过$1000。大家在就诊之前一定要问清楚是否支持用CUPE的保险，以及在付款之前再次确认剩余的额度是否还可以报销。
 
 注：
 
@@ -264,7 +265,8 @@
  | Division #: Division #001 (Postdoctoral Fellow members are part of Division #002)
  | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
-- 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，附上所有看病的文件、收据等等。寄到表格里的地址。公司审核后会寄支票给你。
+- 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，扫描所有看病的文件、收据等等，然后发邮件给 group-dental-claims@equitable.ca 。
+- 方法3：整理方法2中的所有材料，寄到Dental Claim Form表格里的地址。公司审核后会寄支票给你。
 
 4. MSU Health/Dental Plan Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
 
@@ -359,6 +361,9 @@
    :scale: 25%
 
 | 第九步：这一步是完善个人信息，大家第一次使用需要填写一下。需要填写的信息有身份信息、住址、联系方式、银行信息等等。此外还包括需不需要为配偶等其他家庭成员买保险，没有此类需求的同学直接选不需要就可以了。填完后以后就不会出现这一步了。
+
+.. attention::
+   大家每次在报销之前都要再次检查一下自己的住址信息。因为报销信息确认有效之后，就诊费用是通过纸质的支票寄到这个住址。
 
 .. image:: /resource/Insurance/StudentCare_App_09.png
    :align: center

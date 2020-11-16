@@ -77,9 +77,6 @@
 - Mathematics & Statistics & MFM
 
   - QQ群：887137976，微信群：加入QQ群后，联系群主或群管理员
-- Computational Science & Engineering
-
-  - QQ群：225053068
 
 5. Social Sciences
 
