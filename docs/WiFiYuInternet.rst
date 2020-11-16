@@ -30,7 +30,7 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 - 对于学生来说，有两种VPN可以使用：
 
   - Student General VPN：VPN服务器地址：studentvpn.mcmaster.ca。如果大家需要访问保密权限比较高的网页，或者用学校图书馆下论文，可以使用这个。
-  - Express VPN For Students Located in China：麦马从2020年暑期开始针对中国学生新开的VPN服务。使用这个服务，在国内上网课可以减少网络延迟。此外还可以访问Gmail。
+  - Express VPN For Students Located in China：VPN服务器地址：express.mcmaster.ca。麦马从2020年暑期开始与阿里云合作，专门针对中国学生新开的翻墙VPN服务。使用这个服务，在国内上网课可以减少网络延迟。此外还可以访问Gmail。
 
 二、城市里的热点
 ----------------------------------------------

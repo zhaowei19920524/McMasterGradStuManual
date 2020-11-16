@@ -76,7 +76,7 @@ Hamilton：
 
 - 官网：https://www.cineplex.com/
 - 地址：795 Paramount Dr, Stoney Creek, ON L8J 0B4
-- 优惠：在McMaster Student Center里最南端的Compass有卖Cineplex的优惠码（Voucher），这样不管看什么电影都是$11.50。https://www.msumcmaster.ca/services-directory/4-compass-information-centre/event-tickets-discount-tickets
+- 优惠：在McMaster Student Center里最南端的Compass有卖Cineplex的优惠码（Voucher），这样不管看什么电影都是$11.50。https://msumcmaster.ca/service/compass/
 - 手机App：https://www.cineplex.com/App/default
 
   - iOS：https://apps.apple.com/ca/app/cineplex-mobile/id404011384
