@@ -117,8 +117,8 @@
 - MBA
 
   - UHIP
-  - MSU Health Plan
-  - MSU Dental Plan
+  - MSU Health Insurance
+  - MSU Dental Insurance
 - 联培学生（Visiting Student）
 
   - UHIP Premium
@@ -191,7 +191,7 @@
 
   B. MSU Dental Plan Insurance指定的牙医诊所：
 
-  - https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/dental-plan/dental-network
+  - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/
 
   C. CUPE指定的牙医诊所：
   
@@ -270,7 +270,7 @@
 
 4. MSU Health/Dental Plan Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
 
-- 方法1：打开MSU Health/Dental Plan Insurance的主页（https://www.msumcmaster.ca/services-directory/36-health-and-dental-insurance/health-plan/health-claims）。找到“HEALTH INSURANCE”或“DENTAL INSURANCE”。点开链接后有"CLAIM FORM"。按照网页里的步骤完成即可。
+- 方法1：打开MSU Health/Dental Plan Insurance的主页（https://msumcmaster.ca/info/health-dental-insurance/）。找到“Health Plan”或“Dental Plan”。点开链接后找到"Claims"。按照网页里的步骤完成即可。
 - 方法2：在ClaimSecure官网（https://www.claimsecure.com）注册eProfile, 进行Online claim。（无法报销HPV）
 
 .. image:: /resource/Insurance/ClaimSecure.png
@@ -300,7 +300,7 @@
 
 | 对于使用MSU Health Plan Insurance的学生：
 
-- 买疫苗后，填写打印Extended health care claim form。
+- 买疫苗后，填写打印Claim form。
 - 附上发票和表格，寄给ClaimSecure，地址：PO Box 6500, STN A, Sudbury, ON P3A 5N5 （claim form上面有地址，以最新的表格上的地址为准）
 
 附
