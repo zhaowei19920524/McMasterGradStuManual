@@ -133,10 +133,8 @@
 
 6. Macbook
 
-- MacBook Pro
-
-  - 强烈推荐至少从256GB的硬盘开始买。
-  - 不推荐MacBook（12寸）和MacBook Air。因为他们的屏幕分辨率和处理器的配置都太低了。
+  - MacBook Air/Pro: https://www.apple.com/ca/mac/
+  - 如果打算未来装Windows，则推荐至少从512GB的硬盘开始买。
 
 Intel处理器末尾字母含义
 ------------------------------------------
