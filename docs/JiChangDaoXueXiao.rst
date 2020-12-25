@@ -62,7 +62,21 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 欢迎各位学长学姐提供新生接机服务。如有意向，请联系17-CAS-赵伟，我们会把你的信息加到上面的名单里。
 
-方法三：网约车
+方法三：接机公司
+--------------------------------------
+加拿大有几家比较大的接机公司，这些接机公司和上面学长学姐接机类似，提供的都是door-to-door的服务，也就是说从机场可以直接送到住处，接机车辆通常以van为主，可以坐下3~4人，每个人都可以携带很多行李（不一定住一个地方，但至少在一个城市，不能相隔太远）。
+
+1. Airways Transit
+
+- 官网：https://www.airwaystransit.com/
+- 费用：https://www.airwaystransit.com/Private-Service/
+
+2. Smartgos Limousine Services
+
+- 官网：http://www.smartgos.com/
+- 费用：http://www.smartgos.com/fleets
+
+方法四：网约车
 --------------------------------------
 - Uber：https://www.uber.com/en/ca/
 - Lyft：https://www.lyft.com/
