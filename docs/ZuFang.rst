@@ -6,7 +6,8 @@
 
 McMaster政策
 ------------------------------------
-学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
+| https://housing.mcmaster.ca/future-residents/how-to-apply/upper-year-returning-and-transfer-students/
+| 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
 
 各类租房资源
 -----------------------
@@ -138,9 +139,9 @@ McMaster政策
 
 注意事项
 ---------------------------------
-1. 租房通常要交定金，定金绝大多数情况下是最后一个月的房租（https://www.ontario.ca/laws/statute/06r17#BK161）。一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚再决定。否则后悔就来不及了。 
+1. 租房通常要交定金，定金绝大多数情况下是最后一个月的房租（https://www.ontario.ca/laws/statute/06r17#BK166）。一旦交了定金，一般是不会退的。新生们交定金前务必调查清楚再决定。否则后悔就来不及了。 
 2. 房东没有义务为任何人留房间。除非你已经交了定金。否则房东依然会把房间给其他人。 
-3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。极少情况下房东允许租客提前离开（http://www.sjto.gov.on.ca/documents/ltb/Brochures/How%20a%20Tenant%20Can%20End%20Their%20Tenancy%20(EN).html）。如果和房东商量终止，最好有终止的协议（Form N11）。 http://www.sjto.gov.on.ca/documents/ltb/Other%20Forms/N11.pdf
+3. 违约：签了合同，中途毁约，法律上不是罚最后一个月租金的问题，是要每个月付租金直到合同期满，或者到转租出去为止。极少情况下房东允许租客提前离开（https://tribunalsontario.ca/documents/ltb/Brochures/How%20a%20Tenant%20Can%20End%20Their%20Tenancy%20(EN).html）。如果和房东商量终止，最好有终止的协议（Form N11）。 https://tribunalsontario.ca/documents/ltb/Other%20Forms/N11.pdf
 4. 如果大家合租apt，最好在签lease的时候加上所有合租人的名字，尽量不要一个人租下来再转租给其它人。如果每月交房租的money order或void cheque也能分开，那就更好了。这主要是出于以下情形考虑： 
 
  A) 如果房子出现损坏，那必须由lease上的人承担。转租给别人的情况，公寓管理员无法追求责任。 
@@ -148,11 +149,11 @@ McMaster政策
 
  | 强烈建议合租公寓的几个同学之间签Housemate Agreement，并且在跟公寓管理员签合同之前就能商量好相应的内容。它明确了舍友之间如何分担房租和水电网的开销、每个人住哪个房间、每个人的义务、暑期转租给他人时的要求，以及最为重要的提前离开（VACATES EARLY）的限制，这个对于接手已经租了一年以上apt的同学尤为重要，因为你的室友只要通知了房东和其他舍友，就可能在未来的2个月后搬走，这时如何分担房租就需要提前明确。学校提供的租房合同模板：https://housing.mcmaster.ca/off-campus/house-hunting/#tab-content-cohabiting-cohesively 网页里的“Helpful Documents”。
 
-5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：http://www.sjto.gov.on.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
+5. 接手别人住过了1年以上的apt，虽然可以随时搬走或转给其它人。但也有限制，就是如果只是其中某一个室友搬走，其它人依然继续住，则这个室友必须至少提前60天通知公寓管理员和另外继续住下去的室友（通知模板Form N9：https://tribunalsontario.ca/documents/ltb/Notices%20of%20Termination%20&%20Instructions/N9.pdf ，“From: (Tenant's name) include all tenant names”只填即将搬走的租客），如果没通知直接搬走，则会罚2个月的他那一份的房租。此外，如果是转租给其它人，现在依旧住下去的室友有权力不同意接手的人入住。
 6. 住house的同学一定要注意看合同里对于剪草和除雪的规定。在合同里一定要写明谁负责做这些事和出事谁负责。
 
   A) 因为house门口的草坪不剪草（杂草超过21cm，http://www2.hamilton.ca/NR/rdonlyres/70CCE6F4-BFD6-4C5F-B370-38A03707738A/0/10118.pdf ），第一次会收到纸质警告；第二次警告会交罚金（$238）；第三次开始，政府会强制派人清理草坪，房东或房客付人工费。
-  #) 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://d3fpllf1m7bbt3.cloudfront.net/sites/default/files/media/browser/2017-09-26/03296.pdf
+  #) 在冬天，如果没除雪导致行人在house门口的人行道上摔伤是需要房东或房客负责的。房东或房客必须在下雪后24h内清除house门口人行道上的积雪。https://www.hamilton.ca/sites/default/files/media/browser/2017-09-26/03296.pdf
   #) 更多相关规定：https://www.hamilton.ca/home-property-and-development/property-gardens-trees/property-use-by-laws
 
 7. Bedbug：Begbug就是国内的臭虫。这种在国内的城市里几乎灭绝的昆虫在Canada却经常见到。被bedbug叮咬后，不但会痛痒，而且传染疾病。不只是apt，即使是house也有闹bedbug的风险，可以说每栋apt都闹过bedbug。只不过apt里只要一家出了bedbug，可能会传染到整栋楼，因此apt里闹bedbug的新闻总是传播得沸沸扬扬的。
@@ -176,7 +177,7 @@ McMaster政策
 1. 相关部门
 
 - https://www.hamiltonjustice.ca/tenant-rights
-- http://www.sjto.gov.on.ca/ltb/
+- https://tribunalsontario.ca/ltb/
 
 2. 建议
 
@@ -185,7 +186,7 @@ McMaster政策
 
 附
 ------------------------------
-1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-11-15.xlsx>` 从Google地图里导出的数据，2020年11月15日更新）：
+1. Hamilton市区中的Zone1和downtown的主要公寓的位置（Google地图，国内的同学可能需要翻墙访问，如果访问不了，请 :download:`下载 <resource/ApartmentLocation2020-12-24.xlsx>` 从Google地图里导出的数据，2020年12月24日更新）：
 
 - 点击地图里你感兴趣的apt的气球，在弹出框里的中上部有apt官网的链接，里面有更多apt的信息（apt的户型结构在floor plan里）
 
