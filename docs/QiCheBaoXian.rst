@@ -1,6 +1,6 @@
 ﻿汽车保险
 =========================================
-在加拿大，汽车保险是法律规定要求，所有上路行驶的车辆所必备的，用于有效减少交通事故给车辆驾驶人员及乘客带来的经济损失。
+在加拿大，汽车保险（auto insurance）是法律规定要求，所有上路行驶的车辆所必备的，用于有效减少交通事故给车辆驾驶人员及乘客带来的经济损失。
 
 保险项目（Coverage）
 ------------------------------------------------------------
@@ -145,10 +145,137 @@
 
 附：TD麦马校友会保险优惠
 ---------------------------------------------------------
-当大家从麦马毕业拿到一个学位之后，就会自动加入McMaster University Alumni Association，成为麦马校友会的一员了。作为毕业福利的一部分，麦马校友会和TD Insurance Group早已谈好了相关合作。这样麦马的毕业生在购买汽车保险或房屋保险的时候，可以享受大幅度的折扣优惠。
+当大家从麦马毕业拿到一个学位之后，就会自动加入McMaster University Alumni Association，成为麦马校友会的一员了。作为毕业福利的一部分，麦马校友会和TD Insurance Group早已谈好了相关合作（TD Insurance Meloche Monnex program）。这样麦马的毕业生在TD购买汽车保险或房屋保险的时候，可以享受大幅度的折扣优惠。
 
 - 官网：https://www.tdinsurance.com/affinity/mcmasteralumni
 
+第一步：打开TD麦马校友会保险优惠官网，点击“Get a quote”按钮。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance00.png
+   :align: center
+
+第二步：在弹出的对话框里，选择需要购买保险的种类。这里，我以汽车保险举例。点击“Car”。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance01.png
+   :align: center
+
+第三步：输入车辆的Vehicle Identification Number（VIN，车辆识别代号）。VIN就像汽车的身份证号一样。世界上每一辆车都有一个独一无二的VIN。所以只要输入这个号码，保险公司就可以知道具体指的是哪一辆车了。这里，我们以一辆同学间比较流行的Nissan Versa举例。点“Next”。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance02.png
+   :align: center
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance02-2.png
+   :align: center
+
+第四步：通常情况下可以直接定位到具体某一辆车。但可能也需要自己选择具体型号。选好后点“Next”。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance03.png
+   :align: center
+
+第五步：选择车的状况
+
+- 如果是新车选“New”，如果是二手车选“Used”。
+- 选择车的付款方式。如果是全款购买的选“Owned”，如果是分期付款选“Owned (financed)”，如果是从车行长期租赁选“Leased”。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance04.png
+   :align: center
+
+第六步：选择未来一年预计行驶的里程数。选最短的就可以了，比如“1,000 km”。对于自己上班或者上学用，可以勾上“I commute to work or school”，如果大家住在学校附近，可以把通勤距离写成1km或者更短。点“Next”。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance05.png
+   :align: center
+
+第七步：选择保险开始的日期。这个日期就是拿到车当天的日期。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance06.png
+   :align: center
+
+第八步：一些可选的优惠和折扣。
+
+- 如果已经买了Winter tire（雪胎），则可以选第一个。
+- 选择是否参加TD MyAdvantage，强烈建议大家选Yes。这个是在手机上安装一个App，这个App可以实时记录你的开车的行为。如果开车习惯比较良好，第二年最多可以便宜25%。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance07.png
+   :align: center
+
+第九步：检查一下自己的麦马毕业生的优惠。还可以再添加2个团体优惠，比如毕业后去了另一个学校，或者进入一个公司。如果这个机构也跟TD有合作，则可以添加进去。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance08.png
+   :align: center
+
+第十步：填写自己驾照信息。如果是第一次在TD办理保险，填写后可能还要自己手动再输入一些个人信息。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance09.png
+   :align: center
+
+第十一步：同意隐私声明。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance10.png
+   :align: center
+
+第十二步：填写自己的姓名，出生年月日，婚姻状况。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance11.png
+   :align: center
+
+第十三步：填写当前的住址。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance12.png
+   :align: center
+
+第十四步：选择自己的驾照类型，考取驾照时的年龄和月份。以及自己过去三年是否参加过驾照理论课学习。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance13.png
+   :align: center
+
+第十五步：是否拥有美国驾照。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance14.png
+   :align: center
+
+第十六步：选择过去三年是否收到过罚单，以及过去6个月驾照是否被吊销过。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance15.png
+   :align: center
+
+第十七步：选择原来是否购买过汽车保险。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance16.png
+   :align: center
+
+第十八步：选择过去十年是否有过关于汽车保险的诈骗记录。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance17.png
+   :align: center
+
+第十九步：填写一下自己的电话和电子邮件地址。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance18.png
+   :align: center
+
+第二十步：最终保险的年费和月费已经估计完毕。由于之前我们使用的是一个已经在TD办过汽车保险的同学的驾照。所以最终显示的价格很便宜。正常情况下对于第一次办理保险的同学来说，如果超过25岁还有G牌，并且汽车不是很高档，则年费在$2500~$3000之间。
+
+- 汽车保险也是一种特殊的服务，不用收13%的消费税。所以网页里显示的就是最终价格。
+- 这个网页里的信息会通过邮件的形式发到电子邮箱里。（发件人的邮箱是@melochemonnex.com结尾的）
+- 如果大家对这个价格比较满意，就可以打网页中的客服电话办理了，记得保留“Quote #”。
+- TD汽车保险费用的支付比较自由，在和客服打电话的过程中，客服会问你支付的时间，是想一次付清，还是按月支付。如果是按月支付，每个月哪一天付款。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance19.png
+   :align: center
+
+- 网页里还列举了保险的详细信息。“Your Coverage”里列举的是上面介绍的强制保险项目。以及保险的年费分摊到每个项目里的费用。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance19-2.png
+   :align: center
+
+- “Optional Coverage”是上面介绍的一些额外的保险项目，推荐大家保持网页里的默认的选择。
+- 对于有家属的同学，可以点“Add driver”填加家属成员到保险中。因为只有把他们加到保险里，他们开车时出事故才会赔偿。
+- 对于住公寓的同学来说，公寓需要租客强制购买租客险，也可以和汽车保险一起购买。这样2个保险都可以享受优惠。
+
+.. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance19-3.png
+   :align: center
+
 .. admonition:: 本页作者
    
+   - 17-CAS-赵伟
    - 19-MBA-王乐雪
