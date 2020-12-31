@@ -112,13 +112,17 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 4. 选择银行：
 
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
-- 非GIC签证的同学：
+- 非GIC签证的同学：离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了（https://maps.rbcroyalbank.com/locator/searchResults.php?t=3652），大家可以去那里开户或询问其它问题，通常这个网点里一定有一个华人工作人员。以下是她的名片的正反面，大家可以发邮件，打电话，发短信。除了开户外，还可以询问其它投资、理财、保险等问题。
 
-(a) 离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了（https://maps.rbcroyalbank.com/locator/searchResults.php?t=3652），大家可以去那里开户或询问其它问题，通常这个网点里一定有一个华人工作人员。银行地点请查看附1中的Google地图。
+.. image:: /resource/bank/rbc_mcmaster_JingJin1.jpg
+   :align: center
+   :scale: 15%
 
-(b) 联系群里的16-MEEI-张宸赫。张宸赫学长在Hamilton市中心的CIBC任Financial Services Representative。其中就有开户、理财、投资等业务。下面是他的名片。
+.. image:: /resource/bank/rbc_mcmaster_JingJin2.jpg
+   :align: center
+   :scale: 15%
 
-.. image:: /resource/bank/CIBC_Chenhe_Zhang_contact.png
+.. image:: /resource/bank/rbc_mcmaster_JingJin3.jpg
    :align: center
    :scale: 50%
 

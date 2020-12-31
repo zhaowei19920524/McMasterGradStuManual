@@ -275,7 +275,31 @@
 .. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance19-3.png
    :align: center
 
+第二十一步：激活TD的App。一共有两个App需要下载
+
+1. TD Insurance
+
+- 官网：https://www.tdinsurance.com/tdimm/mobile-apps
+- 介绍：TD Insurance主要是查看和管理自己的保险服务。例如：查看在TD买了哪些保险，每种保险的详细信息、费用明细，以及更新自己的保险服务。
+- 手机App：
+
+  - iOS：https://apps.apple.com/ca/app/td-insurance/id942363671
+  - Android：https://play.google.com/store/apps/details?id=com.td.insurance
+
+2. TD MyAdvantage
+
+- 官网：https://www.tdinsurance.com/products-services/auto-car-insurance/my-advantage
+- 介绍：在第8步，如果我们选择了参与TD MyAdvantage，那么必须要下载这个App，并且长期使用，这样第二年才能可能享受20%~25%的保险折扣。根据官网答疑介绍（https://www.tdinsurance.com/products-services/auto-car-insurance/tips-advice/my-advantage-faq），必须在整个保险单年度里至少使用120天，并且至少要开1000公里。此外，需要把这个App设置成长期在后台（ Background）运行。
+- 手机App：
+
+  - iOS：https://apps.apple.com/ca/app/td-myadvantage/id1167767634
+  - Android：https://play.google.com/store/apps/details?id=com.td.myadvantage
+
+.. image:: /resource/QiCheBaoXian/TD_MyAdvantage.png
+   :align: center
+   :scale: 25%
+
 .. admonition:: 本页作者
    
-   - 17-CAS-赵伟
    - 19-MBA-王乐雪
+   - 17-CAS-赵伟

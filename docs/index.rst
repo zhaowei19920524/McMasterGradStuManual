@@ -78,15 +78,12 @@ Welcome to McMaster University!
    BanLiShouJiKa
    SINShenQing
    GongZuo
-   JiaZhao
-   GongJiaoChe
    Wan
    WiFiYuInternet
    HamiltonRiChangGouWuDiDian
    MaiJiaJu
    KanBingYuBaoXian
    FangWuBaoXian
-   QiCheBaoXian
    BaoShui
    KuaiDiGongSi
    YingShiZiYuan
@@ -95,6 +92,16 @@ Welcome to McMaster University!
    MeiGuoLvYouQianZheng
    RiBenLvYouQianZheng
    QiTAShengHuoJingYanHuiZong
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 五、交通类
+
+   GongJiaoChe
+   JiaZhao
+   ZuChe
+   MaiChe
+   QiCheBaoXian
 
 .. toctree::
    :maxdepth: 1
