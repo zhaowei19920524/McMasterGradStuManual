@@ -15,7 +15,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 第二步：乘坐Go bus长途汽车
 
-- https://www.torontopearson.com/en/transportation/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。大家记得准备好现金上车买票（至少$20，实际花费大概在$12左右，大家最好不要给司机$100大面额现金），Go Bus不能刷信用卡，老生可以使用Presto Card。
+- https://www.torontopearson.com/en/transportation/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。由于Go Bus已经不能再上车买票了，大家可以在上面的链接里买票（点击那个“BOOK NOW WITH GO TRANSIT”按钮），或者在Ground Level的大厅里找Go的vending machine自行买票。这两种方式都可以刷信用卡。
 - 起点：Pearson Airport (Terminal 1)。下车：Main St. W. @ Paisley Ave. S., Hamilton（Hamilton境内第一站也是离学校最近的一站）或 Hamilton Go Center（Hamilton终点站）
 
 .. attention::
@@ -23,7 +23,7 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 第三步：到Hamilton
 
-- 选择一：（建议新生）在终点站Hamilton Go Center下车，则下车地点在Hamilton的市中心。可以用车站的WiFi查找路线或联系接站的同学。如果连不上WiFi，可以用投币的电话打电话联系（请准备好零钱，可以在Go Bus上车付现金买票找零的时候，让司机多找几个硬币）。
+- 选择一：（建议新生）在终点站Hamilton Go Center下车，则下车地点在Hamilton的市中心。可以用车站的WiFi查找路线或联系接站的同学。如果连不上WiFi，可以用投币的电话打电话联系（如果没有零钱，可以找一个小卖铺买个零食等等换一些零钱，请不要拿$100大额纸币仅仅去买一瓶水）。
 - 选择二：（建议老生）在Main St. W. @ Paisley Ave. S., Hamilton下车，则下车地点在McMaster University东边不远处。（注：下车的地方没有WiFi，如果需要查找路线，新生需要办理国内电讯公司的国际漫游服务或北美流量包）。
 
 第四步：去Hamilton其它地方
