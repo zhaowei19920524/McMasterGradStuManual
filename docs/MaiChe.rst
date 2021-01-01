@@ -48,43 +48,35 @@
 
 三、按品牌区分
 
-1. 日系车
+1. 日系车：日系车可以说是最常见的车型了，也是最耐开的车型之一。常见有以下几种
 
-- 日系车可以说是最常见的车型了，也是最耐开的车型之一。常见有以下几种
+- 丰田：Toyota https://www.toyota.ca/
+- 日产：Nissan https://www.nissan.ca/
+- 本田：Honda https://www.honda.ca/
+- 三菱：Mitsubishi https://www.mitsubishi-motors.ca/
+- 马自达：Mazda https://www.mazda.ca/
+- 斯巴鲁：Subaru https://www.subaru.ca/
 
-  - 丰田：Toyota https://www.toyota.ca/
-  - 日产：Nissan https://www.nissan.ca/
-  - 本田：Honda https://www.honda.ca/
-  - 三菱：Mitsubishi https://www.mitsubishi-motors.ca/
-  - 马自达：Mazda https://www.mazda.ca/
-  - 斯巴鲁：Subaru https://www.subaru.ca/
+2. 德系车：德系车有平民化的车型，也有我们熟知的豪车
 
-2. 德系车
+- 大众：Volkswagen https://www.vw.ca/en.html
+- 奥迪：Audi https://www.audi.ca/ca/web/en.html
+- 奔驰：Mercedes-Benz https://www.mercedes-benz.ca/en/home
+- 宝马：BMW https://www.bmw.ca/en/home.html
 
-- 德系车有平民化的车型，也有我们熟知的豪车
+3. 韩系车：包括我们熟知的现代外，大体有以下2种
 
-  - 大众：Volkswagen https://www.vw.ca/en.html
-  - 奥迪：Audi https://www.audi.ca/ca/web/en.html
-  - 奔驰：Mercedes-Benz https://www.mercedes-benz.ca/en/home
-  - 宝马：BMW https://www.bmw.ca/en/home.html
+- 起亚：KIA https://www.kia.ca/home
+- 现代：Hyundai https://www.hyundaicanada.com/
 
-3. 韩系车
+4. 美系车：美系车种类繁多，优势主要在维修零件费用略便宜
 
-- 包括我们熟知的现代外，大体有以下2种
-
-  - 起亚：KIA https://www.kia.ca/home
-  - 现代：Hyundai https://www.hyundaicanada.com/
-
-4. 美系车
-
-- 美系车种类繁多，优势主要在维修零件费用略便宜
-
-  - 福特：Ford https://www.ford.ca/
-  - 雪佛兰：Chevrolet https://www.chevrolet.ca/en
-  - 道奇：Dodge https://www.dodge.ca/en
-  - 别克：Buick https://www.buick.ca/en
-  - GMC https://www.gmccanada.ca/en
-  - Jeep https://www.jeep.ca/en
+- 福特：Ford https://www.ford.ca/
+- 雪佛兰：Chevrolet https://www.chevrolet.ca/en
+- 道奇：Dodge https://www.dodge.ca/en
+- 别克：Buick https://www.buick.ca/en
+- GMC https://www.gmccanada.ca/en
+- Jeep https://www.jeep.ca/en
 
 四、其它区分方式
 
@@ -115,24 +107,25 @@
 - 一般经销商都提供了3种付款方式：
 
   - Cash（全款购买）：经销商最希望顾客采用这种方式，并且车保险也略便宜些。如果顾客可以全款购买，还会享受几百甚至上千加元的折扣。所以我们也最推荐这种方式。如果想用这种方式，去银行开一张Bank Draft作为Cash就可以了。
-  - Financed（分期付款）：如果手里现有的钱不足以全款购买，可以先付一部分，剩余部分分期支付。通常分期付款在长达7年内都不会有额外的利息。但全款购买时上千加元的折扣就不会有了。
-  - Lease（长期租赁）：这里的lease是长期租车，不像Enterprise或者Discount那种只租1天或者几天。可能至少也要租2年，并且还有总里程数限制。长期租车可以按月或者每2周付一次租金。等租期结束要把车归还车行，或者以一个比较低的价格买下。但总的费用还是很高的。
+  - Finance（分期付款）：如果手里现有的钱不足以全款购买，可以先付一部分，剩余部分分期支付。通常分期付款在长达7年内都不会有额外的利息。但全款购买时上千加元的折扣就不会有了。
+  - Lease（长期租赁）：这里的lease是长期租车，不像Enterprise或者Discount个租车公司那种只租1天或者几天。可能至少也要租2年，并且还有总里程数限制。长期租车可以按月或者每2周付一次租金。等租期结束要把车归还车行，或者以一个比较低的价格买下。但总的费用还是很高的。
 
 3. 汽车一定要有哪些功能。很多同学不但对于车辆是小白，可能也是开车的新手，因此一些功能可能一定要有
 
 - CVT：自动挡
 - Rearview Camera：倒车影像
-- Android Auto & Apple Carplay + Smartphone Link Display：手机车载系统+显示屏。在方向盘的右边有个显示屏 ，当打开Google地图等导航软件时，可以显示路径规划，并且还有语音提示
-- Power Windows：电动控制车玻璃起降，并且在司机位置的那个门上可以直接控制所有车窗的开关。
+- Android Auto & Apple Carplay + Smartphone Link Display：手机车载系统+显示屏。在方向盘的右边有个显示屏 ，当打开Google地图等导航软件时，可以显示路径规划，并且还有语音提示。
+- Power Windows：电动控制车玻璃起降，并且在司机位置的那个门上可以直接控制所有的车窗。
 - Power Door + Remote Keyless Entry：电动控制车门锁。通常这种车的车钥匙还带有遥控器的功能，可以在车钥匙上按键锁车、开锁、鸣笛等。
 
 4. 现在很多略高端的车还有智能辅助系统和更舒适的环境，大家预算比较充足的话有兴趣也可以关注一下：
 
-- Blind Spot Monitor（盲点提示）
+- Blind Spot Monitor：盲点提示。按加拿大的法律在变道时要转头看盲点。如果有了盲点提示就可以省略这一步了。
 - Lane Departure Alert：压线警报。在开车过程中自动检测轮胎是否压白线，蹭到另外的车道上。
-- Bird’s Eye View或360-degree view：360度雷达或者影像（通常在停车场里可以自动提示车周围是否有障碍物或者人，以免发生碰撞）
-- 座椅电动调节、加热。
+- Bird’s Eye View或360-degree view：360度雷达或者影像。通常在停车场里可以自动提示车周围是否有障碍物或者人，以免发生碰撞。
 - de-icing或heated mirrors：电动加热车玻璃除雪、除冰。
+- Push button start：一键启动。普通的汽车都是插入车钥匙并且转动进行发动机点火操作。而一键启动的汽车则被一个按钮代替了。
+- 座椅电动调节高度前后位置、加热。
 - 电动打开和关闭后备箱等。
 
 我们以购买新车为例，打开上面那些车型的加拿大官方网站，就可以看到经销商列举的各种车型，每种车型都有一个名字。例如一些价格比较平民化的、同学购买的比较多的车型（$20000以下）：Nissan Micra/Versa，Mitsubishi Mirage，Chevrolet Spark；一些略高档的车型（$20000~$30000）：Nissan Altima，Toyota Corolla（卡罗拉），Volkswagen Tiguan（途观）
@@ -187,7 +180,7 @@
 .. image:: /resource/MaiChe/Mitsubishi09.png
    :align: center
 
-第十步：这里列举了汽车的详细信息，我们看到汽车总得价格由若干部分组成：
+第十步：这里列举了费用的详细信息，我们看到汽车总得价格由若干部分组成：
 
 - Price as Configured：汽车的原始价格。
 - Rebates：折扣。在左边列举了4种折扣。与我们可能有关的是“Education Edge”和“Loyalty”。
@@ -280,6 +273,21 @@
 - 除雪刷（Snow Brush）
 
 4. 如果大家买的是二手车，可以考虑购买Canadian Automobile Association（CAA）的会员。CAA的会员带有Roadside Assistant的服务，以免真的在半路上抛锚。单独呼叫一次服务的价格真的很贵。https://www.caasco.com/auto/roadside-assistance
+5. 停车（parking）：停车要考虑2个方面，一是怎么停自己家，二是是不是要停学校。
+
+- 首先是停自己家。不论如何都要保证自己家可以停车。
+
+  - 对于住house的同学：house通常都有车库，即使车库不让用，也可以停在driveway（由私人住房通到大路的私人车道）上。如果driveway被占用了或者也不让用，就只能想办法停在路边（On-Street Parking）了，但通常路边只能停2个小时，即使house住户的车也不例外。所以，想停在路边需要办理Municipal Parking Permit。年费大概$100多一点。这样就不受时间限制了，并且不但可以停自己家门口，在整个社区都可以。例如house在Westdale，则Westdale任何一个没有禁止停车的路段都可以停。办理方法是发邮件给 parking@hamilton.ca 。https://www.hamilton.ca/streets-transportation/tickets-parking/street-parking
+  - 对于住apartment的同学：apartment通常都有地下停车场，或者是guaranteed的停车位，每个月大概$40~80不等。apartment属于商业用地。不可以办理Municipal Parking Permit。
+- 接着是停学校。学校给学生提供了专门的停车场在Lot M。
+
+  - 官网：https://parking.mcmaster.ca/
+  - 费用：$50多/月。https://parking.mcmaster.ca/Rates.html
+  - 办理：发邮件给 parking@mcmaster.ca
+  - 解释：在学校停车需要购买的进入停车场时自己检测车辆的卡片Transponder。https://parking.mcmaster.ca/Transponder.html 。此外Lot M是离校园最远的停车场，步行到学校中心大概要走1km多，这可能比自己的住处到学校中心的距离还远。大家如果不是住的离学校太远，还是考虑步行或坐公交车吧。
+
+.. image:: /resource/MaiChe/LotM.png
+   :align: center
 
 至此大家就完成了买车的所有流程，可以开始享受自己的新车了。
 

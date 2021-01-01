@@ -290,12 +290,19 @@
 
 - 官网：https://www.tdinsurance.com/products-services/auto-car-insurance/my-advantage
 - 介绍：在第8步，如果我们选择了参与TD MyAdvantage，那么必须要下载这个App，并且长期使用，这样第二年才能可能享受20%~25%的保险折扣。根据官网答疑介绍（https://www.tdinsurance.com/products-services/auto-car-insurance/tips-advice/my-advantage-faq），必须在整个保险单年度里至少使用120天，并且至少要开1000公里。此外，需要把这个App设置成长期在后台（ Background）运行。
+- 激活：TD MyAdvantage的需要activation code。这个激活码会在保险生效当天的某个时间发给你。收到之后应尽快激活使用。
 - 手机App：
 
   - iOS：https://apps.apple.com/ca/app/td-myadvantage/id1167767634
   - Android：https://play.google.com/store/apps/details?id=com.td.myadvantage
 
 .. image:: /resource/QiCheBaoXian/TD_MyAdvantage.png
+   :align: center
+   :scale: 25%
+
+至此，TD的保险就办理完毕了。正常情况下会先收到临时的保险卡（Temporary Automobile Liability Insurance Card），而纸质的正式的保险卡（Pink Card）会通过邮寄的方式寄给你。平时开车的时候必须随车携带。
+
+.. image:: /resource/QiCheBaoXian/PinkCard.png
    :align: center
    :scale: 25%
 
