@@ -100,10 +100,9 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 - 方法1：在presto官网充值。可以一次性充值几十刀，或者设置Auto Reload，当卡里余额少于一定数目时自动从信用卡里充值。
 - 方法2：McMaster Student Center一楼大厅里最南边的Presto服务柜台。
 - 方法3：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
-- 方法4：（仅限Go Bus）上车充钱。就是准备好现金，上车的时候把现金给司机，然后司机帮你充钱。这种方法不适用于HSR公交系统。并且最好不要在起点站用这种方法，司机会觉得你在耽误时间。
 
 .. attention::
-   - 如果使用方法2、3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
+   - 如果使用方法2、3充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
 
 8. Presto Card手机App
 
@@ -120,7 +119,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 - iOS：https://itunes.apple.com/us/app/triplinx-2-0/id1226529747
 - Android：https://play.google.com/store/apps/details?id=ca.metrolinx.triplinx
 
-更加具体的信息请看：https://gsamcmaster.files.wordpress.com/2018/08/hsr-bus-pass-faq-aug-2018.pdf 和 https://gsamcmaster.org/hsr/
+更加具体的信息请看：https://gsa.mcmaster.ca/services/hsr/
 
 Hamilton公交车
 -----------------------------------------------
@@ -236,7 +235,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 - 付费时，可以使用现金或刷Presto卡，不能使用信用卡。使用Presto卡可以获得相应的打折。这里，不管Presto卡里有没有U-Pass，都会扣去相应的费用。
 
   - 对于自己申请的presto card，计费类型（Fare Type）是Adult，通常比直接付现金便宜11.15%。详细政策可以看这个链接里Go Transit的介绍：https://www.prestocard.ca/en/about/paying-for-transit
-  - 对于能免费在Hamilton乘车的学生，在8月份给自己presto卡加载优惠码（Voucher Code）的时候，Fare Type会自动变为PS1（Post Secondary）。这样就会比直接付现金便宜18%。https://www.gotransit.com/en/trip-planning/going-to-school
+  - 对于能免费在Hamilton乘车的学生，在8月份给自己presto卡加载优惠码（Voucher Code）的时候，Fare Type会自动变为PS1（Post Secondary）。这样就会比直接付现金便宜22.5%。https://www.gotransit.com/en/trip-planning/going-to-school
 - Transferring to/from local transit agencies，刷Presto卡在Go Transit长途车（包括汽车和火车）和市内公交系统之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit （看网页Go Transit那一栏的标题）
 
   - 如果先坐市内公交车，并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车，并在3个小时内转乘市内公交车，则乘坐市内公交车的的费用会非常低。
@@ -258,7 +257,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 5. 乘坐Go Bus方法：
 
 - 第一步：查好上车时间、找到Go Bus车站（没有必要一定去Go Center乘坐），等待Go Bus到来。强烈建议大家查好时间再等车，一般提前10~20分钟去车站等车即可。
-- 第二步：上车刷Presto卡或付现金。如果付现金，司机会找零。
+- 第二步：提前在网上买好车票（https://tickets.gotransit.com/en-us/）或上车刷Presto卡。Go Bus已经不能在上车的时候付现金买票了。
 - 第三步：准备下车。听到报站或观察到马上要下车，则需要“告诉”司机，方法和乘坐HSR市内公交车类似，按一下车里座位附近红色的Stop按钮或其它标有Stop的按钮。不可以直接对司机说话。
 - 第四步：下车。如果刷Presto卡上车，则 **下车的时候务必再次刷Presto卡** ，否则计费系统会默认为你一直坐到终点站。此外也需要感谢司机，走出车门的时候需要礼貌的对司机说“Thank you”。
 
@@ -305,9 +304,9 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 - 费用：
 
   - http://www.ttc.ca/Fares_and_passes/Prices/Prices.jsp
-  - 付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3/次（2017年）。2小时内免费换乘。
+  - 付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3.2/次（2020年）。2小时内免费换乘。
   - 乘坐地铁和公交车每次的价格是一样的
-- 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass：http://www.ttc.ca/Fares_and_passes/Passes/Day_Pass/index.jsp ，这样当日乘车的时候就不用再付费了。费用是：$12.50/天（2017年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
+- 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass，这样当日乘车的时候就不用再付费了。费用是：$13.50/天（2020年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
 - Transferring to/from GO Transit or UP Express，刷Presto卡在Go Transit长途车（包括汽车和火车）和TTC之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit
 
   - 如果大家用含有U-Pass的Presto卡，先坐TTC并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
@@ -382,7 +381,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 - 贯穿Canada全境的长途汽车。大家可以坐这个长途汽车去其它省份，甚至去美国。在安大略省，大家同样可以乘坐它去London（例如：西安大略大学）或Windsor（例如：温莎大学），也可以乘坐它去Blue Mountain滑雪场。
 - 官网：https://www.greyhound.ca/
-- 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE（https://www.greyhound.ca/en/locations/terminal.aspx?city=127191）。Google Map不能查到Greyhound的路线。
+- 车站查询：https://www.greyhound.ca/en/locations/default.aspx 。Hamilton的车站在HAMILTON GO CENTRE。Google Map不能查到Greyhound的路线。
 
 出租车
 ------------------------------------------
@@ -412,7 +411,6 @@ Canada绝大多数出租车和国内的出租车类似，只不过不能使用�
 
   - iOS：https://itunes.apple.com/ca/app/blue-line-taxi-hamilton-on/id1048995392?mt=8
   - Android：https://play.google.com/store/apps/developer?id=Blue+Line+Taxi+Hamilton
-- 费用估计：https://api.taxihail.com/BluelineHamilton/
 
 3. Uber：原来在国内叫“优步”，是一家世界连锁的出租车公司。
 
@@ -425,7 +423,7 @@ Canada绝大多数出租车和国内的出租车类似，只不过不能使用�
 
   - iOS：https://itunes.apple.com/app/uber/id368677368?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.ubercab
-- 费用估计：https://www.uber.com/en-CA/fare-estimate/
+- 费用估计：https://www.uber.com/ca/en/price-estimate/
 
 以上三家公司的出租车，Hamilton Cab是最便宜的，其次是Blue Line Taxi和Uber。大家可以在出发之前在3家公司的App里比较一下价格再决定乘坐哪一个。
 
@@ -443,11 +441,7 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
   - iOS：https://itunes.apple.com/app/apple-store/id641497286
   - Android：https://play.google.com/store/apps/details?id=com.socialbicycles.app
 
-- 价格（请在手机App上查看）：如果经常骑自行车的同学，可以购买$12的“McMaster Student Monthly”，每天可以骑90min不用额外花钱。如果仅仅想体验一下，可以使用“Pay As You Go”，这样每骑1小时是$5.4。
-
-.. image:: /resource/bus/SoBi_pricing.png
-   :align: center
-   :scale: 25%
+- 价格（请在手机App上查看）：如果经常骑自行车的同学，可以购买$20的“McMaster Student Monthly”，每天可以骑90min不用额外花钱。如果仅仅想体验一下，可以使用“Pay As You Go”，这样每骑1分钟是$0.15。
 
 注：用完之后没有锁在桩上，或没有正确锁住，会收罚金。 https://hamilton.socialbicycles.com/#memberships
 
@@ -459,7 +453,7 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
  
 - 已经在PRESTO网上注册过的卡
 
-  - 补办新卡在Customer Service Centre (Compass Information Centre, HSR Customer  Service Centre, GO Transit)。Compass Information Centre：https://www.msumcmaster.ca/services-directory/4-compass-information-centre
+  - 补办新卡在Customer Service Centre (Compass Information Centre, HSR Customer  Service Centre, GO Transit)。Compass Information Centre：https://msumcmaster.ca/service/compass/
   - 补卡需要缴纳$16(其中$6为卡片工本费，$10为最少储存金额)。
   - 一旦拿到新补办的卡后，请通过以上的方式联系PRESTO公司，将原本的U-pass转移到新的卡片上。
 - 未在PRESTO网上注册过的卡

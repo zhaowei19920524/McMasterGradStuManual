@@ -48,12 +48,12 @@ Hamilton水电气公司
 1. 水电（Hydro）
 
 - Hamilton水电公司是由Horizon Utilities（现在已经并入Alectra ​Utilities）运营的。
-- 网址：https://www.horizonutilities.com/
+- 网址：https://alectrautilities.com/
 - 如果需要开户则打官网主页上Hamilton地区的电话。Hamilton: 905-522-9200。打电话的时候告诉他你要为某一个apt里的unit或house开户，然后回答问你的各种问题就可以了。
 - 注意事项：
 
   - 水：正像美国电影里演的那样，Canada的自来水也是可以直接饮用的（https://www.hamilton.ca/home-property-and-development/water-sewer/water-quality）。而经过house或apt锅炉加热后则不可饮用，因为热水的蓄水池可能长期没消毒，频繁烧开同样的水容易产生有害物质，并且热水会有助于细菌病毒的生长。其实不管是冷的还是热的自来水都不建议饮用。因为你永远都不知道输水管道多长时间没有清理了。还是建议大家保持在国内的喝水习惯，买一个电热水壶（kettle），煮沸后再喝。
-  - 电：大家住的House或apartment可能电费要另付，这就需要考虑省电的问题了。Hamilton的电费是按时段收费的。Weekdays中午费率最高。晚上和周末节假日费率最低（https://www.horizonutilities.com/myHome/ElectricityRates/Pages/TOU.aspx）。所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
+  - 电：大家住的House或apartment可能电费要另付，这就需要考虑省电的问题了。Hamilton的电费是按时段收费的。Weekdays中午费率最高。晚上和周末节假日费率最低（https://alectrautilities.com/time-use-pricing）。所以，白天去学校的时候尽量把特别耗电设备关闭。尤其夏天的时候的空调。
 
 .. image:: /resource/ElectronicRates.jpg
    :align: center

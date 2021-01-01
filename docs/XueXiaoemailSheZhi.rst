@@ -18,7 +18,7 @@
 网址：
 
 - 本科生、研究生、联培学生：https://studentmail.mcmaster.ca
-- Post doc、访问学者和学校教职工：http://mail.mcmaster.ca/ （如果登录时显示系统错误，可以直接尝试使用 https://outlook.office.com ,如果还是有错，可以使用浏览器的inPrivate或inCognito模式）
+- Post doc、访问学者和学校教职工：http://mail.mcmaster.ca/ （如果登录时显示系统错误，可以直接尝试使用 https://outlook.office.com 。如果还是有错，可以使用浏览器的inPrivate或inCognito模式）
 
 账户：
 

@@ -7,11 +7,13 @@ iPhone
 --------------------------------
 这个其实没什么好说的。想提醒大家一定要购买保护套和手机膜（最好从国内带来，这边太贵并且样式太少）。apple的保修只保修因为自身零件缺陷而导致的损坏，不保修用户意外损坏。
 
+此外，Apple提供电池更换服务：https://support.apple.com/en-ca/iphone/repair/service/battery-power
+
 Mac
 -----------------------------
 1) MacBook
 
-- MacBook Pro：带有retina屏幕的笔记本电脑，分为13寸和15寸两种。13寸高配版和15寸带有touch bar。15寸的版本带有独立显卡。但他们都没有全尺寸的USB接口。
+- MacBook Pro：带有retina屏幕的笔记本电脑，分为13寸和16寸两种。16寸的版本带有独立显卡。但他们都没有全尺寸的USB接口。
 - MacBook Air：MacBook Pro的低配版。
 
 2) iMac
@@ -45,6 +47,7 @@ Apple推出的平板电脑。分为iPad（9.7英寸）和iPad Pro（10.5和12.9�
 
 注
 -----------------------------------
-1) Apple的学生优惠并不一定是9折。很多新发布的产品是没有学生优惠的或优惠幅度极小。
+1) MacBook Air、MacBook Pro 13寸和Mac mini使用的是Apple自己研发的基于ARM的M系列处理器，无法安装Windows。
+#) Apple的学生优惠并不一定是9折。很多新发布的产品是没有学生优惠的或优惠幅度极小。
 #) Fusion Drive：Apple独有的复合硬盘技术，把SSD（固态硬盘）集成在HDD（机械硬盘）中。通常1TB Fusion Drive由32GB SSD和1TB HDD组成。大于1TB的Fusion Drive，都是由128GB的SSD和相应大小的HDD组成。
 #) 新的MacBook全系列笔记本电脑都只带有USB Type-C接口，但均没有全尺寸的USB接口。因而无法直接使用外接鼠标键盘U盘等等，大家如果购买这两款笔记本电脑，请自行购买转换器。或直接买带有USB Type-C接口的U盘和键鼠。
