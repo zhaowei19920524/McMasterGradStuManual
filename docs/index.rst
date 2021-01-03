@@ -105,7 +105,7 @@ Welcome to McMaster University!
 
 .. toctree::
    :maxdepth: 1
-   :caption: 五、电脑、软件类
+   :caption: 六、电脑、软件类
 
    MicrosoftChanPin
    AppleChanPin
