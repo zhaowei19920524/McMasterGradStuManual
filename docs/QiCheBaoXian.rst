@@ -228,7 +228,7 @@
 .. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance13.png
    :align: center
 
-第十五步：是否拥有美国驾照。
+第十五步：是否拥有加拿大其它省份的驾照或者美国驾照。
 
 .. image:: /resource/QiCheBaoXian/TDMcMasterAlumniInsurance14.png
    :align: center

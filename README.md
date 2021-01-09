@@ -2,10 +2,10 @@
 McMaster研究生新生手册
 
 # Branch
-1. master: Production, build for http://mcmaster.readthedocs.io/en/latest/
-2. staging: Test before Production, build for http://mcmaster.readthedocs.io/en/staging/
+1. master: Production, build for http://mcmaster.readthedocs.io/zh/latest/
+2. staging: Test before Production, build for http://mcmaster.readthedocs.io/zh/staging/
 
-So when you update code. First push to staging branch, readthedocs will automatically compile the code (you can look at the compile process in https://readthedocs.org/projects/mcmaster/builds/). It will show you the result in http://mcmaster.readthedocs.io/en/staging/ . If everything is Okay, make a pull request to merge staging into master. readthedocs will compile http://mcmaster.readthedocs.io/en/latest/ .
+So when you update code. First push to staging branch, readthedocs will automatically compile the code (you can look at the compile process in https://readthedocs.org/projects/mcmaster/builds/). It will show you the result in http://mcmaster.readthedocs.io/zh/staging/ . If everything is Okay, make a pull request to merge staging into master. readthedocs will compile http://mcmaster.readthedocs.io/zh/latest/ .
 
 # Development guide for Collaborators
 ## 0. first time usage
@@ -72,10 +72,10 @@ git push origin staging
 ## 4. check result and merge to master branch
 you can view the compile process: https://readthedocs.org/projects/mcmaster/builds/
 
-view the result: http://mcmaster.readthedocs.io/en/staging/
+view the result: http://mcmaster.readthedocs.io/zh/staging/
 
 If it looks Okay then make a pull request from staging to master, then merge the code.
 
 **I highly recommand you guys to make a code review or contact me before merging into master**
 
-Once merged, the result will show in: http://mcmaster.readthedocs.io/en/latest/
+Once merged, the result will show in: http://mcmaster.readthedocs.io/zh/latest/
