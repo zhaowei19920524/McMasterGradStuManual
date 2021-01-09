@@ -31,7 +31,7 @@
 
 2. Hatchback（掀背车）
 
-- 掀背车的后备箱是向上打开的，当然这跟其它的轿车也没有区别。主要区别有：掀背车是两厢车（也是2排座位），后备箱的门关闭状态下几乎垂直地面的，当然也有的倾斜的；掀背车的后车玻璃一定是和车门连在一起的。通常情况下，掀背车比轿车要稍微小一点。
+- 掀背车的后备箱是向上打开的，当然这跟其它的轿车也没有区别。主要区别有：掀背车是两厢车（也是2排座位），后备箱的门关闭状态下几乎垂直地面，当然也有倾斜的；掀背车的后车玻璃一定是和车门连在一起。通常情况下，掀背车比轿车要稍微小一点。
 - 下面这个图（来自Wikipedia）比较了Sedan（上）和Hatchback（下）的大体区别。
 
 .. image:: /resource/MaiChe/Three_body_styles_with_pillars_and_boxes.png
@@ -86,14 +86,14 @@
 - Electric：电动车。消耗的是电力，动力系统是电动机。
 - Hybrid：混合动力。既有内燃机又有电动机。又可以燃油又可以用电。这种车比较省油，在下坡或者发动机空转的时候，会自动给电池充电。
 
-2. 变速系统：
+2. 变速系统：变速系统仅针对使用内燃机（engine）的汽车，而纯电动车不会有变速系统。
 
 - 自动挡（Automatic Transmission，AT）：操纵杆只有P（停车）、R（倒车）、D（前进）、N（空档）等几个选项。自动挡也有很多种，以下列举可能在买车时遇到的几种，大家看到后直接认为是自动挡的车就可以了。
 
   - HAT（Hydraulic Automatics Transmission，多数时候也简称AT）：液力自动变速器。这是最常见的自动挡。内部有4~8个变速齿轮，也就是有4~8个档位。发动机根据油门和车速等自动调节。成本较低，但换挡时有顿挫感。
   - CVT（Continuously Variable Transmission）：无级自动变速器。没有明确的档位，齿轮的槽宽是连续增加的。变速平滑完全不会有顿挫感，但换到较快的档位比较缓慢。
   - DCT（Dual-clutch transmission）：双离合器变速器。虽然还是有变速齿轮，但是有两套离合器分别控制奇数和偶数档位，在换到一个档位时下一个档位已经准备好了。因此DCT同时具有HAT和CVT的优点，也同时避免了它们的缺点。但成本较高。
-  - AMT（Automated Mechanical Transmission）：机械式自动变速器。和HAT类似，有单独的变速齿轮。变速方式和手动挡也类似，用的是机械方式。其实可以理解为手动挡的构造，然后变速时发动机自动决定的。因此感觉上和HAT类似。
+  - AMT（Automated Mechanical Transmission）：机械式自动变速器。和HAT类似，有单独的变速齿轮。变速方式和手动挡类似，用的是机械方式。其实可以理解为手动挡的构造，然后变速的一系列动作是发动机自动决定并完成的。因此感觉上和HAT类似。
 - 手动挡（Manual Transmission，MT）：操纵杆上会有很多数字标注的档位。当然也配有左脚的离合器。
 
 买车流程之一：看车
@@ -107,7 +107,7 @@
 - 如果是买新车或者官方翻新的二手车，直接去上面列举的经销商在加拿大的官网就可以了。
 - 如果买的是Used的车，可以去Autotrader等比较大型的汽车交易平台寻找，或者时刻关注各种群里转让二手车的消息。
 
-2. 我有多少预算，如何付款
+2. 有多少预算，如何付款
 
 - 一般经销商都提供了3种付款方式：
 
@@ -280,16 +280,16 @@
 4. 如果大家买的是二手车，可以考虑购买Canadian Automobile Association（CAA）的会员。CAA的会员带有Roadside Assistant的服务，以免真的在半路上抛锚。单独呼叫一次服务的价格真的很贵。https://www.caasco.com/auto/roadside-assistance
 5. 停车（parking）：停车要考虑2个方面，一是怎么停自己家，二是是不是要停学校。
 
-- 首先是停自己家。不论如何都要保证自己家可以停车。
+- 停自己家：不论如何都要保证自己家可以停车。
 
   - 对于住house的同学：house通常都有车库，即使车库不让用，也可以停在driveway（由私人住房通到大路的私人车道）上。如果driveway被占用了或者也不让用，就只能想办法停在路边（On-Street Parking）了，但通常路边只能停2个小时，即使house住户的车也不例外。所以，想停在路边需要办理Municipal Parking Permit。年费大概$100多一点。这样就不受时间限制了，并且不但可以停自己家门口，在整个社区都可以。例如house在Westdale，则Westdale任何一个没有禁止停车的路段都可以停。办理方法是发邮件给 parking@hamilton.ca 。https://www.hamilton.ca/streets-transportation/tickets-parking/street-parking
   - 对于住apartment的同学：apartment通常都有地下停车场，或者是guaranteed的停车位，每个月大概$40~80不等。apartment属于商业用地。不可以办理Municipal Parking Permit。
-- 接着是停学校。学校给学生提供了专门的停车场在Lot M。
+- 停学校：学校给学生提供了专门的停车场在Lot M（https://parking.mcmaster.ca/Undergrad_Parking.html）。
 
   - 官网：https://parking.mcmaster.ca/
   - 费用：$50多/月。https://parking.mcmaster.ca/Rates.html
   - 办理：发邮件给 parking@mcmaster.ca
-  - 注意：在学校停车需要购买的进入停车场时自动检测车辆的卡片Transponder。https://parking.mcmaster.ca/Transponder.html 。此外Lot M是离校园最远的停车场，步行到学校中心大概要走1km多，这可能比自己的住处到学校中心的距离还远。大家如果不是住的离学校太远，还是考虑步行或坐公交车吧。
+  - 注意：在学校停车需要购买进入停车场时自动检测车辆的卡片Transponder。https://parking.mcmaster.ca/Transponder.html 。此外Lot M是离校园最远的停车场，步行到学校中心大概要走1km多，这可能比自己的住处到学校中心的距离还远。大家如果不是住的离学校太远，还是考虑步行或坐公交车吧。
 
 .. image:: /resource/MaiChe/LotM.png
    :align: center
@@ -302,7 +302,7 @@
 2. 如果不是真的着急想买车开，可以等到毕业之后找到工作再买。原因有很多：
 
 - 工作之后有了稳定的收入可以第一次就买个稍微高档一点的车。高档一点的车体验确实很好，并且可以开很久不用换新的。
-- 通常经销商都对刚毕业学生提供折扣。
+- 通常经销商都对刚毕业的学生提供折扣。
 - 如果不打算全款买车，Finance或者Lease可能都需要提供稳定的收入证明，那工作的offer就是最好的证明。否则经销商可能不同意以Finance或Lease的方式把车给你。
 - 还有一个很重要的原因是保险的费用。如果不满25岁并且只有G2驾照，保险的年费可能至少也在$3500以上，甚至有同学保险的年费高达$6000。而毕业之后，通常已经满25岁了，G牌驾照也拿到手了，再加上麦马毕业生在TD那办理汽车保险有优惠，年费可能只要$2500~3000，第二年以后甚至只要$2000多一点。
 
