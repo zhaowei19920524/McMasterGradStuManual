@@ -13,6 +13,8 @@ SIN是Social Insurance Number的简称，用于报税、找工。找到工作时
 - 市中心：Hamilton City Hall, Floor 1, 71 Main Street West, Hamilton, Ontario。这里只有周五上班。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=ON-SFN&lang=eng 。
 - 山上：1550 Upper James Street, Floor 1, Hamilton, Ontario。 http://www.servicecanada.gc.ca/tbsc-fsco/sc-dsp.jsp?rc=3343&lang=eng
 
+4. 在线办理：在线办理虽然方便，但是不能立即拿到。网址：https://www.canada.ca/en/employment-social-development/services/sin/apply.html
+
 注：study permit上必须有“may accept employment”或“may work” in Canada等类似语句，否则不可以办理SIN。
 
 更多地址看查Service Canada网站 http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?ln=eng 

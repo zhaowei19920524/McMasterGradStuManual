@@ -11,7 +11,7 @@
 ------------------------------------------------------
 一、SGS 101 201 德育课程
 
-SGS 101和SGS 201是2门所有研究生新生都要学习的online课程，如果不在第一个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成，网址如下：http://avenue.mcmaster.ca/。 
+SGS 101和SGS 201是2门所有研究生新生都要学习的online课程，如果不在第一个学期完成，下个学期的课程到时无法注册。2门都是自学课程，在网上学习完成。官网介绍：https://gs.mcmaster.ca/how-to-enrol-in-and-complete-sgs-101-and-201/ 。
 
 - SGS 101# Academic Research Integrity and Ethics：德育课程，如考试不能作弊，科研不能剽窃等。这门课要计分，在线学习完之后会有一个online的测验。测验一共20道选择题，正确率70%及格（至少对14题），考试有10次机会。
 - SGS 201# AODA Training：Accessibility for Ontarians with Disabilities Act。同样，在学习完之后有一个online测试，必须保证所有题目全部正确，可以进行无限次尝试。 

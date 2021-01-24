@@ -86,7 +86,7 @@ Hamilton：
 -------------------------------------
 | Canada的家用电压是110V。stove那个插座使用三相电单独供电除外（≥300V）。
 | 插座则统一使用美标：2线插座和国内类似，有一边会略长一些，不过完全兼容国内电器的插头。3线则完全不同。
-| http://www.worldstandards.eu/electricity/plugs-and-sockets/ab/
+| https://www.worldstandards.eu/electricity/plugs-and-sockets/ab/
 
 .. image:: resource/QiTaShengHuoJiangYanHuiZong/3LineElectricalSocket.jpg
    :align: center

@@ -44,7 +44,7 @@ Intern和Co-op：带薪实习
 
 实习工资：工资绝大部分由政府直接提供。一般来说工资和刚入职的员工差不多，即使偏低也不会低于student的最低工资标准（注3）。
 
-学校的招聘公告栏里可以找到intern和Co-op的信息 https://www.oscarplusmcmaster.ca/myAccount/jobPostings/general/postings.htm 
+学校的招聘公告栏里可以找到intern和Co-op的信息：https://www.oscarplusmcmaster.ca/
 
 注
 ----------------
