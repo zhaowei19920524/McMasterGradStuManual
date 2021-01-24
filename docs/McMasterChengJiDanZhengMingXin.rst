@@ -17,7 +17,7 @@ McMaster成绩单、证明信
 2. McMaster在读证明
 
 在读证明的开具与国内略有不同，这里称之为Enrolment Verification。一般通过Mosaic/Student Centre即可办理。
-具体的流程和介绍请参考：https://registrar.mcmaster.ca/services/vertifications/。
+具体的流程和介绍请参考：https://registrar.mcmaster.ca/services/enrolment-verification/。
 
 3. 学位证明（Degree verification）：https://registrar.mcmaster.ca/services/degree-verification/
 4. 联培学生确认信（Visiting student/Letter of Permission (LOP)）：https://registrar.mcmaster.ca/services/lop/#tab-2
