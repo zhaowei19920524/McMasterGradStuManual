@@ -133,7 +133,7 @@
 - 座椅电动调节高度前后位置、加热。
 - 电动打开和关闭后备箱等。
 
-我们以购买新车为例，打开上面那些车型的加拿大官方网站，就可以看到经销商列举的各种车型，每种车型都有一个名字。例如一些价格比较平民化的、同学购买的比较多的车型（$20000以下）：Nissan Micra/Versa，Mitsubishi Mirage，Chevrolet Spark；一些略高档的车型（$20000~$30000）：Nissan Altima，Toyota Corolla（卡罗拉），Volkswagen Tiguan（途观）
+我们以购买新车为例，打开上面那些车型的加拿大官方网站，就可以看到经销商列举的各种车型，每种车型都有一个名字。例如一些价格比较平民化的、同学购买的比较多的车型（$20000以下）：Nissan Micra/Versa，Mitsubishi Mirage，Chevrolet Spark；一些略高档的车型（$20000~$30000）：Nissan Altima，Toyota Corolla（卡罗拉），Volkswagen Golf（高尔夫）
 
 下面以Mitsubishi Mirage为例一步一步看一下具体的流程
 
