@@ -61,7 +61,7 @@
 
 - 官网介绍：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return.html
 - 符合条件的医疗花费的清单：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/lines-33099-33199-eligible-medical-expenses-you-claim-on-your-tax-return/details-medical-expenses.html
-- 所有同学都可以申报医疗花费， 但只有收入达到政府规定的数额，才可以退回一部分，通常最多可以退净收入的3%的花费。条件：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45200-refundable-medical-expense-supplement.html
+- 所有同学都可以申报医疗花费， 但只有收入达到政府规定的数额，才可以退回一部分。可以退回的数额是医疗花费总数减去去年净收入的3%的差的25%。条件：https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45200-refundable-medical-expense-supplement.html
 - 对于我们学生来说，可以申报的项目大概有以下两项
 
   - 保险花费（Premiums paid to private health services plans）：例如UHIP、GSA Health/Dental Insurance Plan、MSU Health/Dental Plan Insurance、CUPE 3906 Dental Plan等等只要是自己付费买的保险都是可以申报的。但像Post Doc等人员的部分保险是学校出钱买的，就不可以申报了。
@@ -71,7 +71,7 @@
 ---------------------------
 由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达几十加元。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
 
-1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后，以后的年份就可以自己报了。 注册方法如下：
+1. McMaster University：https://money.mcmaster.ca/taxes/tax-clinics/ 。这个是每年3~4月份麦马免费给学生提供的一对一报税服务。想参加这个活动需要尽快在Oscarplus的网站上注册。在报税过程中，学校的工作人员或者志愿者会教大家使用CRA认证的报税软件，然后当场就会报税完毕。学会之后以后的年份就可以自己报了。 注册方法如下：
 
 第一步：使用自己的MacID和mosaic的密码登录Oscarplus的官网：https://www.oscarplusmcmaster.ca/ 。
 
@@ -93,9 +93,7 @@
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui04.jpg
    :align: center
 
-| 无法去现场的同学，可以看一下录制的视频：
-| PART 1: FILING TAXES AND COVID-19 UPDATES：链接：https://pan.baidu.com/s/19qa_jWCwZebRz6VPD1_lSg 提取码：t3ch
-| PART 2: DO-IT-YOURSELF TAX WEBINAR WITH SIMPLE TAX：链接：https://pan.baidu.com/s/1QwP91hrKuHh6ShpwJ6dCuA 提取码：fgey
+| 没有抢到上述报税活动的同学，可以看一下官方录制的视频（2021年）：https://www.youtube.com/watch?v=yqXM18KyLJM
 
 2. Public：https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html 或 https://money.mcmaster.ca/taxes/tax-clinics/ 的“Tax Clinics (Community)”标题下列举的地址。加拿大各个主要城市的社区都有一些帮别人免费报税的志愿者，但通常对报税人都有最高收入的限制，如果家庭年收入超过一定的数目，则他们会拒绝服务。如果大家没有抢到McMaster免费注册的活动，可以去社区举办的免费报税活动。但通常这种public的活动排队等待时间较长。
 
