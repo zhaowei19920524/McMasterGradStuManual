@@ -25,6 +25,7 @@
 
 - 介绍：https://registrar.mcmaster.ca/payment-methods/#tab-2 下的“Early payment”标题。
 - 已经支付学费的证明：https://registrar.mcmaster.ca/international-students/payment-verification/
+- 也可以使用下面第四种方法中的支付宝。
 
 2. 加拿大银行间转账（Canadian payment methods）
 
@@ -35,6 +36,53 @@
 
 - 方法一：Western Union。如果大家实在来不及办这边的银行卡再转账交学费，可以通过Western Union直接从国内的银行电汇到McMaster。
 - 方法二：Canadian Imperial Bank of Commerce CIBC International Student Pay。由于麦马的官方账户是开在CIBC的，所以可以使用CIBC国际学生支付服务。
+
+4. 支付宝：支付宝也提供了支付国际学费的渠道。并且可以直接用RMB交学费，不占用当年的购汇额度。
+
+.. attention::
+   **支付宝付学费并不是麦马提供的官方付学费的方式，但往年同学使用后发现并无错误。**
+
+第一步：打开支付宝，搜索留学汇款。
+
+.. image:: /resource/XueFei/ZhiFuBao01.jpg
+   :align: center
+   :scale: 50%
+
+第二步：选择留学缴费。
+
+.. image:: /resource/XueFei/ZhiFuBao02.jpg
+   :align: center
+   :scale: 50%
+
+第三步：搜索“McMaster University”。
+
+.. image:: /resource/XueFei/ZhiFuBao03.jpg
+   :align: center
+   :scale: 50%
+
+.. image:: /resource/XueFei/ZhiFuBao03-2.jpg
+   :align: center
+   :scale: 50%
+
+第四步：空格里填写3、5。
+
+.. image:: /resource/XueFei/ZhiFuBao04.jpg
+   :align: center
+   :scale: 50%
+
+第五步：填写个人信息，附言中最好填写姓名、学号、需要缴费的学期。
+
+.. image:: /resource/XueFei/ZhiFuBao05.jpg
+   :align: center
+   :scale: 50%
+
+第六步：最新缴费通知可以直接在mosaic -> student center里找到并截图。对于新生来说，学生身份证明可以用offer的截图，对于往届学生，学生身份证明可以用在读证明（Enrolment Verification）。
+
+.. image:: /resource/XueFei/ZhiFuBao06.jpg
+   :align: center
+   :scale: 50%
+
+从这一步往后是一个提交成功的证明。通常一周内可以汇到麦马了。
 
 当前需要付的学费
 ------------------------------------
