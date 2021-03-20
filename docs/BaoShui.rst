@@ -67,6 +67,12 @@
   - 保险花费（Premiums paid to private health services plans）：例如UHIP、GSA Health/Dental Insurance Plan、MSU Health/Dental Plan Insurance、CUPE 3906 Dental Plan等等只要是自己付费买的保险都是可以申报的。但像Post Doc等人员的部分保险是学校出钱买的，就不可以申报了。
   - 保险不能报销的医疗花费（Medical services by medical practitioners、Dental services等等）：例如，大家看病之后如果需要买药，则GSA的保险只能报销80%，而剩下20%就要自己付钱，这部分花费是可以申报的。此外，部分同学去看牙医的时候，花费超过了dental plan的报销额度，则自己付的超额的部分也可以申报。不管是哪种情形，都必须留好receipt。
 
+对于麦马学生来说，大多数税表可以在线下载：
+
+1. Mosaic -> To Employee Self Service -> View T4/T4A：在这里可以下载到有关TA或者RA收入的税表T4，和有关Research Scholarship的税表T4A。
+2. Mosaic -> Finances (other financial...) -> View/Print Tax Form：在这里可以下载到有关学费T2202（T2202A），和有关其它所有类型自助（Scholarship、Bursary、Award）的税表T4A。
+3. Mosaic -> Finances (Account Summary) -> 选Academic Year -> View Detail/Print -> 在这里可以找到学费各项明细，包括了保险的费用。
+
 报税
 ---------------------------
 由于我们国际学生的税务非常简单，基本上只有学费、房租、助教的收入、银行存款利息等等，大家不需要去寻求非常专业的报税服务，比如H&R Block等等大型税务公司。他们提供的报税服务，每人每年的费用高达几十加元。如果刚刚来不会报税，可以参考本页附录里的报税图文教程，也可以寻求免费报税的服务，通常有以下2种：
