@@ -70,15 +70,21 @@
    :align: center
    :scale: 50%
 
-第五步：填写个人信息，附言中最好填写姓名、学号、需要缴费的学期。
+第五步：空格里填写学费金额。
 
-.. image:: /resource/XueFei/ZhiFuBao05.jpg
+.. image:: /resource/XueFei/ZhiFuBao05.png
+   :align: center
+   :scale: 25%
+
+第六步：填写个人信息，附言中最好填写姓名、学号、需要缴费的学期。
+
+.. image:: /resource/XueFei/ZhiFuBao06.jpg
    :align: center
    :scale: 50%
 
-第六步：最新缴费通知可以直接在mosaic -> student center里找到并截图。对于新生来说，学生身份证明可以用offer的截图，对于往届学生，学生身份证明可以用在读证明（Enrolment Verification）。
+第七步：最新缴费通知可以直接在mosaic -> student center里找到并截图。对于新生来说，学生身份证明可以用offer的截图，对于往届学生，学生身份证明可以用在读证明（Enrolment Verification）。
 
-.. image:: /resource/XueFei/ZhiFuBao06.jpg
+.. image:: /resource/XueFei/ZhiFuBao07.jpg
    :align: center
    :scale: 50%
 

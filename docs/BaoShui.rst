@@ -70,7 +70,7 @@
 对于麦马学生来说，大多数税表可以在线下载：
 
 1. Mosaic -> To Employee Self Service -> View T4/T4A：在这里可以下载到有关TA或者RA收入的税表T4，和有关Research Scholarship的税表T4A。
-2. Mosaic -> Finances (other financial...) -> View/Print Tax Form：在这里可以下载到有关学费T2202（T2202A），和有关其它所有类型自助（Scholarship、Bursary、Award）的税表T4A。
+2. Mosaic -> Finances (other financial...) -> View/Print Tax Form：在这里可以下载到有关学费的税表T2202（T2202A），和有关其它所有类型资助（Scholarship、Bursary、Award）的税表T4A。
 3. Mosaic -> Finances (Account Summary) -> 选Academic Year -> View Detail/Print -> 在这里可以找到学费各项明细，包括了保险的费用。
 
 报税
