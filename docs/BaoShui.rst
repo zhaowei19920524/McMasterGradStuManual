@@ -71,7 +71,7 @@
 
 1. Mosaic -> To Employee Self Service -> View T4/T4A：在这里可以下载到有关TA或者RA收入的税表T4，和有关Research Scholarship的税表T4A。
 2. Mosaic -> Finances (other financial...) -> View/Print Tax Form：在这里可以下载到有关学费的税表T2202（T2202A），和有关其它所有类型资助（Scholarship、Bursary、Award）的税表T4A。
-3. Mosaic -> Finances (Account Summary) -> 选Academic Year -> View Detail/Print -> 在这里可以找到学费各项明细，包括了保险的费用。
+3. Mosaic -> Finances (Account Summary) -> 选Academic Year -> View Detail/Print：在这里可以找到学费各项明细，包括了保险的费用。
 
 报税
 ---------------------------
@@ -140,7 +140,7 @@
 .. attention::
    **以下步骤适合未婚没有孩子、独自一人来Canada上学的情形**
 
-McMaster提供的报税服务会教大家用SimpleTax在线报税。SimpleTax是官方在线报税服务NETFILE认证的报税软件（https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/netfile-overview/certified-software-netfile-program.html）。下面我们一步一步介绍一下。
+McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在线报税。SimpleTax是官方在线报税服务NETFILE认证的报税软件（https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/netfile-overview/certified-software-netfile-program.html）。下面我们一步一步介绍一下。
 
 第一步：打开SimpleTax官网：https://simpletax.ca/ 。在右上角选择需要报税的年份。
 
@@ -151,66 +151,71 @@ McMaster提供的报税服务会教大家用SimpleTax在线报税。SimpleTax是
 
 - Name：对我们华人留学生来说通常只要填First name和Last name就可以了。
 - Social insurance number：从Service Canada获得的9开头的9位数字。如果还没有获得，可以查看 `SIN申请`_ 的页面。
-- Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。像这类没有打星号的条目都可以略过。
 - Preferred language：选English。
+- Is this return for a deceased person：这项是选择是否要给已经去世的人员报税。像这类没有打星号的条目都可以略过。
 
 .. image:: /resource/BaoShui/SimpleTax02.png
    :align: center
 
-第三步：Mailing Address一栏里填上自己现在的住址还有电话。Home telephone number一栏里前一个文本框填电话前三位，不用加国家代号，后面一个对话框里填电话后7位。About Your Residence这一栏里填写自己的居民信息：
-
-- In which province or territory did you live on December 31, 2019：这一项是问你上一年最后一天住在哪。即使你上一年最后一天出去旅游了，也必须填“Ontario”。
-- If your province or territory of residence changed in 2019, enter the date of your move：如果从别的省份搬过来则需要填写这一项，如果没有就不用填。
-- Is your home address the same as your mailing address：选“Yes”。
-- In which province or territory do you currently live：选“Ontario”。
-- Did you become a resident of Canada (immigrate) for tax purposes in 2019：这项比较特殊。如果大家上一年才刚刚来Canada则需要选“Yes”；如果不是选“No”。下面2副图显示了两种不同的情形。如果选的“Yes”，则还需要填入境时间，在两个Income框里都填0。
+第三步：对于上一年就是用SimpleTax报税的同学来说，今年用SimpleTax报税需要填写NETFILE access code。这个code可以在CRA官网上找到，登录自己账户，查一下上一年报税的Notice of assessment。
 
 .. image:: /resource/BaoShui/SimpleTax03.png
    :align: center
 
+.. image:: /resource/BaoShui/SimpleTax03-2.png
+   :align: center
+
+第四步：Mailing Address一栏里填上自己现在的住址还有电话。为了安全起见，不要填电话号码。
+
 .. image:: /resource/BaoShui/SimpleTax04.png
    :align: center
 
-第四步：在You and Your Family一栏中填写家人信息：
+第五步：About Your Residence这一栏里填写自己的居民信息：
 
-- Marital status on December 31, 2019：填Single。
-- Did your marital status change in 2019：选“No”。
-- Do you have any dependant：选“No”。
-
-Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有一个要注意一下：
-
-- Are you filing an income tax return with the CRA for the first time：如果是第一次报税就要选“Yes”，
+- In which province or territory did you live on December 31, 2020：这一项是问你上一年最后一天住在哪。即使你上一年最后一天出去旅游了，也必须填“Ontario”。
+- If your province or territory of residence changed in 2020, enter the date of your move：如果从别的省份搬过来则需要填写这一项，如果没有就不用填。
+- Is your home address the same as your mailing address：选“Yes”。
+- In which province or territory do you currently live：选“Ontario”。
+- Did you become a resident of Canada (immigrate) for tax purposes in 2020：这项比较特殊。如果大家上一年才刚刚来Canada则需要选“Yes”；如果不是选“No”。下面2副图显示了两种不同的情形。如果选的“Yes”，则还需要填入境时间，在两个Income框里都填0。
 
 .. image:: /resource/BaoShui/SimpleTax05.png
    :align: center
 
-第五步：这里是填写一些公共的补助，所有人遇到的情形都是一样的。
+.. image:: /resource/BaoShui/SimpleTax05-2.png
+   :align: center
 
-- Climate Action Incentive一栏是选要不要申请“碳排放”补贴，选“Yes”。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45110-climate-action-incentive.html 。如果你去年刚刚来，也就是说第三步中“Did you become a resident of Canada (immigrate) for tax purposes in 2019”选的是“Yes”，则按官网介绍是不可以申请的，也就没有这个选项了。
-- Ontario Trillium Benefit是安省给低收入人群的补助，即使没有任何收入，申请之后都会受到补助，所以一定要选“Yes”。
-- CRA My Account是填写有没有申请CRA官网的账户。在这里，SimpleTax是不会帮你建立一个账户的，后面会说到如何注册CRA官网账户，这里如果没有注册，选“No”就可以了。Online mail要选“Yes, sign me up”，并且把自己的电子邮箱填上，这样一旦退税有结果就会有邮件通知。
+第六步：在You and Your Family一栏中填写家人信息：
+
+- Marital status on December 31, 2020：填Single。
+- Did your marital status change in 2020：选“No”。
+- Do you have any dependant：选“No”。
+
+ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有一个要注意一下：
+
+- Are you filing an income tax return with the CRA for the first time：如果是第一次报税就要选“Yes”，
 
 .. image:: /resource/BaoShui/SimpleTax06.png
    :align: center
 
-第六步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表都提前传给CRA。
+第七步：这里是填写一些公共的补助，所有人遇到的情形都是一样的。
 
-- 对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会弹出登录CRA的页面，大家登录后把所有的条目都勾选上。SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家把它们和自己拿到的税表核对一下就可以了。
-- 对于第一次报税的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
-- 对于不是第一次报税但没有注册了CRA官网账户的同学来说，请先看第二十步，等注册完CRA账户后再进行后面的步骤。因为有些数值是逐年累加的。
-
-.. image:: /resource/BaoShui/SimpleTax06-2.png
-   :align: center
-
-第七步：如果第五步中“Climate Action Incentive”可以选“Yes”，则在Climate Action Incentive一栏中填写详细信息。如果没有则略过此步。
-
-- Please confirm this is correct before filing your return：选“Yes, this is correct”。
-- Do you live in a small or rural community：由于Hamilton不属于小城镇，所以选“No”。
+- Climate Action Incentive一栏是选要不要申请“碳排放”补贴，选“Yes”。https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45110-climate-action-incentive.html 。如果你去年刚刚来，也就是说第五步中“Did you become a resident of Canada (immigrate) for tax purposes in 2020”选的是“Yes”，则按官网介绍是不可以申请的，也就没有这个选项了。
+- Ontario Trillium Benefit是安省给低收入人群的补助，即使没有任何收入，申请之后都会受到补助，所以一定要选“Yes”。
+- CRA My Account是填写有没有申请CRA官网的账户。在这里，SimpleTax是不会帮你建立一个账户的，后面会说到如何注册CRA官网账户，这里如果没有注册，选“No”就可以了。Online mail要选“Yes, sign me up”，并且把自己的电子邮箱填上，这样一旦退税有结果就会有邮件通知。
 
 .. image:: /resource/BaoShui/SimpleTax07.png
    :align: center
 
-第八步：在Ontario Trillium Benefit: Property and Energy Tax Grants and Credits一栏中填写申请低收入人群补助的相关信息：
+第八步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表都提前传给CRA。
+
+- 对于不是第一次报税并且已经注册了CRA官网账户的同学来说，只要直接点击“Auto-fill my return”，SimpleTax就会弹出登录CRA的页面，大家登录后把所有的条目都勾选上。SimpleTax就会自动从CRA的网站上把所有税表里的信息下载到相应的栏目里，大家把它们和自己拿到的税表核对一下就可以了。
+- 对于第一次报税的同学来说，就只能在搜索框里把相应的税表模板搜出来自己填写。
+- 对于不是第一次报税但没有注册了CRA官网账户的同学来说，请先看第二十二步，等注册完CRA账户后再进行后面的步骤。因为有些数值是逐年累加的。
+
+.. image:: /resource/BaoShui/SimpleTax08.png
+   :align: center
+
+第九步：在Ontario Trillium Benefit: Property and Energy Tax Grants and Credits一栏中填写申请低收入人群补助的相关信息：
 
 - Ontario energy and property tax credit：选“Yes”。
 - Northern Ontario energy credit：由于Hamilton不属于北安大略省，所以选“No”。
@@ -219,23 +224,10 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 - Home energy costs paid for your principal residence on a reserve：不用填。
 - Amount paid for accommodation in a public or not-for-profit long-term care home：不用填。
 - Did you reside in a student residence：我们研究生通常在校外居住，不住学生宿舍，所以选“No”。
-- Would you like to receive your benefit in June 2021 instead of receiving it monthly starting in July 2020：这项是问大家想在明年一次性收到所有的补助，还是每个月收一次。推荐大家选“No”，就是按月收。
+- Would you like to receive your benefit in June 2022 instead of receiving it monthly starting in July 2021：这项是问大家想在明年一次性收到所有的补助，还是每个月收一次。推荐大家选“No”，就是按月收。
 - Declaration of principal residence(s)：这个表格是让大家填写上一年度所有交房租的住址的详细信息。包括：地址、邮编、时长、房租总额、房东。Long-term care home不用选。
 
-.. image:: /resource/BaoShui/SimpleTax08.png
-   :align: center
-
-第九步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。如果有多张T2202表，就点击“Add another T2202”。
-
-- Were you a post-secondary student in 2019：选“Yes”。
-- Box 13、24、25、26必须要填写到网页里。
-- Do you have a disability or impairment that prevents you from enrolling on a full-time basis：选“No”。
-- Were you a post-secondary student in an earlier year：这一项是关于之前年份交的学费产生的抵税额度。如果是Auto-fill的话，那已经填好了。如果是第一次报税，选“No”就可以了。
-
 .. image:: /resource/BaoShui/SimpleTax09.png
-   :align: center
-
-.. image:: /resource/BaoShui/SimpleTax09-2.png
    :align: center
 
 第十步：这一项是让大家填写自己的需要缴税类型的的收入的税表，就是TA、RA、Coop、Intern、Part-time工作的雇主发给你的T4表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4表上的信息填写在上面。如果有多张T4表，就点击“Add another T4”。
@@ -268,37 +260,68 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
 .. image:: /resource/BaoShui/SimpleTax12.png
    :align: center
 
-第十三步：申报医疗花费（Medical Expenses）。不管是否已经“Auto-fill my return”，这项都必须自己从上面的搜索框中搜出来。
+第十三步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。如果有多张T2202表，就点击“Add another T2202”。
+
+- Were you a post-secondary student in 2020：选“Yes”。
+- Box 13、24、25、26必须要填写到网页里。
+- Do you have a disability or impairment that prevents you from enrolling on a full-time basis：选“No”。
+- Canada training credit：这个是2021年报税的时候新出的一项，对于超过26岁，并且上一年收入超过$10000的同学来说，可以claim $250。如果符合条件，第一个选“Yes”，第二个填“$250”。
+- Were you a post-secondary student in an earlier year：这一项是关于之前年份交的学费产生的抵税额度。如果是Auto-fill的话，那已经填好了。如果是第一次报税，选“No”就可以了。
+- Tuition transfer不用填。
+
+.. image:: /resource/BaoShui/SimpleTax13.png
+   :align: center
+
+.. image:: /resource/BaoShui/SimpleTax13-2.png
+   :align: center
+
+第十四步：COVID-19期间在家工作（例如TA或者RA等），可以申请这个credit。但是并不直接产生退税。这项必须自己从上面的搜索框中搜出来。
+
+- Do you want to use the temporary flat rate method?：选“Yes”。
+- Number of days you worked from home in 2020 due to COVID-19：最多填200。
+
+.. image:: /resource/BaoShui/SimpleTax14.png
+   :align: center
+
+第十五步：申报医疗花费（Medical Expenses）。不管是否已经“Auto-fill my return”，这项都必须自己从上面的搜索框中搜出来。
 
 - Whose medical expenses are these：填上自己的名字（汉语拼音）。
 - Who is this：选“Me and my partner”。
 - Expense表格里每一行填一项医疗花费。
 
   - “Medical expense description”通常是保险的类型和药品、器材、服务等等的名字。相关名字可以从receipt上找到。
-  - “Type of expense”通常是regular。
+  - “Type of expense”通常是Regular。
   - “Amount of expense”是医疗相关花费
   
-    - 保险的保费：有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退出了GSA Dental Insurance Plan并且可以直接退回$200的UHIP保费，则这些保险的花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Insurance Plan，UHIP的数额要比原始的费用少$200。
-    - 药费、治疗费用等其它花费：同理，只能填写保险不能报销自己额外支付的费用。例如：XXXX药品一共$10，用GSA Health Insurance Plan只能报销$8（80%），剩下$2要自己支付。则在上面的花费里就可以填“XXXX，regular，$2”。
-
-.. image:: /resource/BaoShui/SimpleTax13.png
-   :align: center
-
-第十四步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
-
-.. image:: /resource/BaoShui/SimpleTax14.png
-   :align: center
-
-第十五步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
-
-- Suggestions：通常是一些还可以申请的福利，如果有下面图片里说的这条，对于我们学生来说是不能申请的。可以忽略。
-- Warnings：如果出现下图中的Warning也可以直接忽略，对于我们学生来说处理和不处理结果都是一样的，例如RRSP、TFSA、RESP等等。我们学生作为低收入群体，所交的税都是全额退税。后面我们会简要概括一下。
-- Errors：所有Error必须全部更正，如果大家出现了不太会纠正的错误，可以点击那一条附近的问号或者链接查询。
+    - 保险的保费：有关保险的费用可以在Mosaic上找到：“Student Center”->“Finances”->“Account Summary”->“Academic Year”->“View Detail/Print”；CUPE保险数额可以在官网上查到，或者在Mosaic里的“Pay”中，找到这一学年第一个CUPE的Cheque中的“CPDENE”那项的数值。注意，这项只能填实际的花费。比如有TA、RA的同学使用的是CUPE 3906 Unit 1 Dental Plan，自动退出了GSA Dental Insurance Plan并且可以直接退回$250的UHIP保费，则这些保险的花费在申报的时候就要做相应的调整。也就是说不可以再填写GSA Dental Insurance Plan，UHIP的数额要比原始的费用少$250。
+    - 药费、治疗费用等其它花费：同理，只能填写保险不能报销自己额外支付的费用。例如：XXXX药品一共$10，用GSA Health Insurance Plan只能报销$8（80%），剩下$2要自己支付。则在上面的花费里就可以填“XXXX，Regular，$2”。
 
 .. image:: /resource/BaoShui/SimpleTax15.png
    :align: center
 
-第十六步：这一项是填完之后的Summary。
+第十六步：如果第七步中“Climate Action Incentive”可以选“Yes”，则在Climate Action Incentive一栏中填写详细信息。如果没有则略过此步。
+
+- Please confirm this is correct before filing your return：选“Yes, this is correct”。
+- Do you live in a small or rural community：由于Hamilton不属于小城镇，所以选“No”。
+
+.. image:: /resource/BaoShui/SimpleTax16.png
+   :align: center
+
+第十七步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
+
+.. image:: /resource/BaoShui/SimpleTax17.png
+   :align: center
+
+第十八步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
+
+- Suggestions：通常是一些还可以申请的福利，如果有下面图片里说的这几条，对于我们学生来说是不能申请的。可以忽略。如果大家的银行信息有变动，可以填写一下新的银行信息。这样CRA就会把退税直接存到新的账户里了。
+- Warnings：如果出现下图中的Warning也可以直接忽略，对于我们学生来说处理和不处理结果都是一样的，例如RRSP、TFSA、RESP等等。我们学生作为低收入群体，所交的税都是全额退税。后面我们会简要概括一下。
+- Errors：所有Error必须全部更正，如果大家出现了不太会纠正的错误，可以点击那一条附近的问号或者链接查询。
+
+.. image:: /resource/BaoShui/SimpleTax18.png
+   :align: center
+
+第十九步：这一项是填完之后的Summary。
 
 - Amounts：列举了所有你能收到的退款总额。Refund在2周内能收到。后面三项都是从7月份开始发。
 
@@ -308,51 +331,46 @@ Misc一栏是填一些杂项。大部分只要填“No”就可以了。只有�
   - Ontario Trillium Benefit (OEPTC and NOEC) monthly amount是低收入人群的补助，每个月发一次，一共发12次。
 - Documents：是SimpleTax通过你填写的信息生成的最终提交给CRA的表格。这些表格如果让我们刚刚来Canada的学生填写将会非常困难，但是SimpleTax已经完全帮我们填好了。
 
-.. image:: /resource/BaoShui/SimpleTax16.png
+.. image:: /resource/BaoShui/SimpleTax19.png
    :align: center
 
-第十七步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“Submit tax return”。如果还有不明白的地方可以问一下周围的同学。
+第二十步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“FILE tax return”。如果还有不明白的地方可以问一下周围的同学。如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
 
 - Save a PDF copy of your return for your records：一定要下载保存，留个案底。
 
-.. image:: /resource/BaoShui/SimpleTax17.png
-   :align: center
-
-第十八步：如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
-
-.. image:: /resource/BaoShui/SimpleTax18.png
+.. image:: /resource/BaoShui/SimpleTax20.png
    :align: center
 
 .. attention::
   对于第一次报税的同学还需要进行以下步骤
 
-第十九步：第一次申请退回消费税，必须自己填表申请，以后所有年份都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
+第二十一步：第一次申请退回消费税，必须自己填表申请，以后所有年份都不需要了。下载并填写RC151表，官网链接：https://www.canada.ca/en/revenue-agency/services/child-family-benefits/gsthstc-apply.html 。填写完之后去Canada Post按表格里“Where do you send your form?”下的地址寄到相关的地方。Canada Post的工作人员可以帮你寄信。
 
 - Step 1 – Your information里填写你自己的个人信息、住址、联系方式、婚姻状况。
 - Step 2 – Information about your spouse or common-law partner：如果是未婚，不用填
 - Step 3 – Your residency status：通常第一次报税的同学，上一年刚刚来Canada，填上去年入境的日期。
 
-.. image:: /resource/BaoShui/SimpleTax19-1.png
+.. image:: /resource/BaoShui/SimpleTax21-1.png
    :align: center
 
 - Step 4 – Your income：填上上一年以及再往前推两年的年份。收入全部填0。
 - Step 5 – Signature：打印出来签名和日期。
 
-.. image:: /resource/BaoShui/SimpleTax19-2.png
+.. image:: /resource/BaoShui/SimpleTax21-2.png
    :align: center
 
-第二十步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
+第二十二步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
 
 - 注册链接：https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html
 - 官网介绍：https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services/cra-user-password-help-faqs/registration-process-access-cra-login-services.html
 - 注意：注册时需要退税信件中Line XXXX那一行的数值作为验证码，所以必须等到收到信件之后才可以注册。此外，还需要输入“CRA security code”才能访问所有的信息，“CRA security code”通常还会通过另外一封信件寄给你。
 
-.. image:: /resource/BaoShui/SimpleTax20.png
+.. image:: /resource/BaoShui/SimpleTax22.png
    :align: center
 
-第二十一步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
+第二十三步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
 
-.. image:: /resource/BaoShui/SimpleTax21.png
+.. image:: /resource/BaoShui/SimpleTax23.png
    :align: center
 
 附：其它有关税务的信息
