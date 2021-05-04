@@ -85,7 +85,7 @@
   - 所有Unit 1的学生自动opt-out（退出） GSA Dental Insurance Plan，退回相应费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$250（2020年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan可以报销100%的就诊费用。每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
-  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP、OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。注意：这$250只能用一次，例如只报销了$10，那剩下的$240就作废了。所以大家应一次尽可能报销大量费用，比如配眼镜。
+  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP/OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。毕竟通常大多数保险对于眼镜方面的报销都不会很多。
 - 具体可以覆盖的牙医服务可以查看 https://cupe3906.org/tas-unit-1/dental-plan/ 网页的“Coverage Booklet”标题。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
@@ -133,13 +133,15 @@
 注：
 
 - 五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
-- 联培学生（Visiting Student）需自己购买UHIP，因为学校并不清楚学生何时来Canada。联系方式：iss@mcmaster.ca
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
 - 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$250（2020年）的保费。
 - 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
-- 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。联系方式：iss@mcmaster.ca
+- 非9月入学的学生：
+
+  - 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。联系方式：iss@mcmaster.ca
+  - 联培学生（Visiting Student）可以在一年里任何时候来Canada，因此也需自己告诉Ana Pereira到Canada的日期以退回到达日期之前月份的费用。学校并不清楚学生何时来Canada。联系方式：iss@mcmaster.ca
 - 12月毕业的研究生：https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Costs and premiums”标题。
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
@@ -191,7 +193,7 @@
 
   B. MSU Dental Plan Insurance指定的牙医诊所：
 
-  - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/
+  - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。
 
   C. CUPE指定的牙医诊所：
   
@@ -202,11 +204,13 @@
 
 注：
 
-1) MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
-#) 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
+- MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
+- 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
 
-- 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
-- MBA学生在MSU  Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
+  - 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
+  - MBA学生在MSU Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
+- 如果是看病的话，建议大家去支持direct billing的诊所。因为可以省去报销流程，诊所会直接找保险公司报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic等等。
+- 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。
 
 买药
 -----------------------------------
@@ -242,24 +246,27 @@
   - iOS：https://itunes.apple.com/ca/app/pharmasave-drugs/id608514849?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.pharmasaves.android
 
-由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）的药也是可以自由购买的。
+注：
+
+- 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）的药也是可以自由购买的。
+- 建议大家去支持pay direct card的药房买药，因为可以省去报销流程，药房会直接找保险公司报销相应的费用。例如McMaster University Centre Pharmasave、Rexall等。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 
 报销
 -------------------------------------------------
 1. UHIP：由Sun Life承保
 
-- 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic。
+- 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。
 - 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并邮寄相关材料来报销的相应的费用。https://uhip.ca/Claim/Index
 
 2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
 
-- 方法1：如果药店接受pay direct card（比如McMaster University Centre Pharmasave、Rexall等），则可以在付费的时候只要支付不能报销那部分比例的费用即可，免去报销流程。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+- 方法1：如果药店接受pay direct card，则可以在付费的时候只要支付不能报销那部分比例的费用即可，免去报销流程。
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
 - 方法3：填表并邮寄相关材料。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 
 3. CUPE Dental Plan：由Equitable Life of Canada承保
 
-- 方法1：direct billing。抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下），例如Smile Design Dental Care等。去之前请发邮件再次确认是否接受CUPE保险。
+- 方法1：direct billing。抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下）。去之前请发邮件再次确认是否接受CUPE保险。
 
  | Insurance Provider: Equitable Life of Canada
  | Policy #: 97528
