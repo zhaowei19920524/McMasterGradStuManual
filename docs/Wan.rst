@@ -197,10 +197,7 @@
     - Blue Mountain山脚下就有大片提供住宿的旅馆和house。住宿区叫Blue Mountain Resort, 108 Jozo Weider Blvd, The Blue Mountains, ON L9Y 3Z2。
     - 如果需要住宿，一定要提前至少2周定订的地方（越早越好，提前1个月会比较便宜），可以在Airbnb或Booking.com上定订住宿。大家可以在Google地图上找到，也可以在Blue Mountain官网上找 https://www.bluemountain.ca/plan-your-trip/lodging 。
     - 推荐大家在Blue Mountain住2个晚上。第一天上午从出发，下午到住的地点，并熟悉一下周边设施、服务、环境。第二天滑雪和温泉。第三天上午返回。
-  - 交通
-
-    - 自驾：强烈建议每辆车能有2个同学轮换开。因为雪天路滑，整个行程可能要3个多小时，甚至更长。
-    - GreyHound长途汽车（不一定每天都有）：官网：https://www.greyhound.ca/ 。起点：Toronto, ON（610 BAY ST, Toronto, ON M5G 1M5）。终点：Blue Mtn Ski Rst (e), ON。可以按上边住2个晚上的计划在官网上订票，往返票（Round trip）大概50多刀/人。此外，大家要先坐Go Bus 16路到多伦多。
+  - 交通：并没有公交系统去Blue Mountain。因此大家可能只能开车去。强烈建议每辆车能有2个同学轮换开。因为雪天路滑，整个行程可能要3个多小时，甚至更长。
   - 滑雪费用：
   
     - 自带全套滑雪装备在初学者道上滑：免费。

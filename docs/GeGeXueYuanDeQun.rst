@@ -46,6 +46,7 @@
   - 18级 微信群：请联系18-MBA-费婕
   - 19级 微信群：请联系19-MBA-杨俊琦或19-MBA-王乐雪
   - 20级 QQ群：431729307，微信群：加入QQ群后，联系群主或群管理员
+  - 21级 微信群：请联系21-MBA coop-吴佳丽
 - PhD in Business Administration
 
   - 微信群：请联系16-DBA(Finance)-Rongzhao Ou

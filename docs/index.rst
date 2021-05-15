@@ -65,6 +65,7 @@ Welcome to McMaster University!
    TiYuGuan
    TuShuGuan
    McMasterChengJiDanZhengMingXin
+   XueShengHui
    ExtendStudyPermitVisa
    QiTaMcMasterGongLveHuiZong
 
