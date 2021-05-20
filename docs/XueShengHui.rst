@@ -33,7 +33,7 @@ Graduate Students Association（GSA，研究生协会）是麦克马斯特大学
 - VP External：外务副主席负责运营GSA社交账户、网站，以及外联等事务。
 - VP Internal：内务副主席负责学生、教职工的相关活动，和麦马其它学生会（例如MSU等等）、Faculty association、Club、学生团体建立关系，处理学术研究相关的事务等等。
 
-3. Faculty Representatives（FRC）
+3. Faculty Representatives to Council（FRC）
 
 - 各个学院的研究生代表，在GSA每个月的理事会会议（Council meeting）上负责提意见、建议，以及表决。一共是6个学院加上国际学生代表，每个学院两名代表，共14人。
 
@@ -51,7 +51,7 @@ Graduate Students Association（GSA，研究生协会）是麦克马斯特大学
 
 GSA历任华人学生成员名单：
 
-- 2021~2022
+- 2021~2022年度
 
 .. note::
   - VP Services：17-CAS-赵伟
@@ -62,7 +62,7 @@ GSA历任华人学生成员名单：
   - Board of Directors：20-MBA-张雅娟
   - Board of Directors：20-MBA-罗正臣
 
-- 2020~2021
+- 2020~2021年度
 
 .. note::
   - VP Services：17-CAS-赵伟
@@ -70,7 +70,7 @@ GSA历任华人学生成员名单：
   - Health Science FRC：18-Biochem-钱姝文
   - Board of Directors：19-MBA-张宇圣
 
-- 2019~2020：
+- 2019~2020年度
 
 .. note::
   - VP Administration：18-MFin-梁韵
@@ -113,8 +113,7 @@ GSA历任华人学生成员名单：
 
 五、联系方式
 
-- 大家有关于GSA职位的问题，以及GSA保险、HSR公交年卡的问题，可以用网页里的信息联系GSA。
-- https://gsa.mcmaster.ca/your-gsa/contact-us/
+- 大家有关于GSA职位的问题，以及GSA保险、HSR公交年卡的问题，可以用网页里的信息联系GSA：https://gsa.mcmaster.ca/your-gsa/contact-us/ 。
 
 International Graduate Student Association
 ------------------------------------------------------------------------
