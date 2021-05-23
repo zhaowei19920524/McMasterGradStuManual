@@ -6,8 +6,16 @@
 
 McMaster政策
 ------------------------------------
-| https://housing.mcmaster.ca/future-residents/how-to-apply/upper-year-returning-and-transfer-students/
-| 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
+学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。
+
+- https://housing.mcmaster.ca/future-residents/how-to-apply/upper-year-returning-and-transfer-students/
+- https://housing.mcmaster.ca/future-residents/how-to-apply/graduate-students/
+- https://gs.mcmaster.ca/ive-accepted-my-offer/international-students/accommodations/
+
+此外McMaster的研究生公寓正在建设中，预计2023年可以完工投入使用。
+
+- https://www.k-cap.com/project/mcmaster-graduate-student-residence/
+- https://dailynews.mcmaster.ca/articles/construction-begins-on-mcmasters-10-bay-graduate-residence/
 
 各类租房资源
 -----------------------
@@ -101,7 +109,7 @@ McMaster政策
   #) Airbnb：https://www.airbnb.ca/s/Hamilton--ON/homes?map_toggle=true 价格相对较高，一般不少于$30/天，需要额外交消费税。
   #) hotel（不推荐）：价格过高，基本上一天要$100左右，需要额外交消费税。
   #) 直接在apt里长租：公寓不是一定要从9月份开始签合同，公寓管理员只关注租期至少是12个月，从哪个月开始无所谓。大家如果来的比较早，并且发现有空置的价钱地点条件比较满意的apt，可以在国内就和apt的公寓管理员联系，从8月或更早的月份直接签长租的合同。刚来的那个月可能住不满一整个月，但也要交一个月的房租。这种方法可能也适合house，并且省了9月初的搬家。需要大家注意的是公寓管理员会要求住户在入住之前办好租客保险、开好水电费账户等等，否则公寓管理员拒绝入住。
-  #) 学校也提供暑期短租的宿舍： https://hotel.mcmaster.ca/ 。每年5.10-8.15左右都对外开放的，价格比酒店低，适合新生刚到短租，二人间每晚每人50左右单人70左右，条件不错。不过8月中旬以后必须要搬走，还需要再在校外找能住到8月底的短租。
+  #) 学校也提供暑期短租的宿舍：https://hotel.mcmaster.ca/short-term-accommodations/ 。每年大概5.10-8.15左右都对外开放的，价格比酒店低，适合新生刚到短租，二人间每晚每人50左右单人70左右，条件不错。不过8月中旬以后必须要搬走，还需要再在校外找能住到8月底的短租。
 
 - 找9月开始的长租：7月初开始找长租的house或apt，不必太早。因为现有的租客需提前2个月告诉房东是否续租，房东才会在网上更新租房广告。因此7月份之后会出现一大批好的房源，大家要尽快联系，到8月下旬的时候大多数条件好的房源就被抢完了。
 
