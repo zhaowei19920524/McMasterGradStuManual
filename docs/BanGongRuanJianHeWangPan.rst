@@ -1,9 +1,9 @@
 ﻿办公软件和网盘
 ==============================
-Microsoft Office 365
+Microsoft 365
 -----------------------------
-| 学校已经为每一个在职的学生和员工购买了Office 365 ProPlus的授权。新生可能要等开学后半个月才能使用。https://office365.mcmaster.ca/
-| 学校购买的Office 365订阅服务是：Microsoft 365 A3 for students use benefit（https://www.microsoft.com/en-ca/microsoft-365/academic/compare-office-365-education-plans）。它主要包括在线版本的office和团队合作工具Teams，以及Office 365 ProPlus for students。后者就是完整的桌面版和移动版的office套件，以及Onedrive for business网盘。
+| 学校已经为每一个在职的学生和员工购买了Microsoft 365（原来叫Office 365）的授权。新生可能要等开学后半个月才能使用。https://office365.mcmaster.ca/
+| 学校购买的Microsoft 365订阅服务是：Microsoft 365 A3 for students use benefit（https://www.microsoft.com/en-ca/microsoft-365/academic/compare-office-365-education-plans）。它主要包括Microsoft 365 Apps for Enterprise、团队合作工具Teams。前者就是完整的桌面版和移动版的Office套件，以及Onedrive for business网盘。
 
 .. image:: /resource/office365/Software_List.png
    :align: center
@@ -12,8 +12,8 @@ Microsoft Office 365
 **Part I：电脑上的office的使用方法**
 
 .. attention::
-  1. 如果你的电脑里已经安装了office 365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，office会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
-  2. 如果你的电脑里安装的是盗版的office，并且是非office365版（就是需要输入序列号激活的版本），请先用官网卸载工具彻底从电脑里清除。打开 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 ，使用Option 2的方法。
+  1. 如果你的电脑里已经安装了Microsoft 365（不管有没有激活），则不需要进行下面的步骤，直接在file->Account里用下面第一步里的用户名密码登录就可以了，系统会自动为你当前安装的版本添加正版授权。辨别方式请看附1。
+  2. 如果你的电脑里安装的是盗版的Office套件，并且是非Microsoft 365版（就是需要输入序列号激活的版本），请先用官网卸载工具彻底从电脑里清除。打开 https://support.office.com/en-us/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8 ，使用Option 2的方法。
 
 第一步：登录微软的网站 https://portal.office.com/ 
 
@@ -24,7 +24,7 @@ Microsoft Office 365
 .. image:: /resource/office365/office365_1.png
    :align: center
 
-第二步：office网站上默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
+第二步：Office网站上默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
 
 .. image:: /resource/office365/office365_2.png
    :align: center
@@ -50,13 +50,13 @@ Microsoft Office 365
   - Word：https://itunes.apple.com/ca/app/microsoft-word/id586447913?mt=8
   - Excel：https://itunes.apple.com/ca/app/microsoft-excel/id586683407?mt=8
   - PowerPoint：https://itunes.apple.com/ca/app/microsoft-powerpoint/id586449534?mt=8
-  - Outlook：https://itunes.apple.com/ca/app/microsoft-outlook-email-and-calendar/id951937596?mt=8
+  - Outlook：https://apps.apple.com/ca/app/microsoft-outlook-email-and-calendar/id951937596
   - OneNote：https://itunes.apple.com/ca/app/microsoft-onenote/id410395246?mt=8
 
 注：
 
-1. 学校提供的office授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
-2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买office365 Home或Personal授权。
+1. 学校提供的Microsoft 365授权可以安装在5台电脑、5台平板、5个手机上。对于平板和手机，如果之前没有添加授权，仅仅用免费版，则没有高级编辑的功能，用学校的授权后，可以解锁所有功能。
+2. 毕业后半年，由于MacID失效，则安装的office也同样失效，可以继续购买Microsoft 365 Family或Personal授权。
 
 Windows 10 Education
 ----------------------------------------------
@@ -88,7 +88,7 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 
 网盘
 -----------------------------
-1. Microsoft Onedrive for Business：学校为所有学生和员工购买的office365里附带了Onedrive for Business网盘。
+1. Microsoft Onedrive for Business：学校为所有学生和员工购买的Microsoft 365里附带了Onedrive for Business网盘。
 
 - 存储空间：1TB
 - 下载地址：①Windows 10：系统自带，②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
@@ -106,19 +106,7 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 .. image:: /resource/office365/onedrive_2.png
    :align: center
 
-2. Google Drive（G Suite）：大家用的MacID@mcmaster.ca的麦马的邮箱里自带了Google Drive网盘。
-
-- 存储空间：Unlimited
-- 下载地址： https://www.google.com/drive/download/
-- 官网：https://drive.google.com/
-- 登录方法：用户名：MacID@mcmaster.ca。密码：登录mosaic的密码。
-- 注：在国内无法访问。毕业后由于MacID失效，网盘也会自动失效，所以毕业前请务必尽快下载备份。
-- 手机App：
-
-  - iOS：https://itunes.apple.com/ca/app/google-drive/id507874739?mt=8
-  - Android：https://play.google.com/store/apps/details?id=com.google.android.apps.docs
-
-3. Macdrive：McMaster自建的网盘服务。用来存储不方便传播到校外的文件。
+2. Macdrive：McMaster自建的网盘服务。用来存储不方便传播到校外的文件。
 
 - 存储空间：300GB
 - 下载地址： https://macdrive.mcmaster.ca/download_client_program/
@@ -129,7 +117,7 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
   - iOS：https://apps.apple.com/cn/app/seafile-pro/id639202512?l=en
   - Android：https://play.google.com/store/apps/details?id=com.seafile.seadroid2
 
-4. Microsoft Onedrive：Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
+3. Microsoft Onedrive：Microsoft给每个注册了outlook.com、hotmail.com、live.com、msn.com邮箱的用户免费提供了Onedrive网盘。
 
 - 存储空间：5GB（免费）
 - 下载地址：①Windows 10：系统自带。②Windows 10之前版本的系统或macOS：https://onedrive.com/download 。
@@ -140,7 +128,7 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
   - iOS：https://itunes.apple.com/ca/app/microsoft-onedrive/id477537958?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.microsoft.skydrive
 
-5. Google Drive（Personal）：Google为每个注册Gmail的用户提供Google Drive网盘。
+4. Google Drive（Personal）：Google为每个注册Gmail的用户提供Google Drive网盘。
 
 - 存储空间：15GB（免费）
 - 下载地址：https://www.google.com/drive/download/
@@ -206,17 +194,18 @@ Microsoft实用办公工具
 
 附
 -------------------------
-1. Office 2019 和 Office 365
+1. Office 2019 和 Microsoft 365
 
 - 区别
 
-  - Office 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的office都是激活的，并且每个月会自动收到新的特性。Office 365已经弱化了具体版本的概念，不在标识现在安装的office套件属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
+  - Microsoft 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的Microsoft Apps都是激活的，并且每个月会自动收到新的特性。Microsoft 365已经弱化了具体版本的概念，不在标识现在安装的office套件属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
   - Office 2019（或之前的Office 2016，Office 2013等等）：这些都是单机版，通过光盘或iso镜像安装，通过序列号激活授权。这种office版本不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。每个月会收到微软的安全更新或修复错误的更新，但不会收到特别明显的功能更新。如果需要使用新的功能，则需要安装下一版的office套件。所以，例如Office 2019和Office 2016的功能区别就是这两个版本发布的间隔期间所有的office 365月度更新的集合。
 
-- 查看当前安装的office是不是office 365：以下图片提供了查看自己安装的是不是office365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft Office 365 XXX，则是office365版（如下图所示）；如果写的直接版本号，例如office 2019等等，则是非office365版。
+- 查看当前安装的office是不是Microsoft 365：以下图片提供了查看自己安装的是不是Microsoft 365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft 365 XXX，则是Microsoft 365版（如下图所示）；如果写的直接版本号，例如office 2019等等，则是非Microsoft 365版。
 
 .. image:: /resource/office365/check_if_office365.png
    :align: center
+   :scale: 50%
 
 2. 微软邮件服务介绍
 
