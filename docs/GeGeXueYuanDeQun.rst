@@ -159,8 +159,8 @@ McMaster常见学院专业及简称
   - Biology：Biology或bio
   - Chemistry & Chemical Biology：chem
   - Computational Science & Engineering：CSE
-  - Geography & Earth Sciences：Geo
-  - Interdisciplinary Science：ISCI
+  - Earth, Environment & Society：EES
+  - Interdisciplinary Science：SIS
   - Kinesiology：kin
   - Mathematics & Statistics：
 
@@ -193,6 +193,7 @@ McMaster常见学院专业及简称
   - Neuroscience：MiNDS
 - Humanities：
 
+  - Arts：SOTA
   - Classics：Classics
   - Communication Studies & Multimedia：CSMM
   - English & Cultural Studies：English
@@ -200,22 +201,24 @@ McMaster常见学院专业及简称
   - History：History
   - Gender Studies and Feminist Research：GSFR
   - Linguistics & Languages：Linguistics
+  - Global Peace and Social Justice：Peace Studies
   - Philosophy：Philosophy
 - Social Sciences：
 
   - Anthropology：Anthropology
   - Economics：Economics
-  - Geography & Earth Sciences：Geo
+  - Earth, Environment & Society：EES
   - Heath Aging & Society (Health Studies & Gerontology)：HAS
   - Indigenous Studies：Indigenous
   - Institute on Globalization & the Human Condition：Globalization
   - Labour Studies：Labour
   - Political Science：Political Science
   - Psychology, Neuroscience & Behaviour：Psychology或PNB
-  - Society, Culture & Religion ：Religious
+  - Religious Studies ：Religious
   - Social Psychology：Social Psychology
   - Social Work：Social Work
   - Sociology：Sociology
+  - Water Without Borders：Water
 - Arts & Science：artsci
 
 个别专业辨析
