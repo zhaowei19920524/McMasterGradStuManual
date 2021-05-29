@@ -3,7 +3,7 @@
 Microsoft 365
 -----------------------------
 | 学校已经为每一个在职的学生和员工购买了Microsoft 365（原来叫Office 365）的授权。新生可能要等开学后半个月才能使用。https://office365.mcmaster.ca/
-| 学校购买的Microsoft 365订阅服务是：Microsoft 365 A3 for students use benefit（https://www.microsoft.com/en-ca/microsoft-365/academic/compare-office-365-education-plans）。它主要包括Microsoft 365 Apps for Enterprise、团队合作工具Teams。前者就是完整的桌面版和移动版的Office套件，以及Onedrive for business网盘。
+| 学校购买的Microsoft 365订阅服务是：Microsoft 365 A3 for students（https://www.microsoft.com/en-ca/microsoft-365/academic/compare-office-365-education-plans）。它主要包括Microsoft 365 Apps for Enterprise、团队合作工具Teams、Onedrive for business网盘。前者就是完整的桌面版和移动版的Office套件。
 
 .. image:: /resource/office365/Software_List.png
    :align: center
@@ -36,21 +36,20 @@ Microsoft 365
 
 **Part II：平板手机上的office的使用方法**
 
-下载链接：
+| Microsoft已经把主要功能都集中在一个App里，因此不需要单独下载了。”Office“ app还可以扫描、转换PDF、识别图片中的文字。还附带了Office Lens（微软扫描仪），它可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
+| 下载链接：
 
 - Android
 
-  - Word：https://play.google.com/store/apps/details?id=com.microsoft.office.word
-  - Excel：https://play.google.com/store/apps/details?id=com.microsoft.office.excel
-  - PowerPoint：https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint
+  - Office（Word+Excel+PowerPoint+PDF+Office Lens）：https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow
   - Outlook：https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
+  - Teams：https://play.google.com/store/apps/details?id=com.microsoft.teams
   - OneNote：https://play.google.com/store/apps/details?id=com.microsoft.office.onenote
 - iOS
 
-  - Word：https://itunes.apple.com/ca/app/microsoft-word/id586447913?mt=8
-  - Excel：https://itunes.apple.com/ca/app/microsoft-excel/id586683407?mt=8
-  - PowerPoint：https://itunes.apple.com/ca/app/microsoft-powerpoint/id586449534?mt=8
+  - Office（Word+Excel+PowerPoint+PDF+Office Lens）：https://apps.apple.com/app/microsoft-office/id541164041
   - Outlook：https://apps.apple.com/ca/app/microsoft-outlook-email-and-calendar/id951937596
+  - Teams：https://apps.apple.com/us/app/microsoft-teams/id1113153706
   - OneNote：https://itunes.apple.com/ca/app/microsoft-onenote/id410395246?mt=8
 
 注：
@@ -60,7 +59,7 @@ Microsoft 365
 
 Windows 10 Education
 ----------------------------------------------
-McMaster已经为每一个学生购买了授权，每个学生都能得到一个正版的Windows 10 Education的序列号，Education版和Pro版的功能基本一致，唯一的区别是桌面右下角会有“Windows 10 Education”一行小字。大家如果有还是安装着Windows 10之前版本的老电脑，或Mac电脑装双系统，可以考虑用学校购买的授权。
+McMaster已经为每一个学生购买了授权，每个学生都能得到一个正版的Windows 10 Education的序列号，Education版和Pro版的功能基本一致。大家如果有还是安装着Windows 10之前版本的老电脑，或Mac电脑装双系统，可以考虑用学校购买的授权。
 
 - 获取地址：https://mcmaster.onthehub.com/WebStore/Welcome.aspx
 - 登录上面的网址，点击“Start Shopping”。
@@ -151,18 +150,11 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 
 Microsoft实用办公工具
 --------------------------------------------------
-1. Office Lens（微软扫描仪）：可以在拍照的时候自动识别文档的轮廓，并且把拍的照片转换为扫描或白板等高级效果。
-
-- 手机App：
-
-  - iOS：https://itunes.apple.com/ca/app/office-lens/id975925059?mt=8
-  - Android：https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
-
-2. Microsoft Forms：微软推出的在线问卷和在线quiz系统。可以自己新建问卷和quiz。
+1. Microsoft Forms：微软推出的在线问卷和在线quiz系统。可以自己新建问卷和quiz。
 
 - 官网：https://forms.office.com
 
-3. Microsoft To-Do：微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
+2. Microsoft To-Do：微软推出的待办清单。可以记录当天、未来几天或长期需要做的事项。可以联网同步。
 
 - 官网：https://todo.microsoft.com
 - 手机App：
@@ -171,21 +163,21 @@ Microsoft实用办公工具
   - Android：https://play.google.com/store/apps/details?id=com.microsoft.todos
   - Windows 10 App：https://www.microsoft.com/en-ca/p/microsoft-to-do-lists-tasks-reminders/9nblggh5r558?rtc=1
 
-4. Microsoft Edge：微软windows 10自带浏览器的手机版。
+3. Microsoft Edge：微软windows 10自带浏览器的手机版。
 
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/microsoft-edge/id1288723196?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.microsoft.emmx
 
-5. Microsoft Translator：微软推出的手机翻译App
+4. Microsoft Translator：微软推出的手机翻译App
 
 - 手机App：
 
   - iOS：https://itunes.apple.com/ca/app/microsoft-translator/id1018949559?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.microsoft.translator
 
-6. Microsoft Remote Desktop：微软远程桌面手机版。
+5. Microsoft Remote Desktop：微软远程桌面手机版。
 
 - 手机App：
 
@@ -199,7 +191,7 @@ Microsoft实用办公工具
 - 区别
 
   - Microsoft 365：它是Microsoft从Office 2010开始提供的订阅服务，订阅授权是绑定在某个邮箱账户里，在订阅有效期内安装的Microsoft Apps都是激活的，并且每个月会自动收到新的特性。Microsoft 365已经弱化了具体版本的概念，不在标识现在安装的office套件属于哪个具体的版本号。但一定是最新的Office套件并集成了最新的月度更新。月度更新不但包括安全更新还会有很明显的功能更新。
-  - Office 2019（或之前的Office 2016，Office 2013等等）：这些都是单机版，通过光盘或iso镜像安装，通过序列号激活授权。这种office版本不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。每个月会收到微软的安全更新或修复错误的更新，但不会收到特别明显的功能更新。如果需要使用新的功能，则需要安装下一版的office套件。所以，例如Office 2019和Office 2016的功能区别就是这两个版本发布的间隔期间所有的office 365月度更新的集合。
+  - Office 2019（或之前的Office 2016，Office 2013等等）：这些都是单机版，通过光盘或iso镜像安装，通过序列号激活授权。这种office版本不能升级到最新版，也不能转移授权，只能一台电脑对应一个序列号。每个月会收到微软的安全更新或修复错误的更新，但不会收到特别明显的功能更新。如果需要使用新的功能，则需要安装下一版的office套件。所以，例如Office 2019和Office 2016的功能区别就是这两个版本发布的间隔期间所有的Microsoft 365月度更新的集合。
 
 - 查看当前安装的office是不是Microsoft 365：以下图片提供了查看自己安装的是不是Microsoft 365。打开Word或其他office套件，点击file->Account。在右侧如果写的是Microsoft 365 XXX，则是Microsoft 365版（如下图所示）；如果写的直接版本号，例如office 2019等等，则是非Microsoft 365版。
 

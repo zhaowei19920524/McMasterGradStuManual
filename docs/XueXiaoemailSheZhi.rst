@@ -72,7 +72,7 @@
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_ios_1.png
    :align: center
-   :scale: 50%
+   :scale: 25%
 
 第二步： 打开后点击左上角的Home图标，然后点击加号。接着选“Add Email Account“。
 
@@ -176,6 +176,7 @@
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_icon.png
    :align: center
+   :scale: 50%
 
 第一步：打开Outlook客户端，它会自动提示新建账户，填写McMaster邮箱的地址 MacID@mcmaster.ca。
 
