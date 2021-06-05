@@ -31,6 +31,6 @@ Canada邮政公司：Canada Post
 
 3) 壹嘉国际：http://eplus-ex.com 。联系电话：(647)891-7666。微信号：zinsserzhou002
 4) 中加国际快递：http://scicglobal.com/ Hamilton代理：http://www.hamiltonchinese.com/forum.php?mod=viewthread&tid=121491
-5) 锦程快递：https://www.hr-ex.com/zh-CN/ Hamilton代理：http://maccssa.org/bbs/forum.php?mod=viewthread&tid=20295
-6) 丰泰国际快递：http://soonexpress.ca/
+5) 锦程快递：https://www.hr-ex.com/zh-CN/
+6) 丰泰国际快递：http://soonexpress.com/
 7) 艾森：https://www.voui.com/
