@@ -9,10 +9,10 @@
 
 各program的费用明细：
 
-- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-2
-- 杂费（Supplementary）：https://registrar.mcmaster.ca/supplementary-fees/#tab-3
+- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-10
+- 杂费（Supplementary）：https://registrar.mcmaster.ca/supplementary-fees/#tab-20
 
-截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。https://registrar.mcmaster.ca/dates-and-deadlines/#tab-5
+截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。https://registrar.mcmaster.ca/dates-and-deadlines/#tab-40
 
 付学费的方法
 -------------------------------------------
@@ -23,7 +23,7 @@
 
 1. 办签证提前支付学费（Early payment）
 
-- 介绍：https://registrar.mcmaster.ca/payment-methods/#tab-2 下的“Early payment”标题。
+- 介绍：https://registrar.mcmaster.ca/payment-methods/#tab-10 下的“Early payment”标题。
 - 已经支付学费的证明：https://registrar.mcmaster.ca/international-students/payment-verification/
 - 也可以使用下面第四种方法中的支付宝。
 
