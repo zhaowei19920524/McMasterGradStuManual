@@ -34,8 +34,8 @@
 
 2. 预定自习的房间
 
-- https://library.mcmaster.ca/mrbs/
 - 不过最少也得3人才能预定一个房间。并且最多两小时。大家也可以随意找地方坐：https://library.mcmaster.ca/spaces/study-zones
+- 单人研究生自习座位：https://library.mcmaster.ca/graduate-study-space 。需要填写网页里的申请表。没有门卡的同学，还会领到一张门卡。
 - 在此倡议一下：对于有lab的同学最好不要去图书馆看书，把座位尽量留给没有lab的同学，比如business学院的master学生。
 
 3. 打印复印

@@ -22,6 +22,7 @@ McMaster政策
 - McMaster官方租房资源网站： https://offcampus.mcmaster.ca/available-properties/
 - Hamilton主要Apartment汇总在本页结尾的Google地图里。
 - McMaster租房Facebook公共号：https://www.facebook.com/groups/machousing/
+- 加国无忧租房公告栏（主要是大多伦多地区）：https://house.51.ca/rental/map
 - Hamilton租房微信群：微信群里大多都是转租的广告，请让学长学姐或群里比较活跃的同学邀请一下。已经加入租房群的同学注意，如果现在处于term2（1~4月），则基本都是5~8月出租，很少有9月以后。如果大家对他们的房间感兴趣，可以问问他们9月之后可不可以续租他们的房子。
 
 .. attention::
@@ -125,7 +126,7 @@ McMaster政策
 2. 为了安全起见，也为了上学方便。大家最好住在Zone1，尽量不要住downtown的apt或house，除非有车。downtown和mcmaster学区（Zone 1）的分界线是644 main那个公寓旁边的403高速（这个公寓也在学区内，大家叫它“三角楼”）。没有车的同学如果住downtown，晚上最好在天黑前回家，以免遇到不愉快的事情，尤其是女生。
 3. Full-time MBA学生上课地点在Burlington的RJC校区，所以MBA学生可以住在Hamilton也可以直接住在Burlington。由于MBA没有公交卡（U-Pass），所以坐车需要单独买票，Burlington的公交月卡比Hamilton要便宜。虽然Burlington没有特别好的中国超市，但可以坐Burlington 101路、1路、1X路到Hamilton Jackson Square里的Nations Fresh Food买菜再返回Burlington，具体可以查看本站里关于Burlington Transit的 `介绍`_ 。这里我们没有列举Burlington的公寓和house房源，新生们可以问问往届MBA是如何在Burlington租房的，或者在Google地图里先找到Burlington，再搜apartment。Co-op MBA强烈建议一定要有车，有车之后没有太大必要住在Hamilton或Burlington，可以根据Co-op公司所在地长期住下来（比如Mississauga或Toronto），上课的时候开车去Burlinton校区就可以了。
 4. apt里一般没有家具，只有厨房和厕所装修过了，家具要自己买。house通常装修和家具齐全，尽量不要找没有装修过的house。所以不管找apt还是house一定要调查清楚。 
-5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样每月能节省上百甚至几百加元的开销。
+5. 大家找house的时候，如果house不是水电气网全包，则要问清楚热水锅炉用的是何种能源，最好找热水锅炉用天然气（gas）的house。因为天然气在Canada太便宜了，而电价却非常贵。这样冬季每月能节省上百甚至几百加元的开销。
 6. 大家找house的时候尽量避免找主干道路两旁的house。例如Main Street等在Google地图上用黄色标出的道路。因为实在是太吵了。如果一定要租，也尽量不要选面朝主干道的卧室。
 7. 由于新生一般在国内，还未到Canada，很难详细了解house或apt。往年出现过出租广告和实际情况差异巨大的情况。可以通过以下方法解决： 
 
@@ -140,7 +141,7 @@ McMaster政策
 2. 找到满意的house之后和房东联系，apt就和公寓管理员联系。可以发邮件询问，但学长学姐强烈推荐直接打电话。 
 3. 签租房合同（lease agreement），通过扫描和email的方式。
 
-- 从2018年4月30日起，Ontario省租房签的合同必须使用省政府提供的模板（standard lease）。详细说明：http://www.mah.gov.on.ca/Page18704.aspx 。模板地址：http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E
+- 从2018年4月30日起，Ontario省租房签的合同须使用省政府提供的模板（standard lease）。详细说明：https://www.ontario.ca/page/guide-ontarios-standard-lease 。模板地址：http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH=&ENV=WWE&TIT=2229E&NO=047-2229E 。如果房东用的还是自己写的租房模板，可以问一下房东能不能用省政府的租房模板，毕竟政府的模板包含了一切需要协商的问题。如果房东还是不同意，也可以用房东自己的，不过可以对照看一下政府的模板是不是绝大多数条款都包含了。
 - 双方必须都要拿到双方签好字的合同才算签合同完毕。公寓在申请的时候会提供一堆个人材料，比如护照、收入证明、SIN、前任房东的联系方式等等。并且会强制额外购买财产保险（大概每年一二百加元）。购买租客保险可以联系群里的19-MBA-王乐雪，详见 `房屋保险`_ 。
 
 4. 交定金（deposit）：交完定金可以让房东写一个收据（receipt）。定金可以通过western union或已经在Hamilton的学长学姐们帮忙交一下。如果大家想找学长学姐交定金，可以先把加元转给他们，然后让他们去交。如果学长学姐同意用人民币抵偿加元，请按加元的现汇卖出价或现钞卖出价来计算所需人民币的数目。http://www.boc.cn/sourcedb/whpj/
@@ -238,7 +239,7 @@ McMaster政策
 - West Village Suites（1686 Main St W）
 
   - 这个公寓是Zone 1里最新的公寓之一，它提供1~5 bedroom不等的户型。这个公寓按房间出租，所以租之前不需要找舍友。但带来的问题就是你不知道现在租客的情况和未来搬进来的租客的情况。
-  - 公寓管理员提供家具的出租。貌似一套家具几十加元一个月。所以不想买家具的同学可以租他们提供的家具。水电气网4项已经全包在房租里了，所以价格非常昂贵。最便宜的5 bedroom，每个侧卧也得五六百加元一个月。2 bedroom基本每个卧室每月都要1千加元。
+  - 公寓管理员提供家具的出租。貌似一套家具几十加元一个月。所以不想买家具的同学可以租他们提供的家具。水电气网4项已经全包在房租里了，所以价格非常昂贵。最便宜的5 bedroom，每个侧卧也得七八百加元一个月。2 bedroom基本每个卧室每月都要1千多加元。
   - 还有一个按房间出租的公寓是1100 Main St W，它是离学校最近的低层公寓，房租里已经包括了所有的水电气网开销以及自带家具。这个公寓可以刷国际信用卡付定金。
 
 - Durand village（93 bold st & 90 duke st & 75 bold st）
