@@ -157,21 +157,43 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
    :align: center
    :height: 75
 
-- https://www.amazon.ca/ （注意域名一定是.ca结尾，不要去amazon.com，不然买东西的价格是美元，且运到Canada还要额外交关税）
-- 它非常像国内的淘宝和京东，虽然规模没法比。几乎卖任何常见的商品，大家如果平时有东西不知道在哪买，就可以去Amazon看看。
-- Prime Student会员：https://www.amazon.ca/gp/help/customer/display.html/?nodeId=201552870 。
+- 官网：https://www.amazon.ca/ （注意域名一定是.ca结尾，不要去amazon.com，不然买东西的价格是美元，且运到Canada还要额外交关税）
+- Amazon和国内的京东类似，虽然规模没法比。它几乎卖任何常见的商品，大家如果平时有东西不知道在哪买，就可以去Amazon看看。Amazon的退货政策也比较好，买了之后如果不满意，通常可以原价退货。但频繁退货会收罚金。
+- Prime会员：https://www.amazon.ca/amazonprime 。年费79刀。主要福利有：
 
-  - 对于标有prime的商品可以享受2-day free shipping，年费$39，可以先免费试用半年。注意不要买成Amazon Prime了，那个不是学生版的，要79刀一年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）。
-  - 部分标有prime的商品可以享受更高级的1-day free shipping。但注意一次性购买的商品必须不低于$25，否则依然会收运费。
-- Amazon的退货政策也比较好，买了之后如果不满意，通常可以原价退货。但频繁退货会收罚金。
+  - FREE Two-Day Shipping：对于标有prime的商品可以享受2-day free shipping。部分标有prime的商品可以享受更高级的1-day free shipping。但注意一次性购买的商品必须不低于$25，否则依然会收运费。
+  - Prime Video：可以免费观看部分电影和美剧。尤其是Amazon投资的美剧。https://www.primevideo.com/
+  - Unlimited music streaming：无限制音乐流媒体服务。但仍然不能取代付费的Spotify或Apple Music。https://music.amazon.ca/
+  - Unlimited reading on any device：在Amazon的Kindle app上可以免费阅读很多书籍。尤其是一些小说，例如Harry Potter系列。https://www.amazon.ca/kindle-dbs/hz/bookshelf/prime
+  - Unlimited photo storage：无限制照片存储服务。注：Amazon网盘还是5GB的免费空间，但照片占用的空间不计算。https://www.amazon.ca/clouddrive
+
+- Prime Student会员：https://www.amazon.ca/gp/help/customer/display.html/?nodeId=201552870 。学生Prime会员享受半价。年费$39，可以先免费试用半年。（17-CAS-赵伟长期开会员，如果大家急着在Amazon上买东西，可以找他）。
+
+  - 注意，虽然价格减半，但是福利只剩下FREE Two-Day Shipping。不过这条最重要，建议大家先开通学生会员。
+  - 此外Prime Student会员最多只能开通4年。4年之后不管有没有毕业都必须升级成Prime会员。https://www.amazon.ca/gp/help/customer/display.html?nodeId=GQ5W385DB9RLJJDF
+- AmazonBasics：这个是亚马逊自产自销的产品。通常是一些基本的生活用品。比如床上用品、音响、电池、鼠标、键盘、各种数据线、厨具、旅行健身用品等等。价格通常比其它品牌要便宜一些。
+
+  - 网址：https://www.amazon.ca/stores/AmazonBasics/Homepage/page/BFAE3282-E15B-47EE-9027-DE6D2D4DF0ED
 - 手机App
 
-  - iOS：https://itunes.apple.com/app/amazon-shopping-made-easy/id297606951?mt=8
+  - iOS：https://apps.apple.com/app/amazon-shopping-made-easy/id297606951
   - Android：https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping
 
 .. image:: /resource/GouWu/Amazon_Prime.png
    :align: center
    :scale: 25%
+
+- Amazon.ca Rewards Mastercard®（MBNA）
+
+  - 官网：https://www.amazon.ca/MBNA-Amazon-ca-Rewards-Mastercard/dp/B07MJM4F44
+  - 福利：
+    
+    - Amazon信用卡在Amazon官网上购物返现力度非常大，通常是2.5%的返现。在开通的前6个月里买任何东西返现都是5%。
+    - Amazon信用卡刷外币是返现也是2.5%。这样可以刷外币抵消购汇的手续费。
+    - 其它地方消费的返现统一是1%。
+
+.. image:: /resource/GouWu/Amazon_CreditCard.png
+   :align: center
 
 2. 其它
 
