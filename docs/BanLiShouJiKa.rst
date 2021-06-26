@@ -73,23 +73,6 @@ Canada手机业务相关知识
 - 银行卡：debit卡、credit卡（国内的信用卡也可以）
 - 护照和study permit
 
-Rogers信用卡
----------------------------------------------------
-由于绝大多数同学用的都是Rogers或者Fido的手机服务，我们在这里推荐Rogers推出的信用卡服务。因为它不但没有年费、起始额度较高（$1500），刷外币时有较大额度的返现，是出国旅游的首选。原因：通常加拿大的信用卡刷外币（非加元）时，除了按实时汇率换成同等价值的加元外，都会额外收2.5%的手续费，比如RBC（http://www.rbcroyalbank.com/visagiftcard/fees-and-charges.html）。Rogers的信用卡虽然也会收相同的手续费，但可以通过返现来抵消。
-
-- 官网：https://rogersbank.com/en
-
-.. image:: /resource/RogersBank.png
-   :align: center
-
-Rogers推出三种信用卡：Fido™ Mastercard®，Rogers™ Platinum Mastercard®和Rogers™ World Elite® Mastercard®。它们的特点是：
-
-- Fido™ Mastercard®：刷外币返现3%。这个不但可以抵消2.5%的手续费，还会赚0.5%。用这个信用卡支付Rogers和Fido的手机费用，可以返现2%。其它可以返现1.25%。
-- Rogers™ Platinum Mastercard®：这个跟上面的Fido™ Mastercard®福利基本一样，只不过只有在支付Rogers手机费用的时候才能返现2%。
-- Rogers™ World Elite® Mastercard®：返现力度最大，刷外币返现4%。但它对年收入有要求，个人年收入不能少于$80,000。对于我们学生来说是很难达到的。
-
-如果大家有意向申请，推荐申请Fido™ Mastercard®。在网页里提交申请就可以了。需要大家填写自己的个人信息以及SIN number。如果审核通过1周就会把信用卡寄给你。
-
 注
 -------------------------------------------- 
 1) 由于学校有不限流量的wifi供大家使用，所以大家不用买流量特别多的套餐。
