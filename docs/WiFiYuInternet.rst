@@ -7,25 +7,27 @@ Canada稍大一点的城市里随处都可以搜到免费的WiFi。下面我来�
 1. WiFi热点：Mac-WiFi
 
 - 这个是主要的Internet接入方式。不限流量。速度是50Mb/s下载，10Mb/s上传。在McMaster所有的校区都能访问。
+- https://uts.mcmaster.ca/services/infrastructure/connect-to-wifi/
 - 用电子设备搜到这个热点后，用户名是MacID，密码是登录Mosaic的密码。
 - 连接成功后，你的设备会获得一个[172.16.0.0~172.31.255.255]区间内的B类私有IP地址，可以无限制的访问Internet。
 
 2. LAN：插网线
 
 - 对于有实验室的同学来说，LAN是一种极好的上网方式，速度极快，网络稳定，不限流量。网速是500Mb/s下载，500Mb/s上传。
-- 插上网线就可以使用，如果不行，就去找所在学院的Technical staff帮忙设置一下。
+- https://uts.mcmaster.ca/services/infrastructure/network-2/ 。如果不行，就去找所在学院的Technical staff帮忙设置一下。
 - 连接成功后，你的设备会获得一个130.113.*.*的公网IP地址，可以访问学校里的所有的网络资源。包括图书馆、超级计算机的计算服务、远程桌面或远程登录lab里的电脑、打印服务等等。这个IP虽然是公网IP，但由于学校防火墙设置，在学校外是无法直接访问校内的分配有该类IP的设备，ping也会失败。
 
 3. 高校通用WiFi热点：eduroam
 
 - 这个是一个备用的Internet接入方式。在Canada以及世界上大部分高等学校都能搜到。不限流量。McMaster提供的速度是50Mb/s下载，10Mb/s上传。
+- https://eduroam.org/where/?location=ca
 - 用电子设备搜到这个热点后，用户名是MacID@mcmaster.ca（就是McMaster的邮箱），密码是登录Mosaic的密码。
 - 举例：在多伦多大学搜到这个热点后，用McMaster的账户也能认证成功并上网。可以无限制的访问Internet，但由于各个学校里的政策不同，基本上无法访问学校里的任何网络资源。
 
 4. VPN
 
 - 如果想在校外访问校内的各种网络资源，那就需要使用McMaster提供的VPN服务了。
-- https://uts.mcmaster.ca/virtual-private-networks-vpn/
+- https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking-students/
 - 此时你的设备会分到一个130.113.*.*的IP地址，就可以像在学校里面一样使用了。
 - 对于学生来说，有两种VPN可以使用：
 

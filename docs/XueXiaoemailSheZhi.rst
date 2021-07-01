@@ -8,7 +8,8 @@
 
 激活方法
 ---------------------------------------
-需要等开学前online registration后才能使用。请查看学校的官方指导教程：https://uts.mcmaster.ca/services/communication-collaboration-and-storage/email/student-mail/
+| 需要等入学前第一次online registration后才能使用。因为第一次注册的时候需要激活MacID，而激活MacID之后才能使用麦马的各种服务，比如：Microsoft 365，Email，校园WiFi，Avenue to Learn。https://uts.mcmaster.ca/services/accounts-and-passwords/macid/
+| 请查看学校的官方指导教程：https://uts.mcmaster.ca/services/communication-collaboration-and-storage/email/student-mail/
 
 在线登录方法
 -----------------------------------------------
