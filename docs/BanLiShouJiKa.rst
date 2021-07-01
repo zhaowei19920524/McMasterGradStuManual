@@ -73,6 +73,34 @@ Canada手机业务相关知识
 - 银行卡：debit卡、credit卡（国内的信用卡也可以）
 - 护照和study permit
 
+办理国内运营商的套餐
+--------------------------------------------
+中国电信和中国移动在加拿大也有分公司。大家也可以不办加拿大本地运营商的手机套餐，而直接办理这两家国内运营商的套餐。使用他们的服务有着加拿大本地运营商完全不具备的好处：
+
+- 可以在国内就办理好。大家直接去营业厅办理，如果办理不了，就去省级营业厅问问。办理好之后，落地加拿大立即就可以使用，包括打电话、发短信、使用流量上网。
+- 开学季优惠非常大。普遍比加拿大运营商要稍微便宜一点。
+- 一卡双号。在国内办理好之后，会寄给你一张新的SIM卡。这张SIM卡包括了你在国内原来的手机号，和到加拿大之后新的手机号。并且不管在哪个国家，都可以接收到两个国家的电话和短信。所以大家来Canada之后依然可以接收到国内的验证码。
+
+官网介绍：
+
+- 中国电信CTExcel
+
+  - 官网：https://www.ctexcel.ca/
+  - 手机套餐：https://www.ctexcel.ca/bundleList.jspx
+
+.. image:: /resource/CTExcel.png
+   :align: center
+
+- 中国移动CMLink
+
+  - 官网：https://www.cmlink.com/ca/zh/
+  - 手机套餐：https://www.cmlink.com/ca/zh/prepaid-phone-plans/
+
+.. image:: /resource/CMLink.png
+   :align: center
+
+注：他们都是租用加拿大本地运营商（Telus）的基站来运营业务，所以不用担心信号的问题。Telus的信号覆盖图：https://www.telus.com/en/bc/mobility/network/coverage-map
+
 注
 -------------------------------------------- 
 1) 由于学校有不限流量的wifi供大家使用，所以大家不用买流量特别多的套餐。
