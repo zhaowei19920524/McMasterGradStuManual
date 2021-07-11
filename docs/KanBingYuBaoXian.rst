@@ -170,7 +170,7 @@
 - Walk-in Clinic：就是不需要预约直接去看病的诊所。
 
   - 诊所列表（Hamilton+Burlington）：http://www.hnhbhealthline.ca/advancedSearch.aspx?q=hamilton&cid=10072 。
-  - 除了市中心几家比较大的医院外，大部分Walk-in Clinic的规模都和社区医院差不多，里面医生非常少。规模最小的Walk-in Clinic可能只有一个医生和若干护士。这类诊所看一下感冒、发烧、咳嗽、身体不舒服等等还是完全够用的。由于不需要预约，所以这类诊所通常都需要排队，高峰期等待1个多小时都是有可能的。https://medimap.ca/ 这个网站可以显示诊所的预计排队时间。
+  - 除了市中心几家比较大的医院外，大部分Walk-in Clinic的规模都和社区医院差不多，里面医生非常少。规模最小的Walk-in Clinic可能只有一个医生和若干护士。这类诊所在白天看一下感冒、发烧、咳嗽、身体不舒服等等还是完全够用的。由于不需要预约，所以这类诊所通常都需要排队，高峰期等待1个多小时都是有可能的。https://medimap.ca/ 这个网站可以显示诊所的预计排队时间。
 - Emergency Departments：这个相当于国内的急诊。
 
   - 诊所列表： https://www.hnhbhealthline.ca/listServices.aspx?id=10077&region=Hamilton 。
@@ -178,7 +178,11 @@
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 
   - 诊所列表：https://www.hnhbhealthline.ca/listServices.aspx?id=11234
-  - Urgent Care Centre事实上是一种特殊的Walk-in Clinic。通常Walk-in Clinic会按先来后到的顺序接诊，但Urgent Care Centre是按病情的严重程度的顺序接诊。因为它主要优先解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限，如果大家病情不是很严重，依然去了Urgent Care Centre，那么你会发现有很多后来的病人会被排到你的前面，而你会等待非常长的时间。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真的遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。如果打算自己去医院的话，也要先查看一下各个医院Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
+  - Urgent Care Centre事实上是一种特殊的Walk-in Clinic。通常Walk-in Clinic会按先来后到的顺序接诊，但Urgent Care Centre是按病情的严重程度的顺序接诊。因为它主要优先解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限。如果大家病情不是很严重，依然去了Urgent Care Centre，那么你会发现有很多后来的病人会被排到你的前面，而你会等待非常长的时间。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真的遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
+
+.. attention::
+   - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
+   - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
 
 3. 校外的牙医、眼医诊所
 
@@ -210,7 +214,7 @@
   - 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
   - MBA学生在MSU Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
 - 如果是看病的话，建议大家去支持direct billing的诊所。因为可以省去报销流程，诊所会直接找保险公司报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic等等。
-- 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。
+- 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。大家在去之前可以打电话或者其它方式询问是否支持direct billing。如果支持，可以在去之前带上CUPE牙医保险的个人信息，请查看这个网页下面的“报销”->“CUPE Dental Plan”->“方法1”。
 
 买药
 -----------------------------------
@@ -248,7 +252,7 @@
 
 注：
 
-- 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）的药也是可以自由购买的。
+- 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）药、退烧药（例如：Tylenol泰诺）也是可以自由购买的。
 - 建议大家去支持pay direct card的药房买药，因为可以省去报销流程，药房会直接找保险公司报销相应的费用。例如McMaster University Centre Pharmasave、Rexall等。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 
 报销

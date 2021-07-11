@@ -8,7 +8,7 @@
 保安部门
 -------------------------
 1) 官网：https://security.mcmaster.ca/
-2) 失物招领：https://security.mcmaster.ca/lost_found.html
+2) 失物招领：https://security.mcmaster.ca/lost-and-found/
 
 节假日
 ---------------------------------

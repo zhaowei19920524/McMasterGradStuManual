@@ -1,5 +1,7 @@
 ﻿选课
 ================
+- 选课截止日期：https://gs.mcmaster.ca/current-students/dates-and-deadlines/#tab-content-adding-anddropping-courses
+
 学期代码
 -----------------------------------
 选课时，会有学期代码。以下是各代码所代表的学期：
