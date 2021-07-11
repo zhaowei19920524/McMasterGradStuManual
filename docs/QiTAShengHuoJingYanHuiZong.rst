@@ -127,7 +127,7 @@ Hamilton：
 | 解释：名的汉语拼音首字母大写，其它全部小写。或名的各首字母大写，中间加连字符“-”
 | 举例：李军的签名为 “Jun Li”
 | 张诗晨的签名为 “Shichen Zhang”，或 “Shi-Chen Zhang”
-| 注意：千万不能写成：“Chen Shi Zhang” 或 “Shi Chen Zhang” 。因为这样就把原名改了。
+| 注意：千万不能写成：“Chen Shi Zhang” 或 “Shi Chen Zhang” 。因为这样就把原名改了，国内一般是不用中间的Given name的。不管名有多长，都属于First name。
 
 .. image:: resource/QiTaShengHuoJiangYanHuiZong/QianMing_01.png
    :align: center

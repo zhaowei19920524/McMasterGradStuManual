@@ -428,7 +428,7 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 - 网站：https://hamilton.socialbicycles.com/
 - 手机App：
 
-  - iOS：https://itunes.apple.com/app/apple-store/id641497286
+  - iOS：https://apps.apple.com/app/apple-store/id641497286
   - Android：https://play.google.com/store/apps/details?id=com.socialbicycles.app
 
 - 价格（请在手机App上查看）：如果经常骑自行车的同学，可以购买$20的“McMaster Student Monthly”，每天可以骑90min不用额外花钱。如果仅仅想体验一下，可以使用“Pay As You Go”，这样每骑1分钟是$0.15。
@@ -455,13 +455,14 @@ SoBi是Social Bicycles旗下的在世界各大城市的共享单车业务之一�
 
 3. 查车APP：Transit
 
+ | 官网：https://transitapp.com/
  | 查车App可以查多伦多地区以及多伦多周边城市所有公交系统的车次与实时交通情况。这其中当然包括了Hamilton公交系统。
 
 .. image:: /resource/bus/Transit_App_01.png
    :align: center
    :scale: 25%
 
-- iOS：https://itunes.apple.com/app/apple-store/id498151501?mt=8
+- iOS：https://apps.apple.com/app/apple-store/id498151501
 - Android：https://play.google.com/store/apps/details?id=com.thetransitapp.droid
 
 | 打开App后会自动获取当前位置以及周围的公交车。对于每一个公交车，会列举下面马上到的几个车次的等待时间。
