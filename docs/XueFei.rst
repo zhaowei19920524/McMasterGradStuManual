@@ -9,8 +9,8 @@
 
 各program的费用明细：
 
-- 学费（Tuition）：https://registrar.mcmaster.ca/tuition-fees/#tab-10
-- 杂费（Supplementary）：https://registrar.mcmaster.ca/supplementary-fees/#tab-20
+- 学费（Tuition）：https://registrar.mcmaster.ca/fees/graduate
+- 杂费（Supplementary）：https://registrar.mcmaster.ca/fees/graduate/#tab-10
 
 截止日期：付学费截止日期是9月25日。如果学费没交齐，学校在9月30日会罚$75滞纳金并对尚未交齐的部分按每月1.2%收利息。https://registrar.mcmaster.ca/dates-and-deadlines/#tab-40
 
