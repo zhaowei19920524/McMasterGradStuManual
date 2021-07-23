@@ -10,12 +10,12 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 第一步：出航站楼
 
-- 如果在Pearson机场T3航站楼下飞机的同学，首先请坐机场的Terminal Link train到T1航站楼。https://www.torontopearson.com/en/transportation/terminal-link-train
+- 如果在Pearson机场T3航站楼下飞机的同学，首先请坐机场的Terminal Link train到T1航站楼。https://www.torontopearson.com/en/transportation-and-parking/terminal-link-train
 - 如果在Pearson机场T1航站楼下飞机的同学，请在Ground Level走出机场。机场外有P、Q、R、S几个停车点，P和Q停车点之间的某个地方找一个绿色的GO的站牌就是Go Bus的车站。那就是上车的地点。（见下图）
 
 第二步：乘坐Go bus长途汽车
 
-- https://www.torontopearson.com/en/transportation/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。由于Go Bus已经不能再上车买票了，大家可以在上面的链接里买票（点击那个“BOOK NOW WITH GO TRANSIT”按钮），或者在Ground Level的大厅里找Go的vending machine自行买票。这两种方式都可以刷信用卡。
+- https://www.torontopearson.com/en/transportation-and-parking/public-transit-buses/go-transit Go bus 40路，这个一天24小时都有车，上车时间是每个整点过5分和过35分（夜间只有后面这班）。可以用机场WiFi，使用Google地图，查好上车时间。由于Go Bus已经不能再上车买票了，大家可以在上面的链接里买票（点击那个“BOOK NOW WITH GO TRANSIT”按钮），或者在Ground Level的大厅里找Go的vending machine自行买票。这两种方式都可以刷信用卡。
 - 起点：Pearson Airport (Terminal 1)。下车：Main St. W. @ Paisley Ave. S., Hamilton（Hamilton境内第一站也是离学校最近的一站）或 Hamilton Go Center（Hamilton终点站）
 
 .. attention::
@@ -59,15 +59,10 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 --------------------------------------
 加拿大有几家比较大的接机公司，这些接机公司和上面学长学姐接机类似，提供的都是door-to-door的服务，也就是说从机场可以直接送到住处，接机车辆通常以van为主，可以坐下3~4人，每个人都可以携带很多行李（不一定住一个地方，但至少在一个城市，不能相隔太远）。
 
-1. Airways Transit
+- Airways Transit
 
-- 官网：https://www.airwaystransit.com/
-- 费用：https://www.airwaystransit.com/Private-Service/
-
-2. Smartgos Limousine Services
-
-- 官网：http://www.smartgos.com/
-- 费用：http://www.smartgos.com/fleets
+  - 官网：https://www.airwaystransit.com/
+  - 费用：https://www.airwaystransit.com/Private-Service/
 
 方法四：网约车
 --------------------------------------
