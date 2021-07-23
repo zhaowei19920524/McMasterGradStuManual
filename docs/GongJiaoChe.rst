@@ -51,6 +51,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 - 除Health Science以外所有学院的研究生凭Student Card去Campus Store（Gilmour Hall B101）领取PRESTO card，Health Science学院的学生在Health Sciences Campus Store（HSC 1G1）领取。
 - 此外Campus Store只负责卡片的分发。充值、挂失等等均不属于在这办理。
+- 如果以上两个地方不开，可以在Presto官网或者Shoppers买到。https://www.prestocard.ca/en/about/get-a-presto-card
 
 4. 注册Presto账户，激活Presto card
 
@@ -305,12 +306,10 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
   - http://www.ttc.ca/Fares_and_passes/Prices/Prices.jsp
   - 付现金是$3.25/次（2017年）。刷Presto卡或购买Tickets & Tokens，是$3.2/次（2020年）。2小时内免费换乘。
-  - 乘坐地铁和公交车每次的价格是一样的
-- 大家如果坐公交车或地铁在多伦多玩，可以购买Day Pass，这样当日乘车的时候就不用再付费了。费用是：$13.50/天（2020年）有两种选择，一个是Single，还有一个是Group / Family。大家可以在地铁站的入口购买。
+  - 乘坐公交车、有轨电车、地铁每次的价格是一样的。
 - Transferring to/from GO Transit or UP Express，刷Presto卡在Go Transit长途车（包括汽车和火车）和TTC之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit
 
   - 如果大家用含有U-Pass的Presto卡，先坐TTC并在2个小时内转乘Go Transit长途车，或者先坐Go Transit长途车并在3个小时内转乘TTC，则TTC的车费只要付$0.55就可以了。（没有U-Pass，则付$1.5）
-  - 这种方式可能比买Day Pass便宜，大家可以提前计算好。
 
 .. admonition:: 举例——去多伦多Yorkdale Mall购物商场的路线规划及价格
   

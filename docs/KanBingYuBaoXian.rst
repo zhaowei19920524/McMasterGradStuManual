@@ -174,13 +174,13 @@
 - Emergency Departments：这个相当于国内的急诊。
 
   - 诊所列表： https://www.hnhbhealthline.ca/listServices.aspx?id=10077&region=Hamilton 。
-  - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病（life threaten）。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。比较推荐的急诊就诊地点是Hamilton General Hospital。此外McMaster Children's Hospital只接待儿童的急诊病例。
+  - 加拿大的急诊和国内略有不同，除了同样是每天24h营业外，急诊还专门解决威胁生命安全的疾病（life threaten）。大家遇到非常严重的疾病，一定要先打911，大家的UHIP里是包括救护车（Ambulance）和急诊的费用的。注意：McMaster Children's Hospital只接待儿童的急诊病例。
 - Urgent Care Centre：不用排队可以立即就诊的诊所
 
   - 诊所列表：https://www.hnhbhealthline.ca/listServices.aspx?id=11234
   - Urgent Care Centre事实上是一种特殊的Walk-in Clinic。通常Walk-in Clinic会按先来后到的顺序接诊，但Urgent Care Centre是按病情的严重程度的顺序接诊。因为它主要优先解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限。如果大家病情不是很严重，依然去了Urgent Care Centre，那么你会发现有很多后来的病人会被排到你的前面，而你会等待非常长的时间。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真的遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
 
-.. attention::
+.. note::
    - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
    - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
 
