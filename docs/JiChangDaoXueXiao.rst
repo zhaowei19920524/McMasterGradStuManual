@@ -49,7 +49,6 @@ T1、T3航站楼的地图：https://www.torontopearson.com/en/while-you-are-here
 
 .. note::
 
-  - 19-ECE-郭砚辉
   - 18-MSE-赵钦福
   - 18-Chem-崔梦阳
 
