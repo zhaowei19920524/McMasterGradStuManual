@@ -47,9 +47,9 @@ Hamilton水电气公司
 
 1. 水电（Hydro）
 
-- Hamilton水电公司是由Horizon Utilities（现在已经并入Alectra ​Utilities）运营的。
+- Hamilton水电公司是由Alectra Utilities运营的。
 - 网址：https://alectrautilities.com/
-- 如果需要开户则打官网主页上Hamilton地区的电话。Hamilton: 905-522-9200。打电话的时候告诉他你要为某一个apt里的unit或house开户，然后回答问你的各种问题就可以了。
+- 开户：https://alectrautilities.com/residential-customer-open-transfer-or-close-account
 - 注意事项：
 
   - 水：正像美国电影里演的那样，Canada的自来水也是可以直接饮用的（https://www.hamilton.ca/home-property-and-development/water-sewer/water-quality）。而经过house或apt锅炉加热后则不可饮用，因为热水的蓄水池可能长期没消毒，频繁烧开同样的水容易产生有害物质，并且热水会有助于细菌病毒的生长。其实不管是冷的还是热的自来水都不建议饮用。因为你永远都不知道输水管道多长时间没有清理了。还是建议大家保持在国内的喝水习惯，买一个电热水壶（kettle），煮沸后再喝。
@@ -57,6 +57,11 @@ Hamilton水电气公司
 
 .. image:: /resource/ElectronicRates.jpg
    :align: center
+
+- 电费减免计划：由于电费在运输过程中的损耗也是需要客户支付的，所以每个月的电费可能会非常高。不过安省政府给低收入人群提供了电费减免计划，每个月每户可能省下50多刀。有两种办理方式：
+
+  - Online：https://alectrautilities.com/payment-assistance 中的“Ontario Electricity Support Program (OESP)”，或者直接打开：https://ontarioelectricitysupport.ca/ 点“NEW APPLICATION”。
+  - In person：去Hamilton Housing Help Centre，让里面的工作人员帮你办理。地址：119 Main St E, Hamilton, ON L8N 3Z3 。
 
 2. 天然气（Gas）
 
