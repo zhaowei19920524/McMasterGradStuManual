@@ -17,7 +17,7 @@
   - https://drivetest.ca/book-a-road-test/
 - 准备G1和G2的材料
 
-  - 官网材料：https://www.ontario.ca/document/official-mto-drivers-handbook 。大家可以点击网页里的“Table of contents”，在弹出的目录里点击“Print all”，然后保存成PDF再查看。
+  - 官网材料：https://www.ontario.ca/document/official-mto-drivers-handbook 。大家可以点击网页里的“Table of contents”，在弹出的目录里点击“Print all”，然后保存成PDF再查看。或者购买纸质版：https://www.publications.gov.on.ca/browse-catalogues/mto-drivers-handbook-series
   - 群共享里有“G1 Drivers Handbook Study Guide”，包括G1往年题和G2路考指南。
   - 网上也有一些模拟试题。
 
