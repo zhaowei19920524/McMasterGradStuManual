@@ -18,7 +18,7 @@
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
    :align: center
-   :width: 800
+   :width: 1200
 
 跟我们国际学生相关的保险如下：
 
@@ -31,7 +31,7 @@
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 - UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
@@ -206,7 +206,7 @@
 
    .. image:: /resource/Insurance/dental_location.png
       :align: center
-      :width: 800
+      :width: 1200
   B. MSU Dental Plan Insurance指定的牙医诊所：
 
   - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。

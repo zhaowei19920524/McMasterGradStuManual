@@ -4,7 +4,7 @@ Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交
 
 .. image:: /resource/bus/HSR_fee.png
    :align: center
-   :width: 800
+   :width: 1200
 
 PRESTO卡
 -------------------------------
@@ -62,11 +62,11 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/presto3.png
    :align: center
-   :width: 800
+   :width: 1200
 
 .. image:: /resource/bus/presto4.png
    :align: center
-   :width: 800
+   :width: 1200
 
 5. 加载免费坐公交的优惠码（Voucher Code）：
 
@@ -74,19 +74,19 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/voucher01.png
    :align: center
-   :width: 800
+   :width: 1200
 
 - 第二步：在presto官网登录自己的账户，在左上角点“LOAD”，然后点“Redeem Voucher”。输入刚刚复制的voucher code。
 
 .. image:: /resource/bus/voucher02.png
    :align: center
-   :width: 800
+   :width: 1200
 
 - 第三步：如果load成功应该会显示这个信息。
 
 .. image:: /resource/bus/voucher03.png
    :align: center
-   :width: 800
+   :width: 1200
 
 .. attention::
    - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
@@ -153,7 +153,7 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 
 .. image:: /resource/bus/HSRMonthPass.png
    :align: center
-   :width: 800
+   :width: 1200
 
 - 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
@@ -227,7 +227,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 .. image:: /resource/bus/Go_Bus.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 1. 各类资源
 

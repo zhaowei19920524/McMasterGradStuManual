@@ -23,19 +23,19 @@ Microsoft 365
 
 .. image:: /resource/office365/office365_1.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第二步：Office网站上默认装32位的office，在此推荐大家装64位的版本。点击Other install options。
 
 .. image:: /resource/office365/office365_2.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第三步：先点击“Apps & devices”，然后在version的地方选择64-bit，最后点击下方的“Install Office”。这时候会下载一个exe的文件，它仅仅是一个安装器，它的作用是在线下载最新的office，并且是边下载边自动安装（click-to-run技术），而并不会下载一个iso镜像。但如果是macOS版，则会下载一个镜像，然后自己去安装。
 
 .. image:: /resource/office365/office365_3.png
    :align: center
-   :width: 800
+   :width: 1200
 
 **Part II：平板手机上的office的使用方法**
 
@@ -71,7 +71,7 @@ McMaster已经为每一个学生购买了授权，每个学生都能得到一个
 
 .. image:: /resource/office365/windows10education.png
    :align: center
-   :width: 800
+   :width: 1200
 
 注：Microsoft从Windows 10开始改变授权方式，一旦Windows 10在一台设备上激活，在硬件没有大的变动的情况下，重装任意多次相同的版本，联网后依然可以自动激活。比如：之前在某台电脑上激活过Win10 Home版，则可以重装任意次Home版都可以联网自动激活。但不可跨版本，比如之前激活过Home版，如果新装Pro版则不能自动激活，需要另外找Pro版的序列号。
 
@@ -83,13 +83,13 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian02.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第二步：先点击左边的“Software”，然后点击想要下载的软件，比如“Windows 10 (consumer editions), version 1909”。这时候在右边的弹出框中点“View Key”，这时系统就会给你一个正版的序列号，最后点“Download”按钮下载软件。
 
 .. image:: /resource/office365/MicrosoftZhengBanRuanJian03.png
    :align: center
-   :width: 800
+   :width: 1200
 
 网盘
 -----------------------------
@@ -107,11 +107,11 @@ McMaster已经为每一个学生都购买了Azure Dev Tools for Teaching（原�
 
 .. image:: /resource/office365/onedrive_1.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 .. image:: /resource/office365/onedrive_2.png
    :align: center
-   :width: 800
+   :width: 1200
 
 2. Macdrive：McMaster自建的网盘服务。用来存储不方便传播到校外的文件。
 
@@ -243,46 +243,46 @@ Microsoft实用办公工具
 
 .. image:: /resource/office365/multi_editor/multi_edit_01.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第二步：保存在Onedrive网盘里。
 
 .. image:: /resource/office365/multi_editor/multi_edit_02.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第三步：点击右上角的“Share”按钮，然后在弹出框里点击“Get a sharing link”。
 
 .. image:: /resource/office365/multi_editor/multi_edit_03.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第四步：点击“Create an edit link”。
 
 .. image:: /resource/office365/multi_editor/multi_edit_04.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第五步：点击“Copy”按钮。并发给所有一起合作编辑的同学。
 
 .. image:: /resource/office365/multi_editor/multi_edit_05.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第六步：其他一起合作的同学接受到链接后，在浏览器里打开链接。
 
 .. image:: /resource/office365/multi_editor/multi_edit_06.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第七步：点击浏览器里的“Edit in Browser”。这时候就可以在网页里一起编辑了，也可以看到别人在编辑文档的哪个位置。
 
 .. image:: /resource/office365/multi_editor/multi_edit_07.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 第八步（可选）：点击右上角的”Sign in“。登录后，点击网页里的”Edit Document“，然后在弹出框里选”Edit in Word“。这样其它合作编辑的同学就可以在桌面版的Word里编辑了。
 
 .. image:: /resource/office365/multi_editor/multi_edit_08.jpg
    :align: center
-   :width: 800
+   :width: 1200
