@@ -4,7 +4,7 @@
 
 .. image:: /resource/TiYuGuan/TiYuGuan_fee.png
    :align: center
-   :width: 800
+   :width: 1200
 
 官方资源
 --------------------------------------

@@ -12,7 +12,7 @@
 
 .. image:: /resource/bank/online_banking.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 银行账户（Bank Accounts）
 ---------------------------------------------
@@ -203,13 +203,13 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 .. image:: /resource/bank/pay_credit_card_1.png
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第二步：再次确认一下。
 
 .. image:: /resource/bank/pay_credit_card_2.png
    :align: center
-   :width: 800
+   :width: 1200
 
 3. Interac etransfer（个人银行账户间的转账）图文教程
 
@@ -222,7 +222,7 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 .. image:: /resource/bank/interac/interact_1.png
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第二步：填写对方的信息
 
@@ -236,19 +236,19 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 .. image:: /resource/bank/interac/interact_2.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 第三步：检查一下对方的信息和金额，以及从哪个账户转出。接着填写安全问题和答案。可以不填需要和对方说的话。点confirm。
 
 .. image:: /resource/bank/interac/interact_3.png
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第四步：一个转账成功的页面。
 
 .. image:: /resource/bank/interac/interact_4.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 接收方：
 | 以下步骤是对于没有设置Interac e-Transfer Autodeposit（ `教程`_ ）。如果已经设置了Interac e-Transfer Autodeposit，则接收方可以立即收到钱。
@@ -260,43 +260,43 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 .. image:: /resource/bank/interac/interact_5.png
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第二步：选择银行。
    
 .. image:: /resource/bank/interac/interact_6.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 第三步：登录自己的银行账户。
 
 .. image:: /resource/bank/interac/interact_7.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 第四步：根据安全问题，填写答案。
 
 .. image:: /resource/bank/interac/interact_8.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 第五步：选择存到哪个账户里。这时候可以直接选savings账户。
 
 .. image:: /resource/bank/interac/interact_9.png
    :align: center
-   :width: 800
+   :width: 1200
    
 | 第六步：确认一下信息，可以不写想跟对方说的话。
 
 .. image:: /resource/bank/interac/interact_10.png
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第七步：一个接收成功的页面。
 
 .. image:: /resource/bank/interac/interact_11.png
    :align: center
-   :width: 800
+   :width: 1200
 
 4. 使用信用卡积分
 
@@ -306,31 +306,31 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 
 .. image:: /resource/bank/Rewards/Rewards00.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第二步：登录网上银行，进入RBC Rewards页面。
 
 .. image:: /resource/bank/Rewards/Rewards01.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第三步：检查你现在的积分，并选择左侧积分兑换商品还是服务。我们选“Shop Rewards”。大家可以自行了解一下其它Travel相关的代金券，比如Air Canada、Enterprise或其它公司的代金券。
 
 .. image:: /resource/bank/Rewards/Rewards02.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第四步：这里面会列举常见的商品，大家可以选“View All Top Picks”，看所有常见的种类。
 
 .. image:: /resource/bank/Rewards/Rewards03.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 | 第五步：选择喜爱的商品，在最上面“Merchandise”里可以看到所有的分类。找好之后就可以用积分免费兑换商品了。
 
 .. image:: /resource/bank/Rewards/Rewards04.jpg
    :align: center
-   :width: 800
+   :width: 1200
 
 .. admonition:: 本页作者
    

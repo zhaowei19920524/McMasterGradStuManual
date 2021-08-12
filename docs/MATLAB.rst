@@ -17,91 +17,91 @@ MATLAB电脑版
 
 .. image:: /resource/MATLAB/MATLAB01.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第二步：如果没有Mathworks的账户，可以用麦马的邮箱注册一个。这步的目的是麦马授权这个邮箱的用户可以下载McMaster购买的MATLAB。再次到这个登陆页面的时候，用户名就是自己注册的邮箱，密码是注册时设置的密码。
 
 .. image:: /resource/MATLAB/MATLAB02.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第三步：在下载的页面里点击最近的MATLAB版本的按钮。如果是比较旧的系统，那可能需要下载老版本的MATLAB。
 
 .. image:: /resource/MATLAB/MATLAB03.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第四步：选择操作系统，这里我们以Windows 10为例。点击“Windows”按钮，这时候会下载一个“matlab_RXXXXx_win64.exe”的下载器。并不会下载整个MATLAB的安装程序。后面我们运行这个下载器，它会根据我们需要安装的工具箱来在线下载相应的文件。
 
 .. image:: /resource/MATLAB/MATLAB04.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第五步：运行MATLAB下载器，填写自己注册的Mathworks的邮箱。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB10.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第六步：填写Mathworks账户的密码。点“Sign In”。
 
 .. image:: /resource/MATLAB/MATLAB11.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第七步：点“Yes”，再点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB12.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第八步：选择McMaster购买的MATLAB的license。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB13.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第九步：再确认一遍用户。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB14.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十步：选择安装文件夹。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB15.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十一步：选择需要安装的工具箱，安装器只默认选了几个。推荐大家选“Select All”。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB16.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十二步：选上“Add shortcut to desktop”，这样安装完之后会创建桌面快捷方式。点“Next”。
 
 .. image:: /resource/MATLAB/MATLAB17.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十三步：最后再确认一遍信息。安装全部的工具箱大概要占用将近50GB的硬盘空间。
 
 .. image:: /resource/MATLAB/MATLAB18.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十四步：MATLAB安装器会根据你的选择在线下载需要的文件，下载完之后会自动安装。
 
 .. image:: /resource/MATLAB/MATLAB19.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十五步：安装完毕的确认。
 
 .. image:: /resource/MATLAB/MATLAB20.png
    :align: center
-   :width: 800
+   :width: 1200
 
 第十六步：如果已经选择创建桌面快捷方式，那么可以双击运行了。
 
@@ -139,7 +139,7 @@ MATLAB还有手机和平板电脑的版本，大家可以在手机上运行简�
 
 .. image:: /resource/MATLAB/MATLABmobile03.png
    :align: center
-   :width: 800
+   :width: 1200
    :scale: 20%
 
 MATLAB网页版
@@ -152,7 +152,7 @@ MATLAB网页版可以运行简单的MATLAB语句和MATLAB Drive网盘里的文�
 
 .. image:: /resource/MATLAB/MATLABonline.png
    :align: center
-   :width: 800
+   :width: 1200
 
 注
 -------------------------

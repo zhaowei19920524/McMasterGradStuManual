@@ -4,7 +4,7 @@ McMaster成绩单、证明信
 
 .. image:: /resource/ChengJiDanFeiYong.png
    :align: center
-   :width: 800
+   :width: 1200
 
 1. 成绩单（Transcripts）
 
