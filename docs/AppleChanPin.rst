@@ -42,6 +42,7 @@ Apple推出的平板电脑。分为iPad（9.7英寸）和iPad Pro（10.5和12.9�
 
 .. image:: /resource/apple_university_discount.png
    :align: center
+   :width: 800
 
 如果显示不了，请手动打开：http://www.apple.com/ca_edu_107995/shop
 

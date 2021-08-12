@@ -35,6 +35,7 @@
 
 .. image:: /resource/RiBenVisaApplicationForm1.png
    :align: center
+   :width: 800
 
 第二页：
 
@@ -44,6 +45,7 @@
 
 .. image:: /resource/RiBenVisaApplicationForm2.png
    :align: center
+   :width: 800
 
 2. Valid passport with enough blank visa pages：大家的护照只要还有3个月以上的有效期，并且还有空白页就可以了。
 3. Valid immigration documents showing your legal status in Canada：复印一张自己的study permit，但要带上原件。

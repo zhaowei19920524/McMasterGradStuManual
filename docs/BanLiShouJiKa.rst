@@ -47,6 +47,7 @@ Canada手机业务相关知识
 
 .. image:: /resource/ShouJi.png
    :align: center
+   :width: 800
 
 第一步：选择plan里包含的服务种类
 
@@ -91,6 +92,7 @@ Canada手机业务相关知识
 
 .. image:: /resource/CTExcel.png
    :align: center
+   :width: 800
 
 - 中国移动CMLink
 
@@ -100,6 +102,7 @@ Canada手机业务相关知识
 
 .. image:: /resource/CMLink.png
    :align: center
+   :width: 800
 
 经验：
 

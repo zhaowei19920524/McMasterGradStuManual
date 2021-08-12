@@ -83,21 +83,25 @@
 
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui01.jpg
    :align: center
+   :width: 800
 
 第二步：在左边的菜单里，先选择“Student Success Center”，然后点“Appointments”，然后点“Mac's Money Centre”。
 
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui02.jpg
    :align: center
+   :width: 800
 
 第三步：点击“Book by Appointment Type”按钮。
 
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui03.jpg
    :align: center
+   :width: 800
 
 第四步：点击“Income Tax Returns”下方的“Book”按钮，这时候在右边就会出现可以参加报税活动的时间，大家填上自己的信息注册好久可以了。如果没有显示说明当前放出来的所有活动时间都已经注册满了，大家可以等待下一波活动时间放出来。通常这个活动都会一直持续到4月底。
 
 .. image:: /resource/BaoShui/McMasterMianFeiBaoShui04.jpg
    :align: center
+   :width: 800
 
 | 没有抢到上述报税活动的同学，可以看一下官方录制的视频（2021年）：https://www.youtube.com/watch?v=yqXM18KyLJM
 
@@ -107,16 +111,19 @@
 
 .. image:: /resource/BaoShui/PublicMianFeiBaoShui01.jpg
    :align: center
+   :width: 800
 
 第二步：选择省份和城市。如果只对去年的收入报税就在“Returns prepared”的标题下选择“Current year only”。然后点“Search”按钮。
 
 .. image:: /resource/BaoShui/PublicMianFeiBaoShui02.jpg
    :align: center
+   :width: 800
 
 第三步：这时候网页里就会出现很多免费报税的地点，大家可以按上面说的地址和要求，带上材料去就可以了。
 
 .. image:: /resource/BaoShui/PublicMianFeiBaoShui03.jpg
    :align: center
+   :width: 800
 
 退税
 ------------------------------------
@@ -146,6 +153,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax01.png
    :align: center
+   :width: 800
 
 第二步：在新的网页里可能要先注册一个账户，然后就能看到正式填写信息的页面了。
 
@@ -156,19 +164,23 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax02.png
    :align: center
+   :width: 800
 
 第三步：对于上一年就是用SimpleTax报税的同学来说，今年用SimpleTax报税需要填写NETFILE access code。这个code可以在CRA官网上找到，登录自己账户，查一下上一年报税的Notice of assessment。
 
 .. image:: /resource/BaoShui/SimpleTax03.png
    :align: center
+   :width: 800
 
 .. image:: /resource/BaoShui/SimpleTax03-2.png
    :align: center
+   :width: 800
 
 第四步：Mailing Address一栏里填上自己现在的住址还有电话。为了安全起见，不要填电话号码。
 
 .. image:: /resource/BaoShui/SimpleTax04.png
    :align: center
+   :width: 800
 
 第五步：About Your Residence这一栏里填写自己的居民信息：
 
@@ -180,9 +192,11 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax05.png
    :align: center
+   :width: 800
 
 .. image:: /resource/BaoShui/SimpleTax05-2.png
    :align: center
+   :width: 800
 
 第六步：在You and Your Family一栏中填写家人信息：
 
@@ -196,6 +210,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax06.png
    :align: center
+   :width: 800
 
 第七步：这里是填写一些公共的补助，所有人遇到的情形都是一样的。
 
@@ -205,6 +220,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax07.png
    :align: center
+   :width: 800
 
 第八步：从这一步开始就要真正开始按照拿到的Tax Form来填写相应的信息了。不过由于现在信息已经十分发达了，雇主们会把所有T2202、T3、T4、T4A、T5的税表都提前传给CRA。
 
@@ -214,6 +230,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax08.png
    :align: center
+   :width: 800
 
 第九步：在Ontario Trillium Benefit: Property and Energy Tax Grants and Credits一栏中填写申请低收入人群补助的相关信息：
 
@@ -229,6 +246,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax09.png
    :align: center
+   :width: 800
 
 第十步：这一项是让大家填写自己的需要缴税类型的的收入的税表，就是TA、RA、Coop、Intern、Part-time工作的雇主发给你的T4表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4表上的信息填写在上面。如果有多张T4表，就点击“Add another T4”。
 
@@ -237,9 +255,11 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax10.png
    :align: center
+   :width: 800
 
 .. image:: /resource/BaoShui/SimpleTax10-2.png
    :align: center
+   :width: 800
 
 第十一步：这一项是让大家填写自己的不需要缴税类型的收入的税表，通常是奖学金（scholarship、bursary等等）相关的T4A表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T4A表上的信息填写在上面。如果有多张T4A表，就点击“Add another T4A”。
 
@@ -249,9 +269,11 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax11.png
    :align: center
+   :width: 800
 
 .. image:: /resource/BaoShui/SimpleTax11-2.png
    :align: center
+   :width: 800
 
 第十二步：部分同学上一年在银行里的存款和投资产生了大于$50的利息。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把所有拿到的T5表上的信息填写在上面。如果有多张T5表，就点击“Add another T5”。
 
@@ -259,6 +281,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax12.png
    :align: center
+   :width: 800
 
 第十三步：这一个表格是让大家填写学费的相关的信息，就是学校发给学生的T2202表。如果之前已经“Auto-fill my return”，则已经可以看到相关的信息。如果没有，就要手动把T2202表上的信息填写在上面。如果有多张T2202表，就点击“Add another T2202”。
 
@@ -275,9 +298,11 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax13.png
    :align: center
+   :width: 800
 
 .. image:: /resource/BaoShui/SimpleTax13-2.png
    :align: center
+   :width: 800
 
 第十四步：COVID-19期间在家工作（例如TA或者RA等），可以申请这个credit。但是并不直接产生退税。这项必须自己从上面的搜索框中搜出来。
 
@@ -286,6 +311,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax14.png
    :align: center
+   :width: 800
 
 第十五步：申报医疗花费（Medical Expenses）。不管是否已经“Auto-fill my return”，这项都必须自己从上面的搜索框中搜出来。
 
@@ -302,6 +328,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax15.png
    :align: center
+   :width: 800
 
 第十六步：如果第七步中“Climate Action Incentive”可以选“Yes”，则在Climate Action Incentive一栏中填写详细信息。如果没有则略过此步。
 
@@ -310,11 +337,13 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax16.png
    :align: center
+   :width: 800
 
 第十七步：这一步是SimpleTax最有价值的一项，就是“Check & Optimize”按钮，SimpleTax可以帮我们检查之前填写的内容有没有错误，还有没有可以优化的地方，还有没有相关的福利可以申请等等。
 
 .. image:: /resource/BaoShui/SimpleTax17.png
    :align: center
+   :width: 800
 
 第十八步：“Check & Optimize”之后，就会出现结果，由Suggestions、Warnings、Errors构成。
 
@@ -324,6 +353,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax18.png
    :align: center
+   :width: 800
 
 第十九步：这一项是填完之后的Summary。
 
@@ -337,6 +367,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax19.png
    :align: center
+   :width: 800
 
 第二十步：这一步就是要把税务信息正式提交给CRA了，希望大家认真仔细检查后再点“FILE tax return”。如果还有不明白的地方可以问一下周围的同学。如果提交成功，就会收到一个Confirmation Number，这个号码也是一定要保存下来的，以防后面CRA审核出现错误时能用到。
 
@@ -344,6 +375,7 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax20.png
    :align: center
+   :width: 800
 
 .. attention::
   对于第一次报税的同学还需要进行以下步骤
@@ -356,12 +388,14 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax21-1.png
    :align: center
+   :width: 800
 
 - Step 4 – Your income：填上上一年以及再往前推两年的年份。收入全部填0。
 - Step 5 – Signature：打印出来签名和日期。
 
 .. image:: /resource/BaoShui/SimpleTax21-2.png
    :align: center
+   :width: 800
 
 第二十二步：一旦报税成功，CRA会给你发一封纸质信件，这时候就可以在CRA官网上开户。官网链接：https://www.canada.ca/en/revenue-agency.html
 
@@ -371,11 +405,13 @@ McMaster提供的报税服务会教大家用SimpleTax（Wealthsimple Tax）在�
 
 .. image:: /resource/BaoShui/SimpleTax22.png
    :align: center
+   :width: 800
 
 第二十三步：一旦CRA账户全部注册完毕，就可以查看自己的税务信息了。比如能退多少税，什么时候收到等等。强烈建议大家填写“Arrange my direct deposit”链接里的相关信息，这样以后退税就可以直接存到银行账户里了，不用先收到支票再去存了。此外，大家再仔细查看一下其他内容，看看有没有需要更改的个人信息等等。
 
 .. image:: /resource/BaoShui/SimpleTax23.png
    :align: center
+   :width: 800
 
 附：其它有关税务的信息
 --------------------------------------------------------------------------------

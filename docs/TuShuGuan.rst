@@ -25,6 +25,7 @@
 
 .. image:: /resource/Library_Borrowing_Rules.png
    :align: center
+   :width: 800
 
 .. attention::
    - McMaster图书馆的借书政策和国内绝大多数图书馆有极大的不同。大家务必仔细看上图。

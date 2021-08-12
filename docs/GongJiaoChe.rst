@@ -4,6 +4,7 @@ Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交
 
 .. image:: /resource/bus/HSR_fee.png
    :align: center
+   :width: 800
 
 PRESTO卡
 -------------------------------
@@ -61,9 +62,11 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/presto3.png
    :align: center
+   :width: 800
 
 .. image:: /resource/bus/presto4.png
    :align: center
+   :width: 800
 
 5. 加载免费坐公交的优惠码（Voucher Code）：
 
@@ -71,18 +74,19 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/voucher01.png
    :align: center
+   :width: 800
 
 - 第二步：在presto官网登录自己的账户，在左上角点“LOAD”，然后点“Redeem Voucher”。输入刚刚复制的voucher code。
 
 .. image:: /resource/bus/voucher02.png
    :align: center
-   :scale: 50%
+   :width: 800
 
 - 第三步：如果load成功应该会显示这个信息。
 
 .. image:: /resource/bus/voucher03.png
    :align: center
-   :scale: 50%
+   :width: 800
 
 .. attention::
    - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
@@ -149,6 +153,7 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 
 .. image:: /resource/bus/HSRMonthPass.png
    :align: center
+   :width: 800
 
 - 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
@@ -222,6 +227,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 .. image:: /resource/bus/Go_Bus.jpg
    :align: center
+   :width: 800
 
 1. 各类资源
 
@@ -235,7 +241,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 - 费用通常是按乘坐的距离收费，乘坐距离越长，费用越高。到多伦多或密西沙加单程大概$10。官网上的估计出来的费用不一定很准确，如果大家经常使用Presto卡坐Go Trasit的交通工具，请保持卡里最好不要少于$40。
 - 付费时，可以使用现金或刷Presto卡，不能使用信用卡。使用Presto卡可以获得相应的打折。这里，不管Presto卡里有没有U-Pass，都会扣去相应的费用。
 
-  - 对于自己申请的presto card，计费类型（Fare Type）是Adult，通常比直接付现金便宜11.15%。详细政策可以看这个链接里Go Transit的介绍：https://www.prestocard.ca/en/about/paying-for-transit
+  - 对于自己申请的presto card，计费类型（Fare Type）是Adult，通常比直接付现金便宜15.7%。详细政策可以看这个链接里Go Transit的介绍：https://www.gotransit.com/en/trip-planning/presto/fare-discounts-with-presto
   - 对于能免费在Hamilton乘车的学生，在8月份给自己presto卡加载优惠码（Voucher Code）的时候，Fare Type会自动变为PS1（Post Secondary）。这样就会比直接付现金便宜22.5%。https://www.gotransit.com/en/trip-planning/going-to-school
 - Transferring to/from local transit agencies，刷Presto卡在Go Transit长途车（包括汽车和火车）和市内公交系统之间转车的优惠：https://www.prestocard.ca/en/about/paying-for-transit （看网页Go Transit那一栏的标题）
 

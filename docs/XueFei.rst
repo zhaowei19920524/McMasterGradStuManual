@@ -4,8 +4,9 @@
 -----------------------------------------------------------------
 .. image:: /resource/XueFei/XueFeiList.png
    :align: center
+   :width: 800
 
-我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。
+我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。学费的各项介绍请看本站相关网页： `看病与保险`_、 `公交车`_、 `学生会`_、 `体育馆`_、 `McMaster成绩单证明信`_。
 
 各program的费用明细：
 
@@ -121,26 +122,38 @@
 Step1: 打开你的online banking的账户，在转账的页面里，To: Add a Payee，然后submit。 
 
 .. image:: /resource/XueFei/XueFei_payee_01.png
+   :width: 800
+   :align: center
 
 Step2: 在搜索框里写McMaster，点Search。 
 
 .. image:: /resource/XueFei/XueFei_payee_02.png
+   :width: 800
+   :align: center
  
 Step3: 在搜索结果里选“MCMASTER UNIVERSITY”，点continue。 
  
 .. image:: /resource/XueFei/XueFei_payee_03.png
+   :width: 800
+   :align: center
 
 Step4: （**重要**）填写9位学号Student ID。对于2015年以后入学的新生，学号是400开头的一串数字，不是Mac ID。这个一定要填对，不然就是帮别人付学费。 
 
 .. image:: /resource/XueFei/XueFei_payee_04.png
+   :width: 800
+   :align: center
  
 Step5: 检查一遍学号，确认后点continue。 
 
 .. image:: /resource/XueFei/XueFei_payee_05.png
+   :width: 800
+   :align: center
  
 Step6: 一个添加payee成功的页面。 
 
 .. image:: /resource/XueFei/XueFei_payee_06.png
+   :width: 800
+   :align: center
 
 .. attention::
   1. **不管大家把钱存在哪个账户里，在付学费前，都把要付的学费先转到chequing账户里。因为有些银行从savings账户里支付会收手续费。** 
@@ -149,17 +162,29 @@ Step6: 一个添加payee成功的页面。
 Step7: From选成chequing账户，To选为已经添加的McMaster的payee。填写学费数额，点Submit。 
 
 .. image:: /resource/XueFei/XueFei_payee_07.png
+   :width: 800
+   :align: center
 
 Step8: 最后再确认一遍信息，点confirm。付完之后，mosaic不会立即更新。可能要过3天左右的时间才会显示到账。 
 
 .. image:: /resource/XueFei/XueFei_payee_08.png
+   :width: 800
+   :align: center
 
 Step9: 一个转账付学费成功的页面。由于存在系统延迟，付费成功后要过几天才能反映在mosaic上。
 
 .. image:: /resource/XueFei/XueFei_payee_09.png
+   :width: 800
+   :align: center
 
 .. admonition:: 本页作者
    
    - 17-CAS-赵伟
    - 陆定维老师
    - 20-EngPhys-信鑫
+
+.. _看病与保险: KanBingYuBaoXian.html
+.. _公交车: GongJiaoChe.html
+.. _学生会: XueShengHui.html
+.. _体育馆: TiYuGuan.html
+.. _McMaster成绩单证明信: McMasterChengJiDanZhengMingXin.html

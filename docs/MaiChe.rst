@@ -141,49 +141,59 @@
 
 .. image:: /resource/MaiChe/Mitsubishi01.png
    :align: center
+   :width: 800
 
 第二步：点“Build & Price”按钮。
 
 .. image:: /resource/MaiChe/Mitsubishi02.png
    :align: center
+   :width: 800
 
 第三步：我们看到Mirage有4种车型，除了第一种是手动挡外，剩下3种是自动挡。在这里我们推荐“SE CVT”，点击“View More”，我们发现从这个级别开始才会有我们上面提到的必须有的功能，比如倒车影像，手机车载系统等。选好后，点“Select Packages”
 
 .. image:: /resource/MaiChe/Mitsubishi03.png
    :align: center
+   :width: 800
 
 .. image:: /resource/MaiChe/Mitsubishi03-2.png
    :align: center
+   :width: 800
 
 第四步：这一步可以忽略，Mirage这个车型可能不附带Package。点“Select Colour”。
 
 .. image:: /resource/MaiChe/Mitsubishi04.png
    :align: center
+   :width: 800
 
 第五步：选在车的外部颜色和内饰颜色。点“Select Accessories”。
 
 .. image:: /resource/MaiChe/Mitsubishi05.png
    :align: center
+   :width: 800
 
 第六步：通常汽车都有很多附件，比如脚垫、方向盘套、货箱托盘等等。接着点“Select Protection”。
 
 .. image:: /resource/MaiChe/Mitsubishi06.png
    :align: center
+   :width: 800
 
 第七步：Mirage给车辆提供了两种保护，这个跟汽车保险是有区别的。例如：“Appearance Protection”的费用大概$1500左右，有效期四年。如果买了Appearance Protection，则汽车出现了因为自身操作失误造成的剐蹭、凹陷、座椅磨损、车钥匙丢失、挡风玻璃被石子砸破碎等等，只要一次维修不超过$500，车行可以免费维修。这个跟后面提到的auto insurance（汽车保险）不同，首先如果使用汽车保险维修，可能下一年保费不但不降低还会上涨。此外汽车保险都有deductible（例如$500）。也就是$500以上的维修费用才给报销，$500以下都要自己付费。因此Appearance Protection正好填补了这一部分空白。事实上大多数小剐小蹭的维护费用都在$500以下。如果大家预算还是比较充足的话，我们还是建议购买的。接着点“Continue to Summary”。
 
 .. image:: /resource/MaiChe/Mitsubishi07.png
    :align: center
+   :width: 800
 
 第八步：首先要选经销商了，输入当前住址的Postal Code，就会搜索出来当前城市的经销商，我们选山上那家。点“Next”。
 
 .. image:: /resource/MaiChe/Mitsubishi08.png
    :align: center
+   :width: 800
 
 第九步：这样我们就获得了整个车的Summary了。先不要急着点“Contact Dealer”。点左边的“Cash”，然后点“View Detailed Pricing”。
 
 .. image:: /resource/MaiChe/Mitsubishi09.png
    :align: center
+   :width: 800
 
 第十步：这里列举了费用的详细信息，我们看到汽车总得价格由若干部分组成：
 
@@ -203,6 +213,7 @@
 
 .. image:: /resource/MaiChe/Mitsubishi10.png
    :align: center
+   :width: 800
 
 大家买车时一定要货比三家。多看几个品牌和车型。有不懂的问题一定要打电话询问，然后集中和经销商联系试车。
 
@@ -293,6 +304,7 @@
 
 .. image:: /resource/MaiChe/LotM.png
    :align: center
+   :width: 800
 
 至此大家就完成了买车的所有流程，可以开始享受自己的新车了。
 
