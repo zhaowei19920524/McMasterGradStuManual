@@ -13,6 +13,7 @@ Graduate Students Association
 ------------------------------------------------------------------------
 .. image:: /resource/SheLianYuSheTuan/GSA_logo.jpg
    :align: center
+   :width: 800
 
 Graduate Students Association（GSA，研究生协会）是麦克马斯特大学研究生成立的学生团体。可以理解为国内高校的校学生会，但权力和职责远远超过校学生会，大概相当于国内高校的校学生会、社联和一个餐厅的合体。
 
@@ -100,6 +101,16 @@ GSA历任华人学生成员名单：
 - https://www.phoenixmcmaster.com/
 - GSA下属的餐厅，是一个盈利性质的机构。餐厅工作人员是额外从社会上招聘的，由VP Administration管理其财务。
 
+三、会员与会费
+
+.. image:: /resource/SheLianYuSheTuan/GSA_fee.png
+   :align: center
+   :width: 800
+
+
+- 所有full-time的研究生都自动成为GSA学生会的会员。只有MBA、part-time、divinity、exchange、visiting学生不自动属于GSA的会员。
+- GSA每年都要交会员费——“GSA - Operational Fee”。
+
 三、主要职责
 
 1) Advocate：学生会最重要的职责就负责解决学生的各种问题，包括听取学生对学校、课程、导师的意见。给学校反映，并监督解决。
@@ -119,6 +130,7 @@ International Graduate Student Association
 ------------------------------------------------------------------------
 .. image:: /resource/SheLianYuSheTuan/IGSA_logo.jpg
    :align: center
+   :width: 800
 
 International Graduate Student Association（IGSA，国际研究生协会）是麦克马斯特大学GSA下属的一个Faculty association，它和GSA其它Faculty association（院学生会）有着相等的地位。
 

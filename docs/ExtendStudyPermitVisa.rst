@@ -53,80 +53,101 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_01.png
    :align: center
+   :width: 800
 
 第二步：在“I do not have a Personal Reference Code”下面继续点击“Visitor visa, study and/or work permit”按钮。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_02.png
    :align: center
+   :width: 800
 
 第三步：从这一步开始之后的很多网页都是问卷。作用是检查你现在的情况是否符合延长Study Permit。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_03.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_04.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_05.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_06.png
    :align: center
+   :width: 800
 
 第四步：做完问卷后，网站上会显示你的条件符合延长Study Permit。点击在“Study Permit”框里的Continue。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_07.png
    :align: center
+   :width: 800
 
 第五步：从从这一步开始之后的很多网页依然是问卷，作用是生成checklist（材料清单）
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_08.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_09.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_10.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_11.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_12.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_13.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_14.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_15.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_16.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_17.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_18.png
    :align: center
+   :width: 800
 
 第六步：再次检查一下所有问卷的答案
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_19.png
    :align: center
+   :width: 800
 
 第七步：向你列举一下网申的步骤
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_20.png
    :align: center
+   :width: 800
 
 第八步：进入提交各种网申材料的页面，点击“Document Name”下面的相关条目可以下载所需的表格。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_21.png
    :align: center
+   :width: 800
 
 .. attention::
    **以下步骤里需要填写的表格请务必用最新版的Adobe Reader打开**
@@ -142,11 +163,13 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5709_1.png
    :align: center
+   :width: 800
 
 第二页：
 
 .. image:: /resource/StudyPermitVisa/IMM5709_2.png
    :align: center
+   :width: 800
 
 第三页：
 
@@ -155,6 +178,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5709_3.png
    :align: center
+   :width: 800
 
 第四页：
 
@@ -162,6 +186,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5709_4.png
    :align: center
+   :width: 800
 
 第五页：
 
@@ -169,6 +194,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5709_5.png
    :align: center
+   :width: 800
 
 **Part 3：在网上上传文件**
 
@@ -196,6 +222,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/StudyPermitResult.png
    :align: center
+   :width: 800
 
 延长Student Visa的流程
 ----------------------------------------------------------------
@@ -209,11 +236,13 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_01.png
    :align: center
+   :width: 800
 
 第二步：在“I do not have a Personal Reference Code”下面继续点击“Visitor visa, study and/or work permit”按钮。
 
 .. image:: /resource/StudyPermitVisa/Study_Permit_02.png
    :align: center
+   :width: 800
 
 第三步：从这一步开始之后的很多网页都是问卷。作用是检查你现在的情况是否符合延长Visitor visa。
 
@@ -223,53 +252,67 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_01.png
    :align: center
+   :width: 800
 
 第五步：从从这一步开始之后的很多网页依然是问卷，作用是生成checklist（材料清单）
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_02.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_03.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_04.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_05.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_06.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_07.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_08.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_09.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_10.png
    :align: center
+   :width: 800
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_11.png
    :align: center
+   :width: 800
 
 第六步：再次检查一下所有问卷的答案
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_12.png
    :align: center
+   :width: 800
 
 第七步：向你列举一下网申的步骤
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_13.png
    :align: center
+   :width: 800
 
 第八步：进入提交各种网申材料的页面，点击“Document Name”下面的相关条目可以下载所需的表格。
 
 .. image:: /resource/StudyPermitVisa/StudyVisa_14.png
    :align: center
+   :width: 800
 
 **Part 2：填写IMM5257**
 
@@ -282,6 +325,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257_1.png
    :align: center
+   :width: 800
 
 第二页：
 
@@ -289,6 +333,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257_2.png
    :align: center
+   :width: 800
 
 第三页：
 
@@ -296,6 +341,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257_3.png
    :align: center
+   :width: 800
 
 第四页：
 
@@ -303,6 +349,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257_4.png
    :align: center
+   :width: 800
 
 第五页：
 
@@ -310,6 +357,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257_5.png
    :align: center
+   :width: 800
 
 **Part 3：填写IMM5257B_1**
 
@@ -317,6 +365,7 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/IMM5257B_1.png
    :align: center
+   :width: 800
 
 **Part 4：在网上上传文件**
 
@@ -346,11 +395,13 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/StudyVisaResult.png
    :align: center
+   :width: 800
 
 | 寄护照：打印网页中的message（一个PDF文件），然后连同护照一起通过Canada POST寄到Ottawa。查看寄送方法：www.cic.gc.ca/submit
 
 .. image:: /resource/StudyPermitVisa/SendPassport.png
    :align: center
+   :width: 800
 
 实用工具
 -------------------------
@@ -369,3 +420,4 @@ Student Visa：如果需要延长，则至少提前2个月申请。由于申请�
 
 .. image:: /resource/StudyPermitVisa/immigration_consultant_appointment.png
    :align: center
+   :width: 800

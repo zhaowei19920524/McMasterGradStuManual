@@ -81,56 +81,68 @@ academically accredited course OR a placeholder course （专业课或占位课�
 
 .. image:: /resource/XuanKe/Search01.png
    :align: center
+   :width: 800
+
 
 第二步：选择需要选课的学期，点“Continue”。
 
 .. image:: /resource/XuanKe/Search02.png
    :align: center
+   :width: 800
 
 第三步：点“search”。
 
 .. image:: /resource/XuanKe/Search03.png
    :align: center
+   :width: 800
 
 第四步：点“select subject”。
 
 .. image:: /resource/XuanKe/Search04.png
    :align: center
+   :width: 800
 
 第五步：（这里拿SGS700举例，选其它课程同理）先选“S”，点击SGS上面的“select”。
 
 .. image:: /resource/XuanKe/Search05.png
    :align: center
+   :width: 800
 
 第六步：在"Course Number"后面填700。再点”Search“。
 
 .. image:: /resource/XuanKe/Search06.png
    :align: center
+   :width: 800
 
 第七步：找到课程后点”select class“。
 
 .. image:: /resource/XuanKe/Search07.png
    :align: center
+   :width: 800
 
 第八步：点”Next“。
 
 .. image:: /resource/XuanKe/Search08.png
    :align: center
+   :width: 800
 
 第九步：点”Proceed To Step 2 of 3“。
 
 .. image:: /resource/XuanKe/Search09.png
    :align: center
+   :width: 800
 
 第十步：点”Finish Enrolling“。
 
 .. image:: /resource/XuanKe/Search10.png
    :align: center
+   :width: 800
 
 第十一步：选课成功，可以在“My Class Schedule”里查看课程表。
 
 .. image:: /resource/XuanKe/Search11.png
    :align: center
+   :width: 800
 
 科普与技巧
 ----------------------------------------------------------

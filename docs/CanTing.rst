@@ -48,6 +48,7 @@ Meal Plan
 
 .. image:: resource/CanTing/OffCampusMealPlan.png
    :align: center
+   :width: 800
 
 Off-Campus Meal Plan对于所有住在校外的学生都可以申请，按计费方式又分为两种小的Meal Plan：
 
@@ -67,6 +68,7 @@ Off-Campus Meal Plan对于所有住在校外的学生都可以申请，按计费
 
 .. image:: resource/CanTing/StaffFacultyMealPlan.png
    :align: center
+   :width: 800
 
 Staff & Faculty Meal Plan只能给学校的Staff和Faculty。Staff通常指学校的教学科研助理、行政、后勤人员，如果大家有TA、RA，或者在学校找到了行政职位，或在麦马读Post Doc，则属于Staff。Faculty一般指科研人员，比如教授们。所以如果大家符合Staff的条件可以不申请上面的Off-Campus Meal Plan，而直接申请Staff & Faculty Meal Plan。Staff & Faculty Meal Plan优于Off-Campus Meal Plan里的Freedom Plan。因为Staff & Faculty Meal Plan在On-Campus Location或Off-Campus Location的餐饮店买东西时给10%的折扣。
 
@@ -86,21 +88,25 @@ Staff & Faculty Meal Plan只能给学校的Staff和Faculty。Staff通常指学�
 
 .. image:: resource/CanTing/MealPlan_ChongZhi_01.png
    :align: center
+   :width: 800
 
 | 第二步：点击“ADD CASH”。E-mail填接受收据的邮箱。Deposit Amount填需要存入的金额。Deposite Note可以不填。
 
 .. image:: resource/CanTing/MealPlan_ChongZhi_02.png
    :align: center
+   :width: 800
 
 | 第三步：填写信用卡的信息。然后点Process Transaction。
 
 .. image:: resource/CanTing/MealPlan_ChongZhi_03.png
    :align: center
+   :width: 800
 
 | 第四步：交易成功后，一个显示收据的页面。
 
 .. image:: resource/CanTing/MealPlan_ChongZhi_04.png
    :align: center
+   :width: 800
 
 - 查看余额：登录后点击FINANCIAL->BALANCES。
 

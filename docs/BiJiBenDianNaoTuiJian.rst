@@ -180,11 +180,13 @@ HP官网链接：https://store.hp.com/CanadaStore/Merch/List.aspx?sel=PRN&ctrl=f
 
 .. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_02.png
    :align: center
+   :width: 800
 
 | 第三步：点击“Region”。
 
 .. image:: /resource/BiJiBenDianNaoTuiJian/ZhongWenZiTi/chinese_font_03.png
    :align: center
+   :width: 800
 
 | 第四步：先选择“Administrator”选项卡，然后点击“Change system locale”按钮。
 

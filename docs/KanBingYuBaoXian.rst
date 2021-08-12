@@ -18,6 +18,7 @@
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
    :align: center
+   :width: 800
 
 跟我们国际学生相关的保险如下：
 
@@ -25,11 +26,12 @@
 
 - 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
-- 费用（2020年）：国际学生需要付费参加UHIP，近几年的年费是单人$720，学生家属的费用和学生一样。
+- 费用（2020年）：国际学生需要付费参加UHIP，近几年的年费是单人$756，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
+   :width: 800
 
 - UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
@@ -65,15 +67,23 @@
   - 去国外交流或实习：http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_ExchangeInternshipStudents
   - 出发前请务必随身携带Travel Health Passport（http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_TravelHealthPassport）。这样一旦遇到紧急的情况需要看病，上面会列举你的保险信息。在就诊之前务必要打上面的电话去指定的医院。
 
-8. 心理、精神健康咨询（Mental Health）：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
-
 三、GSA Dental Insurance Plan
 
-- GSA Dental Insurance Plan提供牙医保险，每policy year（保险单年度）的年费$189.88（2019年）。包括洗牙、补牙等项目。
+- GSA Dental Insurance Plan提供牙医保险，每policy year（保险单年度）的年费$199.37（2019年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
 - GSA Dental Insurance Plan至少可以报销70%的就诊费用。每policy year（保险单年度）的额度$750。
 
-四、CUPE Dental Plan
+四、Student Assistance
+
+- GSA提供的全天候心理、精神健康咨询（Mental Health），全名叫“Student Assistance Program (SAP)”，宣传的时候一般用“Empower Me”。
+- 官网：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
+- 大家如果觉得有任何心理和精神健康需要援助可以在任何时候打电话给他们，可以选择自己倾向选择对方的语言、性别、信仰等等。这个服务没有次数限制，大家可以给他们打任意多的电话，每个电话可以持续任意长。
+- 手机App“EAP Optima”：
+  
+  - iOS：https://apps.apple.com/ca/app/eap-optima/id1448045127
+  - Android：https://play.google.com/store/apps/details?id=com.optimasanteglobale.eap
+
+五、CUPE Dental Plan
 
 - CUPE工会提供牙医保险，目前每academic year（学年）的费用是$125.00（2020年）。https://cupe3906.org/tas-unit-1/dental-plan/ 。CUPE Dental Plan仅覆盖以下人群：
 
@@ -93,7 +103,7 @@
   - Unit 2: https://cupe3906.org/sessionals-unit-2/unit-2-dental-coverage/
   - Unit 3: https://cupe3906.org/postdocs-unit-3/dental-plan/
 
-五、MSU Health/Dental Insurance
+六、MSU Health/Dental Insurance
 
 - MBA学生健康保险和牙医保险使用的是MSU提供的医保服务。年费$262.5（2019年）。
 - 网址：https://msumcmaster.ca/info/health-dental-insurance/
@@ -109,11 +119,13 @@
   - UHIP
   - GSA Health Insurance Plan
   - GSA Dental Insurance Plan
+  - Student Assistance
 - 有TA或RA，且非MBA专业的研究生
 
   - UHIP
   - GSA Health Insurance Plan
   - CUPE Unit 1 Dental Plan
+  - Student Assistance
 - MBA
 
   - UHIP
@@ -194,7 +206,7 @@
 
    .. image:: /resource/Insurance/dental_location.png
       :align: center
-
+      :width: 800
   B. MSU Dental Plan Insurance指定的牙医诊所：
 
   - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。

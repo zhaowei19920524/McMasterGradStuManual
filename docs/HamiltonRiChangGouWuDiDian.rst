@@ -35,6 +35,7 @@ Canada主要超市
 
 .. image:: /resource/GouWu/nations_parking.jpg
    :align: center
+   :width: 800
 
 3. Fortinos
 
@@ -132,12 +133,15 @@ Jackson Square购物中心
 
 .. image:: /resource/GouWu/JacksonSquareDirectory-201707-page-001.jpg
    :align: center
+   :width: 800
 
 .. image:: /resource/GouWu/JacksonSquareDirectory-201707-page-002.jpg
    :align: center
+   :width: 800
 
 .. image:: /resource/GouWu/JacksonSquareDirectory-201707-page-003.jpg
    :align: center
+   :width: 800
 
 “团购”APP：Groupon
 -----------------------------
@@ -194,6 +198,7 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
 
 .. image:: /resource/GouWu/Amazon_CreditCard.png
    :align: center
+   :width: 800
 
 2. 其它
 
@@ -284,18 +289,23 @@ Groupon网页版的搜索功能不是特别好，大家尽量用手机App版搜�
    
    .. image:: /resource/GouWu/Hamilton购物高雯淼(1).jpg
       :align: center
+      :width: 800
 
    .. image:: /resource/GouWu/Hamilton购物高雯淼(2).jpg
       :align: center
+      :width: 800
 
    .. image:: /resource/GouWu/Hamilton购物高雯淼(3).jpg
       :align: center
+      :width: 800
 
    .. image:: /resource/GouWu/Hamilton购物高雯淼(4).jpg
       :align: center
+      :width: 800
 
    .. image:: /resource/GouWu/Hamilton购物高雯淼(5).jpg
       :align: center
+      :width: 800
 
    ——感谢14-MED-高雯淼提供
 

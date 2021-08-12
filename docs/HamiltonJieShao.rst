@@ -14,6 +14,8 @@ Hamilton各个区
 | Hamilton最主要的资源和人口都在Hamilton市区。此外，Dundas有很多便宜的house和公寓；Ancaster有很多瀑布和美丽的风景；Stoney Creek离McMaster有些远，但在Hamilton考驾照只能去那；剩下的Flamborough和Glanbrook主要是农田和林场，和我们关系不大。
 
 .. image:: /resource/HamiltonMapBigArea.jpg
+   :width: 800
+   :align: center
 
 | 和我们关系最紧密的当然是Hamilton市区了，Hamilton市区有三个主要的部分：Downtown、Mountain、Zone 1。
 | 以McMaster University为中心，学校东边是Westdale，南边是Ainslie Wood，西边是University Gardens（原来叫University Plaza），这些地方可以理解为国内的街道。从租房的角度考虑，这些地方统称为Zone 1。
@@ -21,6 +23,8 @@ Hamilton各个区
 | Downtown和Zone 1以南是Hamilton的一座小山（Mountain），山上是一大片平原。在山上有各种自助餐厅，Hamilton最大的购物商场Lime Ridge Mall和杂货店Walmart。即便如此，也希望大家一定不要住在山上，因为Zone 1和山上没有公交直达的道路，分界线恰是这座山最陡峭的地方。想从Zone 1到山上最近也得先绕到Downtown的Corktown或Stinson附近。
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
+   :width: 800
+   :align: center1
 
 Hamilton的主干道
 ------------------------------------------
@@ -29,6 +33,8 @@ Hamilton的主干道
 | 另外山上的道路以Upper James St和Upper Wentworth St为主。山上的南北方向的道路名称都非常有规律。比如某道路连通downtown和山上，downtown的名称是 XX St.，山上的名称就是 Upper XX St.。此外，山上南北方向的非主干道名称都是E XXth St.或W XXth St.。大家以后看到此类地址直接认为在山上就可以了。
 
 .. image:: /resource/MainStreet.jpg
+   :width: 800
+   :align: center
 
 时差和时区
 -------------------------------------------------
@@ -57,6 +63,7 @@ Hamilton水电气公司
 
 .. image:: /resource/ElectronicRates.jpg
    :align: center
+   :width: 800
 
 - 电费减免计划：由于电费在运输过程中的损耗也是需要客户支付的，所以每个月的电费可能会非常高。不过安省政府给低收入人群提供了电费减免计划，每个月每户可能省下50多刀。有两种办理方式：
 

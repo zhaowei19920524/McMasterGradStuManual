@@ -43,6 +43,7 @@
 
 .. image:: /resource/XueXiaoemailSheZhi/SignatureSample.png
    :align: center
+   :width: 800
 
 麦马官方Email的签名模板：https://documents.mcmaster.ca/www/brighterworld/signature/builder/ 。大家在网页里填写自己相关信息，点击Submit按钮，就会出现结果预览，然后点击“Copy to Clipboard”按钮进行复制。接着登陆自己的邮箱网页点击右上角的齿轮按钮，在点击“View all Outlook settings”。
 
@@ -54,6 +55,7 @@
 
 .. image:: /resource/XueXiaoemailSheZhi/SignatureSample3.png
    :align: center
+   :width: 800
 
 大家可以在麦马邮箱激活后，尽快设置一下签名。
 
@@ -205,11 +207,13 @@
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_01.png
    :align: center
+   :width: 800
 
 第二步：选择McMaster的邮箱账户，点“Change”。
 
 .. image:: /resource/XueXiaoemailSheZhi/outlook_desktop_sync_02.png
    :align: center
+   :width: 800
 
 第三步：在弹出框里，把“Keep mail offline for”，设置成1 Week。点next，后面Outlook会自动完成相应的设置。
 
