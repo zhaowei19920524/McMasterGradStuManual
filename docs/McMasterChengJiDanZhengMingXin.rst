@@ -4,7 +4,7 @@ McMaster成绩单、证明信
 
 .. image:: /resource/ChengJiDanFeiYong.png
    :align: center
-   :width: 1200
+   :width: 800
 
 1. 成绩单（Transcripts）
 
@@ -21,7 +21,7 @@ McMaster成绩单、证明信
 具体的流程和介绍请参考：https://registrar.mcmaster.ca/services/enrolment-verification/。
 
 3. 学位证明（Degree verification）：https://registrar.mcmaster.ca/services/degree-verification/
-4. 联培学生确认信（Visiting student/Letter of Permission (LOP)）：https://registrar.mcmaster.ca/services/lop/#tab-2
+4. 联培学生确认信（Visiting student/Letter of Permission (LOP)）：https://registrar.mcmaster.ca/services/lop/#tab-10
 5. 学位认证（Digital diplomas）：https://registrar.mcmaster.ca/digitaldiplomas/
 
 .. admonition:: 本页作者

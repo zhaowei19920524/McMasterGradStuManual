@@ -4,7 +4,7 @@
 -----------------------------------------------------------------
 .. image:: /resource/XueFei/XueFeiList.png
    :align: center
-   :width: 1200
+   :width: 800
 
 我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。学费的各项介绍请看本站相关网页： `看病与保险`_、 `公交车`_、 `学生会`_、 `体育馆`_、 `McMaster成绩单证明信`_。
 
@@ -25,7 +25,6 @@
 1. 办签证提前支付学费（Early payment）
 
 - 介绍：https://registrar.mcmaster.ca/payment-methods/#tab-10 下的“Early payment”标题。
-- 已经支付学费的证明：https://registrar.mcmaster.ca/international-students/payment-verification/
 - 也可以使用下面第四种方法中的支付宝。
 
 2. 加拿大银行间转账（Canadian payment methods）
@@ -105,6 +104,21 @@
 - Pending Aid：学校将要发的补助数额
 
 大家只需要按照Due Now的数额交齐当前学期的学费就可以了。
+
+学费支付证明
+-------------------------
+1. 对于还未入学的新生
+
+- 新生在办理签证的时候，可能需要提供已经支付第一年学费的证明，请看学校的教程：https://registrar.mcmaster.ca/international-students/payment-verification/
+
+2. 已经入学的学生
+
+- 入学以后，尤其是清完condition以后，mosaic里“Admission”一栏就会消失了。这时我们可以选择下载学费的invoice（发票）。
+- 方法：登录mosaic -> “Student Center” -> “Academics” -> “Other academic...” -> “Enrollment/Financial Letters”，然后依次选好相应的信息，点“Submit”就可以自动生成了。
+
+.. image:: /resource/XueFei/Invoice.png
+  :width: 600
+  :align: center
 
 注
 ----------------------

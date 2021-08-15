@@ -1,13 +1,6 @@
 ﻿选课
 ================
 - 选课截止日期：https://gs.mcmaster.ca/current-students/dates-and-deadlines/#tab-content-adding-anddropping-courses
-
-学期代码
------------------------------------
-选课时，会有学期代码。以下是各代码所代表的学期：
-
-.. image:: /resource/term_number.jpg
-   :align: center
  
 选课介绍
 ------------------------------------------------------
@@ -49,31 +42,31 @@ academically accredited course OR a placeholder course （专业课或占位课�
 
 .. image:: /resource/XuanKe/browse01.png
    :align: center
-   :scale: 35%
+   :width: 600
 
 第二步：Browse Course Catalog
 
 .. image:: /resource/XuanKe/browse02.png
    :align: center
-   :scale: 35%
+   :width: 600
 
 第三步：在“Academic Career”选“Graduate”，然后在“Term”里选择你想查询的学期，比如“2020 Winter”。点“Search”。
 
 .. image:: /resource/XuanKe/browse03.png
    :align: center
-   :scale: 35%
+   :width: 600
 
 第四步：先在网页下方选择专业首字母，比如“CAS”的首字母就是“C”，然后点击下方的“CAS - Computing and Software”，这样就可以看到所有的课程了。
 
 .. image:: /resource/XuanKe/browse04.png
    :align: center
-   :scale: 35%
+   :width: 600
 
 第五步（Optional）：如果想看一门的详细介绍，比如课时安排等等，我们可以点击某一门课，比如"705	Computability and Complexity"。在打开的页面里，我们就可以看到这门课具体的上课时间、地点，以及任课老师是谁。
 
 .. image:: /resource/XuanKe/browse05.png
    :align: center
-   :scale: 35%
+   :width: 600
 
 选课图文教程
 --------------------------------------------------------------
@@ -199,16 +192,19 @@ academically accredited course OR a placeholder course （专业课或占位课�
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_1.png
    :align: center
+   :width: 1200
 
 | 第二步：按照网页里的步骤一步一步进行。
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_2.png
    :align: center
+   :width: 1200
 
 | 第三步：查看Google calendar。
 
 .. image:: /resource/XuanKe/KeCheng_GoogleCalendar_3.png
    :align: center
+   :width: 1200
 
 .. admonition:: 本页作者
    
