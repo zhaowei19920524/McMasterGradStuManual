@@ -4,7 +4,7 @@ Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交
 
 .. image:: /resource/bus/HSR_fee.png
    :align: center
-   :width: 1200
+   :width: 800
 
 PRESTO卡
 -------------------------------
@@ -48,10 +48,10 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
    - 对于不能免费乘坐公交车的同学，付现金每次是$3.25，不能刷信用卡。上车后向司机索要transfer，一般在2小时内免费换乘HSR任何一路公交车。 
    - 目前比较便宜的方案是Adult Paper Ticket or PRESTO或Monthly Pass or PRESTO。详情请见 https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
-3. 领取PRESTO card
+3. 购买PRESTO card
 
-- 除Health Science以外所有学院的研究生凭Student Card去Campus Store（Gilmour Hall B101）领取PRESTO card，Health Science学院的学生在Health Sciences Campus Store（HSC 1G1）领取。
-- 此外Campus Store只负责卡片的分发。充值、挂失等等均不属于在这办理。
+- 费用：$6。
+- 地点：Campus Store（Gilmour Hall B101）。Health Science学院的学生在Health Sciences Campus Store（HSC 1G1）。Campus Store只负责卡片的分发。充值、挂失等等均不属于在这办理。
 - 如果以上两个地方不开，可以在Presto官网或者Shoppers买到。https://www.prestocard.ca/en/about/get-a-presto-card
 
 4. 注册Presto账户，激活Presto card

@@ -18,7 +18,7 @@
 ----------------------------------------------
 .. image:: /resource/Insurance/Insurance_fee.png
    :align: center
-   :width: 1200
+   :width: 800
 
 跟我们国际学生相关的保险如下：
 
@@ -31,7 +31,7 @@
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
-   :width: 1200
+   :width: 800
 
 - UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
 
@@ -158,7 +158,7 @@
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
   - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退回之后月份的费用。
-- MBA学生：https://msumcmaster.ca/info/health-dental-insurance/opt-out/
+- MBA学生：https://msumcmaster.ca/info/health-dental-insurance/optout/
 
 看病
 -------------------------------------------
@@ -196,18 +196,19 @@
    - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
    - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
 
-3. 校外的牙医、眼医诊所
+3. 校外的牙医、眼医诊所、保健理疗医生
 
-  A. GSA Insurance Plan指定的牙医、眼医诊所：
+  A. GSA Insurance Plan指定的牙医、眼医诊所、保健理疗医生：
   
   - http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
   - 请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”或“Vision”。
   - GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
 
-   .. image:: /resource/Insurance/dental_location.png
-      :align: center
-      :width: 1200
-  B. MSU Dental Plan Insurance指定的牙医诊所：
+  .. image:: /resource/Insurance/dental_location.png
+    :align: center
+    :width: 1200
+  
+  B. MSU Dental Insurance指定的牙医诊所：
 
   - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。
 
@@ -284,10 +285,10 @@
 
 - 方法1：direct billing。抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下）。去之前请发邮件再次确认是否接受CUPE保险。
 
- | Insurance Provider: Equitable Life of Canada
- | Policy #: 97528
- | Division #: Division #001 (Postdoctoral Fellow members are part of Division #002)
- | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
+ | Insurance Provider: Equitable Life of Canada
+ | Policy #: 97528
+ | Division #: Division #001 (Postdoctoral Fellow members are part of Division #002)
+ | Certificate #: your student ID # (If your dentist requires a 10-digit number, add three zeros to the beginning of your ID number.)
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，扫描所有看病的文件、收据等等，然后发邮件给 group-dental-claims@equitable.ca 。
 - 方法3：整理方法2中的所有材料，寄到Dental Claim Form表格里的地址。公司审核后会寄支票给你。
@@ -299,7 +300,6 @@
 
 .. image:: /resource/Insurance/ClaimSecure.png
    :align: center
-   :scale: 100%
 
 - 方法3：直接发邮件进行报销，附件附上方法一提到的claim form和所有发票单据。邮箱地址：customerresponse@claimsecure.com（此方法可能同样需要先注册eProfile）
 
@@ -326,6 +326,89 @@
 
 - 买疫苗后，填写打印Claim form。
 - 附上发票和表格，寄给ClaimSecure，地址：PO Box 6500, STN A, Sudbury, ON P3A 5N5 （claim form上面有地址，以最新的表格上的地址为准）
+
+旅行保险
+-------------------------------------------------
+- 由于新生的保险（UHIP）在入学前一个月的10号才会生效（例如：9月入学的学生，8月10日正式生效），那么对于想要早于开学前1个月的10号来加拿大，为了提前适应生活的学生来说，在这一段时间内存在没有任何保险保障身体安全的问题。特别是在疫情期间来加拿大，万一不幸感染病毒，将承担巨额的治疗和住院费用。因此，为自己在抵达加拿大后到学生保险（UHIP）生效前这一段时间购买一份旅行保险是有必要的。
+- 此外，由于UHIP和其它保险可以添加的家属中，不包括学生本人的父母和兄弟姐妹。因此，在他们来加拿大之前，也可以用相同的方式购买旅行保险。
+
+购买Blue Cross旅行保险介绍：
+
+ | 第一步：登陆Blue Cross travel insurance官方网站：https://quote.on.bluecross.ca/travel-insurance
+ | 第二步：查看注意事项。同意“I read and understood the important information mentioned above.”。点击“Proceed to quote”。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance01.png
+   :align: center
+   :width: 600
+
+.. note::
+  特别注意的是，该保险包括COVID-19的治疗费用（经电话核实，也包括住院费用）。COVID-19的病毒检测费用是不包含在该保险中的。
+
+第三步：填写联系方式。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance02.png
+   :align: center
+   :width: 600
+
+第四步：填写旅行相关信息。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance03.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance04.png
+   :align: center
+   :width: 600
+
+第五步：选择保险金额。一共有三种金额的保险可以选择，他们唯一的区别在于承保金额的上限，其他服务没有任何区别。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance05.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance06.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance07.png
+   :align: center
+   :width: 600
+
+第六步：填写资格声明。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance08.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance09.png
+   :align: center
+   :width: 600
+
+第七步：个人详细信息填写。地址一栏填写国内地址即可。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance10.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance11.png
+   :align: center
+   :width: 600
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance12.png
+   :align: center
+   :width: 600
+
+第八步：付款。可以用国际信用卡。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance13.png
+   :align: center
+   :width: 600
+
+保险的使用：购买成功后，邮箱会收到一份保险证明，上面有个人信息和保险公司的联系方式。将该文件打印出来放在随身携带的材料袋中，万一需要的时候拨打上面提供的电话并提供相关个人信息即可。
+
+.. image:: /resource/Insurance/BlueCrossTravelInsurance14.png
+   :align: center
+   :width: 800
 
 附
 ----------------------
@@ -424,3 +507,4 @@
    - 16-CAS-李军
    - 17-CAS-赵伟
    - 17-MBA-林小艺
+   - 21-ECE-陈俊燃
