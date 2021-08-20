@@ -296,7 +296,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
   - 第二天：上午去Point Pelee National Park。有三个trail一定要走一下：Marsh Boardwalk、DeLaurier Homestead & Trail、Tip Trail。每个trail都有停车场。Marsh Boardwalk可以划船。大家一定要走到Tip（皮里角），那里是加拿大大陆的最南端。等下午的时候在Leamington坐船去Pelee Island（皮里岛），那是加拿大有人类栖息地的最南端（可以理解为加拿大的最南端）。https://www.ontarioferries.com/pelee-island-ferries/。Pelee Island Ferries一定要提前很多很多天预定，不然真的定不到。此外这个Ferries的时间也不是很好，单程就要1个半小时。在岛上要不待半个小时，要不待4个半小时。由于岛上确实没有特别多好玩的，除非带自行车绕岛骑行，不然待半个小时就可以了。回来的时候还可以看一下日落和晚霞。
   - 第三天：返程。如果比较累，可以在London休息一下。
 
-.. image:: /resource/Wan/Wan_Peele_Tip.jpg
+.. image:: /resource/Wan/Wan_Peele_Tip.png
    :align: center
    :height: 300
 
