@@ -98,7 +98,7 @@ html_theme = 'sphinx_rtd_theme'
 #
 html_theme_options = {
     'prev_next_buttons_location': None,
-    'sticky_navigation': False
+    'sticky_navigation': False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

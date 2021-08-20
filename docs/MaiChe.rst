@@ -295,10 +295,10 @@
 
   - 对于住house的同学：house通常都有车库，即使车库不让用，也可以停在driveway（由私人住房通到大路的私人车道）上。如果driveway被占用了或者也不让用，就只能想办法停在路边（On-Street Parking）了，但通常路边只能停2个小时，即使house住户的车也不例外。所以，想停在路边需要办理Municipal Parking Permit。年费大概$100多一点。这样就不受时间限制了，并且不但可以停自己家门口，在整个社区都可以。例如house在Westdale，则Westdale任何一个没有禁止停车的路段都可以停。办理方法是发邮件给 parking@hamilton.ca 。https://www.hamilton.ca/streets-transportation/tickets-parking/street-parking
   - 对于住apartment的同学：apartment通常都有地下停车场，或者是guaranteed的停车位，每个月大概$40~80不等。apartment属于商业用地。不可以办理Municipal Parking Permit。
-- 停学校：学校给学生提供了专门的停车场在Lot M（https://parking.mcmaster.ca/Undergrad_Parking.html）。
+- 停学校：学校给学生提供了专门的停车场在Lot M（https://parking.mcmaster.ca/student/）。
 
   - 官网：https://parking.mcmaster.ca/
-  - 费用：$50多/月。https://parking.mcmaster.ca/Rates.html
+  - 费用：$50多/月。https://parking.mcmaster.ca/rates/
   - 办理：发邮件给 parking@mcmaster.ca
   - 注意：在学校停车需要购买进入停车场时自动检测车辆的卡片Transponder。https://parking.mcmaster.ca/Transponder.html 。此外Lot M是离校园最远的停车场，步行到学校中心大概要走1km多，这可能比自己的住处到学校中心的距离还远。大家如果不是住的离学校太远，还是考虑步行或坐公交车吧。
 

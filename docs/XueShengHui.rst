@@ -79,7 +79,16 @@ GSA历任华人学生成员名单：
   - VP Internal：18-MTEI-张瑞洁
   - International FRC：16-bio-游鳗
 
-二、GSA下属机构
+二、会员与会费
+
+.. image:: /resource/SheLianYuSheTuan/GSA_fee.png
+   :align: center
+   :width: 800
+
+- 所有full-time的研究生都自动成为GSA学生会的会员。只有MBA、part-time、divinity、exchange、visiting学生不自动属于GSA的会员。
+- 研究生每年都要交会员费——“GSA - Operational Fee”。
+
+三、GSA下属机构
 
 1. Committees
 
@@ -101,28 +110,18 @@ GSA历任华人学生成员名单：
 - https://www.phoenixmcmaster.com/
 - GSA下属的餐厅，是一个盈利性质的机构。餐厅工作人员是额外从社会上招聘的，由VP Administration管理其财务。
 
-三、会员与会费
-
-.. image:: /resource/SheLianYuSheTuan/GSA_fee.png
-   :align: center
-   :width: 800
-
-
-- 所有full-time的研究生都自动成为GSA学生会的会员。只有MBA、part-time、divinity、exchange、visiting学生不自动属于GSA的会员。
-- GSA每年都要交会员费——“GSA - Operational Fee”。
-
-三、主要职责
+四、主要职责
 
 1) Advocate：学生会最重要的职责就负责解决学生的各种问题，包括听取学生对学校、课程、导师的意见。给学校反映，并监督解决。
 #) HSR Bus Pass：研究生坐公交车的年卡优惠。
 #) GSA Health/Dental Insurance Plan：GSA给研究生提供的健康保险和牙医保险。
 #) 社联：GSA拥有相当于国内社联的全部职责，管理下属的所有Faculty association、Club。
 
-四、主要活动
+五、主要活动
 
 - 请见GSA的官网和麦马邮箱里收到的GSA VP External（gsavpext@mcmaster.ca）群发的邮件。
 
-五、联系方式
+六、联系方式
 
 - 大家有关于GSA职位的问题，以及GSA保险、HSR公交年卡的问题，可以用网页里的信息联系GSA：https://gsa.mcmaster.ca/your-gsa/contact-us/ 。
 
