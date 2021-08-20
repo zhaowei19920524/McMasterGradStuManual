@@ -833,7 +833,7 @@ Mississauga：
   - iOS：https://apps.apple.com/ca/app/foodhwy-%E9%A3%9F%E9%80%9F%E5%A4%96%E5%8D%96/id1063806270
   - Android：https://play.google.com/store/apps/details?id=com.foodhwy.foodhwy
 
-3. CMEOW（馋猫）
+4. CMEOW（馋猫）
 
 .. image:: /resource/CanTing/CanTingLogos/CMEOW.png
    :align: center
@@ -845,7 +845,7 @@ Mississauga：
   - iOS：https://apps.apple.com/us/app/%E9%A6%8B%E7%8C%AB%E7%94%9F%E6%B4%BB/id888553991
   - Android：https://play.google.com/store/apps/details?id=ca.chanmao.app
 
-3. Fantuan（饭团）
+5. Fantuan（饭团）
 
 .. image:: /resource/CanTing/CanTingLogos/Fantuan.png
    :align: center

@@ -6,7 +6,7 @@
    :align: center
    :width: 800
 
-我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。学费的各项介绍请看本站相关网页： `看病与保险`_、 `公交车`_、 `学生会`_、 `体育馆`_、 `McMaster成绩单证明信`_。
+我们平常所说的“学费”，其实准确说法应该是“学杂费”，由Tuition（学费），Supplementary（杂费），Other（其它）三部分构成。其中杂费可以分为“GSA”和“UNI”两种，“GSA”类型的杂费是由麦马Graduate Students Association（GSA）研究生协会收取的，而“UNI”类型的杂费是McMaster University收取的。各项费用介绍请看本站相关网页： `看病与保险`_、 `公交车`_、 `学生会`_、 `体育馆`_、 `McMaster成绩单证明信`_。
 
 各program的费用明细：
 

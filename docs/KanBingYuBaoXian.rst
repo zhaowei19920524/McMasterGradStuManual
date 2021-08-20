@@ -26,7 +26,7 @@
 
 - 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
-- 费用（2020年）：国际学生需要付费参加UHIP，近几年的年费是单人$756，学生家属的费用和学生一样。
+- 费用（2021年）：国际学生需要付费参加UHIP，近几年的年费是单人$756，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
@@ -69,7 +69,7 @@
 
 三、GSA Dental Insurance Plan
 
-- GSA Dental Insurance Plan提供牙医保险，每policy year（保险单年度）的年费$199.37（2019年）。包括洗牙、补牙等项目。
+- GSA Dental Insurance Plan提供牙医保险，每policy year（保险单年度）的年费$199.37（2021年）。包括洗牙、补牙等项目。
 - 网址： http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
 - GSA Dental Insurance Plan至少可以报销70%的就诊费用。每policy year（保险单年度）的额度$750。
 
@@ -77,7 +77,7 @@
 
 - GSA提供的全天候心理、精神健康咨询（Mental Health），全名叫“Student Assistance Program (SAP)”，宣传的时候一般用“Empower Me”。
 - 官网：http://studentcare.ca/rte/en/McMasterUniversity_EmpowerMe_EmpowerMe
-- 大家如果觉得有任何心理和精神健康需要援助可以在任何时候打电话给他们，可以选择自己倾向选择对方的语言、性别、信仰等等。这个服务没有次数限制，大家可以给他们打任意多的电话，每个电话可以持续任意长。
+- 大家如果觉得有任何心理和精神健康需要援助可以在任何时候打电话给他们，可以根据自己的倾向选择对方的语言、性别、信仰等等。这个服务没有次数限制，不用支付任何额外的费用，大家可以给他们打任意多的电话，每个电话可以持续任意长。
 - 手机App“EAP Optima”：
   
   - iOS：https://apps.apple.com/ca/app/eap-optima/id1448045127
@@ -167,8 +167,8 @@
   A. Student Wellness Centre
 
   - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所以大家有小病小恙还是应该优先考虑去校医院看。
-  - https://wellness.mcmaster.ca/
-  - 看病前需要去按网站上说的方法预约医生。如果预约后决定取消，一定要打电话取消，否则会收$50~100的罚款。
+  - 官网：https://wellness.mcmaster.ca/
+  - 看病前需要去按网站上说的方法预约医生：https://wellness.mcmaster.ca/services/medical-care/。如果预约后决定取消，一定要打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
 
   B. Campus dentist
@@ -194,7 +194,7 @@
 
 .. note::
    - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
-   - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。
+   - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。通常St. Joseph’s Healthcare的等待时间是最短的。
 
 3. 校外的牙医、眼医诊所、保健理疗医生
 
@@ -270,10 +270,18 @@
 
 报销
 -------------------------------------------------
-1. UHIP：由Sun Life承保
+.. note::
+  如果不能在看病或者买药的时候自动报销，则需要拿着账单自己报销。大家应尽快提交给保险公司。以下是各个保险报销的截止日期：
+
+  - UHIP：账单生成的12个月之内提交。（Claim Form第一行）
+  - GSA Health Insurance Plan、GSA Dental Insurance Plan：在账单所在Policy year结束之后的三个月以内都可以报销。例如：2020~2021学年的账单，最晚可以在2021年11月29日之前提交。https://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
+  - CUPE Dental Plan：未知。
+  - MSU Health/Dental Insurance：在账单所在Policy year结束之后的三个月以内都可以报销。
+
+1. UHIP：由Sun Life承保。
 
 - 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。
-- 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并邮寄相关材料来报销的相应的费用。https://uhip.ca/Claim/Index
+- 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，详见：https://uhip.ca/Claim/Index。例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并发邮件给 myclaims@sunlife.com 或者邮寄相关材料来报销的相应的费用。
 
 2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
 
@@ -293,7 +301,7 @@
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，扫描所有看病的文件、收据等等，然后发邮件给 group-dental-claims@equitable.ca 。
 - 方法3：整理方法2中的所有材料，寄到Dental Claim Form表格里的地址。公司审核后会寄支票给你。
 
-4. MSU Health/Dental Plan Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
+4. MSU Health/Dental Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
 
 - 方法1：打开MSU Health/Dental Plan Insurance的主页（https://msumcmaster.ca/info/health-dental-insurance/）。找到“Health Plan”或“Dental Plan”。点开链接后找到"Claims"。按照网页里的步骤完成即可。
 - 方法2：在ClaimSecure官网（https://www.claimsecure.com）注册eProfile, 进行Online claim。（无法报销HPV）
@@ -312,7 +320,7 @@
    :align: center
    :scale: 50%
 
-- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。推荐直接去支持direct billing的walk-in-clinic，因为比较方便。
+- 第一步：带上student card、photo ID (drive license or passport)、UHIP card去clinic开处方。这一步属于看病环节，用UHIP的保险。推荐直接去支持direct billing的walk-in clinic，因为比较方便，省去额外报销的流程。
 - 第二步：自己拿着处方去药店买疫苗，McMaster University Centre Pharmasave、Fortinos、Shoppers等地方都可以买。疫苗无法在药房直接报销。这一步属于买药环节，需要用GSA或MSU的保险。（报销80%的费用）
 - 第三步：回到clinic打疫苗。
 
@@ -330,7 +338,7 @@
 旅行保险
 -------------------------------------------------
 - 由于新生的保险（UHIP）在入学前一个月的10号才会生效（例如：9月入学的学生，8月10日正式生效），那么对于想要早于开学前1个月的10号来加拿大，为了提前适应生活的学生来说，在这一段时间内存在没有任何保险保障身体安全的问题。特别是在疫情期间来加拿大，万一不幸感染病毒，将承担巨额的治疗和住院费用。因此，为自己在抵达加拿大后到学生保险（UHIP）生效前这一段时间购买一份旅行保险是有必要的。
-- 此外，由于UHIP和其它保险可以添加的家属中，不包括学生本人的父母和兄弟姐妹。因此，在他们来加拿大之前，也可以用相同的方式购买旅行保险。
+- 此外，由于UHIP和其它保险可以添加的家属列表中，只有配偶和子女，不包括学生本人的父母和兄弟姐妹。因此，在他们来加拿大之前，也可以用相同的方式购买旅行保险。
 
 购买Blue Cross旅行保险介绍：
 

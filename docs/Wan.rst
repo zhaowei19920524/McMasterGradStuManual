@@ -68,6 +68,7 @@
 
 - Dundas Peak + Tew's Falls
 
+  - 官网：https://conservationhamilton.ca/spencer-reservations/
   - Harvest Rd, Dundas, ON L9H 5K7
   - 坐HSR 52 Head Street路就可以到。适合hiking，一年四季有4种不同的美丽景色。注：一定要乘坐HSR 52 Head Street，千万不能乘坐52 Governors & Pirie，否则就是去另一个风景区了。
   - 如果想到Tew's Falls瀑布下方，可以在Tew's Falls旁边坐Shuttle Bus（$5）到附近的Webster Falls，然后沿着Spencer Creek的小溪走到瀑布正下方。
@@ -159,7 +160,7 @@
    :align: center
    :height: 300
 
-- Hamilton其它自然保护区：http://conservationhamilton.ca/conservation-areas-2/ ，可以划船的地点：http://conservationhamilton.ca/boating/
+- Hamilton其它自然保护区：http://conservationhamilton.ca/conservation-areas-2/ ，可以划船的地点：https://conservationhamilton.ca/activities/boating/
 - Hamilton公园列表：https://www.hamilton.ca/parks-recreation/parks-trails-and-beaches/parks-listing
 
 3. Ontario其它城市
@@ -240,7 +241,18 @@
 .. image:: /resource/Wan/Wan_Target_Sports_Canada.png
    :align: center
 
-- Algonquin Park阿岗昆国家公园：Camping的好去处。想去这里可以自行开车、乘坐shuttle bus或者找旅行社。
+Ontario Provincial Parks安大略省立公园
+-----------------------------------------------------------------------
+Ontario Provincial Parks是安省省政府维护的公园。他们的景色比Hamilton其它自然保护区要好一点。大部分公园都是免费的，有些公园可能会收门票、野营或者停车的费用。
+
+- 官网：https://www.ontarioparks.com/en
+
+  - 预定：http://www.ontarioparks.com/reservations
+  - 所有公园及相关服务的位置：http://www.ontarioparks.com/park-locator
+
+比较有特色的省立公园介绍：
+
+- Algonquin Provincial Park阿岗昆省立公园：Camping的好去处。想去这里可以自行开车、乘坐shuttle bus或者找旅行社。
 
   - 官网：http://www.algonquinpark.on.ca/index.php
   - 费用：http://www.algonquinpark.on.ca/visit/general_park_info/fees-algonquin-park.php
@@ -253,14 +265,49 @@
    :align: center
    :height: 300
 
-- 安省公园官网：https://www.ontarioparks.com/en
+Hamilton附近还有一些景色比较好的Provincial Parks：
+
+- Bronte Creek：可以hiking
+- Long Point：在Lake Erie，有沙滩，可以游泳
+
+National Parks Canada加拿大国家公园
+-----------------------------------------------------------------------
+National Parks Canada是加拿大联邦政府的维护的公园，是加拿大景色最好、设施最完善的公园。它们中的大部分在世界上都有很高的知名度。所有的国家公园都有条件比较好的服务人员、公共卫生间和详细的介绍。所有的国家公园都要收门票。
+
+- 官网：https://www.pc.gc.ca/en/pn-np
 
   - 预定：http://www.ontarioparks.com/reservations
-  - 所有公园及相关服务的位置：http://www.ontarioparks.com/park-locator
+  - 所有公园及相关服务的位置：https://www.pc.gc.ca/en/voyage-travel/reserve
+  - Discovery Pass：如果大家在一年里想逛很多国家公园，或者很多同学一起逛。可以考虑购买国家公园年卡：https://www.pc.gc.ca/en/voyage-travel/admission
+  - 交通：
 
-4. 其它省份
+    - 自驾（强烈建议）
+    - Parkbus：Parkbus是由Ontario省政府联合其它一些机构成立的国家公园景点班车。在安省，乘坐Parkbus可以到Algonquin Park、Bruce Peninsula等几个公园。往返票大概每人$100，学生可以优惠$10。票价里包含了部分门票等费用。但是这个bus的时间都不太好，大家尽量还是自驾去这些公园吧。https://www.parkbus.ca/
 
-- Banff National Park、Yellowknife、Jasper National Park：这些都是世界级的国家公园，它们不但有着极其优美的风景，而且适合在野外camping，看极光等等。但需要有车才能到，也可以找旅行社。
+安省比较有特色的国家公园介绍：
+
+1. Point Pelee National Park（皮里角国家公园）
+
+- 官网：https://www.pc.gc.ca/en/pn-np/on/pelee
+- 地图：https://www.pc.gc.ca/en/pn-np/on/pelee/visit/cartes-maps
+- 旅行大体规划：不要单独去Point Pelee National Park，而是要去先去Windsor（温莎）并且住在温莎或者附近。大体玩三天，住2个晚上。
+
+  - 第一天：开车去温莎，逛一下温莎的景点，比如温莎大学、底特律河、还有商场（Devonshire Mall）。温莎有一些好吃的华人餐馆，比如：U-Noodles。还有几家越南粉（Pho），大家可以自己在Google map里搜一下。
+  - 第二天：上午去Point Pelee National Park。有三个trail一定要走一下：Marsh Boardwalk、DeLaurier Homestead & Trail、Tip Trail。每个trail都有停车场。Marsh Boardwalk可以划船。大家一定要走到Tip（皮里角），那里是加拿大大陆的最南端。等下午的时候在Leamington坐船去Pelee Island（皮里岛），那是加拿大有人类栖息地的最南端（可以理解为加拿大的最南端）。https://www.ontarioferries.com/pelee-island-ferries/。Pelee Island Ferries一定要提前很多很多天预定，不然真的定不到。此外这个Ferries的时间也不是很好，单程就要1个半小时。在岛上要不待半个小时，要不待4个半小时。由于岛上确实没有特别多好玩的，除非带自行车绕岛骑行，不然待半个小时就可以了。回来的时候还可以看一下日落和晚霞。
+  - 第三天：返程。如果比较累，可以在London休息一下。
+
+.. image:: /resource/Wan/Wan_Peele_Tip.jpg
+   :align: center
+   :height: 300
+
+2. Bruce Peninsula National Park（布鲁斯半岛国家公园）
+
+- 官网：https://www.pc.gc.ca/en/pn-np/on/bruce
+- 地图：https://www.pc.gc.ca/en/pn-np/on/bruce/visit/cartes-maps
+
+其它省份主要国家公园：
+
+- Banff National Park（班芙）、Yellowknife（黄刀）、Jasper National Park：这些都是世界级的国家公园，它们不但有着极其优美的风景，而且适合在野外camping，看极光等等。但需要有车才能到，也可以找旅行社。
 
 .. image:: /resource/Wan/Wan_Banff.png
    :scale: 100%
@@ -268,18 +315,63 @@
 .. image:: /resource/Wan/Wan_aurora.png
    :scale: 100%
 
-加拿大主要国家公园shuttle bus —— Parkbus
------------------------------------------------------------------------
-Parkbus是由Ontario省政府联合其它一些机构成立的国家公园景点班车。在安省，乘坐Parkbus可以到Algonquin Park、Bruce Peninsula等几个公园。往返票大概每人$100，学生可以优惠$10。票价里包含了部分门票等费用。
+旅馆
+-------------------------
+当大家出远门玩的时候，最重要也是最早需要考虑的就是住宿问题。一些比较火爆的景点甚至需要提前一两个月才能预定到景区附近的旅馆。通常情况下，大家只要在Google地图景区附近搜索hotel，则所有的旅馆都会显示出来。
 
-- 官网：https://www.parkbus.ca/
+.. image:: /resource/Wan/Hotel_00.png
+   :align: center
+   :width: 800
+
+一、住宿分级介绍
+
+和以前国内的旅馆分级类似，加拿大的旅馆也分一星级、二星级，到五星级。https://en.wikipedia.org/wiki/Hotel_rating。大家在搜索列表里点“More filters”，然后就可以看到“Hotel class”的选项了。
+
+.. image:: /resource/Wan/HotelStar01.png
+   :align: center
+   :width: 300
+
+.. image:: /resource/Wan/HotelStar02.png
+   :align: center
+   :width: 300
+
+大多数情况下，分级是这样的
+
+- 1-star：Airbnb（https://www.airbnb.ca/）。在国内叫民宿。多数Airbnb就是一个house。很多房东不把房屋出租放在出租公告栏里长租，而是放在Airbnb上长期短租。Airbnb有很多好处，例如：价格非常便宜，距离比较近。但缺点也很明显，就是可能要跟其它人一起合租，完全不可能知道别人的情况，安全性不能保证。此外，也要共用卫生间、厨房等其它设施，卫生条件可能也得不到保证。但是，如果真的很多人一起把一个house包下来，也是一个不错的选项。
+- 2-star：一般指Motel（https://en.wikipedia.org/wiki/Motel）。中文叫“汽车旅馆”。汽车旅馆比Airbnb在隐私保护上有了大幅度的提高，毕竟可以在自己的房间里单独享有所有设施。价格也不是很贵。有的Motel的房间条件和公共设施甚至可以赶上三星级以上的宾馆。但安全性依然不能得到保证。因为自己房间的门就是对外的大门，并没有像酒店一样，有个大堂还有保安监视。
+
+.. image:: /resource/Wan/HotelStar03.jpeg
+   :align: center
+   :width: 500
+
+- 3-star：从这个等级往上和国内相同等级的宾馆的条件就差不多了。例如：一家加拿大比较流行的酒店Holiday Inn & Suites。一般是有多层，一楼是大堂、餐厅。二楼以上才有住宿。并且有客房服务、游泳池、健身房等等配套设施。安全和卫生都能得到充分保证。但价格也不会便宜。通常情况下景区附近的宾馆每个标准间要$100~150/天。
+
+.. image:: /resource/Wan/HotelStar04.jpg
+   :align: center
+   :width: 500
+
+- 4-star：四星级宾馆的各项设施比三星级都要再好一个档次。例如：Sheraton Hotel（希尔顿酒店）。有更舒适的床、更高级的浴缸、更大的室内运动场等等。
+- 5-star：五星级酒店讲究更多的是个人定制。例如：总统套房等等。
+
+二、预定平台介绍
+
+大家如果找到了一个条件、位置、价格都满意的旅馆后，可以直接在列表中选则第三方的预定平台，常见的平台例如：Agoda、Hotels.com、Booking.com、Expedia.ca。在它们平台上预定有诸多好处：
+
+- 价格比宾馆官网上标的可能要便宜些。
+- 不用立即交定金并且可以free canceling。大多数平台可以在入住前1周免费取消，并且到入住前几天的时候才会真正从信用卡里把费用收走。
+- 有些信用卡公司跟这些平台还有合作，可以获得更高的信用卡积分或者返现。
+- 这些平台自身也带有loyal point。使用多次之后，会赠送代金券给以后的预定。
+
+.. image:: /resource/Wan/Hotel_01.png
+   :align: center
+   :width: 300
 
 
 活动项目
 -----------------------------
 1. 看枫叶
 
-- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是10月中旬中下旬到月底。
+- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是Thanksgiving Day。
 - 安省各大公园秋季枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
 2. 滑雪

@@ -1,6 +1,6 @@
 ﻿公交车
 ============================
-Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交车是主要交通工具。绝大多数研究生的杂费中已经包含了每年250多刀的公交车年卡的费用，这样在整个一学年里，在Hamilton市内坐车时就不需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
+Hamilton的公交系统是由HSR运营的。对于大多数学生来说，公交车是主要交通工具。绝大多数研究生的杂费中已经包含了每年近300刀的公交车年卡的费用，这样在整个一学年里，在Hamilton市内坐车时就不需要再额外付费了。上车时要同时出示学生卡和刷学校指定的presto card（不扣钱）。
 
 .. image:: /resource/bus/HSR_fee.png
    :align: center
@@ -17,7 +17,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/presto1.png
    :align: center
-   :scale: 30%
+   :width: 300
 
 2. 资格
 
@@ -62,11 +62,11 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/presto3.png
    :align: center
-   :width: 1200
+   :width: 800
 
 .. image:: /resource/bus/presto4.png
    :align: center
-   :width: 1200
+   :width: 500
 
 5. 加载免费坐公交的优惠码（Voucher Code）：
 
@@ -74,19 +74,25 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 
 .. image:: /resource/bus/voucher01.png
    :align: center
-   :width: 1200
+   :width: 600
 
 - 第二步：在presto官网登录自己的账户，在左上角点“LOAD”，然后点“Redeem Voucher”。输入刚刚复制的voucher code。
 
 .. image:: /resource/bus/voucher02.png
    :align: center
-   :width: 1200
+   :width: 300
 
-- 第三步：如果load成功应该会显示这个信息。
+- 第三步：Presto的网站如果依然在开发中，可以点“Sign in to the existing PRESTO experience”，进入老版本的网站。
 
 .. image:: /resource/bus/voucher03.png
    :align: center
-   :width: 1200
+   :width: 600
+
+- 第四步：在老版本的网站里点“Load” -> “Redeem Voucher”。
+
+.. image:: /resource/bus/voucher04.png
+   :align: center
+   :width: 600
 
 .. attention::
    - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
@@ -97,25 +103,22 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 - 只需要在位于公交车前门的支付设备刷卡，该系统就能自动识别在PRESTO卡上的U-Pass，因此就不会从卡里扣钱。但是，当在非HSR公交系统（例如Go Bus）使用该卡时，将会从卡里扣除相应的车费。
 - Presto卡一次只能给一个人刷。如果需要多人付费乘坐公交车，其它人可以先买车票或使用现金。
 
-.. image:: /resource/bus/presto2.png
-   :align: center
-
-7. 充值
-
-- 方法1：在presto官网充值。可以一次性充值几十刀，或者设置Auto Reload，当卡里余额少于一定数目时自动从信用卡里充值。
-- 方法2：McMaster Student Center一楼大厅里最南边的Presto服务柜台。
-- 方法3：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
-
-.. attention::
-   - 如果使用方法2、3充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
-
-8. Presto Card手机App
+7. Presto Card手机App
 
 - Presto手机App可以很方便地查询刷卡记录，付费明细，充值等等的操作。但目前还不能结合NFC技术直接替代Presto卡。
 - 官网：https://www.prestocard.ca/en/about/presto-app
-- iOS：https://itunes.apple.com/ca/app/presto/id1437927882?mt=8
+- iOS：https://apps.apple.com/ca/app/presto/id1437927882
 - Android：https://play.google.com/store/apps/details?id=com.metrolinx.presto.android.consumerapp
 
+8. 充值
+
+- 方法1：使用Presto手机App充值。
+- 方法2：在presto官网充值。可以一次性充值几十刀，或者设置Auto Reload，当卡里余额少于一定数目时自动从信用卡里充值。
+- 方法3：McMaster Student Center一楼大厅里最南边的Presto服务柜台。
+- 方法4：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
+
+.. attention::
+   - 如果使用方法3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
 
 9. Triplinx手机App
 
@@ -146,14 +149,14 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 
 2. 费用（2019年）
 
-- 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了$250左右的公交车费，所以乘坐时不需要再付费。
-- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.5。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
+- 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了将近$300左右的公交车费，所以乘坐时不需要再付费。
+- 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.55。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
 - 现金：$3.25
 - 对于不能免费坐公交的同学，可以在Presto官网上给自己的Presto Card购买HSR Month Pass。费用是$110，相当于乘坐44次公交车的费用
 
 .. image:: /resource/bus/HSRMonthPass.png
    :align: center
-   :width: 1200
+   :width: 800
 
 - 其它：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/cash-tickets-and-passes
 
@@ -227,7 +230,7 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 .. image:: /resource/bus/Go_Bus.jpg
    :align: center
-   :width: 1200
+   :width: 600
 
 1. 各类资源
 

@@ -25,7 +25,7 @@
 
 2. Goods and services tax/Harmonized sales tax (GST/HST)（消费税）
 
-- 在Canada，消费税是不包括在食品价格里面的，这就需要在购买的时候单独交付。消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，分别是联邦5%的税和Ontario省8%的税。http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
+- 在Canada，消费税是不包括在食品价格里面的，这就需要在购买的时候单独交付。消费税在每个省的税率是不一样的，在Ontario的消费税是GST/HST，它的税率是商品价格的13%。这13%是分为两部分，分别是联邦5%的税和Ontario省8%的税。https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html
 - 绝大多数商品都需要交消费税，比如电子产品，日常用品，各类服务，饮食餐饮等等。也有一些产品是不用交税的：https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-special-cases.html 。大体上跟我们相关的有：
 
   - 超市卖的新鲜水果蔬菜和肉类，以及其它没有牌子直接从农场购买的农产品
