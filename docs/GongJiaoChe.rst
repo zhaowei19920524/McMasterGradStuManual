@@ -152,7 +152,7 @@ Hamilton公交车指的是由Hamilton Street Railway（HSR）公司运营的Hami
 - 大多数McMaster全职的在校学生：“免费”。由于每年在杂费里已经预交了将近$300左右的公交车费，所以乘坐时不需要再付费。
 - 购买纸质车票或刷Presto卡（自行办理的，芯片里不带有U-Pass）：$2.55。购买纸质车票地点：https://www.hamilton.ca/hsr-bus-schedules-fares/fares/hsr-ticket-vendors
 - 现金：$3.25
-- 对于不能免费坐公交的同学，可以在Presto官网上给自己的Presto Card购买HSR Month Pass。费用是$110，相当于乘坐44次公交车的费用
+- 对于不能免费坐公交的同学，可以在Presto官网上给自己的Presto Card购买HSR Month Pass。费用是$112.2（2021年），相当于乘坐44次公交车的费用。
 
 .. image:: /resource/bus/HSRMonthPass.png
    :align: center

@@ -99,13 +99,6 @@
    :align: center
    :height: 300
 
-- Escape Canada（密室逃脱）
-
-  - 官网：https://escape-canada.com/hamilton/
-  - 151 York Blvd, Beside Starbucks, Hamilton, ON L8R 3L4
-  - (289)667-0017
-  - Hamilton有很多家密室逃脱，除了这家外，大家可以在Google Map上搜索escape room。
-
 - Hamilton Indoor Go Karts
 
   - 官网：http://www.hamiltonindoorgokarts.com/
@@ -132,11 +125,10 @@
   - 9280 Airport Rd, Mount Hope, ON L0R 1W0
   - 二战战斗机历史博物馆。
 
-- Royal Botanical Gardens
+- Royal Botanical Gardens（皇家植物园）
 
   - 官网：https://www.rbg.ca/
   - 680 Plains Rd W, Burlington, ON L7T 4H4
-  - 学生票$15/人。
 
 .. image:: /resource/Wan/Wan_RBG.jpg
    :align: center
@@ -173,7 +165,7 @@
   - 公共交通：
 
     - Go Bus 12路。需要先坐Hamilton市内公交车去Stoney Creek上车。全程大概2个半小时。
-    - Casino赌场的车：https://yourcasinovacations.com/casino-schedule/ 。车费往返每人$15，并且还包括午餐自助。请用网站里的电话预定座位，并带上护照驾照等能证明年龄的证件。
+    - Casino赌场的车：https://yourcasinovacations.com/casino-schedule/ 。车费往返每人$15，并且还包括午餐自助。请用网站里的电话预定座位，并带上护照驾照等能证明年龄的证件。在电话里说自己就是去赌场的，不要说是搭顺风车。
     - 自驾：停车场 https://niagarafalls.ca/city-hall/transportation-services/parking/municipal-lots.aspx
   - 吃：
   
@@ -276,13 +268,14 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 - 官网：https://www.pc.gc.ca/en/pn-np
 
-  - 预定：http://www.ontarioparks.com/reservations
-  - 所有公园及相关服务的位置：https://www.pc.gc.ca/en/voyage-travel/reserve
+  - 预定：https://www.pc.gc.ca/en/voyage-travel/reserve
+  - 所有公园及相关服务的位置：https://www.pc.gc.ca/en/pn-np/recherche-parcs-parks-search
   - Discovery Pass：如果大家在一年里想逛很多国家公园，或者很多同学一起逛。可以考虑购买国家公园年卡：https://www.pc.gc.ca/en/voyage-travel/admission
   - 交通：
 
     - 自驾（强烈建议）
     - Parkbus：Parkbus是由Ontario省政府联合其它一些机构成立的国家公园景点班车。在安省，乘坐Parkbus可以到Algonquin Park、Bruce Peninsula等几个公园。往返票大概每人$100，学生可以优惠$10。票价里包含了部分门票等费用。但是这个bus的时间都不太好，大家尽量还是自驾去这些公园吧。https://www.parkbus.ca/
+  - 手机App：https://www.pc.gc.ca/en/multimedia/apps
 
 安省比较有特色的国家公园介绍：
 
@@ -298,12 +291,105 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 .. image:: /resource/Wan/Wan_Peele_Tip.png
    :align: center
-   :height: 300
+   :height: 400
 
-2. Bruce Peninsula National Park（布鲁斯半岛国家公园）
+2. Bruce Peninsula（布鲁斯半岛）
 
 - 官网：https://www.pc.gc.ca/en/pn-np/on/bruce
 - 地图：https://www.pc.gc.ca/en/pn-np/on/bruce/visit/cartes-maps
+- 地理位置介绍：从地图上看布鲁斯半岛大体分南北两个部分。主要景点都集中在北边，尤其是Tobermory附近。此外Lion's Head的风景也极其优美。南边主要是三个城市Owen Sound、Wiarton、Sauble Beach，其中前2个地点有着较为便宜的住宿。
+
+.. image:: /resource/Wan/Bruce00.png
+   :align: center
+   :width: 300
+
+- 主要景点介绍：
+
+  a) Bruce Peninsula National Park（布鲁斯半岛国家公园）
+
+    - 官网：https://www.pc.gc.ca/en/pn-np/on/bruce
+    - 介绍：布鲁斯半岛国家公园是半岛上最最重要的景点。在国家公园里可以徒步、爬山、游泳。感兴趣的同学还可以在园区专门的地方野营（Camping）。公园的设施非常全面，有冲水的厕所、淋浴、电力等等的设施。
+    - 预定：去布鲁斯半岛国家公园一定要至少提前1个月预定停车位，在预定的时候会顺便购买门票。https://www.pc.gc.ca/en/pn-np/on/bruce/visit/reserv。如果不camping，只有4个小时停车的时间。
+    - 游玩方案：从Cyprus Lake Office（大门）进入后，一般会进入P1停车场。自此向北去湖边有3条trail。湖边有3个最重要的景点：India Head Cove、Grotto、Overhanging Point。其中前两个地点可以游泳。由于只有4个小时的停车的时间。所以徒步和游泳只能2选1。如果选择游泳方案，可以直接走中间那条trail去湖边游泳。如果不打算游泳，只想徒步，可以从最东边那条trail走到湖边，然后一路向西，走到Overhanging Point，然后从最西边那条trail返回停车场。
+
+  .. image:: /resource/Wan/CyprusLake.jpg
+    :align: center
+    :width: 600
+
+  b) Singing Sands
+
+    - 地址：Dorcas Bay Rd, Northern Bruce Peninsula, ON N0H 2R0
+    - 介绍：Singing Sands是一个非常美丽的沙滩。坡度极其缓慢。即使走到湖中间离岸边很远，水深依然十分浅。
+    - 停车：布鲁斯半岛国家公园的停车票在这里依然可以使用。但停车位是“Parking is first-come, first served”。不保证一定有停车位。
+    - 游玩方案：和布鲁斯半岛国家公园同一天玩，不要单独某一天来这。可以来这里游泳，顺便看一下日落。
+
+  .. image:: /resource/Wan/SingingSands.jpg
+    :align: center
+    :width: 600
+
+  c) Flowerpot Island（花瓶岛）
+
+    - 介绍：花瓶岛是半岛上第二重要的景点。一定要坐船才能上岛。在岛上有一个环形的trail，岛上东侧可以游泳。
+    - 乘船：一定要坐船才能去岛上。有两家公司提供摆渡船服务：（1）The Bruce Anchor。预定网址是 https://cruises.bruceanchor.com/book-a-cruise/。（2）Blue Heron Company。预定网址是 https://www.cruisetobermory.com/cruises/flowerpot-island-cruise.html。两家的船票价格基本一样，只是出发时间和岛上停留时间略有区别。第一个的停留时间略长一点。这两家的渡船价格里都带有Fathom Five National Marine Park的门票。乘坐他们两家公司玻璃底的渡船可以欣赏这个加拿大国家海洋公园的沉船。以上公司的船票也要提前至少一个月预定，此外，推荐前一天就把停车票和船票取到，以防排队人太多，错过渡船。
+    - 游玩方案：由于时间有限所以徒步和游泳只能二选一。
+
+    .. image:: /resource/Wan/Flowerpot.jpg
+      :align: center
+      :width: 600
+
+  d) Fathom Five National Marine Park
+
+    - 官网：https://www.pc.gc.ca/en/amnc-nmca/on/fathomfive
+    - 介绍：除了National Parks（国家公园）外，加拿大还有一种特殊的国家公园叫National Marine Park（国家海洋公园）。Fathom Five由于和花瓶岛很近，通常水下部分是由渡船公司提供参观的。而陆地部分则是自己徒步。入口处在Visitor Center（120 Chi sin tib dek Rd, Tobermory, ON N0H 2R0）。
+    - 费用：在花瓶岛渡船公司的门票里会顺便带有Fathom Five National Marine Park的门票和Visitor Center的停车票。但停车位是“Parking is first-come, first served”。不保证一定有停车位。
+    - 游玩方案：和花瓶岛同一天玩，不要单独某一天来这。推荐大家走最长的Burnt Point Loop。
+
+    .. image:: /resource/Wan/VisitorCentreOfTobermory.jpg
+      :align: center
+      :width: 600
+
+  e) 划船
+
+    - 介绍：如果大家想在湖里自己划船可以去Big Tub Harbour Resort租船。
+    - 地址：236 Big Tub Rd, Tobermory, ON N0H 2R0
+    - 官网：https://www.bigtubresort.ca/watersport-rentals/
+    - 注意：无法预约（“All of our rentals are first come, first served as we do not take phone or email reservations for them. ”）
+    - 停车：这个地方停车可能不是很容易，如果没法停车最好和Fathom Five National Marine Park一起玩。
+
+  f) Lion's Head Provincial Park
+
+    - 官网：https://www.ontarioparks.com/park/lionshead
+    - 介绍：这个是布鲁斯半岛中部一个风景极其优美的省立公园。这里只能hiking，但由于道路曲折，其实完全是在爬山。
+    - 停车：一个是停在入口处：McCurdy Drive Parkette（89 Moore St, Lion's Head, ON N0H 1W0），可以停4个小时。一个是停在较远的Moore St和Main St的交界处，可以停3个小时。
+    - 游玩方案：只能在AllTrails App里找到具体的trail位置。Google地图上标得不正确。在App里搜“Lion's Head Loop via Bruce Trail”。大家一定要走到“Lion's Head Lookout”再折返。需要注意的是，这是省立公园。并没有人维护，不收任何费用，也就没有像国家公园条件类似的冲水厕所和其它设施。
+
+  g) Sauble Beach Park
+
+    - 官网：https://saublebeach.com/
+    - 地址：46 Shore Rd S, Sauble Beach, ON N0H 2G0
+    - 介绍：北美排名前10的沙滩。是游泳和晒日光浴的好去处。这个城市也叫Sauble Beach。这个城市完全因为这个景点而生的。城市里几乎所有的服务设施都和游泳相关。
+
+- 住宿：总体来说有2种方案。如果大家真的打算住Motel，一定要住上面提到的4个城市的Motel。千万不要住荒郊野外、前不着村后不着店的Motel，即使价格很便宜。因为完全没有任何安全性可言，并且很难在附近找到像样的超市或者餐馆。
+
+  - 住Tombermory附近。这种选择的一大好处就是离主要景点比较近。可以在一天里安排较多的活动。不用在路上耽误太多时间。缺点就是住宿贵，条件不太好。这附近根本没有像样的3-star hotel。主要都是Airbnb或者Motel。Motel应该算是相对比较好的选择了。此外，饮食也十分昂贵，并且选择也不是很多。如果打算选用这种方案，请 **务必至少提前2个月预定**。
+  - 住Wiarton或者Owen Sound。优点自然是有3-star hotel。价格比Tombermory附近Motel还便宜。并且这两个城市真的算是一个城市。尤其是Owen Sound有各种超市、餐馆，还有中餐馆。生活十分便利。缺点是离北边的主要景点路程较远。通常开车单程需要1~1.5个小时。如果打算选用这种方案，请 **务必至少提前1个月预定**。
+
+- 旅行方案：最好的季节是七八九三个月份，由于这个景点太过出名，大家最好能避开周末，并且最好不要等长周末和节假日去。不要第一天就去Flowerpot Island，因为不太清楚路上需要花多长时间，并且还要取票、停车，容易错过渡船。由于每天运动量巨大，大家也可以考虑比下面两种方案各多一天的计划，比如可以把Flowerpot Island和Fathom Five National Marine Park的陆地部分分作2天，但在Visitor Center要额外再买停车票。根据住宿，大体有以下两种方案：
+
+  - 方案一：住Wiarton或者Owen Sound。一共住4天3个晚上。
+
+    - 第一天：开车去宾馆，下午可以去Lion's Head Provincial Park和Sauble Beach Park
+    - 第二天：Bruce Peninsula National Park和Singing Sands
+    - 第三天：Flowerpot Island、Fathom Five National Marine Park、划船
+    - 第四天：返程
+  - 方案二：住Tombermory附近。一共是3天2个晚上。
+
+    - 第一天：开车去宾馆，Bruce Peninsula National Park和Singing Sands
+    - 第二天：Flowerpot Island、Fathom Five National Marine Park、划船
+    - 第三天：返程，途中会经过Lion's Head Provincial Park和Sauble Beach Park
+
+- 饮食：Tombermory的饮食主要以鱼排为主，其中排名最靠前的是The Fish & Chip Place，地址：24 Bay St, Tobermory, ON N0H 2R0，官网：http://www.thefishandchipplace.com/。Owen Sound就比较多了，基本Hamilton有的餐馆类型，例如：麦当劳、炸鸡、pizza、越南粉、印度菜、中餐馆，这里都有。
+
 
 其它省份主要国家公园：
 
@@ -317,7 +403,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 旅馆
 -------------------------
-当大家出远门玩的时候，最重要也是最早需要考虑的就是住宿问题。一些比较火爆的景点甚至需要提前一两个月才能预定到景区附近的旅馆。通常情况下，大家只要在Google地图景区附近搜索hotel，则所有的旅馆都会显示出来。
+当大家出远门玩的时候，最重要也是最早需要考虑的就是住宿问题。一些比较火爆的景点甚至需要提前一两个月才能预定到景区附近的旅馆。通常情况下，大家只要在Google地图景区附近搜索hotel，则所有的旅馆都会显示出来。加拿大的旅馆通常是下午3点才check-in，check-out的时间通常是上午11点。一般情况下，不用等到3点才入住，毕竟收拾房间不需要太多的时间，1点左右就可以了。如果当天上午没有人住，甚至中午12点都可以入住。
 
 .. image:: /resource/Wan/Hotel_00.png
    :align: center
@@ -366,15 +452,36 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
    :align: center
    :width: 300
 
-
 活动项目
 -----------------------------
-1. 看枫叶
+1. 徒步与登山
+
+- 徒步与登山一般都叫hiking。加拿大有很多风景非常好的trail（小径）。有的trail比较平整，适合散步、跑步。有的trail起伏较大，和登山没有区别。在trail上走的时候一定要遵循着trail的标记，千万不要走丢。Ontario南部的密林是响尾蛇的栖息地。https://brucetrail.org/pages/explore-the-trail/know-before-you-go/following-the-blazes
+- AllTrails：这个App标明了北美全部的trail，可以查找、显示实时位置。但是需要流量才能使用。离线地图需要付费。这个App里对trail的具体位置标注十分清楚、准确。甚至很多trail的位置标注比Google地图还要详细。
+
+  - 官网：https://www.alltrails.com/
+  - iOS：https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943
+  - Android：https://play.google.com/store/apps/details?id=com.alltrails.alltrails&hl=en
+
+.. image:: /resource/Wan/AllTrails01.png
+   :align: center
+   :width: 400
+
+.. image:: /resource/Wan/AllTrails02.png
+   :align: center
+   :width: 400
+
+- Trans Canada Trail
+
+  - 介绍：Trans Canada Trail是一条贯穿加拿大东西全境的trail。其中一段经过Hamilton。大家可以在官网上找到具体的位置。
+  - 官网：https://tctrail.ca/
+
+2. 看枫叶
 
 - 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是Thanksgiving Day。
 - 安省各大公园秋季枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
-2. 滑雪
+3. 滑雪
 
 - 每年12月期末考完试到1月开学前都是滑雪的最佳时机。在Ontario，推荐这几个滑雪的地方：一个是Blue Mountain，上面已经介绍过了；还有一个比较近一点的是Glen Eden，在Milton；还有一个是Snow Valley，在Barrie。
 - Glen Eden滑雪场：https://gleneden.on.ca/ 。目前还不太清楚如何坐公交车去。因此只能开车。
@@ -391,7 +498,6 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/flight/entry.shtml 。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
 
 2. 路路行：https://www.lulutrip.com/
-
 3. 泰安旅游：https://safewaytours.net/
 
 .. admonition:: 本页作者
