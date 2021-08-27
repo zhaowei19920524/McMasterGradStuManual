@@ -275,7 +275,7 @@
 
   - UHIP：账单生成的12个月之内提交。（Claim Form第一行）
   - GSA Health Insurance Plan、GSA Dental Insurance Plan：在账单所在Policy year结束之后的三个月以内都可以报销。例如：2020~2021学年的账单，最晚可以在2021年11月29日之前提交。https://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
-  - CUPE Dental Plan：未知。
+  - CUPE Dental Plan和HCSA：账单生成的60天内。注意：Policy year结束之后只有30天的时间可以提交报销。
   - MSU Health/Dental Insurance：在账单所在Policy year结束之后的三个月以内都可以报销。
 
 1. UHIP：由Sun Life承保。
@@ -289,7 +289,7 @@
 - 方法2：使用APP“studentcare”拍照，并填写报销信息。图文教程见附1。https://my.ihaveaplan.ca/index.html
 - 方法3：填表并邮寄相关材料。http://studentcare.ca/rte/en/McMasterUniversity_Claims_HowtoClaim
 
-3. CUPE Dental Plan：由Equitable Life of Canada承保
+3. CUPE Dental Plan和HCSA：由Equitable Life of Canada承保
 
 - 方法1：direct billing。抄写以下内容至你的UHIP卡背面，看病时出示给医院以建立报销档案，可能顺便就可以立即报销（在 https://cupe3906.org/tas-unit-1/dental-plan/ 里的“Accessing Your Dental Benefits”标题下）。去之前请发邮件再次确认是否接受CUPE保险。
 
@@ -300,6 +300,7 @@
 
 - 方法2：如果出示以上信息不能在看病时立即报销，则需要自己先付看牙医的费用，然后在 https://cupe3906.org/tas-unit-1/dental-plan/ 的“Forms”标题下下载“Dental Claim Form”。填好表格里相关的内容，扫描所有看病的文件、收据等等，然后发邮件给 group-dental-claims@equitable.ca 。
 - 方法3：整理方法2中的所有材料，寄到Dental Claim Form表格里的地址。公司审核后会寄支票给你。
+- 报销HCSA：https://cupe3906.org/tas-unit-1/unit-1-benefits/。填写表格后，寄送到表格上标出的地址报销。或者扫描所有材料发邮件给 claims@prosure-group.com 报销。
 
 4. MSU Health/Dental Insurance：由ClaimSecure承保，Broker是We Speak Student/ACL Student Benefits。
 

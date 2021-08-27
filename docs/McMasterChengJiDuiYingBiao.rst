@@ -2,7 +2,7 @@
 ===================================
 McMaster成绩对应表：
 
-https://registrar.mcmaster.ca/services/transcripts/transcript-legend/
+https://registrar.mcmaster.ca/services/transcripts/#tab-20
 
 .. image:: /resource/Marking_Schemes.jpg
  
