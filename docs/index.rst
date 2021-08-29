@@ -101,6 +101,7 @@ Welcome to McMaster University!
    JiaZhao
    ZuChe
    MaiChe
+   KaiCheJingYan
    QiCheBaoXian
 
 .. toctree::
