@@ -291,7 +291,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 .. image:: /resource/Wan/Wan_Peele_Tip.png
    :align: center
-   :height: 400
+   :width: 600
 
 2. Bruce Peninsula（布鲁斯半岛）
 
@@ -310,7 +310,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
     - 官网：https://www.pc.gc.ca/en/pn-np/on/bruce
     - 介绍：布鲁斯半岛国家公园是半岛上最最重要的景点。在国家公园里可以徒步、爬山、游泳。感兴趣的同学还可以在园区专门的地方野营（Camping）。公园的设施非常全面，有冲水的厕所、淋浴、电力等等的设施。
     - 预定：去布鲁斯半岛国家公园一定要至少提前1个月预定停车位，在预定的时候会顺便购买门票。https://www.pc.gc.ca/en/pn-np/on/bruce/visit/reserv。如果不camping，只有4个小时停车的时间。
-    - 游玩方案：从Cyprus Lake Office（大门）进入后，一般会进入P1停车场。自此向北去湖边有3条trail。湖边有3个最重要的景点：India Head Cove、Grotto、Overhanging Point。其中前两个地点可以游泳。由于只有4个小时的停车的时间。所以徒步和游泳只能2选1。如果选择游泳方案，可以直接走中间那条trail去湖边游泳。如果不打算游泳，只想徒步，可以从最东边那条trail走到湖边，然后一路向西，走到Overhanging Point，然后从最西边那条trail返回停车场。
+    - 游玩方案：从Cyprus Lake Office（大门）进入后，一般会进入P1停车场。自此向北去湖边有3条trail：Marr Lake Trail（西）、Georgian Bay Trail（中）、Horse Lake Trail（东）。湖边有3个最重要的景点：India Head Cove、Grotto、Overhanging Point。其中前两个地点可以游泳。由于只有4个小时的停车的时间。所以徒步和游泳只能2选1。如果选择游泳方案，可以直接走中间那条Georgian Bay Trail去湖边游泳。如果不打算游泳，只想徒步，可以从最东边那条Horse Lake Trail走到湖边，然后一路向西，走到Overhanging Point，然后从最西边那条Marr Lake Trail返回停车场。
 
   .. image:: /resource/Wan/CyprusLake.jpg
     :align: center
@@ -350,10 +350,9 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
   e) 划船
 
-    - 介绍：如果大家想在湖里自己划船可以去Big Tub Harbour Resort租船。
+    - 介绍：如果大家想在湖里自己划船可以去Big Tub Harbour Resort租船。租船无法预约（“All of our rentals are first come, first served as we do not take phone or email reservations for them. ”）
     - 地址：236 Big Tub Rd, Tobermory, ON N0H 2R0
     - 官网：https://www.bigtubresort.ca/watersport-rentals/
-    - 注意：无法预约（“All of our rentals are first come, first served as we do not take phone or email reservations for them. ”）
     - 停车：这个地方停车可能不是很容易，如果没法停车最好和Fathom Five National Marine Park一起玩。
 
   f) Lion's Head Provincial Park
@@ -389,7 +388,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
     - 第三天：返程，途中会经过Lion's Head Provincial Park和Sauble Beach Park
 
 - 饮食：Tombermory的饮食主要以鱼排为主，其中排名最靠前的是The Fish & Chip Place，地址：24 Bay St, Tobermory, ON N0H 2R0，官网：http://www.thefishandchipplace.com/。Owen Sound就比较多了，基本Hamilton有的餐馆类型，例如：麦当劳、炸鸡、pizza、越南粉、印度菜、中餐馆，这里都有。
-
+- 安全注意事项：布鲁斯半岛是响尾蛇的栖息地，对于它们来说，我们才是入侵者(invader)。半岛的各个公园里还有毒藤蔓的警告。因此大家尽量穿长袖长裤。在trail上走的时候，尽可能走在路的中间，不要触碰路边的草地和树上的藤蔓。绝对不能为了抄近路，走到trail以外的草地里。
 
 其它省份主要国家公园：
 
@@ -456,7 +455,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 -----------------------------
 1. 徒步与登山
 
-- 徒步与登山一般都叫hiking。加拿大有很多风景非常好的trail（小径）。有的trail比较平整，适合散步、跑步。有的trail起伏较大，和登山没有区别。在trail上走的时候一定要遵循着trail的标记，千万不要走丢。Ontario南部的密林是响尾蛇的栖息地。https://brucetrail.org/pages/explore-the-trail/know-before-you-go/following-the-blazes
+- 徒步与登山一般都叫hiking。加拿大有很多风景非常好的trail（小径）。有的trail比较平整，适合散步、跑步。有的trail起伏较大，和登山没有区别。在trail上走的时候一定要遵循着trail blaze（步道标示），千万不要走丢。Ontario南部的密林是响尾蛇的栖息地。https://brucetrail.org/pages/explore-the-trail/know-before-you-go/following-the-blazes
 - AllTrails：这个App标明了北美全部的trail，可以查找、显示实时位置。但是需要流量才能使用。离线地图需要付费。这个App里对trail的具体位置标注十分清楚、准确。甚至很多trail的位置标注比Google地图还要详细。
 
   - 官网：https://www.alltrails.com/
