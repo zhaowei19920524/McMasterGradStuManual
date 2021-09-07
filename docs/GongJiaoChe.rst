@@ -95,7 +95,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
    :width: 600
 
 .. attention::
-   - voucher code可能最多需要48小时才能生效，并且load完之后45天内必须刷一次卡。
+   - voucher code可能最多需要48小时才能生效，并且load完之后30天内必须刷一次卡。
    - 不管是刚刚入学的新生，还是往届在读的学长学姐们，每年8月份都要自己load一下voucher code。
 
 6. 使用PRESTO card
@@ -118,7 +118,7 @@ PRESTO是由Metrolinx公司推出的支付系统。它可以在大多伦多和Ha
 - 方法4：去Go Center充值。就是Go Bus的起点站或终点站。工作人员帮你充值。
 
 .. attention::
-   - 如果使用方法3、4充值，则可以立即到账充到卡里。但是如果使用方法1充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
+   - 如果使用方法1、3、4充值，则可以立即到账充到卡里。但是如果使用方法2充值，则不能立即使用，因为大概过24小时后才算交易完成，并且还需要在30天内至少刷一次卡，才算充到账户里。如果30天内都没有刷卡，则充的钱会退还。所以，请至少在使用前提前24小时充值。https://www.prestocard.ca/en/about/FAQ/load-card-and-check-balance
 
 9. Triplinx手机App
 
@@ -297,8 +297,9 @@ Metrolinx下属的Go Transit公司运营以多伦多为中心，连接安大略�
 
 - Metrolinx下属的UP Express公司运营连接Toronto Union Station到Pearson Airport的特快列车。
 - 官网：https://www.upexpress.com/
-- Pearson机场：https://www.torontopearson.com/en/transportation/up-express
-- 费用：https://www.upexpress.com/Tickets/Tickets
+- Pearson机场：https://www.torontopearson.com/en/transportation-and-parking/up-express
+- 时刻表：https://www.torontopearson.com/en/whats-happening/stories/up-express-schedule
+- 费用：https://www.upexpress.com/Tickets/Fares
 - 除了2个终点站外，它中途还会在Bloor Station和Weston Station停靠。
 
 其它公交系统

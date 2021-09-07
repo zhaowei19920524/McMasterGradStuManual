@@ -103,8 +103,7 @@ G类驾照
 - 官网
 
   - https://travel.gc.ca/travelling/documents/international-driving-permit
-  - https://www.caa.ca/idp/
-- 常见问题及解答，所需材料清单：https://www.caa.ca/international-driving-permit/
+  - https://www.caa.ca/services/travel/international-driving-permit/
 - 国际驾照可以使用的国家清单：https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&Temp=mtdsg5&clang=_en
 
 离学校最近的CAA网点在1717 Main St W, Hamilton, ON L8S 1G5。https://www.caasco.com/store-locator/Hamilton/CAA-Hamilton-West
