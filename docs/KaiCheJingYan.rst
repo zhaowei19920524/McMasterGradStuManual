@@ -60,8 +60,8 @@
 4. 闯红灯
 
 - 大家当然不会故意去闯红灯，除非真的开车三心二意。大多数闯红灯都是闯黄灯的时候没有估测好时间，以至于车辆还没有越过停车线的时候就已经是红灯了。
-- 闯红灯的处罚是最严重的，Demerit points计7分，罚金$325，所以大家开车的时候务必小心。加拿大绝大多数红绿灯是没有倒计时的，甚至绿灯快结束了也不会闪烁，为了避免黄灯时间估测错误，大家可以看一下人行道上的信号灯是不是在闪烁或者倒计时。千万不要想着加速冲过路口，万一失败，不但面临闯红灯的惩罚，还有超速。
-- 一种常见的闯红灯是忘记看左转单独的信号灯（Fully protected left turn），https://www.ontario.ca/document/official-ministry-transportation-mto-truck-handbook/traffic-lights#section-7。只要路口的红灯超过2个，或者有信号灯挂在道路中间靠左边的位置，就要看一下是不是左转的信号灯。
+- 闯红灯的处罚是最严重的，罚金$325（https://www.hamilton.ca/streets-transportation/driving-traffic/red-light-cameras），Demerit points计7分（不同城市规定可能不一样），所以大家开车的时候务必小心。加拿大绝大多数红绿灯是没有倒计时的，甚至绿灯快结束了也不会闪烁，为了避免黄灯时间估测错误，大家可以看一下人行道上的信号灯是不是在闪烁或者倒计时。千万不要想着加速冲过路口，万一失败，不但面临闯红灯的惩罚，还有超速。Hamilton所有红灯摄像头的位置：https://open.hamilton.ca/datasets/5b16fa52d9724eabb157866a030814c0 。
+- 一种常见的闯红灯是忘记看左转单独的信号灯（Fully protected left turn），https://www.ontario.ca/document/official-ministry-transportation-mto-truck-handbook/traffic-lights#section-7 。只要路口的红灯超过2个，或者有信号灯挂在道路中间靠左边的位置，就要看一下是不是左转的信号灯。
 - 麦马南边的路口，从Main Street左转到Emerson Street的黄灯时间就非常短，大概只有2秒。所以大家在这个地方左转的时候千万不要着急，宁愿开慢一点，等下一个左转的绿灯。否则会按闯红灯处理。
 
 .. image:: /resource/KaiCheJingYan/LeftTurnYellowMcMaster.png
