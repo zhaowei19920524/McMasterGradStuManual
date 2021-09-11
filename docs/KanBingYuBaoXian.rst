@@ -200,9 +200,9 @@
 
   A. GSA Insurance Plan指定的牙医、眼医诊所、保健理疗医生：
   
-  - http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538
-  - 请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”或“Vision”。
+  - 打开网页：http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538 。请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”或“Vision”。
   - GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
+  - 一般不管去任何诊所都需要打电话先预约。在预约的时候，再次寻问他们是不是支持GSA的保险。在上面网页里右边一栏找到Group Number (Health & Dental)，和自己的学号一起报给他们，让他们检查一下自己要做的具体项目是不是支持，并且还剩余多少额度。
 
   .. image:: /resource/Insurance/dental_location.png
     :align: center
