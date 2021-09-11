@@ -86,7 +86,7 @@
 
   - iOS：https://apps.apple.com/us/app/gasbuddy-find-cheap-gas-prices/id406719683?mt=8
   - Android：https://play.google.com/store/apps/details?id=gbis.gbandroid
-- GasBuddy还有油价分析工具。https://www.gasbuddy.com/charts。大家可以查看各个省、城市的历史油价走势。
+- GasBuddy还有油价分析工具。https://www.gasbuddy.com/charts 。大家可以查看各个省、城市的历史油价走势。
 
 2. 选择加油站
 
@@ -101,10 +101,10 @@
 
 3. 选择汽油
 
-- 继续以ESSO举例，https://www.esso.ca/en-ca/unleaded-gasoline。正常加油站都提供了至少3种汽油，分别是87号、89号和91号。还有一些加油站提供了更高的93或者94号汽油。这个数字指的是Octane Number（辛烷值），是燃料的抗爆震程度之量测指标（该指标一般常用于描述汽油的性能）。辛烷值越高表示抗爆震能力越好，性能越强，但是价格也更加昂贵。
+- 继续以ESSO举例，https://www.esso.ca/en-ca/unleaded-gasoline 。正常加油站都提供了至少3种汽油，分别是87号、89号和91号。还有一些加油站提供了更高的93或者94号汽油。这个数字指的是Octane Number（辛烷值），用来指示燃料的抗爆震程度（也可以理解为描述汽油的性能）。辛烷值越高表示抗爆震能力越好，性能越强，但是价格也更加昂贵。
 - 维基百科介绍：https://en.wikipedia.org/wiki/Gasoline#Octane_rating
 - 如果不是特别高档的车，通常情况下加最便宜的87号汽油就可以了。高档的车可以问问经销商或者看看说明书上推荐使用哪种汽油，否则对发动机也是损坏。
-- Diesel：https://www.esso.ca/en-ca/synergy-diesel-efficient-passenger。除了上述提到的汽油外，通常加油站还会提供Diesel（柴油）。柴油的价格比87号汽油要便宜些，但不是所有的车都可以加柴油，一般只有卡车才可以。并且柴油的加油枪也要粗一点，不能加进一般的小轿车里。
+- Diesel：https://www.esso.ca/en-ca/synergy-diesel-efficient-passenger 。除了上述提到的汽油外，通常加油站还会提供Diesel（柴油）。柴油的价格比87号汽油要便宜些，但不是所有的车都可以加柴油，一般只有卡车才可以。并且柴油的加油枪也要粗一点，不能加进一般的小轿车里。
 
 停车
 ------------------------------
