@@ -496,8 +496,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 - 天宝旅游也提供回国往返特价机票的预定（注意不一定最便宜，可以多种渠道比较一下），网址：https://www.tianbaotravel.com/flight/entry.shtml 。注意：在天宝订机票后，机票不能转让，退票要罚手续费。
 
-2. 路路行：https://www.lulutrip.com/
-3. 泰安旅游：https://safewaytours.net/
+2. 泰安旅游：https://safewaytours.net/
 
 .. admonition:: 本页作者
 
