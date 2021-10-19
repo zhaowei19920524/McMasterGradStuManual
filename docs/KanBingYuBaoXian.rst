@@ -214,10 +214,9 @@
 
   C. CUPE指定的牙医诊所：
   
-  - 寻找、预约医生 https://www.opencare.com/ 。
+  - 寻找、预约医生：https://www.opencare.com/ 。用这个链接预约用牙医会有$50返现：https://www.opencare.com/invite/wz439413 。等看完牙医拿到receipt并上传就可以拿到$50的返现优惠。
   - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后找“Equitable Life of Canada”。此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周边有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
   - 按CUPE官网的介绍，所有的诊所都可以用CUPE的保险报销100%。但部分服务，如洗牙，每年有次数限制；总的报销额度也不能超过$1000。大家在就诊之前一定要问清楚是否支持用CUPE的保险，以及在付款之前再次确认剩余的额度是否还可以报销。
-  - 用这个链接预约用牙医会有$50返现：https://www.opencare.com/invite/wz439413 。等看完牙医拿到receipt并上传就可以拿到$50的返现优惠。
 
 注：
 
