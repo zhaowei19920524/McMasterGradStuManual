@@ -477,7 +477,7 @@ National Parks Canada是加拿大联邦政府的维护的公园，是加拿大�
 
 2. 看枫叶
 
-- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是Thanksgiving Day。
+- 看枫叶比较推荐的地方有两个，一个是近一点的Dundas Peak，还有一个是比较远的Algonquin Park。每年看枫叶最好的时间是Thanksgiving Day长周末或之前的那个周末。
 - 安省各大公园秋季枫叶颜色实时报告：https://www.ontarioparks.com/fallcolour
 
 3. 滑雪
