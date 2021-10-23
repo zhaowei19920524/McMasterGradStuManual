@@ -10,6 +10,11 @@
 1) 官网：https://security.mcmaster.ca/
 2) 失物招领：https://security.mcmaster.ca/lost-and-found/
 
+ESL英语口语练习
+-------------------------
+1) 学校ESL课程：https://meld.humanities.mcmaster.ca/model/。MODEL是麦马人文学院开设的免费的英语培训。有兴趣的同学可以联系他们一下。除此之外，MELD和MERGE两个项目是收费的。
+2) 如果大家没有机会参加MODEL，也可以去学校南边的一个教堂：St George's Reformed Episcopal，地址是134 Emerson St, Hamilton, ON L8S 2X8。时间是每周二下午7点或者周四下午的Bible Study and Prayer也可以。官网介绍：http://stgeorgehamilton.ca/whats-happening/。联系方式：Paul（revpaulluth@gmail.com）或者询问群里的14-Health Research Method-常亚平。
+
 节假日
 ---------------------------------
 在Canada， 是没有国内那种过年和国庆七天假期的，唯一的放假安排是一个周末再加一天，一共三天。即使Canada的国庆节（Canada Day）。此外除了一些公共的节日外，每个省还有自己的节日，仅仅是本省境内放假，其它省依然继续上课上班。在Ontario的法定节假日（Statutory Holidays）有以下几天：
