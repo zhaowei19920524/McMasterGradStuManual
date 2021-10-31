@@ -6,12 +6,12 @@
    :align: center
    :width: 1000
 
-| 加拿大的医疗奉行“免费”医疗的政策。作为我们国际学生，依然可以享受不花钱或者花很少一部分钱去看病、治疗、买药的福利，但不代表没有人去支付相应的费用。通常，我们交的杂费里已经包含了各种保险的费用，则我们就医的各种费用就是由保险公司来承担。
+| 加拿大的医疗奉行“免费”医疗的政策。我们作为国际学生，依然可以享受不花钱或者花很少一部分钱去看病、治疗、买药的福利，但不代表没有人去支付相应的费用。通常，我们交的杂费里已经包含了各种保险的费用，则我们就医的各种费用就是由保险公司来承担。
 | 作为学生，我们不需要直接跟保险公司直接打交道，因为我们不熟悉有哪些保险公司，每家公司都有哪些保险产品，用于报销哪些花费，以及价格是否合理。而是相应的组织或团体已经提前谈好了相应的保险服务，我们直接按照杂费里列举的费用付费即可。
-| 根据上图所示，通常一个保险涉及3部分机构，分别是Providers、Brokers、Student groups。他们主要负责：
+| 根据上图所示，通常一个保险涉及3部分机构，分别是Providers、Administrators/Brokers、Student Groups。他们主要负责：
 
 - Providers：保险公司。众多保险公司提供了各式各样的保险服务。跟我们相关的保险公司主要有Sun Life（https://www.sunlife.ca/）、Blue Cross（http://www.bluecross.ca/en/index.html）、Equitable Life of Canada（https://www.equitable.ca/）、ClaimSecure（https://www.claimsecure.com/）。
-- Administrators/Brokers：管理员和经纪人。管理员指的是负责维护保险的组织，例如加拿大的各个大学、CUPE工会等等。经纪人则起到一个桥梁的作用，这有点像是房地产经纪人，各个卖家有房源但不知道客户在哪、应该面向哪些人打什么类型的广告，各个买家想买房但不知道有哪些房源、价格怎么样。保险经纪人也一样，他们把各个保险公司的相应保险服务组合在一起，然后推荐给不同的客户群体。客户们没有必要知道报销的时候应该去找哪些保险公司，只要统一发给经纪人，他们会把账单转交给相应的保险公司即可。跟我们相关的经纪人有Studentcare（https://www.studentcare.ca/）和We Speak Student/ACL Student Benefits（https://wespeakstudent.com/）。
+- Administrators/Brokers：管理员和经纪人。管理员指的是负责维护保险的组织，例如加拿大的各个大学、CUPE工会等等。经纪人则起到一个桥梁的作用，这有点像是房地产经纪人，各个卖家有房源但不知道客户在哪、应该面向哪些人打什么类型的广告，各个买家想买房但不知道有哪些房源、价格怎么样。保险经纪人也一样，他们把各个保险公司的相应保险服务组合在一起，然后推荐给不同的客户群体。客户们没有必要知道报销的时候应该去找哪些保险公司，只要统一发给经纪人，他们会把账单转交给相应的保险公司即可。跟我们相关的经纪人有Studentcare（https://www.studentcare.ca/）和We Speak Student（https://wespeakstudent.com/）。
 - Student Groups：学生团体。如果只有几个人去买保险，那保险费用一定会非常高，只有很多人一起买，这样每个人的价格才会便宜。所以，我们购买的保险都是作为一个团体统一买的。例如：国际学生、研究生、TA和RA和博士后、MBA学生等。
 
 医疗保险
@@ -24,7 +24,7 @@
 
 一、UHIP/OHIP
 
-- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本国学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
+- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本地学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
 - 费用（2021年）：国际学生需要付费参加UHIP，近几年的年费是单人$756，学生家属的费用和学生一样。
 - 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
@@ -110,6 +110,9 @@
 - 配眼镜福利：每2年有$100报销镜片和镜框的额度。
 - MBA学生家属的保险：https://msumcmaster.ca/info/health-dental-insurance/family-add-ons/
 
+.. note::
+  除了UHIP/OHIP涉及到看病的保险外，其它保险都是没有单独的coverage card的。像买药、牙医等等的服务，一般只要报给诊所自己的Group Number/Policy Number、Member ID，诊所就可以直接访问到自己的保险。如果诊所访问不到，则要自己支付全部的费用，然后报销。
+
 保险的购买与退出
 --------------------------------------------------------------------------
 1. 购买（enroll）：所有学生必须（mandatory）参加医疗保险，学校在收杂费的时候会自动扣去相关的费用。具体需要购买的保险如下：
@@ -142,9 +145,8 @@
   - Extended Health（药费等，学校付钱）
   - Group Life（生命安全保险，学校付钱）
 
-注：
-
-- 五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
+.. note::
+  五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
@@ -193,16 +195,15 @@
   - Urgent Care Centre事实上是一种特殊的Walk-in Clinic。通常Walk-in Clinic会按先来后到的顺序接诊，但Urgent Care Centre是按病情的严重程度的顺序接诊。因为它主要优先解决的是紧急出现的病症，这类病症不会立即威胁生命，但也没有时间去预约医生或者在Walk-in Clinic里排队了。例如：食品中毒、眼睛受伤、骨折、轻度烧伤等等。事实上，这和Emergency Departments并没有很清晰的界限。如果大家病情不是很严重，依然去了Urgent Care Centre，那么你会发现有很多后来的病人会被排到你的前面，而你会等待非常长的时间。在麦马学校附近，能接诊Urgent Care Centre的是Main Street West Urgent Care Centre（不是24h营业），地址是690 Main St W。大家真的遇到了紧急病症不用特别区分是否归为Urgent，直接打911让救护车来接就可以了。
 
 .. note::
-   - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
-   - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。通常St. Joseph’s Healthcare的等待时间是最短的。
+  - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
+  - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。通常St. Joseph’s Healthcare的等待时间是最短的。
 
 3. 校外的牙医、眼医诊所、保健理疗医生
 
   A. GSA Insurance Plan指定的牙医、眼医诊所、保健理疗医生：
   
-  - 打开网页：http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538 。请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”或“Vision”。
-  - GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
-  - 一般不管去任何诊所都需要打电话先预约。在预约的时候，再次寻问他们是不是支持GSA的保险。在上面网页里右边一栏找到Group Number (Health & Dental)，和自己的学号一起报给他们，让他们检查一下自己要做的具体项目是不是支持，并且还剩余多少额度。
+  - 以看牙为例，打开网页：http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538 。请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”。GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
+  - 一般不管去任何诊所都需要打电话先预约。在预约的时候，再次寻问他们是不是支持GSA的保险。在上面网页里右边一栏找到Group Number (Health, Dental, and Vision)，和自己的学号一起报给他们，让他们检查一下自己要做的具体项目是不是可以用保险报销，并且还剩余多少额度。
 
   .. image:: /resource/Insurance/dental_location.png
     :align: center
@@ -214,19 +215,18 @@
 
   C. CUPE指定的牙医诊所：
   
-  - 寻找、预约医生：https://www.opencare.com/ 。用这个链接预约用牙医会有$50返现：https://www.opencare.com/invite/wz439413 。等看完牙医拿到receipt并上传就可以拿到$50的返现优惠。
+  - 寻找、预约医生：https://www.opencare.com/ 。用这个链接预约牙医会有$50返现：https://www.opencare.com/invite/wz439413 ，等看完牙医拿到receipt并上传就可以拿到返现的Prepaid Visa Gift Card。
   - 输入邮编后，点击“Get Start”，按照提示一步一步选择。其中有一步选提供保险的公司页面，这里选Other，然后找“Equitable Life of Canada”。此外，不一定所有的诊所都能通过上述方法列举出来，原因可能是通过问卷过滤了一部分诊所。例如学校周边有一家大家评价普遍比较好的“Westdale Dentistry”，通过opencare就很难搜索到。
   - 按CUPE官网的介绍，所有的诊所都可以用CUPE的保险报销100%。但部分服务，如洗牙，每年有次数限制；总的报销额度也不能超过$1000。大家在就诊之前一定要问清楚是否支持用CUPE的保险，以及在付款之前再次确认剩余的额度是否还可以报销。
 
-注：
+.. note::
+  - MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
+  - 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
 
-- MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
-- 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
-
-  - 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
-  - MBA学生在MSU Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
-- 如果是看病的话，建议大家去支持direct billing的诊所。因为可以省去报销流程，诊所会直接找保险公司报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic等等。
-- 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。大家在去之前可以打电话或者其它方式询问是否支持direct billing。如果支持，可以在去之前带上CUPE牙医保险的个人信息，请查看这个网页下面的“报销”->“CUPE Dental Plan”->“方法1”。
+    - 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
+    - MBA学生在MSU Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
+  - 如果是看病的话，建议大家去支持direct billing的诊所。因为可以省去报销流程，诊所会直接找保险公司报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic等等。
+  - 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。大家在去之前可以打电话或者其它方式询问是否支持direct billing。如果支持，可以在去之前带上CUPE牙医保险的个人信息，请查看这个网页下面的“报销”->“CUPE Dental Plan”->“方法1”。
 
 买药
 -----------------------------------
@@ -262,10 +262,9 @@
   - iOS：https://itunes.apple.com/ca/app/pharmasave-drugs/id608514849?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.pharmasaves.android
 
-注：
-
-- 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）药、退烧药（例如：Tylenol泰诺）也是可以自由购买的。
-- 建议大家去支持pay direct card的药房买药，因为可以省去报销流程，药房会直接找保险公司报销相应的费用。例如McMaster University Centre Pharmasave、Rexall等。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
+.. note::
+  - 由于Canada对药品管制十分严格，绝大多数药品都需要处方才能购买，尤其像国内常见的OTC感冒药和消炎药在这里全都需要处方。药店只能自由购买营养品和保健品。此外，经验证腹泻（Diarrhea）药、退烧药（例如：Tylenol泰诺）也是可以自由购买的。
+  - 建议大家去支持pay direct card的药房买药，因为可以省去报销流程，药房会直接找保险公司报销相应的费用。例如McMaster University Centre Pharmasave、Rexall等。pay direct card可以在studentcare手机App里找到，也可以在网页上打印出来：http://studentcare.ca/rte/en/McMasterUniversity_DownloadCentre_PayDirectCard
 
 报销
 -------------------------------------------------
