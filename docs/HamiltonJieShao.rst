@@ -24,7 +24,7 @@ Hamilton各个区
 
 .. image:: /resource/HamiltonMapSmallArea.jpg
    :width: 1200
-   :align: center1
+   :align: center
 
 Hamilton的主干道
 ------------------------------------------

@@ -57,10 +57,7 @@
 
   - https://www.amazon.ca/
   - Amazon上也可以买到各种电脑和电脑配件。并且质量有保证。
-- 其它
-
-  - https://www.newegg.ca/
-  - http://www.ncix.com/
+- Newegg：https://www.newegg.ca/
 
 推荐的笔记本电脑
 ----------------------------------------
@@ -70,7 +67,7 @@
 
 - Yoga系列
 
-  - https://www3.lenovo.com/ca/en/yoga/
+  - https://www.lenovo.com/ca/en/laptops/yoga/c/yoga
   - 分为Yoga 700和900系列，他们都非常轻薄。其中Yoga 700系列不但是联想，甚至是所有品牌的笔记本电脑里性价比最高的的电脑，15寸的版本带有独立显卡。大家遇到打折季，比如黑色星期五、圣诞购物季等等，一定要及时关注。Yoga 900系列通常固定是14寸，但有更多的颜色可选。
 
 - ThinkPad系列
@@ -121,13 +118,13 @@
 
 4. Microsoft Surface
 
-- Surface Laptop：https://www.microsoft.com/en-ca/p/surface-laptop-2/8XQJKK3DD91B
+- Surface Laptop：https://www.microsoft.com/surface
 
 5. MSI
 
 - GS系列
 
-  - https://ca.msi.com/Laptops/#?tag=GS-Series
+  - https://ca.msi.com/Laptops/Products#?tag=GS-Stealth-Series
   - MSI推出的游戏本里最为轻薄的一款。
   - 由于MSI在Canada没有销售点，只能在第三方电脑商城里购买，比如Canadacomputers或ncix。
 
