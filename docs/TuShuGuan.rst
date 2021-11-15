@@ -36,14 +36,14 @@
 2. 预定自习的房间
 
 - 不过最少也得3人才能预定一个房间。并且最多两小时。大家也可以随意找地方坐：https://library.mcmaster.ca/spaces/study-zones
-- 单人研究生自习座位：https://library.mcmaster.ca/graduate-study-space 。需要填写网页里的申请表。没有门卡的同学，还会领到一张门卡。
+- 单人研究生自习座位：https://library.mcmaster.ca/spaces/grad-room 。需要填写网页里的申请表。没有门卡的同学，还会领到一张门卡。
 - 在此倡议一下：对于有lab的同学最好不要去图书馆看书，把座位尽量留给没有lab的同学，比如business学院的master学生。
 
 3. 打印复印
 
-- https://library.mcmaster.ca/services/printing
-- 如果要和国内的打印复印相比，价格还是挺贵的。经常打印的同学还是最好买个打印机。
-- 除了这个地方可以打印，在student center的basement还有一个叫“Underground Media + Design”的MSU的service提供打印服务：https://msumcmaster.ca/service/underground-media-design/ 。这个地方的价格比图书馆略贵一些。但他们的侧重点不一样，图书馆的打印服务主要还是打印文件等常见尺寸大小的材料，而“Underground Media + Design”主要是打印海报、传单等大型或批量的宣传用品。
+- https://library.mcmaster.ca/services/printing 。如果要和国内的打印复印相比，价格还是挺贵的。经常打印的同学还是最好买个打印机。
+- 学校里除了这个地方可以打印，在student center的basement还有一个叫“Underground Media + Design”的MSU的service提供打印服务：https://msumcmaster.ca/service/underground-media-design/ 。这个地方的价格比图书馆略贵一些。但他们的侧重点不一样，图书馆的打印服务主要还是打印文件等常见尺寸大小的材料，而“Underground Media + Design”主要是打印海报、传单等大型或批量的宣传用品。
+- 校外也有很多可以打印的地方，比如：Hamilton Public Library（官网：https://www.hpl.ca/articles/print-copy-and-scan ，地址：955 King St W, Hamilton, ON L8S 1K9）、UPS（官网：https://www.theupsstore.ca/services/printing/ ，地址：1063 King St W, Hamilton, ON L8S 4S3）、Print Factory Ink（官网：https://printfactoryink.com/ ，地址：9 Sterling St, Hamilton, ON L8S 4H6）。后两个地方的功能和上面提到的“Underground Media + Design”类似。
 
 4. 借各种器材
 
