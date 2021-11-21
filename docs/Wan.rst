@@ -244,14 +244,24 @@ Ontario Provincial Parks是安省省政府维护的公园。他们的景色比Ha
 
 比较有特色的省立公园介绍：
 
-- Algonquin Provincial Park阿岗昆省立公园：Camping的好去处。想去这里可以自行开车、乘坐shuttle bus或者找旅行社。
+1. Algonquin Provincial Park阿岗昆省立公园：Camping的好去处。想去这里可以自行开车、乘坐shuttle bus或者找旅行社。
 
-  - 官网：http://www.algonquinpark.on.ca/index.php
+- 官网：http://www.algonquinpark.on.ca/index.php 和 https://www.ontarioparks.com/park/algonquin
+- 资源：
+
+  - 地图：https://www.ontarioparks.com/park/algonquin/maps
   - 费用：http://www.algonquinpark.on.ca/visit/general_park_info/fees-algonquin-park.php
+- 活动：
+
+  - 看枫叶：枫叶颜色实时报告：http://www.algonquinpark.on.ca/visit/general_park_info/fall-colour-report.php 。实时影像：http://www.algonquinpark.on.ca/virtual/webcam/index.php
   - Camping官方指导：http://www.algonquinpark.on.ca/visit/camping/
-  - 阿岗昆枫叶颜色实时报告：http://www.algonquinpark.on.ca/visit/general_park_info/fall-colour-report.php
-  - 阿岗昆枫叶实时影像：http://www.algonquinpark.on.ca/virtual/webcam/index.php
-  - 安省公园官网的介绍（注意看Camping和Maps）：https://www.ontarioparks.com/park/algonquin
+- 介绍：阿岗昆公园是一大片林地，其中最主要的景色在ON-60（安省60号公路），在公园官网上叫Highway 60 Corridor。官网的地图上列举了很多景色优美的Trail和各种博物馆，大家不能可能一次把它们全都逛完。但其中几个非常推荐去，沿着60号公路自东向西分别是：Algonquin Park Visitor Centre、Lookout Trail、Two Rivers Trail、Track and Tower Trail、Algonquin Art Centre。这5个地方包含了3条评价最高的Trail。大家在玩的时候一定要从东向西逛。因为它们虽然非常推荐去，但重要性依次降低，并且它们坡度起伏较大，实际上完全是在爬山，要结合自己的体力决定后几个地方要不要去。
+- 旅游方案：由于公园离Hamilton太远，正常开车也要将近4个小时才能到。推荐大家玩3天，第一天去，最后一天回来。并且就住在公园附近的Airbnb、Motel或者Hotel。最远也不要超过Huntsville。
+
+  - 准备（提前2周）：购买公园停车票（Daily Vehicle Permit）。阿岗昆是不需要门票的，只需要各个Trail和博物馆入口停车场的停车票，购买地址：https://www.algonquinpark.on.ca/visit/general_park_info/fees-day-use.php 或直接访问 https://reservations.ontarioparks.com/ 。选“Day Use”->“Algonquin - Hwy 60 Corridor”，选择日期然后付费。
+  - 第一天：开车去旅馆，顺便去一下白求恩故居（Bethune Memorial House National Historic Site，官网：https://www.pc.gc.ca/en/lhn-nhs/on/bethune ，地址：297 John St N, Gravenhurst, ON P1P 1G4）。白求恩故居已经列为National Historic Sites（国家历史遗址）。到地方之后再买票，车辆可以免费停在路边。如果顺路还可以再去一下另外一个看枫叶极佳的地方：Lions Lookout，地址：Lookout Rd, Huntsville, ON P1H 1R1。
+  - 第二天：直接开到Algonquin Park Visitor Centre。然后按顺序从东向西依次逛上述5个地方。其中Track and Tower Trail是最为困难的，路途不乏各种坡度极为陡峭的路段，下雨之后更是泥泞不堪，大约需要3个小时才能完整的逛完。注意：60号公路在公园的那部分没有任何可以买吃的地方，大家务必提前买好零食带去。如果需要冲水厕所，可以考虑去Algonquin Provincial Park - West Gate。
+  - 第三天：返程。可以去沿途的Barrie逛一下。Barrie就在Lake Simcoe湖畔，景色依旧十分美丽，并且这个城市也有很多好吃的，大家可以在网上搜一下。
 
 .. image:: /resource/Wan/Wan_Algonquin_Lookout_Trail.jpg
    :align: center
@@ -259,8 +269,8 @@ Ontario Provincial Parks是安省省政府维护的公园。他们的景色比Ha
 
 Hamilton附近还有一些景色比较好的Provincial Parks：
 
-- Bronte Creek：可以hiking
-- Long Point：在Lake Erie，有沙滩，可以游泳
+2. Bronte Creek：可以hiking
+3. Long Point：在Lake Erie，有沙滩，可以游泳
 
 National Parks Canada加拿大国家公园
 -----------------------------------------------------------------------
