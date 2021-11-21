@@ -24,16 +24,16 @@
 
 一、UHIP/OHIP
 
-- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本地学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
+- 国际学生参加的是UHIP（University Health Insurance Plan），而Canada本地学生（Permanent residence和Canada citizen）参加的是OHIP（Ontario Health Insurance Plan）。UHIP为学生提供免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。具体报销项目可登录 https://uhip.ca/Enrollment/PlanDetails 查看。UHIP从刚来Canada入学的前一个月的10号开始生效。毕业后，可以因要等待参加毕业典礼或者论文答辩延长最多4个月。
 - 官网：https://uhip.ca/
 - 费用（2021年）：国际学生需要付费参加UHIP，近几年的年费是单人$756，学生家属的费用和学生一样。
-- 学校的UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
+- UHIP由Sun Life承保，从2017年开始学校会把UHIP coverage card（医保卡）通过邮件的方式发给大家，如果没收到可以自行上Sun Life网站打印UHIP coverage card。教程：http://uhip.ca/Enrollment/CoverageCard 。建议大家把打印出来的coverage card和自己的护照或驾照放一起。平时随身携带，以防万一。
 
 .. image:: /resource/Insurance/UHIP_coverage_card.jpg
    :align: center
    :width: 800
 
-- UHIP提供学生免费医疗，如去医院病时的一切费用包括诊断、打针、手术费等，甚至包括怀孕生孩子的全部费用，每年一共可以报销$1,000,000的诊断治疗费用。可登录 http://uhip.ca/Enrollment/PlanDetails 查看UHIP涵盖的保险范围，或下载手机APP“my Sun Life”查看。
+- 手机App：手机App注册教程在 https://uhip.ca/Help/Tutorials ，找到“How to access my Sun Life mobile”。手机App注册成功后也可以找到coverage card。
 
   - iOS：https://itunes.apple.com/ca/app/my-sun-life-canada/id453274313?mt=8
   - Android：https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife
@@ -137,6 +137,7 @@
 - 联培学生（Visiting Student）
 
   - UHIP Premium
+  - GSA Health Insurance Plan
 - 博士后（Post Doc）：具体看 https://hr.mcmaster.ca/resources/benefit-booklets/ 。在搜索框里填写“post doc”。
 
   - UHIP（开始工作3个月以内，导师付钱）
@@ -145,18 +146,19 @@
   - Extended Health（药费等，学校付钱）
   - Group Life（生命安全保险，学校付钱）
 
-.. note::
-  五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment
+.. attention::
+  - 五月份入学的学生虽然自动会有UHIP，但不会自动购买GSA Health/Dental Insurance Plan。这就需要新生自己Self Enrolment。详情：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_SelfEnrolment 。注意要在截止日期前enroll。
+  - 联培学生由于可以在一年里任何时候来Canada，学校并不清楚学生何时来，因此就不能自动为联培学生购买保险。而联培学生需要尽快自己购买保险
+  
+    - UHIP：联培学生落地Canada的之后必须在30天内联系International Student Services购买UHIP，否吗面临巨额罚金。联系方式：iss@mcmaster.ca 或直接联系Yufei Zheng（International Graduate Students Coordinator，zheny37@mcmaster.ca）。
+    - GSA Health Insurance Plan：购买UHIP成功之后就可以联系GSA购买这个保险了。联系方式：macgsa@mcmaster.ca。注意，只有每个学期开学的第一个月，也就是“Change-of-Coverage Period”期间可以购买。错过了这个时间，只能等下一个学期再购买了。http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_ChangeofCoveragePeriod
 
 2. 退出（opt out）：学校的保险都是强制购买的，如果想退出只能是在其它地方已经购买了相同的保险或者变更了移民身份。常见情形仅有如下：
 
-- 如果有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$250（2020年）的保费。
-- 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
-- 非9月入学的学生：
-
-  - 1月份或5月份入学的研究生：由于UHIP会一次性强制收取12月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到Ana Pereira退回相应的费用。联系方式：iss@mcmaster.ca
-  - 联培学生（Visiting Student）可以在一年里任何时候来Canada，因此也需自己告诉Ana Pereira到Canada的日期以退回到达日期之前月份的费用。学校并不清楚学生何时来Canada。联系方式：iss@mcmaster.ca
-- 12月毕业的研究生：https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Costs and premiums”标题。
+- 如果大家有TA或者RA in lieu，则属于CUPE工会的成员，工会成员有CUPE Unit 1 Dental Plan，则这个时候自动退出GSA Dental Insurance Plan，并且还可以从UHIP中退回$250（2020年）的保费。
+- 如果就读的项目是Part Time的，意思就是在校外公司有全职的工作，与此同时在麦马读了一个在职研究生。通常稍大的公司都会为员工购买保险，这时候就不需要购买GSA的Health和Dental的保险了。学校会先收相应的费用，然后再自己申请退出保险，退回保费。申请退出保险有时间限制，通常是term 1或term 2开学的第一个月（“Change-of-Coverage Period”）。具体看：http://studentcare.ca/rte/en/McMasterUniversity_ChangeofCoverage_OptOuts
+- 1月份或5月份入学的研究生、不是9月来Canada的联培学生：由于UHIP会一次性强制收取12个月的的费用，有效期从9月到第二年8月，这样入学之前的几个月的费用就白交了。所以这两个学期入学的学生在开学之后应尽快找到International Student Services退回相应的费用。联系方式：iss@mcmaster.ca
+- 12月毕业的研究生：https://studentsuccess.mcmaster.ca/international-students/health-insurance/ 下的“Refunds”标题。
 
   - 毕业后依然在Canada：可退回2个月的UHIP的费用。UHIP的有效期变成6月30日。
   - 毕业后在6月底之前离开Canada：可以申请把UHIP的有效期变更为最后留在Canada的那个月，退回之后月份的费用。
@@ -170,7 +172,7 @@
 
   - 类似于国内高校的小诊所。但不能处理牙齿相关的事物。由于绝大多数研究生的杂费里已经交了100多刀的Student Wellness Centre的费用，所以大家有小病小恙还是应该优先考虑去校医院看。
   - 官网：https://wellness.mcmaster.ca/
-  - 看病前需要去按网站上说的方法预约医生：https://wellness.mcmaster.ca/services/medical-care/。如果预约后决定取消，一定要打电话取消，否则会收$50~100的罚款。
+  - 看病前需要去按网站上说的方法预约医生：https://wellness.mcmaster.ca/services/medical-care/ 。如果预约后决定取消，一定要打电话取消，否则会收$50~100的罚款。
   - 注意：校医院不是学校南门的“McMaster Children's Hospital”！那是McMaster医学院的附属儿童医院，只能给儿童看病。
 
   B. Campus dentist
@@ -198,21 +200,18 @@
   - 如果大家半夜突然发烧或者不适，那只能去Hospital看。因为只有他们才有24小时营业的Emergency Department。离麦马比较近的Hospital是St Joseph's Healthcare Hamilton - Charlton Campus - Emergency Department，地址是50 Charlton Ave E, Hamilton, ON  L8N 4A6。
   - 如果病情非常紧急严重，应该直接打911让救护车来接，911会自动送到等待时间最短的医院。如果打算自己去医院的话（推荐坐出租车去），一定要先查看一下各个医院的Emergency或Urgent Care Centre的等待时间：https://www.hamiltonemergencywaittimes.ca/ 。通常St. Joseph’s Healthcare的等待时间是最短的。
 
-3. 校外的牙医、眼医诊所、保健理疗医生
+3. 校外的牙医诊所、眼镜诊所、保健理疗医生
 
-  A. GSA Insurance Plan指定的牙医、眼医诊所、保健理疗医生：
+  A. GSA Insurance Plan指定的牙医诊所、眼镜诊所、保健理疗医生：
   
   - 以看牙为例，打开网页：http://studentcare.ca/View.aspx?locale=en&uid=McMasterUniversity_Dental_Test2&random=538 。请在网页右上角“STUDENTCARE NETWORKS Find a Professional ”标题下的下拉列表里选择“Dental”。GSA Dental Insurance Plan指定的牙医诊所叫“Studentcare Dental Network member”。对于一般的诊所，GSA Dental Insurance Plan只能报销70%，而指定的牙医诊所可以再多报销20%~30%。这样在指定的牙医诊所里就可以报销90%~100%的就诊费用。
   - 一般不管去任何诊所都需要打电话先预约。在预约的时候，再次寻问他们是不是支持GSA的保险。在上面网页里右边一栏找到Group Number (Health, Dental, and Vision)，和自己的学号一起报给他们，让他们检查一下自己要做的具体项目是不是可以用保险报销，并且还剩余多少额度。
 
-  .. image:: /resource/Insurance/dental_location.png
-    :align: center
-    :width: 1200
+    .. image:: /resource/Insurance/dental_location.png
+      :align: center
+      :width: 1200
   
-  B. MSU Dental Insurance指定的牙医诊所：
-
-  - https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。
-
+  B. MSU Dental Insurance指定的牙医诊所：https://msumcmaster.ca/info/health-dental-insurance/dental-plan/ 网页里“Dental Network”标题。
   C. CUPE指定的牙医诊所：
   
   - 寻找、预约医生：https://www.opencare.com/ 。用这个链接预约牙医会有$50返现：https://www.opencare.com/invite/wz439413 ，等看完牙医拿到receipt并上传就可以拿到返现的Prepaid Visa Gift Card。
@@ -221,9 +220,9 @@
 
 .. note::
   - MBA、Post doc、访问学者是不能去学校Student Wellness Centre看病的，只能去校外Walk-in Clinic看。https://wellness.mcmaster.ca/contact-us/
-  - 去诊所看病，请带上UHIP医保卡和Group Number，看病过程中可能需要用到。
+  - 去诊所看病，请带上UHIP医保卡和Government issued photo ID（通常是护照或者驾照）。如果是看牙医、眼镜等等，还需要带上Group Number，看病过程中可能需要用到，这个number可以在以下地方找到。
 
-    - 非MBA学生可以在GSA Insurance Plan的官网主页里找到。
+    - 非MBA学生可以在GSA Insurance Plan的官网主页右边一栏里找到。
     - MBA学生在MSU Health/Dental Plan Insurance的主页，找到“HEALTH INSURANCE”或“DENTAL INSURANCE”，点开链接后有"CLAIM FORM"，然后新打开的页面就可以找到。
   - 如果是看病的话，建议大家去支持direct billing的诊所。因为可以省去报销流程，诊所会直接找保险公司报销相应的费用。例如学校及其周边的三家诊所：McMaster Student Wellness Centre、Dundurn Medical Center、Main St West Walk-in Clinic等等。
   - 有部分牙医诊所也支持direct billing，比如CUPE的牙医保险推荐一家市区的诊所Smile Design Dental Care等等。大家在去之前可以打电话或者其它方式询问是否支持direct billing。如果支持，可以在去之前带上CUPE牙医保险的个人信息，请查看这个网页下面的“报销”->“CUPE Dental Plan”->“方法1”。
@@ -279,7 +278,7 @@
 1. UHIP：由Sun Life承保。
 
 - 方法1：如果诊所接受direct billing，那根本不需要学生自己去报销，只要报给他们UHIP的member ID即可，诊所会直接找Sun Life报销相应的费用。
-- 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，详见：https://uhip.ca/Claim/Index。例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并发邮件给 myclaims@sunlife.com 或者邮寄相关材料来报销的相应的费用。
+- 方法2：如果诊所不接受direct billing，则需要大家先垫付相应的费用，详见：https://uhip.ca/Claim/Index 。例如一次看病诊断的费用大概是$42.13，这比国内的门诊挂号费用还是多得多的。大家垫付完之后填表并发邮件给 myclaims@sunlife.com 或者邮寄相关材料来报销的相应的费用。通常情况下Sunlife会寄支票给你，更好的方案是注册“Direct Deposit”。教程：https://uhip.ca/Help/Tutorials 找到“How to sign up for direct deposit”。这样报销的钱就会直接存到你的银行账户里。
 
 2. GSA Health Insurance Plan、GSA Dental Insurance Plan：除GSA Health Insurance Plan中的Travel是由Blue Cross承保外，其它所有保险服务都是由Sun Life承保。Broker是Studentcare。
 
