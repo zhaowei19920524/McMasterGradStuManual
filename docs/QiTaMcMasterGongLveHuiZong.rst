@@ -2,7 +2,7 @@
 ======================================
 参观核反应堆
 -----------------------------
-| https://nuclear.mcmaster.ca/book-a-tour/
+| https://nuclear.mcmaster.ca/contact/book-a-tour/
 | 填好网页中的申请表，然后发邮件给网页里的负责人约一下时间即可。
 
 保安部门
