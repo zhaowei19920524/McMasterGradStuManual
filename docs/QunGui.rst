@@ -1,5 +1,7 @@
 ﻿群规
 ===============
+所有学生都必须遵守Code of Student Rights and Responsibilities: https://secretariat.mcmaster.ca/app/uploads/Code-of-Student-Rights-and-Responsibilities.pdf
+
 一、群成员
 ------------------------------------------------
 1) 欢迎大家在McMaster研究生群里聊天、灌水、问问题、打广告、租房、拼车、游玩等等，请保持轻松愉快的语气和氛围。
