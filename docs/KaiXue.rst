@@ -28,7 +28,7 @@
 4) 在office或lab有固定座位的同学领lab的钥匙或lab门卡，请询问本院小秘。小秘会开一张证明材料，然后拿着证明材料去JHE216A领取。lab钥匙需要交$20押金，lab门卡需要交$10的押金。
 5) 有TA、RA的研究生、post doc、访问学者领Working at McMaster卡（工卡）。
 
-- 具体介绍在 https://parking.mcmaster.ca/staff/photo-id-card/ ，Working at McMaster卡最初的目的是学校的员工使用停车场的刷卡凭据，但后来Working at McMaster卡整合了Student Card里所有的功能，并且附带了门禁卡的功能。
+- 具体介绍在 https://security.mcmaster.ca/technology/ ，Working at McMaster卡最初的目的是学校的员工使用停车场的刷卡凭据，但后来Working at McMaster卡整合了Student Card里所有的功能，并且附带了门禁卡的功能。
 - post doc和访问学者是没有student card的。如果已经领了临时的office或lab门卡，在领工卡后可以去JHE216把临时的lab门卡退了，顺便把权限转移到工卡上，把押金退回来。
 
 6) 更新mosaic里在Canada的个人住址、联系方式、Direct Deposit里的个人银行信息。
