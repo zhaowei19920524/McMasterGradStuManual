@@ -115,9 +115,17 @@ Credit Card是一种无抵押的信用借贷卡，一般有两个大的公司：
 - GIC签证的同学：GIC已经指定了银行，来Canada之后去那个银行办理即可，顺便申请一张信用卡。第一次去银行办理需要打电话预约，并且一定会有一位说普通话的客服接待。
 - 非GIC签证的同学：离学校最近的银行应该是主校区体育馆西门进门左手边的RBC了（https://maps.rbcroyalbank.com/locator/searchResults.php?t=3652），大家可以去那里开户或询问其它问题，通常这个网点里一定有一个华人工作人员。目前是杨燕，以下是她的微信。除了开户外，还可以询问其它投资、理财、保险等问题。
 
+.. image:: /resource/bank/rbc_mcmaster_YangYan1.jpg
+   :align: center
+   :width: 500
+
+.. image:: /resource/bank/rbc_mcmaster_YangYan2.jpg
+   :align: center
+   :width: 500
+
 .. image:: /resource/bank/rbc_mcmaster_YangYan3.jpg
    :align: center
-   :scale: 50%
+   :width: 480
 
 .. note::
   在这里，我们不推荐大家办国内银行的GIC，比如中国银行或工商银行，虽然在国内办理比较省事，甚至省了手续费，但来Canada之后会非常不方便，因为离Hamilton最近的中国银行或工商银行也在密西沙加，如果坐Go Bus长途汽车去，一次往返需要$25，长期算下来可能不划算。
