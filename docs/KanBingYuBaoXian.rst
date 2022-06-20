@@ -178,7 +178,7 @@
   B. Campus dentist
 
   - 学校里的牙医诊所。虽然这家诊所不在下面提到的各家保险公司指定的诊所里，但根据它官网上的介绍，MSU、GSA、CUPE的dental plan都是可以使用的。如果大家不放心可以亲自询问一下。
-  - http://www.campusdentist.com/mcmaster.html
+  - 官网：https://www.campusdentist.com/mcmaster-university/
   - 预约：905-526-6020或 mcmaster@campusdentist.com
 
 2. 校外的Walk-in Clinic、Emergency Departments（急诊）、Urgent Care Centres（紧急护理中心）：所有人都可以去看病的公共的诊所。但通常不能看牙齿。加拿大把公共的医院和诊所分为3大类：
