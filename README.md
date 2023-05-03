@@ -22,7 +22,7 @@ In Linux and macOS, you might need sudo.
 ### 0.3 Clone the project
 Clone the whole project to your disk, create a new branch called staging
 ```
-git clone https://github.com/zhaowei19920524/McMasterGradStuManual
+git clone https://github.com/Techboyjohnny-98/McMasterGradStuManual
 cd McMasterGradStuManual
 git checkout -b staging
 ```
