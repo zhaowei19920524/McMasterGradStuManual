@@ -147,15 +147,15 @@ Welcome to McMaster University!
 贡献与反馈：
 -----------------------------
 - 如有好的意见和建议，欢迎您的 `反馈`_ 。
-- 想贡献自己的内容？请联系21-ECE-陈俊燃。
+- 想贡献自己的内容？请联系17-CAS-赵伟。
 
 .. note::
 
   | 网站维护志愿者招聘：
   | Type 1：内容贡献和审核。负责关注最近研究生群里和平时大家关注的问题，写相关介绍和教程。修改网站里的错误，以及很多过时的内容。
   | Type 2：网站更新。对内容进行整理，编写reStructedText文档。需要Git和GitHub的知识。
-  | 有意向的同学，请和21-ECE-陈俊燃联系。
+  | 有意向的同学，请和17-CAS-赵伟联系。
 
 .. _租房: ZuFang.html
 .. _sgsrec@mcmaster.ca: mailto:sgsrec@mcmaster.ca
-.. _反馈: mailto:chenj425@mcmaster.com?Subject=McMaster研究生新生手册反馈
+.. _反馈: mailto:zhaowei0524@outlook.com?Subject=McMaster研究生新生手册反馈
