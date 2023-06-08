@@ -51,7 +51,8 @@ Graduate Students Association（GSA，研究生协会）是麦克马斯特大学
 以上各个职位里，非常有价值的是Executive Committee的5个职位，因为这是一个非常好的锻炼自己的机会，写到简历里也是重要的加分项。希望大家积极申请，参与竞选。
 
 GSA历任华人学生成员名单：
-- 2022~2023年度
+
+- 2023~2024年度
 
 .. note::
   - VP Services：20-MSE-杨文娟
