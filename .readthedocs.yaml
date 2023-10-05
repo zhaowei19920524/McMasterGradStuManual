@@ -13,5 +13,8 @@ build:
   tools:
     python: "3.11"
 
+sphinx:
+  configuration: docs/conf.py
+
 # Optionally build your docs in additional formats such as PDF
 formats: []
