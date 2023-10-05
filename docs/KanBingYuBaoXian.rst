@@ -59,7 +59,7 @@
 3. 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
 4. 医用器材（Medical Equipment）：轮椅等。
 5. 诊断服务（Diagnostic Services）：X光、超声等。
-6. 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage
+6. 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage 从2023年9月开始，眼睛、隐形眼镜、镜框的报销额度取消了。
 7. 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada（但不能是自己的国籍所在的国家），在国外的医院里就诊，保险依然部分有效。它可以提供120天、$5,000,000的保险额度。这个对于那些在研究生阶段发表论文去其它国家参加国际会议的同学十分有利。详情见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
 
   - 如果因为医疗事故，导致旅游中断，可以赔付$5000。http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_TripInterruption
