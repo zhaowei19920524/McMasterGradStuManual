@@ -59,7 +59,7 @@
 3. 保健（Health Practitioner）：Psychologists（心理），Massage Therapists（按摩），Physiotherapists（理疗），Podiatrists/Chiropodists（足疗）等。
 4. 医用器材（Medical Equipment）：轮椅等。
 5. 诊断服务（Diagnostic Services）：X光、超声等。
-6. 配眼镜（Vision）：Eye Exam（验光），eyeglasses（眼镜），contact lenses（隐形眼镜），eyeglass frames（镜框），laser vision correction（激光矫正视力）。http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage 从2023年9月开始，眼睛、隐形眼镜、镜框的报销额度取消了, 只剩下每年50刀的验光额度。
+6. 配眼镜（Vision）：http://studentcare.ca/rte/en/McMasterUniversity_Vision_VisionCoverage 从2023年9月开始，眼睛、隐形眼镜、镜框的报销额度取消了, 只剩下每年50刀的验光额度报销, 但是studentcare network对应的眼镜店会提供相应的额外折扣。
 7. 旅游（Travel）：如果去Ontario以外的省份、甚至离开Canada（但不能是自己的国籍所在的国家），在国外的医院里就诊，保险依然部分有效。它可以提供120天、$5,000,000的保险额度。这个对于那些在研究生阶段发表论文去其它国家参加国际会议的同学十分有利。详情见 http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage
 
   - 如果因为医疗事故，导致旅游中断，可以赔付$5000。http://studentcare.ca/rte/en/McMasterUniversity_Travel_TravelCoverage_TripInterruption
@@ -95,7 +95,7 @@
   - 所有Unit 1的学生自动opt-out（退出） GSA Dental Insurance Plan，退回相应费用。Studentcare会寄支票给学生，但学生需要及时更新Mosaic里的地址，发奖学金时有不少支票上还是中国的地址。
   - 此外有CUPE Dental Plan的Unit 1的学生可以从UHIP中申请rebate保费$250（2020年）。https://cupe3906.org/tas-unit-1/uhip-rebate-unit-1/ ，填写表格后交到表格上的地址，并让工作人员再次检查一下表格。
   - CUPE Dental Plan可以报销100%的就诊费用。每calendar year（日历年）的报销额度是$1000（Single）和$2000（Family）。但不享受GSA dental plan的学生折扣优惠。
-  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$250的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP/OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。毕竟通常大多数保险对于眼镜方面的报销都不会很多。
+  - 每2个academic year（学年），Health Care Spending Account（HCSA）提供$350的报销额度。https://cupe3906.org/tas-unit-1/unit-1-benefits/ 。这$250可以用于所有UHIP/OHIP、GSA、MSU保险都不能报销的费用。同时，也可以用于眼镜、隐形眼镜、验光。毕竟通常大多数保险对于眼镜方面的报销都不会很多。注：需在购买日的60天内claim。
 - 具体可以覆盖的牙医服务可以查看 https://cupe3906.org/tas-unit-1/dental-plan/ 网页的“Coverage Booklet”标题。
 - 家属的牙医保险：在下面相应网页里搜索关键词“spouse”或“family”。
 
