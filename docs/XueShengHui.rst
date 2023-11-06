@@ -52,6 +52,16 @@ Graduate Students Association（GSA，研究生协会）是麦克马斯特大学
 
 GSA历任华人学生成员名单：
 
+- 2023~2024年度
+
+.. note::
+  - VP Services：20-MSE-杨文娟
+  - VP Admin：21-MBA-郑婧
+  - Chief Returning officer (CRO): 20-MedSci-Ying Dong
+  - Board of Directors: 17-CAS-赵伟
+  - Board of Directors： 19-DBA-柳思
+  - Board of Governors: 王鑫钰
+
 - 2022~2023年度
 
 .. note::

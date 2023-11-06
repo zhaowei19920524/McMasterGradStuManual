@@ -6,10 +6,8 @@
 
 McMaster政策
 ------------------------------------
-| 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。https://gs.mcmaster.ca/ive-accepted-my-offer/international-students/accommodations/ 。此外McMaster的研究生公寓正在建设中，预计2023年可以完工投入使用。
-
-- https://www.k-cap.com/project/mcmaster-graduate-student-residence/
-- https://dailynews.mcmaster.ca/articles/construction-begins-on-mcmasters-10-bay-graduate-residence/
+| 学校并不是不给高年级学生（Upper Year/Returning  & Transfer Students）公寓住，而是学校公寓太少，只能够满足大一新生（First Year Students）。如果还有剩余的房间才会随机（lottery）分给2~5年级的学生。所以大家绝对不要打算去申请学校的公寓，否则反而会错过在校外找房的最佳时机。https://gs.mcmaster.ca/ive-accepted-my-offer/international-students/accommodations/。
+- McMaster的研究生公寓已经在2023年正式启用，以下是申请链接：https://housing.mcmaster.ca/graduate-residence/10bay/
 
 各类租房资源
 -----------------------
